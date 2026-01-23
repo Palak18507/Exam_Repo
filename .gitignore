@@ -1,0 +1,12 @@
+# Raw PDFs and data
+data/raw_pdfs/
+data/vectors/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
