@@ -1,12 +1,26 @@
-# Raw PDFs and data
-data/raw_pdfs/
-data/vectors/
+# ----------------------------
+# Raw PDFs (ignore files, keep folders)
+# ----------------------------
+data/raw_pdfs/*
+!data/raw_pdfs/.gitkeep
+!data/raw_pdfs/sample/
+!data/raw_pdfs/sample/.gitkeep
 
+# ----------------------------
+# Vector DB files (ignore data, keep folder)
+# ----------------------------
+data/vectors/*
+!data/vectors/.gitkeep
+
+# ----------------------------
 # Python cache
+# ----------------------------
 __pycache__/
 *.pyc
 .venv/
 
+# ----------------------------
 # OS files
+# ----------------------------
 .DS_Store
 Thumbs.db
