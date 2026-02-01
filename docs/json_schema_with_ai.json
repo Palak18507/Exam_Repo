@@ -1,0 +1,175 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Exam Paper Schema with AI-generated fields",
+  "description": "Schema for representing a single exam question paper with AI-generated metadata",
+  "type": "object",
+  "required": ["paper_id", "paper_metadata", "questions"],
+  "properties": {
+    "paper_id": {
+      "type": "string",
+      "description": "Unique identifier for the exam paper (e.g., AMC152_2025_MIDSEM)"
+    },
+
+    "paper_metadata": {
+      "type": "object",
+      "required": [
+        "subject_code",
+        "subject_name",
+        "program",
+        "semester",
+        "academic_year",
+        "exam_type",
+        "time_duration",
+        "max_marks"
+      ],
+      "properties": {
+        "subject_code": {
+          "type": "string",
+          "description": "Official subject code (e.g., AMC152)"
+        },
+        "subject_name": {
+          "type": "string",
+          "description": "Full subject name"
+        },
+        "program": {
+          "type": "string",
+          "description": "Program name (MBA, BMS, etc.)"
+        },
+        "department": {
+          "type": "string",
+          "description": "Department offering the subject"
+        },
+        "semester": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Semester number"
+        },
+        "academic_year": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{4}$",
+          "description": "Academic year in format YYYY-YYYY"
+        },
+        "exam_type": {
+          "type": "string",
+          "enum": ["MidSem", "EndSem"],
+          "description": "Type of examination"
+        },
+        "exam_name": {
+          "type": "string",
+          "description": "Printed name of the examination"
+        },
+        "time_duration": {
+          "type": "string",
+          "description": "Duration of the exam (e.g., 3 Hours)"
+        },
+        "max_marks": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Maximum marks for the paper"
+        },
+      "additionalProperties": false
+    },
+
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["question_id", "question_text", "marks", "subparts"],
+        "properties": {
+          "question_id": {
+            "type": "string",
+            "description": "Question identifier (Q1, Q2, etc.)"
+          },
+          "unit": {
+            "type": ["string", "null"],
+            "description": "Unit identifier (UNIT I, UNIT II, etc.)"
+          },
+          "question_text": {
+            "type": "string",
+            "description": "Main question or instruction text"
+          },
+          "marks": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Total marks allocated to the question"
+          },
+          
+          "question_hash": {
+            "type": ["string","null"],
+            "pattern": "^[a-fA-F0-9]{64}$",
+            "description": "SHA-256 hash of normalized question text (AI-added, used for duplicate detection)"
+          },
+
+          "ai_tags": {
+            "type": ["array","null"],
+            "items": { "type": "string" },
+            "description": "AI-generated tags for questions without subparts"
+          },
+
+          "ai_confidence": {
+            "type": ["object", "null"],
+            "additionalProperties": { "type": "number" },
+            "description": "Confidence score per AI-generated tag"
+          },
+
+          "syllabus_topics": {
+            "type": ["array", "null"],
+            "items": { "type": "string" }
+          },
+
+          "subparts": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+              "type": "object",
+              "required": ["subpart_id", "text", "marks"],
+              "properties": {
+                "subpart_id": {
+                  "type": "string",
+                  "description": "Subpart identifier (a, b, c, etc.)"
+                },
+                "text": {
+                  "type": "string",
+                  "description": "Sub-question text"
+                },
+                "marks": {
+                  "type": "number",
+                  "minimum": 0,
+                  "description": "Marks allocated to the subpart"
+                },
+
+                "subquestion_hash": {
+                  "type": ["string", "null"],
+                  "pattern": "^[a-fA-F0-9]{64}$",
+                  "description": "SHA-256 hash of normalized subquestion text (AI-added)"
+                },
+
+                "ai_tags": {
+                  "type": ["array", "null"],
+                  "items": { "type": "string" },
+                  "description": "AI-generated technical keywords"
+                },
+
+                "ai_confidence": {
+                  "type": ["object", "null"],
+                  "additionalProperties": { "type": "number" },
+                  "description": "Confidence score per AI-generated tag"
+                },
+
+                "syllabus_topics": {
+                  "type": ["array", "null"],
+                  "items": { "type": "string" },
+                  "description": "Mapped syllabus topics (AI-assisted)"
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
