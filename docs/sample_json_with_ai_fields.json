@@ -1,0 +1,90 @@
+{
+  "paper_id": "AMC152_2024_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC152",
+    "subject_name": "Operating Systems",
+    "program": "B.Tech",
+    "department": "Computer Science",
+    "semester": 4,
+    "academic_year": "2023-2024",
+    "exam_type": "MidSem",
+    "exam_name": "Mid Semester Examination",
+    "time_duration": "2 Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": "UNIT I",
+      "question_text": "What is a deadlock? Explain its necessary conditions.",
+      "marks": 10,
+      "question_hash": "72102cc5a416b194474fd3039adcf6384af1b71bb934a9208aafb1f2e017724b",
+      "ai_tags": [
+        "Deadlock",
+        "Concurrency",
+        "Synchronization",
+        "Necessary_Conditions"
+      ],
+      "ai_confidence": {
+        "Deadlock": 1,
+        "Concurrency": 0.95,
+        "Synchronization": 0.9,
+        "Necessary_Conditions": 1
+      },
+      "syllabus_topics": [
+        "Operating Systems",
+        "Concurrency Control"
+      ],
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT II",
+      "question_text": "Answer the following:",
+      "marks": 10,
+      "question_hash": null,
+      "ai_tags": null,
+      "ai_confidence": null,
+      "syllabus_topics": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain paging and segmentation.",
+          "marks": 5,
+          "subquestion_hash": "f3d2b8b13a92c9fda4a01fd7a76c6c735e6f91bbdb9c66fbd3d2d2a6e8c1b9a2",
+          "ai_tags": [
+            "Paging",
+            "Segmentation",
+            "Memory Management"
+          ],
+          "ai_confidence": {
+            "Paging": 0.95,
+            "Segmentation": 0.95,
+            "Memory Management": 0.9
+          },
+          "syllabus_topics": [
+            "Operating Systems",
+            "Memory Management"
+          ]
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is virtual memory?",
+          "marks": 5,
+          "subquestion_hash": "9a8f6f1c3c56b28f72cbef38e4f1f56e8d82c3f2f4a93a4b0cbfcb0a57a3e3e4",
+          "ai_tags": [
+            "Virtual Memory",
+            "Paging"
+          ],
+          "ai_confidence": {
+            "Virtual Memory": 1,
+            "Paging": 0.85
+          },
+          "syllabus_topics": [
+            "Operating Systems"
+          ]
+        }
+      ]
+    }
+  ]
+}
