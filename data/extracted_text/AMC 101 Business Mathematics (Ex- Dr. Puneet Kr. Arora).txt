@@ -1,0 +1,182 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: Business Mathematics, Semester: 1 
+(December, 2024) 
+ 
+Subject Code: AMC-101 
+Subject:  Business Mathematics 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Choose the correct alternative: 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) The number of 3-digit even numbers that can be formed with no 
+digit repeated by using the digits 0,1,2,3,4, and 5 is: 
+(i) 48 
+(ii) 50 
+(iii) 52 
+(iv) 54 
+ 
+CO1 
+ 
+b) The fourth term of an arithmetic series is 14 and eighth term is 26. 
+Then the sum of first 10 terms is: 
+(i) 155 
+(ii) 165 
+(iii) 175 
+(iv) 185 
+ 
+CO1 
+ 
+c) The determinant of the matrix [
+−1
+5
+−2
+2
+1
+0
+2
+7
+3
+] is: 
+(i) 57 
+(ii) -57 
+(iii) 60 
+(iii) -60 
+ 
+CO2 
+ 
+d)The demand equation for the commodity A is DA = 85 − 3 PA + 
+9PB and the respective supply production is SA = −5 + 15 PA 
+The market equilibrium price for the commodity A is 
+(i) 
+6  
+(ii) 
+10  
+(iii) 
+5  
+(iv) 
+6  
+ 
+CO2 
+ 
+e)The total revenue in Rupees received from the sale of x units of a 
+product is given by 𝑅(𝑥) = 3𝑥2 + 36𝑥+ 5. Then the marginal 
+revenue when 𝑥= 5 is: 
+(i) 60 
+(ii) 66 
+(iii) 68 
+(iv) 62 
+ 
+CO3 
+ 
+f)If q = 2p2, where q is the quantity demanded and p is price, then the 
+price elasticity of demand is 
+(i) 2 
+(ii) 4 
+(iii) 8 
+(iv) 10 
+ 
+CO3 
+ 
+g)The marginal revenue function of a firm is given by 𝑀𝑅= 240 −
+4𝑥. Then the total revenue function is: 
+(i) 240𝑥−2𝑥2 
+(ii) 240𝑥−2𝑥2 + 𝑐 
+(iii) 340𝑥−3𝑥2 
+(iv) 340𝑥−3𝑥2 + 𝑐 
+ 
+CO4 
+ 
+h)The solution of the integral ∫(3𝑥2 + 5𝑥+ 2)𝑑𝑥
+3
+0
+ is 
+(i) 50 
+(ii) 55.5 
+(iii) 60 
+(iv) 62.5 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Prove the following results using the Principle of Mathematical 
+Induction: 
+(a) 𝑛+ 𝑛2𝑖𝑠 𝑎𝑛 𝑒𝑣𝑒𝑛 𝑛𝑎𝑡𝑢𝑟𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟, 𝑛 𝜖 𝑁 
+(b) 3𝑛−1 is divisible by 2 for each 𝑛 𝜖 𝑁 
+(10) 
+CO1 
+Q3 
+ A sum of Rs 6,240 is paid off in 30 installments, such that each 
+installment is Rs 10 more than the preceding installment. Calculate the 
+value of the first installment. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+If A = [3
+2
+4
+1] and B = [𝑎
+𝑏
+3
+5] , find a and b such that AB = BA 
+(10) 
+CO2 
+Q5 
+Let  A = [3
+4
+3
+2] , B = [ 1
+3
+−2
+5] and C = [−2
+5
+3
+4], find the following 
+(a) 3A –C 
+(b) AB 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Find the price elasticity of demand for the following function 
+𝑞= 200 −4𝑝, at q = 40 
+(10) 
+CO3 
+Q7 
+The short-run production function of a manufacturer is given as 𝑞=
+11𝐿+ 16𝐿2 −𝐿3. Find the average product function and marginal 
+product function, and find L at which the two are equal (Note: q is 
+Total Product) 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Evaluate the following integrals: 
+(a) ∫3𝑥2 +  5𝑥−2 𝑑𝑥 
+(b) ∫𝑒−2𝑥𝑑𝑥 
+ 
+(10) 
+CO4 
+Q9 
+A firm's marginal revenue function is MR(q)=100−5q. Find the 
+total revenue function. Find the quantity at which total revenue 
+will be 0.  
+(10) 
+CO4

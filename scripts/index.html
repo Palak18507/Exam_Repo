@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IGDTUW Question Papers Archive</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<div class="page-wrapper">
+
+    <!-- ================= HEADER ================= -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo-section">
+                <div class="university-badge">
+                    <span class="badge-text">IGDTUW</span>
+                </div>
+                <div class="title-group">
+                    <h1 class="main-title">Question Papers Archive</h1>
+                    <p class="subtitle">Indira Gandhi Delhi Technical University for Women</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ================= MAIN ================= -->
+    <main class="main-content">
+
+        <!-- ================= SEARCH ================= -->
+        <section class="search-section">
+
+            <!-- Search bar -->
+            <div class="search-container">
+                <div class="search-wrapper">
+                    <input
+                        type="text"
+                        id="mainSearch"
+                        class="search-input"
+                        placeholder="Search by subject, code, question keyword, or concept..."
+                        autocomplete="off"
+                    >
+                </div>
+            </div>
+
+            <!-- ================= FILTERS ================= -->
+            <div class="filters-row">
+
+                <select id="branchFilter" class="filter-select">
+                    <option value="">All Branches</option>
+                    <option value="CSE">CSE</option>
+                    <option value="IT">IT</option>
+                    <option value="ECE">ECE</option>
+                    <option value="MAE">MAE</option>
+                </select>
+
+                <select id="yearFilter" class="filter-select">
+                    <option value="">All Years</option>
+                    <option value="1">1st Year</option>
+                    <option value="2">2nd Year</option>
+                    <option value="3">3rd Year</option>
+                    <option value="4">4th Year</option>
+                </select>
+
+                <select id="semesterFilter" class="filter-select">
+                    <option value="">All Semesters</option>
+                    <option value="1">Sem 1</option>
+                    <option value="2">Sem 2</option>
+                    <option value="3">Sem 3</option>
+                    <option value="4">Sem 4</option>
+                    <option value="5">Sem 5</option>
+                    <option value="6">Sem 6</option>
+                    <option value="7">Sem 7</option>
+                    <option value="8">Sem 8</option>
+                </select>
+
+                <select id="subjectFilter" class="filter-select">
+                    <option value="">All Subjects</option>
+                    <!-- dynamically filled later -->
+                </select>
+
+                <select id="examTypeFilter" class="filter-select">
+                    <option value="">All Exam Types</option>
+                    <option value="MID">Mid Semester</option>
+                    <option value="END">End Semester</option>
+                </select>
+
+                <button id="resetFilters" class="reset-filters">
+                    Reset
+                </button>
+
+            </div>
+        </section>
+
+        <!-- ================= RESULTS ================= -->
+        <section class="results-section" id="resultsSection">
+            <div class="results-header">
+                <h2 class="results-title">Question Papers</h2>
+                <div class="results-count" id="resultsCount"></div>
+            </div>
+
+            <div class="papers-grid" id="papersGrid">
+                <!-- Papers injected here -->
+            </div>
+        </section>
+
+        <!-- ================= WELCOME ================= -->
+        <div class="welcome-state" id="welcomeState">
+            <div class="welcome-content">
+                <h2 class="welcome-title">Search & Filter Question Papers</h2>
+                <p class="welcome-text">
+                    Use the search bar or filters above to find question papers across branches, years, semesters and subjects.
+                </p>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Indira Gandhi Delhi Technical University for Women</p>
+            <p class="footer-note">For academic reference only</p>
+        </div>
+    </footer>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Supplementary Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MBA, Semester:2 
+(August, 2025) 
+ 
+Subject Code: AMC 152 
+Subject:  Information Technology and Innovation Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) Define data organization. What are the common issues faced in 
+organizing data effectively? 
+ 
+CO1 
+ 
+b) List and explain the key components of the Digital India Program. 
+ 
+CO2 
+ 
+c) Differentiate between invention and innovation with suitable 
+examples. 
+ 
+CO3 
+ 
+d) Discuss at least two techniques used to stimulate lateral thinking. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Differentiate between a Database Management System and a file 
+system. What are the advantages of using a DBMS? 
+(10) 
+CO1 
+Q3 
+Describe the role of ETL (Extract, Transform, and Load) in building a 
+data warehouse. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Distinguish between e-commerce and traditional commerce with 
+examples. 
+(10) 
+CO2 
+Q5 
+What are the types of e-governance? Explain the benefits of each. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is concurrent engineering? How does it help in innovation? 
+(10) 
+CO3 
+Q7 
+Compare and contrast product innovation with process innovation. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define lateral thinking. How is it different from vertical thinking? 
+(10) 
+CO4 
+Q9 
+Explain the difference between logical thinking and creative thinking 
+with suitable examples. 
+(10) 
+CO4
