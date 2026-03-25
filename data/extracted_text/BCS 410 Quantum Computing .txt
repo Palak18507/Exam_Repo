@@ -1,0 +1,137 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <B.Tech>, Semester: <8> 
+(May, 2025) 
+Subject Code: BCS 410 
+Subject: Quantum Computing  
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+Attempt all the questions. 
+(2.5*8=20) 
+CO Mapping 
+(a) 
+Derive the mathematical proof of No Cloning theorem. Is it a limitation or 
+advantage? Give justification 
+CO 1 
+(b) 
+Describe the Hermitian operators, Normal operators and Density 
+operators. Give mathematical expressions to differentiate between the 
+them. 
+CO 1 
+(c) 
+Alice generates a bit string : 
+|𝟎> |𝟎′ > |𝟎
+> |𝟎> |𝟎′ > |𝟎
+> |𝟎′ > |𝟎′ >
+. 
+If 
+Bob 
+does 
+measurement using : 
+|𝟎′ > |𝟎′ > |𝟎′ > |𝟎> |𝟎> |𝟎> |𝟎′ > |𝟎′ > 
+What positions does he keep, if he uses the B92 protocol? 
+CO 2 
+(d) 
+Provide expressions for the Bell States and how they are different from the 
+product states. 
+CO 2 
+(e) 
+What do you understand by the term quantum interference? Derive the 
+expression for interference on an arbitrary quantum state. 
+CO 3 
+(f) 
+Explain the concept of Quantum Parallelism. Why is it important? 
+CO 3 
+(g) 
+Explain the Amplitude Damping and the phase damping using 
+appropriate mathematical formulations. 
+CO 4 
+(h) 
+Differentiate between different quantum systems? Explain the concept 
+of Decoherence. 
+CO 4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Define the Expectation value of an operator. A quantum 
+system is in the state:  
+|𝜓>= 1/ 7|0 > + 6/7|1 > 
+Calculate the expectation value of X (Pauli X operator), Y and 
+Z operators in this state. 
+What do you understand by the term Quantum Supremacy? 
+Give applications of QC and how is it different from CC. 
+(10) 
+CO 1 
+ 
+ 
+Q3 
+Calculate the tensor products for the following: 
+(1) Suppose |𝜓>= |𝑎> +|𝑏>and 𝐴|𝑎>= 𝑎|𝑎>, 𝐵|𝑏>=
+𝑏|𝑏>. What is 𝐴⊗𝐵|𝜓>. 
+(2) Find 𝑋⊗𝑍|𝜓>, where 
+|𝜓>=
+|0>|0>−|1>|1>
+ 2
+, X and Z are the Pauli gates. 
+(10) 
+CO 1 
+UNIT-II 
+CO Mapping 
+Q4 
+Give mathematical derivations of the applications of 
+Entanglement. Why is this concept important? Justify. 
+(10) 
+CO 2 
+Q5 
+Describe the role of quantum in cryptography. Explain the 
+BB84 QKD protocol. Apply it to calculate the sifted key for the 
+following: 
+Alice creates an 8-bit string 
+|−> |1 > |+> |+> |0 > |0 > |+> |−> 
+Describe the bit string that Alice and Bob keeps if Bob 
+randomly measures in the following order using the basis: 
+{|0 >, |1 >}, {|0 >, |1 >}, |±>, |±>, |±>, {|0 >, |1 >}, |±
+>, |±> 
+(10) 
+CO 2 
+UNIT-III 
+CO Mapping 
+Q6 
+Briefly describe the Deutsch algorithm along with the circuit 
+diagram. How is it related to the Phase-Kickback? Give a 
+mathematical justification. 
+Extend the Deutsch algorithm to n-qubits, DJ-Algorithm, with 
+proper derivation. 
+(10) 
+C0 3 
+Q7 
+Explain the concept of quantum searching. Derive the 
+expression for Grover’s search algorithm and its geometrical 
+proof. 
+(10) 
+C0 3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Derive the mathematical expression for the single qubit 
+errors. Describe various depolarization channels along with 
+mathematical description. 
+(10 
+(5+5) 
+CO 4 
+Q9 
+Assume that the first qubit in a logical state has been flipped 
+so that the state is 𝛼|100 > +𝛽|011 >, apply the quantum 
+error-correcting algorithm, i.e. Shor’s nine-bit code algorithm 
+to find out the values of the ancillary bits after verifying the 
+algorithm. 
+(10) 
+CO 4

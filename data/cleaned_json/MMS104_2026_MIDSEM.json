@@ -1,0 +1,89 @@
+{
+  "paper_id": "MMS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS104",
+    "subject_name": "Financial Management",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a Dividend Decision? Explain how it is interlinked with other financial decisions that a financial manager has to make.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Particular 2024 2025 Sales 35000 42000 Variable Cost 40% of Sales Fixed Cost 15000 Calculate Operating Leverage",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Net Income Approach with relevant example",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by Interest Tax Shield? Explain with example",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compute Loan amount of Rs. 4000 is paid every year @ 12% P.A for a period of 15 Years. Calculate based on Compounded Annually",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you understand by the term Time Value of Money? Explain the factors that affect the Time Value of Money.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the goal of financial decision making and in what ways is the wealth maximization is superior to the profit maximization objective?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Operating and Financial Leverage? Explain its significance with relevant examples",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Weighted Average Cost of Capital. What is an optimal capital structure for a company, and what key factors influence the determination of an optimal capital structure?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The following is the capital structure of ABC Ltd. Particulars Amount 12% Preference Share 15,00,000 Equity Shares 55,00,000 9% Debentures 20,00,000 1. The debentures are issued at a face value of Rs. 100 with a discount of 5% 2. The Preference Share are issued at a face value of Rs. 100 with a premium of 6% 3. Cost of Equity is 18%. The tax rate for the given period is 20%. Calculate WACC. Calculators are allowed.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAS102_2023_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS102",
+    "subject_name": "Applied Mathematics II",
+    "academic_year": "2022-2023",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping If 𝑉⃗ = 𝑥2𝑧𝑖̂ −2𝑦3𝑧2𝑗̂ + 𝑥𝑦2𝑧, find 𝑐𝑢𝑟𝑙 𝑉⃗ at . Find the directional derivative of 𝑓 = 2𝑥2 + 3𝑦2 + 𝑧2 at the point 𝑃 in the direction of the vector 𝑎 = 𝑖̂ −2𝑘̂. Solve 𝑑2𝑦 𝑑𝑥2 −4𝑦= 𝑥2. Solve 𝑦′′ −𝑦′ −2𝑦= 𝑒3𝑥 by method of Undetermined Coefficient. Find L-1 . Express the following function in terms of unit step functions and find its Laplace transform: 𝑓 = {8, 𝑡< 2 6, 𝑡> 2 Verify the Cauchy-Riemann equation for the function f = x2 – y2 + x + i . Determine the order of the poles for the function𝑓 = 𝑠𝑖𝑛 𝑧 𝑧2 − 𝑧 . CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Find the total work done in moving a particle in a force field, given by 𝑓 = 3𝑥𝑦𝑖̂ + 5𝑧𝑗̂ + 10𝑥𝑘̂, along the curve 𝑥= 𝑡2 + 1, 𝑦= 2𝑡2, 𝑎𝑛𝑑 𝑧= 𝑡3 from 𝑡= 1 𝑡𝑜 𝑡= 2. Find ∬𝐹. ⃗⃗⃗ 𝑛̂𝑑𝑆, where 𝐹 = 𝑖̂ −𝑗̂ + 𝑘̂ and 𝑆 is the surface if sphere having centre and radius 3.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Use Green’s theorem in a plane, evaluate ∮[𝑑𝑥+ cos 𝑦𝑑𝑦], 𝐶 where 𝐶 is the triangle with the vertices , 𝑎𝑛𝑑 . 2 The vector field 𝐹 = 𝑥2𝑖̂ + 𝑧𝑗̂ + 𝑦𝑧𝑘̂ is defined over the volume of the cuboid given by 0 ≤𝑥≤𝑎, 0 ≤𝑦≤𝑏, 0 ≤𝑧≤𝑐 enclosing the surface 𝑆. Evaluate the surface integral ∬ 𝐹 . 𝑑𝑆 𝑆 using Gauss Divergence theorem. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Solve 𝑑2𝑦 𝑑𝑥2 −2 𝑑𝑦 𝑑𝑥= 𝑒𝑥sin𝑥 by method of variation of parameters. Solve 2 𝑑2𝑦 𝑑𝑥2 − 𝑑𝑦 𝑑𝑥−12𝑦= 6𝑥; 𝑥≠−3 2.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Solve 𝑥2 𝑑2𝑦 𝑑𝑥2 + 5𝑥 𝑑𝑦 𝑑𝑥+ 4𝑦= 𝑥𝑙𝑜𝑔𝑥. Solve the simultaneous equations 𝑑𝑥 𝑑𝑡= 7𝑥−𝑦, 𝑑𝑦 𝑑𝑡= 2𝑥+ 5𝑦. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Find the laplace transform of e-t sint u. Obtain the inverse Laplace transform of 𝑠 + 1 𝑠2 + 2𝑠 .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Use Convolution theorem to find L-1 { 𝑎2 𝑠 2}. Solve the initial value problem 2𝑦′′ + 5𝑦′+ 2y = 𝑒−2𝑡, y = 1, y’ = 1, Using the Laplace transforms. CO Mapping",
+      "marks": 0.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Find the harmonic conjugate and the analytic function f of the function u = x3 – 3xy2 – 5y . Evaluate ∮ 𝑧−3 𝑧2 + 2𝑧 +5 𝐶 𝑑𝑧, where C is the circle |z+1-i| = 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Expand 𝑓 = 1 𝑧 in a Laurent series valid for i. 1 < |𝑧−2| < 2. Evaluate ∮ 1 2 𝐶 𝑑𝑧 , by residue theorem,where i. the contour C is the rectangle defined by x = 0, x = 4, y = -1, y = 1, ii. the contour C is the circle |z| = 2.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

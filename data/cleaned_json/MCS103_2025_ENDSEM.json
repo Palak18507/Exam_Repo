@@ -1,0 +1,208 @@
+{
+  "paper_id": "MCS103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS103",
+    "subject_name": "Intelligent Data and Information Retrieval",
+    "program": "M.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Fuzzy membership function? Explain the types of fuzzy membership functions with examples. If two fuzzy sets A and B are given with membership functions μA = {0.2, 0.3, 0.8, 0.5, 0.4} μB = {0.4, 0.2, 0.8, 0.3, 0.2} Then the value of μ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is intelligent Query Processing using FSQL? Using the below table, Write SQL queries and answer the following: i) Write a query to find all students whose names contain \"Smith\" or similar name using LIKE ii) Write a query to find all students whose names sound similar to \"Smith\" using SOUNDEX iii) Write a query to find all students whose names are phonetically or textually similar to \"Smith\" using Levenshtein distance. iv) Write a query to find students whose names match \"Smith\" or similar names, ignoring case.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is safety issue in Datalog? When is a variable limited? What is the condition of Safety?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is deductive database, explain with the help of diagram. Elaborate on deductive database basic concepts with the help of examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Semantic Model for Information Retrieval? How is it different from Vector Space Model?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is Relevance Feedback? Explain Evaluation measures – Precision, Recall and F-score.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are Web Crawlers? How is it different from Web Spamming?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is ontology-based information Retrieval? Explain its principles and steps. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "i) What are fuzzy databases key concepts. ii) Explain the Types of Fuzzy Database with the help of an example. iii) What are fuzzy functional dependency and fuzzy multi-valued dependency. Differentiate between them with the help of an example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Soundex Phonetic Algorithm. Why is it used? Give an example. Calculate the soundex code for the following words i) Analytics ii) Christopher iii) Krzysztof",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "i) Differentiate between the following terms: Uncertainty, Imprecision, Vagueness, Inconsistency, Ambiguity ii) Explain the following properties of fuzzy sets: Equality of two fuzzy sets, Inclusion of one set into another set, Cardinality of Fuzzy set, an empty fuzzy set, and alpha cut",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Levenshtein Distance Algorithm. Give its formula and limitations. Calculate the Levenshtein distance between the following strings: phone → clone Use matrix method and show all the calculation.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "For the below diagram, the facts are defined using “supervise” and rules are defined using “Superior”, “supervise” and “subordinate”. Write facts and rules. Using Proof Theoretic Interpretation, derive more facts from existing facts.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Design a deductive database for University Course Enrollment that manages student enrollment by enforcing pre-requisites and co- requisites for courses, ensuring students meet the requirements before enrolling. Elaborate the problem analysis, knowledge Representation, logic rules, queries, discussion and limitations. 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Inference Mechanism. Differentiate between Proof Theoretic and Model Theoretic Interpretation. Also give the difference between Bottom-up and Top-down Mechanism.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "For Travel Recommendation System, design a deductive database personalizes travel recommendations based on user preferences and travel knowledge . Elaborate the problem analysis, knowledge Representation, logic rules, queries, discussion and limitations.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The Boolean Model uses exact matching for retrieval and ignores term frequencies or ranking. Use only Boolean operations . Documents: D1: \"Machine learning applications in healthcare\" D2: \"Machine learning in finance and healthcare\" D3: \"Deep learning in finance\" Query: \"Machine AND healthcare\" Find the relevant documents and show all the steps used for calculations using Boolean Model.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Taxonomy of information of IR models in detail with diagram. Differentiate between adhoc search and routing.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The Vector Space Model represents documents and queries as vectors in a multi-dimensional space, where each dimension corresponds to a term. Relevance is calculated by finding the cosine similarity between the query vector and document vectors. Documents: D1: \"Machine learning applications in healthcare\" D2: \"Machine learning in finance and healthcare\" D3: \"Deep learning in finance\" Query: \"Machine learning healthcare\" Vocabulary Terms are the unique words in all documents. Find vocabulary terms and find the relevant documents. Show all the steps used for calculations using Vector Space Model.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain each key stage of the Generic IR pipeline. Explain what is Error Correction and Detection.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is HITS algorithm. What are hub and authority scores and how are they calculated? Write advantages of HITS algorithm over PageRank Algorithm.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider a web consisting of 5 Pages: A, B, C, D and E. The link structure is as follows: • A -> B, A -> C • B -> C, B-> D • C –> D 4 • D-> E • E -> C Find the hub and authority scores for each node after one iteration of the HITS algorithm.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider a web consisting of 5 Pages: A, B, C, D and E. The link structure is as follows: • A -> B, A -> C • B -> C, B-> D • C –> D, C-> E • D-> A • E -> D The damping factor is 0.85. All pages start with an initial PageRank of 1. Find the PageRank values of A, B, C, D and E after one iteration.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the following i) Web Content Analysis ii) Intelligent Web agents iii) Query expansion using Fuzzy operators iv) Web analytics",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

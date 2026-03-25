@@ -1,0 +1,101 @@
+{
+  "paper_id": "BMS344_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS344",
+    "subject_name": "Social Media and web Analytics",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define and explain the roles of nodes and relations in a social network.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is link analysis, and how is it used to understand connections in a network?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define structural holes and brokerage.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of homophily. How does it contribute to social segregation in networks?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of \"formal methods\" in social network analysis. How do they help in seeing patterns?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between different kinds of graphs used in social network analysis. What insights can be derived from them?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the concept of random graphs and how they evolve. What is their relevance in modeling online networks?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain clickstream analysis. What metrics are commonly used, and how can these inform strategic decision-making?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the difference between group-external and group-internal ties. How do they influence social structure?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the different types of centrality: degree, closeness, and betweenness. How do these measures reflect power in a network?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss how the formation of cliques can impact the flow of information and influence within a network.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How are positions and roles within a network identified? Why are they significant in social network analysis?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

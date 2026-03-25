@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS284_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS284",
+    "subject_name": "Retail Analytics",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of retailer goodwill and its role in building customer trust and loyalty. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write short notes on the importance of location in retail success. Mention two key factors retailers must consider when choosing a site. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain how celebrity marketing can influence consumer perception and purchase decisions. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define retail analytics and discuss the significance in modern day retailing 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A retailer wants to select the best site between Location A and Location B. It has identified three critical factors, each with a specific weight: Cost , Customer Accessibility , Competition Each location is rated on a scale of 1 to 10 for each factor. Using factor rating method suggest which location is best suited. Factors Weight Location A Location B Cost 0.40 8 7 Customer accessibility 0.35 9 8 Competition 0.25 6 7 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the significance of a well-defined retail organization structure. Compare hierarchical vs. flat structures and explain how each can influence decision-making and employee engagement. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain creative advertising marketing and strategic marketing. How do they complement each other in achieving overall retail goals? Use examples to support your answer. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define market basket analysis. How can retailers use the findings from market basket analysis to implement effective cross-selling strategies? Illustrate your answer with an example. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key differences between house brands and name brands? Discuss the advantages and challenges retailers face when developing and marketing house brands. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly describe how competitor threat analysis helps retailers maintain a competitive edge. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: PhD Course Work 
+(May, 2025) 
+ 
+Subject Code: PhD 100 
+Subject: Joy of Computing using Python  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Write a Python function that takes two numbers and an operation 
+symbol (+, -, *, /) as input and returns the result. Handle divide-by-
+zero. 
+ 
+CO1 
+ 
+b) Write a loop-based program to display the first 10 even numbers 
+using a while loop. Add a conditional to skip number 6. 
+ 
+CO1 
+ 
+c) Simulate the Monty Hall game for 5 rounds and display how many 
+times the user would win if they switched the door. 
+ 
+CO2 
+ 
+d) Write a function to encode a message using a substitution cipher 
+with a shift of 3. Input: "hello", Output: "khoor". 
+ 
+CO2 
+ 
+e) Create a menu-driven console app with three questions that help 
+guess an object (e.g., an animal). Use if-elif structures. 
+ 
+CO3 
+ 
+f) Given a word, write code to generate all its permutations using 
+itertools.permutations. Display only the first 5. 
+ 
+CO3 
+ 
+g) Write a recursive function to solve Tower of Hanoi for 3 disks. Print 
+the moves. 
+ 
+CO4 
+ 
+h) Create a Python dictionary representing page links (e.g., A links to B 
+and C). Simulate one iteration of PageRank value update based on 
+incoming links. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Write a program that takes a list of integers as input and returns a 
+new list with only the prime numbers. Explain the logic for checking 
+prime. 
+(10) 
+CO1 
+Q3 
+Create a Python program using a list of temperatures over a week. 
+Find the average temperature and the days that were above average. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Create a Python program that uses binary search to find a target 
+number in a sorted list. Also, mention when binary search cannot be 
+used. 
+(10) 
+CO2 
+Q5 
+Design a Python function to simulate the Birthday Paradox: For a 
+group of 30 people, simulate and check if any two have the same 
+birthday using the random module. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Write a Python program to play Rock, Paper, Scissors with the user. 
+Use random module to pick computer’s choice and decide the winner. 
+(10) 
+CO3 
+Q7 
+Write a program to create a list of five strings and find the number of 
+strings that contain a specific substring entered by the user. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Write a program to simulate a single-player Snakes and Ladders game 
+on a 1–30 board using dice rolls. Use a dictionary for snake/ladder 
+positions. 
+(10) 
+CO4 
+Q9 
+Create a Python program to play Tic Tac Toe for two players. Print the 
+board after each move and check for a winner or a draw. 
+(10) 
+CO4

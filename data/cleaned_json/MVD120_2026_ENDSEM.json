@@ -1,0 +1,120 @@
+{
+  "paper_id": "MVD120_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD120",
+    "subject_name": "Low Power VLSI Design",
+    "program": "M.Tech ECE(VLSI",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why power estimation techniques are critical in low power design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between computing power and chip power.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why a cascode structure is not suitable for low voltage design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the effect of power supply scaling on the drive current of MOS transistor?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the main advantages of bulk driven technique as compare to conventional gate driven technique.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain Lithium ION technology.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Static power increases with shrinking device geometries. Justify.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the effect of Technology Scaling on power dissipation?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the degrees of freedom inherent in the low-power design space?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "The battery technology has failed to meet up the energy requirement of the modern portable equipment” Explain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe circuit level low power design strategies.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Elaborate on the use of pipelining and parallelism for low power design.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss various challenges in the design of low voltage analog circuits.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why FVF is widely used follower for low power applications?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How body bias technique is helpful in power reduction in VLSI circuits.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe briefly SPICE model for floating gate MOS transistor.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

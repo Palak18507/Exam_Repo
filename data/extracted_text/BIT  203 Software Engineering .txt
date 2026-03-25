@@ -1,0 +1,171 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech (IT/AIML/CSE/CSE-AI)>, Semester:<03> 
+(December, 2024) 
+ 
+Subject Code: BIT 203 
+Subject: Software Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt all parts 
+20 
+ 
+ 
+a) ‘Think Big, Act Small’. Enumerate two reasons for software projects going 
+wrong? 
+2.5 
+CO1 
+ 
+b) List the Umbrella Activities that occur throughout the Software Process. 
+2.5 
+CO1 
+ 
+c) List some metrics (property and measure) for specifying non-functional 
+requirements 
+2.5 
+CO2 
+ 
+d) Developing a software application is intrinsically complex. Justify your answer 
+2.5 
+CO2 
+ 
+e) Discuss design concept “Separation of Concern”. 
+2.5 
+CO3 
+ 
+f) Contrast between coupling and cohesion 
+2.5 
+CO3 
+ 
+g) What is estimation method in project planning? Briefly explain the key 
+ingredients of an estimation method? 
+2.5 
+CO4 
+ 
+h) Discuss the concept of ‘Size Equivalent’ in Detailed COCOMO model. 
+2.5 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+Software agile methods are designed to produce useful software quickly. Describe 
+some common characteristics shared by Agile methods. 
+(10) 
+ 
+CO1 
+Q3 
+Compare and contrast between Prescriptive Process Models and Evolutionary Process 
+Models. 
+(10) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+A student Registration System for a University is a digital platform designed to 
+streamline and manage the student registration for subject being offered in a 
+semester. At the beginning of the semester, student is required to register for the 
+compulsory course offered by the Department. In addition, student has to select fixed 
+number of optional courses out of the elective course offered by the Department. 
+Every elective course has a fixed number of seats A course can be compulsory courses 
+or the elective courses offered in the discipline of study.   
+As a system engineer, you are required to present the student registration process 
+a) Using context/zero level DFD 
+b) First Level DFD 
+(3,7) 
+ 
+CO2 
+Q5 
+In literature, a number of Requirements elicitation techniques have been proposed. 
+Why one elicitation technique cannot work in all situations? 
+(10) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+Consider the following Program: 
+def check_triangle(a, b, c): 
+    if a == b: 
+        if a == c: 
+            if b == c: 
+                return "Equilateral" 
+            else: 
+(4,3,
+3) 
+CO3 
+2 
+ 
+                return "Isosceles" 
+        else: 
+            return "Isosceles" 
+    else: 
+        if b != c: 
+            if a == c: 
+                return "Isosceles" 
+            else: 
+                return "Scalene" 
+        else: 
+            return "Isosceles" 
+(i) 
+Draw CFG 
+(ii) 
+Find cyclomatic complexity 
+(iii) 
+Identify Independent paths and write test cases for each independent 
+path.   
+Q7 
+Prepare the structured chart for the following module: 
+1. BEGIN 
+2.   Get count 
+3.   names[] = loadList (count) 
+4.   
+5.   i = 0 
+6.   WHILE i < length of names 
+7.     Get newName 
+8.     duplicate = checkForDuplicate (names, newName) 
+9.     IF duplicate == False THEN 
+10.       addToList (names, newName) 
+11.     ENDIF 
+12.     i = i + 1 
+13.   ENDWHILE 
+14. END 
+15.   
+16. BEGIN checkForDuplicate (names, newName) 
+17.   namesSorted = sortNames (names) 
+18.   inList = findName (namesSorted, newName) 
+19.   Return inList 
+20. END mySubFour 
+(10) 
+ 
+UNIT IV 
+ 
+ 
+Q8 
+A software manager is in charge of the development of a safety-critical software 
+system, which is designed to control a radiotherapy machine to treat patients 
+suffering from cancer. This system is embedded in the machine and must run on a 
+special-purpose processor with a fixed amount of memory (256 Mbytes). The machine 
+communicates with a patient database system to obtain the details of the patient and, 
+after treatment, automatically records the radiation dose delivered and other 
+treatment details in the database.  
+The COCOMO method is used to estimate the effort required to develop this system 
+and an estimate of 26 person-months is computed. All cost driver multipliers were set 
+to 1 when making this estimate.  
+Explain why this estimate should be adjusted to take project, personnel, product and 
+organizational factors into account. Suggest four factors that might have significant 
+effects on the initial COCOMO estimate. Justify why you have included each factor? 
+(10) 
+CO4 
+Q9 
+Explain FPA model used for software estimation with suitable example. 
+(10) 
+CO4

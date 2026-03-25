@@ -1,0 +1,60 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: BBA, Semester:  VI ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMS 344 
+Subject: Social Media and Web Analytics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Explain how social network data differs from traditional data used in 
+analytics. 
+ 
+ 
+b) Discuss the role of nodes and relations in social network analysis with an 
+example. 
+ 
+ 
+c)Differentiate between structured, semi structured and unstructured data 
+ 
+ 
+d) How are basic statistics applied to analyze social network data?  
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What is web analytics, and why is it important for businesses? 
+ 
+ 
+b) What are formal methods in social network analysis? Explain their 
+importance. 
+ 
+ 
+c) Discuss different kinds of graphs used to represent social relationships. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What factors should a business consider when selecting a web analytics 
+solution? 
+ 
+ 
+b) What are the major challenges in implementing web analytics for online 
+businesses? 
+ 
+ 
+c) What is clickstream analysis, and how does it help in understanding user 
+behavior?

@@ -1,0 +1,71 @@
+{
+  "paper_id": "MMS102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS102",
+    "subject_name": "Human Resource Management",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the significance of job analysis in the hiring process. Provide an example of how job analysis can help a company ensure they hire the right candidate for a specific role 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "\"An investment in training today leads to excellence tomorrow.\" Comment 5",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "“Manpower planning is essential for ensuring that an organization has the right people with the right skills at the right time” Discuss 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "In a rapidly changing business environment, discuss the role of HRM in helping organizations adapt to changes and maintain a competitive edge with special emphasis on contemporary trends today 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "“Job analysis is about job description and specification.” Discuss 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "c",
+          "text": "Explain with example the sources of recruitment. 5",
+          "marks": 10.0
+        }
+      ]
+    }
+  ]
+}

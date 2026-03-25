@@ -1,0 +1,111 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: B.Tech: Sem: 2 
+(May, 2025) 
+ 
+Subject Code: BCS 104 
+Subject: Mobile Application Development  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Differentiate between Native Apps vs Hybrid Apps 
+ 
+CO1 
+b 
+Differentiate between Mobile Operating Systems and Desktop OS 
+ 
+CO1 
+c 
+What are the salient features of Eclipse Simulator and how is it useful 
+for App development?  
+ 
+CO2 
+d 
+Write a short notes on Event handling with the example code? 
+ 
+CO2 
+e 
+Write a short notes on Common Android APIs with the example code? 
+ 
+CO3 
+f 
+Briefly explain Cloud Storage for app development w.r.t any program 
+or application 
+ 
+CO3 
+g 
+WAP to display your name, class, university  through any mobile app 
+ 
+CO4 
+h 
+How do you publish mobile applications and explain  
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the tool chain or Integrated Development Environment(IDE) 
+used for Mobile Application Development with neat diagram , input 
+and output of each tool or software w.r.t any example of a program 
+ 
+CO1 
+Q3 
+What is SDKs, different components of it  and explain its architecture 
+w.r.t any platform with neat diagram  
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+WAP  to display weather information to the registered user in android 
+platform along with any five UI components  [ Make your own 
+assumptions of the APP] 
+ 
+CO2 
+Q5 
+WAP to display patient information to the doctor  in android platform 
+along with graphics services and layer animations [ Make your own 
+assumptions of the APP]  
+ 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the Android OS Layered Architecture with neat diagram and 
+WAP to demonstrate use of any Android API’s with any application    
+ 
+CO3 
+Q7 
+Explain the Android User Interface Design Essentials w.r.t any 
+application design with the proper code. How do you publish the same 
+in Android App Store? 
+ 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Consider the Q4. You have to test and deploy the developed 
+application. Devise the complete methodology for testing, deployment  
+and publishing in android environment 
+ 
+CO4 
+Q9. 
+Consider the Q5. You have to test and deploy the developed 
+application. Devise the complete methodology for testing, deployment  
+and publishing in iOS/ Windows/ any other cross development 
+environment 
+ 
+CO4

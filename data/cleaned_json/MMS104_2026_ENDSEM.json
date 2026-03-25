@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS104",
+    "subject_name": "Financial Management",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is wealth maximization goal? How is it superior to profit maximization goal? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Illustrate the importance of the time value of money with a practical example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How is the Cost of Equity estimated in capital structure analysis? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define capital structure and explain its importance in financial decision- making 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Why is inventory management a critical aspect of working capital management? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the components of cash flow estimation in investment decisions. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the typical source of capital used in a Leveraged Buyout ? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Briefly explain the concept of Employee Stock Ownership Plans and their significance in corporate finance. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Time Values of Money. Discuss the application of Time Value of Money in financial decision making",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Analyze the relationship between risk and return and demonstrate how portfolio diversification reduces risk with a real-world example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concepts of Operating Leverage, Financial Leverage, and Combined Leverage, and illustrate their interrelationship with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Analyze the Modigliani-Miller Hypothesis under the assumption of no corporate taxes. Assess how it leads to the concept of capital structure irrelevance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "ABL Ltd. is evaluating two mutually exclusive projects, Project A and Project B, each requiring an initial investment of ₹6,00,000. The expected cash flows over the next five years for both projects are as follows: Year Project A Project B 1 150000 300000 2 175000 250000 3 200000 150000 4 350000 130000 5 125000 100000 The company's required rate of return is 10%. PV factor for year 1 to 5 are 0.909, 0.826, 0.751, 0.683, 0.621 respectively. Assess the NPV and Profitability Index of both projects, which project should be selected based on your decision.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Examine the role of fixed and fluctuating working capital in a manufacturing firm. How do these types of working capital affect financial stability? Use examples to support your explanation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Evaluate the impact of dividend policy on the market value of a firm using the Gordon Model and Walter Model. Which model is more realistic in the current financial environment?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the role of Corporate Restructuring in improving the financial health of an organization. How does it affect shareholder value and corporate governance?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

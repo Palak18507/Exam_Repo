@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name:  M.Tech  Semester:  II 
+March 2025 OFF LINE mode 
+Subject Code: MCS 104 
+                                                  Subject:  Natural Language Processing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any one parts of Q2 and Q3  
+ 
+Q1 
+Answer the following 
+(2.5*4=10) 
+CO Mapping 
+ 
+a)  Define Natural Language Processing (NLP). Why is it important 
+in today's digital age? 
+ 
+CO1 
+ 
+b) Why it is necessary to consider the context while doing 
+pragmatic analysis? Explain using an example. 
+ 
+CO1 
+ 
+c) What is “Sentence Boundary Disambiguation”. What is the role 
+of Named Entity Recognition in it? 
+ 
+CO1 
+ 
+d) How processing a Natural Language Text in English Language is 
+different from processing Text in Hindi Language. Discuss using 
+Example.  
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any one 
+(2x5) 
+ 
+ 
+ 
+a) Discuss the structure and significance of WordNet in the 
+field of Natural Language Processing. Identify the types of  
+Wordnet relations 
+(i) 
+Fruit- Mango 
+(ii) 
+Car- tyre 
+(iii) 
+Shouting – speaking 
+(iv) 
+ Barber- Hair cutting 
+ 
+CO1 
+ 
+b) What are the different phases of Semantic Layer? Discuss each 
+in detail. Consider the following sentence 
+“ I played with a mountain” 
+Which type of error does the sentence contain and why? 
+ 
+CO1 
+                                               UNIT II 
+ 
+CO Mapping 
+Q3 
+ 
+(2x5) 
+ 
+ 
+(a) Discuss the different phases of NLP. Provide examples for each 
+phase and explain how they contribute to efficient natural 
+language understanding 
+ 
+CO2 
+ 
+b) Consider the following sentence: 
+"The quick, brown fox jumps over the lazy dog!" 
+i)Tokenize the given sentence into individual tokens 
+ii)Count how many tokens are words and how many are 
+punctuation. 
+iii)What is the percentage of word tokens compared to the total 
+number of tokens?.                                                                                      
+ 
+CO2

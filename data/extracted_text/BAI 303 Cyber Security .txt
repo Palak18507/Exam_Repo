@@ -1,0 +1,99 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester:5th 
+(December, 2024) 
+ 
+Subject Code: BAI  303 
+Subject:  Cyber Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) Define vulnerabilities. Discuss how they are exploited in insider threats, with an 
+example from an organizational context. 
+2.5 
+ 
+b) Explain the difference between active and passive network threats. Illustrate 
+each type with a relevant scenario 
+2.5 
+ 
+c) What is credit card fraud? Describe in detail the methods used to execute such 
+fraud and preventive measures organizations can take. 
+2.5 
+ 
+d) Explain privacy and security issues in cloud-based services. Provide real-world 
+examples to substantiate your answer. 
+2.5 
+ 
+e) Describe browser security. Explain three key methods for enhancing browser 
+security and their impact. 
+2.5 
+ 
+f) Differentiate between symmetric and asymmetric cryptography, and discuss 
+their applications in network security with examples. 
+2.5 
+ 
+g) What are honey pots? Explain their role in identifying and mitigating cyber 
+threats, supported by a real-life example. 
+2.5 
+ 
+h) Discuss the Lollipop Model and its significance in designing secure systems. 
+2.5 
+UNIT I 
+ 
+Q2 
+Explain the goals of cyber security in detail. Discuss three types of malicious 
+software—worms, ransomware, and backdoors—explaining their attack 
+methodologies, impacts, and defense mechanisms. 
+(10) 
+Q3 
+Phishing is one of the most prevalent cyber threats. Discuss its various types, such 
+as spear phishing, smishing, and vishing. Suggest detailed prevention techniques 
+that organizations and individuals can implement to counter these threats 
+effectively. 
+(10) 
+UNIT II 
+ 
+Q4 
+Cyber terrorism is a growing threat to national and global security. Define cyber 
+terrorism, explain its impact on critical infrastructure, and provide a detailed 
+analysis of one documented cyber terrorism incident. 
+(10) 
+Q5 
+What is identity theft? Discuss in detail the various methods used by 
+cybercriminals to carry out identity theft, its impact on individuals and 
+organizations, and strategies for prevention, including technological and legal 
+measures. 
+(10) 
+UNIT III 
+ 
+Q6 
+What are hash functions? Explain their properties in detail and discuss the role of 
+the Secured Hash Algorithm (SHA) in data integrity and authentication, including 
+an example of its use in digital signatures. 
+ 
+(10) 
+Q7 
+Explain SSL/TLS protocols in detail, focusing on their working mechanisms, the 
+handshake process, and how they ensure secure communication in e-commerce 
+and online banking environments. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Risk management is a cornerstone of cyber security. Define risk management, 
+explain its process in detail, and describe its importance in protecting sensitive 
+organizational data with an example. 
+(10) 
+Q9 
+Discuss the Indian IT Act comprehensively. Highlight its key provisions for 
+combating cybercrime, its relevance in today’s digital world, and challenges in its 
+implementation. Provide examples wherever applicable. 
+(10)

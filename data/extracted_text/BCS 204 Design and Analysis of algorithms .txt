@@ -1,0 +1,100 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(May, 2025) 
+ 
+Subject Code: BCS-204 
+Subject: Design and Analysis of Algorithms 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define time complexity and space complexity. Provide an example.  
+2.5 
+(CO1) 
+ 
+b) Explain the Master Theorem and give an example.  
+2.5 
+(CO1) 
+ 
+c) Differentiate between Divide and Conquer and Dynamic 
+Programming.  
+2.5 
+(CO2)   
+ 
+d) What is a Greedy algorithm? Give an example.  
+2.5 
+(CO2)   
+ 
+e) State and explain the properties of NP-complete problems.  
+2.5 
+(CO4) 
+ 
+f) Write the algorithm for the BFS traversal of a graph.  
+2.5 
+(CO3) 
+ 
+g) Explain the significance of Huffman coding in data compression.  
+2.5 
+(CO4) 
+ 
+h) Describe the role of finite automata in string matching. 
+2.5 
+(CO4)   
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Solve the recurrence relation T(n) = T(n/2) + n using the iterative 
+method. 
+(10) 
+(CO1) 
+Q3 
+Explain the working of Quick Sort with an example. Derive its best, 
+worst, and average case complexities.  
+(10) 
+(CO1) 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Solve the 0/1 Knapsack problem using the Greedy approach. Show 
+stepwise execution.  
+(10) 
+(CO2)   
+Q5 
+Explain the Matrix Chain Multiplication problem and solve it using 
+Dynamic Programming.  
+(10) 
+(CO2)   
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe Dijkstra’s algorithm for finding the shortest path with the 
+help of suitable example.  
+(10) 
+(CO3)   
+Q7 
+Explain the working of the n-Queens problem using Backtracking. 
+(10) 
+(CO3)   
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the working of the Rabin-Karp algorithm with an example.  
+(10) 
+(CO4)   
+Q9 
+What are NP-Complete problems? Prove that the Subset Sum problem 
+is NP-Complete. 
+(10) 
+(CO4)

@@ -1,0 +1,156 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech (CSE/IT/ECE), Semester: V 
+(December, 2024) 
+ 
+Subject Code: BAS 301 
+Subject:  Modeling and Simulation 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Use of scientific 
+calculator (non-programmable) is allowed. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are the advantages of the mathematical modeling? 
+ 
+CO1 
+ 
+b) Why is validation so important in modeling and simulation? 
+ 
+CO1 
+ 
+c) Generate a sequence of 2 random integers (Xi) with constant 
+multiplier 13 and modulus 64 with X0=4. 
+ 
+CO2 
+ 
+d) Apply Runge-Kutta method of second order to solve the initial 
+value problem 
+𝑑𝑦
+𝑑𝑥= −2𝑥−𝑦,
+𝑦(0) = −1. 
+       Find 𝑦(0.1)  with h=0.1. 
+ 
+CO2 
+ 
+e) Find the equilibrium point of  𝑥𝑛+1 =
+5
+4 (𝑥𝑛−1). 
+ 
+CO3 
+ 
+f) Discuss the dynamic model which describes drug delivery problem. 
+ 
+CO3 
+ 
+g) What are the assumptions in the Least Square method? 
+ 
+CO4 
+ 
+h) There is congestion on the platform of a railway station. The trains 
+arrive at a rate of 30/days. The service time for any train is 
+Exponential distribution with an average of 36mins. Calculate 
+Mean queue size. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain any three classifications of systems according to the nature 
+and type of components. 
+(10) 
+CO1 
+Q3 
+What is system modeling? Differentiate between physical systems and 
+conceptual systems with examples. 
+(3+7) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the components of a Monte Carlo Simulation? Also, 
+compute the value of  using Monte Carlo Simulation method. 
+(4+6) 
+CO2 
+Q5 
+Approximate the integral ∫
+1
+𝑥+𝑒𝑥
+2
+1
+𝑑𝑥  with n = 3 by using Trapezoidal 
+and Simpson’s  
+1
+3 rules up to 5 decimal places. 
+(5+5) 
+CO2 
+ 
+ 
+ 
+2 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define Linear Difference equation. Consider a population growing 
+each year by 3%. Emigration occurs at a constant rate of 2500 per 
+year. Find the strength of the population after 10 years if the current 
+strength is 120000. 
+(2+8) 
+CO3 
+Q7 
+(a) Assume a single infected individual migrates into an area 
+containing n individuals susceptible to a disease. Write the 
+mathematical equations of the SI model by considering suitable 
+parameters, and solve the formulated model. 
+(b) Write the mathematical equations describing SIS model. 
+(8+2) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Differentiate between Single and Multiple Linear Regression? 
+(b) Find the line of best fit for the following data 
+ 
+ 
+ 
+ 
+Find how many people will attend the show if ticket price is 14? 
+Ticket Price (x) 
+2 
+5 
+8 
+10 
+No. of people 
+attending  (y) 
+80 
+90 
+110 
+140 
+(4+6) 
+CO4 
+Q9 
+At a one man barber shop customers arrive according to Poisson 
+distribution with a mean arrival rate of 5/hr. The hair cutting time is 
+Exponential distribution with a hair cut taking 10 min on an average 
+assuming that the customers are always willing to wait, find: 
+(a) Average number of customer in the shop. 
+(b) Average waiting time of a customer. 
+(c) The percent of time an arrival can walk right without having to 
+wait. 
+(d) The probability of a customer waiting more than 5mins. 
+(10) 
+CO4

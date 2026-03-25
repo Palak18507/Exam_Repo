@@ -1,0 +1,76 @@
+{
+  "paper_id": "BEC402_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC402",
+    "subject_name": "Embedded Systems",
+    "program": "B. Tech.",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Give examples of embedded system processor chip or core? What are the important considerations for selecting a processor?",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is an embedded system? What are the components of embedded system hardware? Give some examples of embedded systems.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the steps involved in the design process of an embedded system.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How are embedded systems classified? Explain in detail.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Memory Shadowing? What are the basic principles behind the shadowing mechanism?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw and explain the architectural difference between general-purpose and domain-specific processors.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the difference between: Microprocessor and Microcontroller RISC and CISC processors",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

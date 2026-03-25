@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech (AIML): Sem: 6 
+(May, 2025) 
+ 
+Subject Code: BAM 304 
+Subject: Neural Networks and Deep Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Calculator is allowed. 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Define linear separability with an example. 
+ 
+CO1 
+b 
+A neuron receives inputs 0.8 and 0.4 with weights 0.5 and -0.7, and a 
+bias of 0.2. Using the sigmoid activation function, calculate the 
+neuron's output. 
+ 
+CO1 
+c 
+How does a Hopfield Network function as a content-addressable 
+memory? 
+ 
+CO2 
+d 
+What is the Hebbian learning rule in the context of a Hebb Network? 
+ 
+CO2 
+e 
+What is data augmentation, and how does it help in improving model 
+performance? 
+ 
+CO3 
+f 
+Distinguish between hyperparameters and parameters in a deep 
+learning model. 
+ 
+CO3 
+g 
+What is transfer learning, and how is it useful? 
+ 
+CO4 
+h 
+What does batch normalization do during training? 
+ 
+CO4 
+UNIT I 
+10 
+CO Mapping 
+Q2 
+Differentiate between supervised, unsupervised, and reinforcement 
+learning methods with suitable examples. 
+ 
+CO1 
+Q3 
+What are the similarities and differences between biological neural 
+networks and artificial neural networks? How does a biological neuron 
+help in designing an artificial neuron? Draw a diagram of a biological 
+neural network. 
+ 
+CO1 
+UNIT II 
+10 
+CO Mapping 
+Q4 
+Explain the architecture and training algorithm of a multilayer 
+backpropagation neural network. Why is the learning rate important in 
+backpropagation? 
+ 
+CO2 
+Q5 
+Explain the architectures of: 
+(a) Counterpropagation Network 
+(b) Adaptive Resonance Theory (ART) Network 
+ 
+CO2 
+UNIT III 
+10 
+CO Mapping 
+Q6 
+What is overfitting and underfitting in deep learning models? Explain 
+their causes and how they affect model performance. Discuss how L1 
+and L2 regularization, dropout helps in reducing overfitting. 
+ 
+CO3 
+Q7 
+Compare Long Short-Term Memory networks with Gated Recurrent 
+Units. Discuss their architectures and use cases. 
+ 
+CO3 
+UNIT IV 
+10 
+CO Mapping 
+Q8 
+What is a Convolutional Neural Network (CNN)? Explain how filters and 
+pooling work in CNNs. Describe any two popular CNN architectures.  
+ 
+CO4 
+Q9 
+Compare and contrast any two CNN architectures among LeNet, 
+AlexNet, VGG-16, ResNet, and InceptionNet. Highlight their structural 
+differences, advantages, and applications. 
+ 
+CO4

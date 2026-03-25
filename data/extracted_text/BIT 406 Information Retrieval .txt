@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH : Sem: 8 
+(May, 2025) 
+ 
+Subject Code : BIT 406  
+                                                      Subject: INFORMATION RETRIEVAL  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(5*4=20) 
+CO Mapping 
+a 
+Given that P(document|topic) = 0.7 and P(topic|query) = 0.6, compute 
+P(document|query) using the chain rule of probability. 
+2.5 
+CO1 
+b 
+Given a document with 500 words and 75 unique words, calculate the 
+type-token ratio. 
+2.5 
+CO1 
+c 
+If three search engines return 20, 30, and 50 unique URLs respectively, how 
+many total unique results are there assuming 10 URLs overlap across each 
+pair? 
+2.5 
+CO2 
+d 
+A term appears 4 times in a document of 200 words, and in 10 out of 1,000 
+documents. Calculate its TF (term frequency). 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Compute the TF-IDF matrix for 3 documents with the following content: 
+Doc1: "data mining is fun" 
+Doc2: "data science and data mining" 
+Doc3: "machine learning and science" 
+Show all steps including term frequency, document frequency, IDF, and 
+final TF-IDF vectors. 
+10 
+CO1 
+Q3 
+Consider an online store. Quantify incentives (cost reduction, reach, 
+convenience) with hypothetical data and evaluate the impact of e-
+commerce forces such as technology adoption, globalization, and 
+competition using numeric indicators (e.g., profit margins, transaction 
+volume growth). 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Demonstrate how LSI helps overcome synonymy by using a small dataset 
+with 3 terms and 3 documents, showing SVD steps and query retrieval. 
+10 
+CO2 
+Q5 
+Evaluate retrieval performance: Given 5 documents, their latent vector 
+representations, and a query, compute cosine similarities and rank 
+documents accordingly. 
+10 
+CO2 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Given a small adjacency matrix, compute authority and hub scores for 3 
+iterations. Show convergence (or change over iterations). 
+10 
+CO3 
+Q7 
+Given a log of 10,000 queries with top 50 most frequent queries, compute 
+term frequencies and build a Zipf-like distribution curve. Estimate the 
+number of queries occurring only once. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+If a query is weighted as 0.7 for textual content and 0.3 for structured 
+fields, and document scores are: text = 0.6, structured = 0.9 — calculate 
+final score. 
+10 
+CO4 
+Q9 
+Given 100,000 semi-structured JSON documents, with an average of 10 
+fields per document, calculate the size of a field-aware inverted index 
+assuming 40 bytes per field-term entry. 
+10 
+CO4

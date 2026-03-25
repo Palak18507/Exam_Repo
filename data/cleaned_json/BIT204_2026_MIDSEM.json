@@ -1,0 +1,81 @@
+{
+  "paper_id": "BIT204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT204",
+    "subject_name": "Object Oriented Programming",
+    "program": "B.TECH",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain using program i) function overloading ii) private and protected access specifiers",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare i) call by reference and call by pointer ii) static and nonstatic variables of a class",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Design a class Employee that manages employee information, including the employee 's id, name, age and salary. Create a static member that keeps track of the total number of employees instantiated from the Employee class.Also Implement member function in a class to display and set the details of employees.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Class and object? Create a Student class and provide appropriate constructor and methods to initialize and display the details of student. Provide a non member function compare_age which will compare the age of two students.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the use of i) default parameters in a functions ii) constructor and destructor",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define a base class BankAccount with details acc no,name,balance and functions to withdraw and deposit in the account. Derive a SavingAccount class from BankAccount with saving type specific information. Create object of both class and display the details",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a program to overload increment operators in C++.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Create a program to explain use of i) virtual functions ii) multilevel inheritance",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

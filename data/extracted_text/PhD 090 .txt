@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: PHD Course Work 
+(May, 2025) 
+ 
+Subject Code: PhD 090 
+                              Subject: Applied Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Answer the following questions 
+(5*4=20) 
+CO Mapping 
+a 
+Explain the process of converting words to vectors using one-hot encoding 
+and analyze its limitations.  
+5 
+CO1 
+b 
+What are the main components of a Statistical Machine Translation (SMT) 
+system? 
+5 
+CO1 
+c 
+Explain how RNNs handle sequential data compared to traditional 
+feedforward networks 
+5 
+CO2 
+d 
+Given a small corpus of text, demonstrate how a basic bigram language 
+model would assign probabilities to a sentence. Use hypothetical data and 
+calculations. 
+5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the evolution of word representation in Natural Language 
+Processing. Starting from symbolic representations and one-hot encoding, 
+explain how the limitations of these methods led to the development of 
+distributed word vectors like Word2Vec.  
+10 
+CO1 
+Q3 
+Explain the concept of a language model in the context of NLP. Describe the 
+role of n-gram models in estimating the probability of word sequences and 
+how this supports tasks like text generation and spell correction. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the Skip-gram and CBOW models used in Word2Vec for generating 
+distributed word vectors. Compare their architectures, training objectives, 
+and typical use cases. Use diagrams where appropriate. 
+10 
+CO2 
+Q5 
+Describe the architecture of a Recurrent Neural Network (RNN) and its 
+relevance to modeling sequential data in NLP tasks such as language 
+modeling. Discuss the problem of vanishing gradients in RNNs and how it 
+impacts learning long-range dependencies.  
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the architecture of a Statistical Machine Translation (SMT) system. 
+Explain the roles of the translation model, language model, and decoder in 
+the SMT pipeline. Using an example (e.g., English to Hindi), illustrate how 
+phrase-based translation works and how alignment is established. 
+10 
+CO3 
+Q7 
+Explain the architecture of a basic Neural Machine Translation system using 
+the encoder–decoder framework. Discuss how the use of Recurrent Neural 
+Networks (RNNs) in both encoder and decoder helps in modeling the source 
+and target sequences. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Critically explain the architecture and components of a task-oriented 
+dialogue system. Compare rule-based and neural-based approaches to 
+building chatbots, highlighting their differences in design, flexibility, and 
+scalability.  
+10 
+CO4 
+Q9 
+Explain how neural networks are applied in information retrieval (IR) tasks 
+such as 'Learn to Rank'. Describe how these models learn from user click data 
+or relevance judgments. Additionally, discuss how word analogies and 
+phrase embeddings help improve IR systems.  
+10 
+CO4

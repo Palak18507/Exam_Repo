@@ -1,0 +1,96 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA. Semester: 4th  Sem 
+(May, 2025) 
+ 
+Subject Code: BMS 202   
+Subject: Project Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a) Outline the key objectives of project management.  
+2.5 
+CO1 
+b) Explain why the project life cycle is considered an essential framework 
+for project management. Provide an example to support your answer. 
+2.5 
+CO1 
+c) How does technology selection influence the success of a project? 
+Provide an example 
+2.5 
+CO2 
+d) Explain the concept of project crashing. When should it be applied in 
+project management? 
+2.5 
+CO2 
+e) Describe the key components of the cost of a project. 
+2.5 
+CO3 
+f) What is venture capital, and how does it serve as a newer source of 
+financing for projects? 
+2.5 
+CO3 
+g) Explain the concept of post-project evaluation (post-audit). 
+2.5 
+CO4 
+h) How does information technology contribute to emerging trends and 
+issues in project management? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 What are the primary objectives of project management? Explain its 
+importance in ensuring the successful execution of projects. 
+(10) 
+CO1 
+Q3 Explain the process of generating and screening project ideas. How 
+does this process ensure alignment with organizational objectives and 
+feasibility 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 What factors influence the selection of a project location? Illustrate 
+your answer with examples of how location impacts project success. 
+(10) 
+CO2 
+Q5 Outline the process of conducting a market survey. How does market 
+characterization and planning help in determining project feasibility? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 Discuss the steps involved in conducting a financial feasibility study. 
+Explain the key components of project cost and their estimation with 
+suitable examples. 
+(10) 
+CO3 
+Q7 Explain the characteristics of debt financing. Discuss the types of 
+debts commonly used for financing projects, highlighting their 
+advantages and limitations. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 Describe the importance of project monitoring and controlling in 
+ensuring project success. What tools and techniques are commonly 
+used in this process? 
+(10) 
+CO4 
+Q9 Discuss the key types of risks involved in international project 
+management. Explain the processes and financial considerations 
+unique to international projects. 
+(10) 
+CO4

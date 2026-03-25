@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS112_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS112",
+    "subject_name": "Operations Management",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss various flows involved in a supply chain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare and contrast characteristics of good and services.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain difference between insourcing and outsourcing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do understand by form and functional designs?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Monthly demand data over 6 months for a fast-selling model of a TV is as under. Determine the forecast for 7th months using 3 months moving average and weighted moving average methods. Weights give for demand for 6th, 5th and 4th months are 0.5,0.3 and 0.2 respectively. Month 1 2 3 4 5 6 Demand 130 120 140 110 125 130 Comment on weight selection for weighted moving method.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss transformation approach to explain operations management. Explain various types of transformations with suitable examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss continuous and intermittent production systems with suitable examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Elucidate concept of inventory in functioning of an organization. What do you understand by EOQ? Discuss simple EOQ model of inventory management.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by product design? What are features of a good design?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a process? Discuss very briefly various factors considered to select an appropriate process.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

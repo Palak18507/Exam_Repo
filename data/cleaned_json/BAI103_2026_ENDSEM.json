@@ -1,0 +1,179 @@
+{
+  "paper_id": "BAI103_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI103",
+    "subject_name": "Introduction to Data Science",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the role of a Data Science and list three applications of it. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by “Data Exploration”? Why is it important in Data Science? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write Python code using pandas to drop rows with missing values from a DataFrame df. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Create a 4x4 NumPy array with consecutive integers starting from 1 and reshape it into a 2x8 array. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write a function in Python to generate a heatmap using seaborn from a correlation matrix. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How can you customize subplots in matplotlib to create a layout with 2 rows and 3 columns? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Name and describe any three different types of filters used in Tableau. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define Data visualization techniques in Tableau. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Data Science Process Lifecycle in detail. Illustrate each step with relevant examples from real-world applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "List and describe five real-world applications of Data Science. How does it provide value in industries like healthcare, finance, and social media?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create both DataFrames",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Merge them on the ID column",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Display only students with pending fees above ₹1000",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain Data Wrangling and Data Filtering alongwith respective advantages and disadvantages.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "You are given monthly sales data for a product in 2023. Plot a line chart to show the sales trend with circle markers and dashed blue lines.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Build a Pie Chart using custom data representing car brands . Include customization using explode, autopct, and shadow.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a histogram of the daily minimum temperature.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Generate a box plot to identify any outliers.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between Heatmaps and Treemaps in Tableau. When would you prefer one over the other? Include examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the collaborative features of Tableau and how it supports data sharing and informed decision-making within teams.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Parameters in Tableau. How are they different from Filters?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a Set in Tableau? How do Dynamic Sets differ from Fixed Sets?",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS324_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS324",
+    "subject_name": "Performance and Compensation Management",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "“Any system needs certain prerequisites to function smoothly.” Discuss the statement with respect PMS. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Performance Appraisal and Performance Management with appropriate examples. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is meant by the concept of ‘total reward’? What should a reward system seek to do? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the differences between coaching and mentoring? CO 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the performance management cycle/process using an organization-based example. CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe how the OKR-Based new PMS sought to mitigate the challenges faced by Quick Heal’s old PMS? Was it the right solution? How did the change in PMS affect other HR functions? CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write a short note on competency-based PMS and e-PMS. CO 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the critical dimensions of EVP, and how Tesco Business Services addressed it? CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How and why might taking a more personalized approach to reward management help to improve both strategic alignment and psychological engagement? CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main difference in employee benefits between United States, South Korea and India. CO 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

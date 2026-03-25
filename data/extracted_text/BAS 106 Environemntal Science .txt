@@ -1,0 +1,114 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Reappear EXAMINATION 
+(CBCS)(SUBJECTIVE TYPE) 
+Course Name: B.Tech., Semester: II 
+(May, 2025) 
+ 
+Subject Code: BAS 106 
+Subject: Environmental Sciences 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+(a) 
+(i) Discuss the long term environmental effects of deforestation? 
+(ii) Discuss the long term environmental effects of deforestation? 
+ 
+(b) 
+Discuss the process for the removal of excess nutrients from waste water. 
+ 
+(c) 
+Describe the role of ocean as a heat engine with its limitations. 
+ 
+(d)                                                                                                                                                 (2.5*2=5) 
+(i) Elaborate the biochemical effects of lead as a toxicant (2.5) 
+(ii) Role of promoters in photo degradation of polymers    (2.5) 
+ 
+ 
+UNIT-I 
+Q2 
+(a) Discuss the types of subsistence agriculture and impacts caused by 
+agriculture. 
+(b) Discuss the benefits and problems related to the construction of dams. 
+Comment on the statement that “The construction of a dam has a 
+multiplier effect”. 
+(5*2) 
+Q3 
+(a) Justify the statement that ‘Environmental Impact Assessment’ (EIA) is the 
+most important tool of ‘environment management system’ (EMS).   
+(b) (i) Describe the effects of mineral extraction on environment.  
+(ii)Write a short note on Salinity.  
+(5*2) 
+ 
+UNIT-II 
+Q4 
+(a) 
+Describe the two methods to control emissions of particulate matter in the 
+air. 
+(b) 
+(i)   Discuss ‘Trickling filter method’ for treatment of waste water.  
+            (ii) Calculate the atom efficiency for ‘Claisen rearrangement reaction’. 
+ 
+(5*2) 
+Q5 
+(a) 
+(i) Explain the process ‘sanitary landfill’ involved in solid waste treatment.  
+(ii) Describe the chemical processes involved in the treatment of 
+hazardous waste  
+(b) 
+Discuss the merits of the green method over the traditional method for 
+the synthesis of adipic acid. 
+ 
+(5*2) 
+UNIT-III 
+Q6 
+(a) (i) Discuss the two types of cracking with their advantages. 
+(ii) Explain the term used to represent knocking in diesel and petrol engine.  
+ 
+(b) A coal sample contains C= 85%, H=10% and ash=5%. When this coal sample 
+was tested in the laboratory for its calorific value in a bomb calorimeter, the 
+following data were obtained. 
+Wt of coal burnt= 0.98g, Wt of water taken= 1000g, Water equivalent of 
+calorimeter=2500g, Rise in Temperature=2.50˚C. Fuse wire correction=8 
+cal, Acid Correction=50 cal, cooling correction=0.02 ˚C. Calculate the gross 
+and net calorific value of the coal sample in cal/g. The latent heat of 
+condensation of steam is 580 cal/g. 
+ 
+(5*2) 
+ 
+ 
+ 
+Q7 
+(a) Describe steps involved in the production of biodiesel. Give advantages of 
+biodiesel as a green fuel. 
+(b) A petroleum gas was found to have the following composition by weight 
+C2H6=5%, C3H8 = 20%, C4H10 (Butane)=60%, C4H10 (Isobutane)=30%, C4H8=10% and 
+C3H6=5%. Calculate volume of air necessary for required for complete combustion of 
+100 m3 of gas if 35% excess air is required. 
+ 
+(5*2) 
+UNIT-IV 
+Q8 
+(a) Discuss method of production and important applications of following 
+bioplastics 
+(i) 
+Polycaprolactone 
+(ii) 
+Polylactic acid 
+ 
+(b) Explain the role of Arsenic in ‘Inhibition of ATP formation’. 
+(5*2) 
+Q9 
+(a) Calculate the number average and weight average molecular masses of 
+polypropylene polymer with the following composition: 
+[-CH2-CH(CH3)-]300 is 25 %, [-CH2-CH(CH3)-]800 is 35 %, [-CH2-CH(CH3)-]800 is 40 %. 
+{Given that atomic mass of C = 12, H = 1 
+ 
+(b) Explain how dose response curves are used to derive dose estimates of chemical 
+substances.  
+(5*2)

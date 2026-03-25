@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.TECH>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BMA 429   
+Subject: Internet of Things 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) With the help of neat diagrams, describe the levels of IoT with an example 
+each. 
+ 
+ 
+b) Illustrate the generic block diagram of an IoT device and explain it briefly. 
+ 
+ 
+c) Define IoT? List out the interfaces used in IoT? 
+ 
+ 
+d) Suggest at least five different means to increase the radio coverage of a cell.  
+ 
+ 
+e) Briefly explain the principles of sensors. Mention the sensors which are used in 
+industrial applications. 
+ 
+ 
+f) Explain briefly about the dynamic characteristics of sensors. 
+ 
+ 
+g) Explain the differences between Machines in M2M and Things in IOT. 
+ 
+ 
+h) Mention the communication protocols used for M2M local area networks. 
+ 
+UNIT I 
+ 
+Q2 
+Explain how the IoT technology can be implemented in smart lightening and 
+intrusion detection systems with the help of diagram.  
+(10) 
+Q3 
+Explain Raspberry Pi. Design an automatic lightening system with LDR, Light and 
+raspberry pi and write a python program to support the working of that design. 
+(10) 
+UNIT II 
+ 
+Q4 
+Discuss the role of communication protocols and embedded systems in IoT. 
+Compare the protocols associated with transport layer of IoT.  
+(10) 
+Q5 
+What are the protocols associated with network/internet layer of IoT? Explain 
+them in detail.  
+(10) 
+UNIT III 
+ 
+Q6 
+Describe how the environment can be more protected with the help of IoT 
+technology in the following categories:  
+(i) Air pollution monitoring (ii) Noise pollution monitoring (iii) Forest fire detection 
+(iv) River flood detection 
+(10) 
+Q7 
+Explain how the IoT technology is impacting the healthcare sector and changing our 
+everyday lifestyle with the following examples:  
+(i) Health & Fitness monitoring (ii) Wearable electronics 
+(10) 
+UNIT IV 
+ 
+Q8 
+Describe with the help of diagram, how the primary sensors are being integrated 
+with signal processing ensembles. 
+(10) 
+Q9 
+With the help of a neat diagram, explain the construction and working principle of 
+thermo-emf sensors. 
+(10)

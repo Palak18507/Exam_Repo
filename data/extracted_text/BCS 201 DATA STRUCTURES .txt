@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH, Semester: 3rd 
+(December, 2024) 
+ 
+Subject Code: BCS 201 
+Subject: DATA STRUCTURES 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) What is a time-space trade-off? Provide an example.  
+2.5 
+(CO1) 
+ 
+b) How is a two-dimensional array represented in memory?  
+2.5 
+(CO1) 
+ 
+c) What are priority queues, and where are they used?  
+2.5 
+(CO2) 
+ 
+d) Explain circular linked lists with their applications.  
+2.5 
+(CO2) 
+ 
+e) Describe the concept of binary search trees with an example.  
+2.5 
+(CO3) 
+ 
+f) What is merge sort? Discuss its efficiency.  
+2.5 
+(CO3) 
+ 
+g) Explain the concept of spanning trees in graph theory.  
+2.5 
+(CO4) 
+ 
+h) What is collision resolution in hashing? Discuss one technique.  
+2.5 
+(CO4) 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Write an algorithm to count inversions in an array. 
+An Invrsion in an array is a plain of indices (ii) such that i<j and 
+arr{i}>arr{i}. 
+(10) 
+(CO1) 
+Q3 
+Describe the sorting of arrays using insertion sort. Write an 
+algorithm/program to sort an array using this method.  
+(10) 
+(CO1) 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are queues? Discuss the difference between linear queues and 
+circular queues with examples.  
+(10) 
+(CO2) 
+Q5 
+Explain the representation of stacks using linked lists. Write an 
+algorithm to perform push and pop operations.  
+(10) 
+(CO2) 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Insert the following elements into an AVL tree !100, 50, 150 25, 75, 
+125, 175, 10, 30, 60. 
+After constructing the tree, delete the node with value 75.  Show the 
+rebalanced AVL tree after deletion. 
+(10) 
+(CO3) 
+Q7 
+Explain B-trees. Discuss their advantages and write the steps for 
+insertion in a B-tree.  
+(10) 
+(CO3) 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is Dijkstra’s algorithm? Explain its working with an example.  
+(10) 
+(CO4) 
+Q9 
+Given a complete graph with 5 vertices 1, 2, 3, 4, 5 and weighted 
+edges, where the weight between any two vehicles is represented by 
+the distance between them.  Now find a minimum spanning tree for 
+this graph using Prim’s and Krushal’s algorithms.  Use distance as {i-j}, 
+where i&j are vertices of the graph. 
+(10) 
+(CO4)

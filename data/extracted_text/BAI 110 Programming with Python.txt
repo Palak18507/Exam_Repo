@@ -1,0 +1,59 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B.Arch. / B.Tech ) (Semester: 2nd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 110 
+Subject: Programming with Python 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all parts. 
+(2.5*4=10) 
+ 
+a) WAP to accept reverse a list of numbers and to remove even 
+numbers from the list. 
+ 
+ 
+b) Explain polymorphism. 
+ 
+ 
+c) What is the difference between object oriented and procedural 
+programming? 
+ 
+ 
+d) WAP to find median in a list without using inbuilt method. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain different data types in python. 
+ 
+ 
+b) Define recursion with an example. 
+ 
+ 
+c) What is inheritance explain with example. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Difference between list and tuple. 
+ 
+ 
+b) Explain operations on set with example. 
+ 
+ 
+c) WAP to create a dictionary of countries and their capitals and 
+define functions to add item(to add new element) ,delete item (to 
+delete element) and view  dictionary(to view complete list of 
+capitals with countries).

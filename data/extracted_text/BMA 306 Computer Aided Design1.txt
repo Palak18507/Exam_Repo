@@ -1,0 +1,84 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. MAE/DMAM) (Semester: 6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 306 
+Subject:  Computer-Aided Design  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+a) 
+What are homogenous transformations?  
+ 
+Co2 
+b) 
+How many matrices would be required for the concatenated 
+transformation of rotating a point about an arbitrary line? 
+Show with an example. 
+ 
+Co2 
+c) 
+Is rotation a linear transformation, why?  
+ 
+Co2 
+d) 
+What are the major advantages of using the Breshenham circle 
+drawing algorithm?  
+ 
+Co1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) 
+Using Bresenham's algorithm, generate the coordinates of the 
+pixels that lie on a line segment having endpoints (2,3) and (5,8) 
+ 
+Co1,Co3 
+b) 
+Derive Bresenham's Circle Drawing Algorithm. 
+ 
+Co1,Co3 
+c) 
+Explain the steps involved in a typical Product Development 
+Process. 
+ 
+Co1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) 
+The end points of two lines L1 and L2 are P1(3,4,7) P2(5,6,1) and 
+P3(1,5,-2) P4(2,9,0) respectively. 
+(i) Find the parametric equations of the lines. Show the 
+parameterization directions. 
+(ii) Are the two lines parallel or perpendicular? 
+(iii) Find the coordinates of the intersection point. 
+ 
+Co1,Co3,Co2 
+b) 
+Find the center of a circle with radius R, that is tangent to two 
+known lines passing through the points P1&P2 and P3&P4 
+respectively.  
+ 
+Co1,Co3,Co2 
+c) 
+(c) A triangle is formed by points A(50,40), B(100, 60), and 
+C(70,80). Calculate the new coordinates if the triangle is 
+reduced in size using the scale factors Sx= 0.5, Sy= 0.7 and base 
+point is point A._______________  
+ 
+Co1,Co3,Co2

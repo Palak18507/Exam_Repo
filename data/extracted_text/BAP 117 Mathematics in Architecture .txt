@@ -1,0 +1,178 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Arch, Semester: I 
+(December, 2024) 
+ 
+Subject Code: BAP 117 
+Subject:  Mathematics in Architecture 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) A class has boys and girls in the ratio 3:4. If there are 28 girls, how many 
+boys are there? If 5 boys join the class, what will be the new ratio? 
+ 
+ 
+b) A ladder is placed against a wall such that its foot is at a distance of 2.5m 
+from the wall and its top reaches a window 6m above the ground. Find the 
+length of the ladder. 
+ 
+ 
+c)  The points (2, 6), (5, 11) lies on a straight line. Find the value of y at x=5 on 
+the straight line using linear extrapolation. 
+ 
+ 
+d) A shape is formed with vertices (2, 4), (-1, 8), (-3, -4) and (-4, 7). What is its 
+image with respect to the translation (x, y) -> (x+5, y-1) 
+ 
+ 
+e) Solve the following initial value problem: 2𝑥2𝑦′′ + 3𝑥𝑦′ −15𝑦=
+0, 𝑦(1) = 0, 𝑦′(1) = 1 
+ 
+ 
+f) Integrate the function √𝑥+9
+𝑥 with respect to x 
+ 
+ 
+g) Obtain the median for the following data:  
+ 
+x 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+f 
+8 
+10 
+11 
+16 
+20 
+25 
+15 
+9 
+6 
+ 
+ 
+ 
+h) A bag contains 7 white, 6 red and 5 blue balls. 2 balls are drawn at random. 
+Find the probability that they will both be white. 
+ 
+UNIT I 
+ 
+Q2 
+a) The area of a rectangular park is 2000 sq m. On a map with a scale of 
+1:500, what will be the area of the park represented on the map? 
+b) Describe the symmetries in a square. 
+c) Find the fuzzy union of A = {0.2, 0.5, 0.6} and B = {0.2, 0.1, 0.8} 
+d) Find the modulus and the argument of the complex number 𝑧=
+ 
+(cos 4 +𝑖sin 4) 7
+(cos +𝑖sin ) 5  
+(2+2+2
++4 = 
+10) 
+Q3 
+a) Find the area of the shaded region where ABCD is a square with side 20 
+cm. 
+ 
+ 
+ 
+ 
+ 
+b) A 5m wide cloth is used to make a conical tent of base diameter 14m and 
+height 24m. Find the cost of cloth used at the rate of Rs 25/m 
+(5+5= 
+10) 
+ 
+2 
+ 
+UNIT II 
+ 
+Q4 
+a) Find the equation of the plane passing through the points (1, -2, 2) and (-3, 
+1, -2) and perpendicular to the plane 2𝑥+ 𝑦−𝑧+ 6 = 0. 
+b) Show that the lines 𝐿1: 
+𝑥−7
+2 =
+𝑦−10
+3
+=
+𝑧−13
+4  and 𝐿2: 
+𝑥−3
+1 =
+𝑦−5
+2 =
+𝑧−7
+3  are 
+coplanar 
+(5+5= 
+10) 
+Q5 
+a) Find the equation of the sphere through the points (2, 0, 1), (1, -5, -1), (0, -
+2, 3) and (4, -1, 2) 
+b) Find the equation of the tangent plane at (1, 5, 7) to the sphere (𝑥−2)2 +
+(𝑦−3)2 + (𝑧−4)2 = 14 
+(6+4= 
+10) 
+UNIT III 
+ 
+Q6 
+Derive the reduction formula for ∫sinn 𝑥 𝑑𝑥. Hence find ∫sin5 𝑥 𝑑𝑥. 
+(10) 
+Q7 
+a) Find the Taylor series expansion of 𝑒𝑥+ log(1 + 𝑥) 𝑓𝑜𝑟 |𝑥| < 1 
+b) Find dimensions of a rectangle with perimeter 1000m such that its area is 
+maximum. 
+(5+5= 
+10) 
+UNIT IV 
+ 
+Q8 
+Calculate the coefficient of correlation and obtain the regression line of y on x for 
+the following data. Obtain an estimate of y which corresponds to x = 6.2 
+ 
+x 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+f 
+9 
+8 
+10 
+12 
+11 
+13 
+14 
+16 
+15 
+(10) 
+Q9 
+a) In a bolt factory, machines A, B and C manufacture respectively 25%, 35% 
+and 40% of the total. Of their output, 5%, 4% and 2% are defective. A bolt 
+is drawn at random from the product and is found to be defective. What is 
+the probability that it was manufactured by B? 
+b) A can hit a target 4 times in 5 shots, B 3 times in 4 shots, C twice in 3 shots. 
+They fire a volley. What is the probability that at least 2 shots hit? 
+(5+5= 
+10)

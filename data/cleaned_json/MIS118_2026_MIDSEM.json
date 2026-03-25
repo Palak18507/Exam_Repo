@@ -1,0 +1,91 @@
+{
+  "paper_id": "MIS118_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS118",
+    "subject_name": "Machine Learning In Cyber Security",
+    "program": "M. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why is Machine Learning needed in Cyber Security, and how does it improve threat detection? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain types of Intrusion Detections techniques with explanation. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Sneha installs a new app on her phone, but later notices that her device is slowing down and behaving oddly. She learns that security researchers use Static and Dynamic Analysis to detect malicious apps. What is the difference between these two methods in Malware Detection? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Vikram’s company implements a security system that tracks how employees use their keyboard and mouse to verify their identity continuously. One day, an attacker steals an employee’s login credentials but is unable to access the system. How does Keyboard & Mouse Pattern Analysis help prevent unauthorized access? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A financial institution’s security team discovers that sensitive customer data is being exfiltrated, but the attack is well-disguised among normal traffic. They decide to use Deep Packet Inspection to investigate further. Explain how DPI works and how it can help uncover hidden threats in this scenario. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Rahul, a system administrator, implements an Intrusion Detection System in his organization. However, he is worried about detecting new, unknown attack patterns. How can Machine Learning-based Anomaly Detection help Rahul in identifying potential cyber threats? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "During a routine check, Lisa notices that her company’s network is behaving unpredictably, with sudden spikes in traffic. She recalls that BotNet Detection techniques can help pinpoint the issue. What methods could Lisa use to detect and mitigate a BotNet attack using Machine Learning? 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Arjun’s bank has implemented an Active Authentication system that continuously verifies user identity based on behavior rather than just passwords. How does this enhance security compared to traditional authentication methods? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "While reviewing a new mobile application, a cybersecurity expert decides to perform Static and Dynamic Analysis before approving it for use. Explain how both approaches work and how they help in identifying potential security threats in mobile applications. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "After installing a free mobile game, Aisha starts receiving suspicious messages, and her phone battery drains quickly. She suspects malware. How can Machine Learning-based Malware Detection help identify and remove such threats from mobile devices? 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

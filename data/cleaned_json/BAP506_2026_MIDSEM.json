@@ -1,0 +1,69 @@
+{
+  "paper_id": "BAP506_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP506",
+    "subject_name": "Professional Practice",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "d",
+          "text": "How is Building Design related to Building Bye-Laws? What is NBC? CO 4",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the different levels at which professional practice is regulated?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Professional ethics code is arranged in three tiers. Discuss them.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is IPR? Discuss its importance. CO 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "What kind of Infrastructure requirements and consultancy services one can offer in Architectural workplace set up? CO 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "As an Architect, what are your obligations to the profession? CO 1",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

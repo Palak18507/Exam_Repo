@@ -1,0 +1,140 @@
+1 
+ 
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester:<1> 
+(December, 2024) 
+ 
+Subject Code: BAS 107 
+Subject: Applied Physics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) A soap film of refractive index 1.33 is illuminated with light of 
+different wavelengths at an angle of 45°. There is a complete darkness 
+for wavelength 589nm in reflected light. Calculate the thickness of the 
+soap film. 
+ 
+CO 1 
+ 
+b) Show that a plane electromagnetic wave in free space is a transverse 
+wave. 
+ 
+CO 2 
+ 
+c) Find the energy of neutron having de-Broglie wavelength 10−14m. 
+Given: rest mass of neutron as 1.6 × 10−27kg. 
+ 
+CO 3 
+ 
+d) Derive Einstein’s A and B coefficients? Explain their significance. 
+ 
+CO 4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Derive the condition for constructive and destructive interference in 
+Fraunhofer diffraction through N slits. Obtain the expression for the 
+intensity distribution of the diffracted light. Discuss how the diffraction 
+pattern depends on the number of slits and the slit separation. 
+b) Calculate the minimum number of lines in grating which will first 
+resolve the lines of wavelengths 5890 and 5896 Angstroms in the 
+second order. 
+(7,3) 
+CO 1 
+Q3 
+a) What is double refraction? Explain the construction and working of a 
+Nicol prism as a polarizer and analyzer with the help of relevant 
+diagrams.  
+b) Differentiate between the following: 
+i. 
+Brewster Law and Malus Law 
+ii. 
+Polarized and Un-polarized Light 
+(6,4) 
+CO 1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Describe Poynting’s Theorem. Explain the significance of the Poynting 
+vector in describing the energy flow in electromagnetic systems. 
+b) Starting from Maxwell’s equations, derive the electromagnetic wave 
+equation for a conducting medium. Discuss the solution of this wave 
+equation, highlighting the key characteristics. 
+(4,6) 
+CO 2 
+Q5 
+a) Derive the equation of continuity for electric charge. Explain how 
+Maxwell modified Ampere’s law to present it in its generalized form. 
+b) A plane electromagnetic wave has electric field 
+(5,5) 
+CO 2 
+2 
+ 
+𝐸⃗ (𝑥, 𝑦, 𝑧, 𝑡) = cos[(2𝑥+ √3𝑦) √3𝑘
+2
++ 𝜔𝑡] 𝑘̂ 
+where 𝑘 is wave number and 𝑖̂, 𝑗̂ and 𝑘̂ are Cartesian unit vectors in 𝑥, 𝑦 
+and 𝑧 directions respectively. Find the magnetic field 𝐵⃗ (𝑥, 𝑦, 𝑧, 𝑡) and 
+the average Poynting vector. 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Derive the relationship between a particle's velocity and the group 
+velocity of its associated de Broglie wave and show that they are equal. 
+ 
+b) State the Heisenberg’s Uncertainty principle. An excited atom has an 
+average life-time of 10−8 sec. During this time period it emits a photon 
+and returns to the ground state. What is the minimum uncertainty in 
+the frequency of this photon? 
+ 
+(5,5) 
+CO 3 
+Q7 
+a) Derive Schrödinger’s wave equation for a particle in one-dimensional 
+infinite potential well and obtain the expression for the allowed energy 
+levels. 
+b) The lowest energy possible for a certain particle entrapped in a box is 
+40 eV. What are the next three higher energies the particle can have? 
+(6,4) 
+CO 3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) Explain the following terms for an optical fiber, with the help of 
+relevant diagrams:  
+i. 
+Acceptance angle  
+ii. 
+Acceptance cone  
+iii. 
+Numerical aperture  
+iv. 
+Critical angle 
+b) Explain the essential components of a laser system with the help of a 
+diagram. Give examples of different types of active medium?  
+(5,5) 
+CO 4 
+Q9 
+a) Differentiate between the following:  
+i. 
+Step Index and Graded Index optical fiber 
+ii. 
+Spontaneous and Stimulated Emission 
+b) Explain the working of a He–Ne laser with the help of its energy level 
+diagram.  What is the role of Helium atoms in generation of coherent 
+light? 
+(4,6) 
+CO 4

@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS112_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS112",
+    "subject_name": "Operations Management",
+    "program": "<MBA>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "List the difference between production and services?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Productivity?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Classify the concept of Product Design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the importance of Material Requirements Planning?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "interpret functionality of JIT?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain ABC Analysis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "State the objective of ISO 9000?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define Supply Chain Management.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain productivity. List the factors that affect productivity. And how can it be improved?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define production system? Discuss in detail using examples?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss Plant Location? Identify different factors affecting Plant Location.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "The average annual consumption of a material is 18,250 units at a price of Rs. 36.50 per unit. The storage cost is 20% on an average inventory. Ordering cost is Rs. 50. Compute the quantity is to be purchased at a time?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Illustrate the need of “six sigma” from manufacturing and service industry’s view point, Elaborate.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Interpret the steps involved in value analysis? Show the criteria for selection of vendors?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of flexibility and agility in modern supply chains.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Identify how smart pricing and IT affect supply chain management. How can these aspects promote supply chain performance measurement and improvement?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

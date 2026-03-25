@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI303",
+    "subject_name": "Cyber Security",
+    "program": "B.Tech.",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define vulnerabilities. Discuss how they are exploited in insider threats, with an example from an organizational context. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the difference between active and passive network threats. Illustrate each type with a relevant scenario 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is credit card fraud? Describe in detail the methods used to execute such fraud and preventive measures organizations can take. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain privacy and security issues in cloud-based services. Provide real-world examples to substantiate your answer. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Describe browser security. Explain three key methods for enhancing browser security and their impact. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between symmetric and asymmetric cryptography, and discuss their applications in network security with examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are honey pots? Explain their role in identifying and mitigating cyber threats, supported by a real-life example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the Lollipop Model and its significance in designing secure systems. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the goals of cyber security in detail. Discuss three types of malicious software—worms, ransomware, and backdoors—explaining their attack methodologies, impacts, and defense mechanisms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Phishing is one of the most prevalent cyber threats. Discuss its various types, such as spear phishing, smishing, and vishing. Suggest detailed prevention techniques that organizations and individuals can implement to counter these threats effectively.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Cyber terrorism is a growing threat to national and global security. Define cyber terrorism, explain its impact on critical infrastructure, and provide a detailed analysis of one documented cyber terrorism incident.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is identity theft? Discuss in detail the various methods used by cybercriminals to carry out identity theft, its impact on individuals and organizations, and strategies for prevention, including technological and legal measures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are hash functions? Explain their properties in detail and discuss the role of the Secured Hash Algorithm in data integrity and authentication, including an example of its use in digital signatures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain SSL/TLS protocols in detail, focusing on their working mechanisms, the handshake process, and how they ensure secure communication in e-commerce and online banking environments.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Risk management is a cornerstone of cyber security. Define risk management, explain its process in detail, and describe its importance in protecting sensitive organizational data with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the Indian IT Act comprehensively. Highlight its key provisions for combating cybercrime, its relevance in today’s digital world, and challenges in its implementation. Provide examples wherever applicable.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: BBA, Semester: 5 
+(December, 2024) 
+ 
+Subject Code: BMS 307 
+Subject: International Financial Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the difference between foreign direct investment and foreign 
+portfolio investment? 
+ 
+CO1 
+ 
+b) What are the goals and functions of World Bank? 
+ 
+CO1 
+ 
+c) What is the difference between a spot market and a forward market in 
+forex? 
+ 
+CO2 
+ 
+d) How is an indirect quotation different from a direct quotation? 
+ 
+CO2 
+ 
+e) What is ADR? 
+ 
+CO3 
+ 
+f) Distinguish between Eurobond and Foreign bond. 
+ 
+CO3 
+ 
+g) What factors deserve consideration in multinational capital budgeting 
+that are not normally relevant for purely domestic project? 
+ 
+CO4 
+ 
+h) What are the major motives for foreign direct investment? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Define and explain the theory of comparative advantage. 
+(10) 
+CO1 
+Q3 
+What are the modes of expansion of business internationally? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the structure and functioning of the Foreign Exchange Market.  
+(10) 
+CO2 
+Q5 
+Explain the concept of covered interest arbitrage. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Assume that  foreign subsidiary of a US multinational company has the 
+following: 
+(i) Cash = FC100   
+(ii) Account receivable = FC150 
+(iii) Inventory = FC200 
+(iv) Fixed assets = FC250 
+(v) Current liabilities = FC100 
+(vi) Long term debt = FC300 
+(vii) Net worth = FC300 
+Let us further assume that the historical exchange rate is $2 = FC1, the 
+current exchange rate is $1 = FC1. Illustrate the effect of each of translation 
+method on the balance sheet. 
+(10) 
+CO3 
+2 
+ 
+Q7 
+Elucidate the forward market hedging technique to manage the transaction 
+exposure with suitable example.  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+A company is considering a new project that requires an initial investment 
+of $1,000,000 and is expected to generate $200,000 in annual cash flows for 
+the next 6 years. The company will finance the project with $500,000 in debt 
+at an interest rate of 5%. The company’s tax rate is 30%, and the equity cost 
+of capital (unlevered cost of capital) is 10%. 
+Calculate the APV of the project. 
+(10) 
+CO4 
+Q9 
+How can an MNC implement leading and lagging techniques for optimizing 
+cash flow movements? 
+(10) 
+CO4

@@ -1,0 +1,101 @@
+{
+  "paper_id": "BEC318_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC318",
+    "subject_name": "DIGITAL IMAGE PROCESSING",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Use discrete Fourier transform to construct 2D DFT for a 4x4 image given below. Assume that indices start from 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the transfer function y = g which goes from pr = 2 − 2r and a flat pixel distribution py = constant",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the following mathematical operations on digital images with relevant expressions and diagrams.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "a",
+          "text": "Arithmetic operations",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "b",
+          "text": "Linear versus Nonlinear Operations",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "d",
+          "text": "Determine the median value of the marked pixels of the given matrix using 3 x 3 mask. F=⌊ 18 22 33 33 𝟏𝟐𝟖 24 22 19 32 18 22 33 110 𝟏𝟖 14 22 19 32 ⌋",
+          "marks": 1.6666666666666667
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the histogram equalization operation in image enhancement with necessary expressions. Hence, perform the histogram equalization of the following image 10 10 8 8 7 0 1 1 1 2 5 6 7 8 1 10 10 10 10 15 14 12 14 14 12 11 10 9 4 4 5 5 6 6 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Determine the correlation between two images A=[3 1, 2 4] and B=[1 5, 2 3].",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider the following 4x4 image of 4 bit/pixel 𝑓 = [ 5 4 8 12 3 2 5 7 10 12 8 7 4 5 3 2 ]. Perform the contrast stretching of the image f using the transformation 𝑔 = 𝑓−𝑓𝑚𝑖𝑛 𝑓𝑚𝑎𝑥−𝑓𝑚𝑖𝑛× 14",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do you compare Image enhancement vs Image restoration? Derive laplacian operator for high pass filtering and show its application",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define 4- connectivity, 8-connectivity and m-connectivity with an example. Consider the following 4 bit 4x4 image segment and perform the low pass filtering using 3x3 average mask. Also discuss what changes will happen to the image. Consider all border pixels are padded with intensity value 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain basic steps for filtering of image in frequency domain. What are the filter mask used for low pass filtering and high pass filtering?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

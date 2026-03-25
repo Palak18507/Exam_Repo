@@ -1,0 +1,122 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(December, 2024) 
+ 
+Subject Code: AMC-105 
+Subject: COMPUTER APPLICATIONS IN MANAGEMENT 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) What is the primary function of an operating system in a computer? 
+2.5 
+ 
+CO1 
+ 
+b) What is 5G, and how is it different from 4G technology? 
+2.5 
+CO1 
+ 
+c) What is Big Data, and how is it different from traditional data? 
+2.5 
+CO3 
+ 
+d) What is the significance of using macros in Excel for data analysis? 
+2.5 
+CO2 
+ 
+e) What is Bluetooth 5.0, and how does it differ from earlier versions 
+of Bluetooth technology? 
+2.5 
+CO1 
+ 
+f) Question: What are the main functions of input and output devices 
+in a computer system? 
+2.5 
+CO1 
+ 
+g) What is the purpose of using filters in Excel? 
+2.5 
+CO2 
+ 
+h) Why is data quality important in business analytics? 
+2.5 
+CO3 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Compare the features of wired and wireless networking. Discuss how 
+communication standards like Bluetooth and Wi-Fi have improved 
+connectivity. 
+(10) 
+CO1 
+Q3 
+Explain the differences between Supercomputers, Mainframes, and 
+Personal Computers. Discuss their respective roles in business 
+management. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Explain the concept of Artificial Intelligence (AI) and its applications in 
+daily life, such as voice assistants and gesture-based controls. Provide 
+practical examples. 
+(10) 
+CO3 
+Q5 
+Discuss the significance of Virtual Reality (VR) and Artificial 
+Intelligence (AI) in transforming business operations. Provide 
+examples of their applications in industries such as retail and 
+healthcare. 
+(10) 
+CO3 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Define database management systems (DBMS) and discuss their role 
+in storing, retrieving, and analyzing business data. Provide examples 
+of how they assist in business operations 
+(10) 
+CO2 
+Q7 
+How does data quality impact business decision-making? Discuss 
+methods businesses use to ensure data accuracy, such as data 
+cleaning and validation. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Discuss the process and importance of using Pivot Tables and Pivot 
+Charts in Excel for business data analysis. How do these tools help in 
+summarizing large datasets and facilitating decision-making in 
+business operations? 
+(10) 
+CO4 
+Q9 
+Explain the role of statistical functions such as NPV (Net Present 
+Value), IRR (Internal Rate of Return), and EMI (Equated Monthly 
+Installments) in financial decision-making. Provide examples of how 
+businesses use these functions in evaluating investment 
+opportunities. 
+(10) 
+CO4

@@ -1,0 +1,101 @@
+{
+  "paper_id": "BAI305_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI305",
+    "subject_name": "Deep Learning-I",
+    "program": "B.Tech./CSE-AI",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "“Perceptron Learning Algorithm is applicable on multi-classification problem.” Justify your answer with appropriate reason.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between L1 and L2 regularization.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why is sigmoid function not appropriate for hidden layers of CNN? Explain the problems in details.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the different strategies for weight initialization of a DL model.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Consider a three-input perceptron with weight vector a [1,3,4] with bias as -1. For the input vectors of [0.1, -4, -5] with output label as 1 and [2, 2.5, 0.6] with output label as 0, what will be the updated weights values after two iterations of perceptron learning algorithm?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "MP-neuron units and perceptron units are suitable for linear separable Boolean functions. Identify which one is better and justify your answer with appropriate reason",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider a two-input perceptron with sigmoid activation function and weight vector as [0.1, 4] and bias of 0.5. For the input vector of [7.2, -0.5] and output label as 1 and cost function as 2, where ‘y’ is the target output and ‘y*’ is the estimated output. What will be the updated weights values after two iterations of gradient descent algorithm ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between Overfitting vs Underfitting. Explain the dropout and data augmentation in detail in context of ANN.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "“ReLU is suitable for CNN while TanH is suitable for RNN”. Justify this statement with appropriate reason. Also discuss the other activation functions available for deep learning models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the LSTM and GRU unit along with architectural difference.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "“Convolutional Neural Network is better than Recurrent Neural Network for Image Classification”. Identify the correctness of the above statement and justify with appropriate reason.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the VGG16, ResNet, and InceptionNet along with their architecture in detail.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

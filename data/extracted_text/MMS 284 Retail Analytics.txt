@@ -1,0 +1,106 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MBA) (Semester:    4) 
+(March 2025) OFFLINE mode 
+Subject Code: MMS 284 
+Subject:  Retail Analytics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain the concept of retailer goodwill and its role in building 
+customer trust and loyalty. 
+ 
+1 
+ 
+b) Write short notes on the importance of location in retail success. 
+Mention two key factors retailers must consider when choosing a 
+site. 
+ 
+2 
+ 
+c) Explain how celebrity marketing can influence consumer 
+perception and purchase decisions. 
+ 
+2 
+ 
+d) Define retail analytics and discuss the significance in modern day 
+retailing 
+ 
+1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) A retailer wants to select the best site between Location A and 
+Location B. It has identified three critical factors, each with a 
+specific weight: Cost (Weight = 0.40), Customer Accessibility 
+(Weight = 0.35), Competition (Weight = 0.25) Each location is 
+rated on a scale of 1 to 10 for each factor. Using factor rating 
+method suggest which location is best suited. 
+Factors 
+Weight 
+Location A 
+Location B 
+Cost 
+0.40 
+8 
+7 
+Customer 
+accessibility 
+0.35 
+9 
+8 
+Competition 
+0.25 
+6 
+7 
+ 
+ 
+1 
+ 
+b) Discuss the significance of a well-defined retail organization 
+structure. Compare hierarchical vs. flat structures and explain how 
+each can influence decision-making and employee engagement. 
+ 
+1 
+ 
+c) Explain creative advertising marketing and strategic marketing. How 
+do they complement each other in achieving overall retail goals? Use 
+examples (e.g., social media ads, brand positioning) to support your 
+answer. 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Define market basket analysis. How can retailers use the findings 
+from market basket analysis to implement effective cross-selling 
+strategies? Illustrate your answer with an example. 
+ 
+2 
+ 
+b) What are the key differences between house brands and name 
+brands? Discuss the advantages and challenges retailers face when 
+developing and marketing house brands. 
+ 
+2 
+ 
+c) Briefly describe how competitor threat analysis (Porter’s Five 
+Forces) helps retailers maintain a competitive edge. 
+ 
+2

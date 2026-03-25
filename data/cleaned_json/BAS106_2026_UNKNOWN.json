@@ -1,0 +1,77 @@
+{
+  "paper_id": "BAS106_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BAS106",
+    "subject_name": "Environmental Sciences",
+    "program": "B.Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Discuss the long term environmental effects of deforestation? Discuss the long term environmental effects of deforestation? Discuss the process for the removal of excess nutrients from waste water. Describe the role of ocean as a heat engine with its limitations. Elaborate the biochemical effects of lead as a toxicant Role of promoters in photo degradation of polymers",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Discuss the types of subsistence agriculture and impacts caused by agriculture. Discuss the benefits and problems related to the construction of dams. Comment on the statement that “The construction of a dam has a multiplier effect”.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Justify the statement that ‘Environmental Impact Assessment’ is the most important tool of ‘environment management system’ . Describe the effects of mineral extraction on environment. Write a short note on Salinity.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Describe the two methods to control emissions of particulate matter in the air. Discuss ‘Trickling filter method’ for treatment of waste water. Calculate the atom efficiency for ‘Claisen rearrangement reaction’.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain the process ‘sanitary landfill’ involved in solid waste treatment. Describe the chemical processes involved in the treatment of hazardous waste Discuss the merits of the green method over the traditional method for the synthesis of adipic acid.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Discuss the two types of cracking with their advantages. Explain the term used to represent knocking in diesel and petrol engine. A coal sample contains C= 85%, H=10% and ash=5%. When this coal sample was tested in the laboratory for its calorific value in a bomb calorimeter, the following data were obtained. Wt of coal burnt= 0.98g, Wt of water taken= 1000g, Water equivalent of calorimeter=2500g, Rise in Temperature=2.50˚C. Fuse wire correction=8 cal, Acid Correction=50 cal, cooling correction=0.02 ˚C. Calculate the gross and net calorific value of the coal sample in cal/g. The latent heat of condensation of steam is 580 cal/g.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Describe steps involved in the production of biodiesel. Give advantages of biodiesel as a green fuel. A petroleum gas was found to have the following composition by weight C2H6=5%, C3H8 = 20%, C4H10 =60%, C4H10 =30%, C4H8=10% and C3H6=5%. Calculate volume of air necessary for required for complete combustion of 100 m3 of gas if 35% excess air is required.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Discuss method of production and important applications of following bioplastics Polycaprolactone Polylactic acid Explain the role of Arsenic in ‘Inhibition of ATP formation’.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Calculate the number average and weight average molecular masses of polypropylene polymer with the following composition: [-CH2-CH-]300 is 25 %, [-CH2-CH-]800 is 35 %, [-CH2-CH-]800 is 40 %. {Given that atomic mass of C = 12, H = 1 Explain how dose response curves are used to derive dose estimates of chemical substances.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

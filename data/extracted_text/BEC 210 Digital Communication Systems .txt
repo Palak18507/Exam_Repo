@@ -1,0 +1,171 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech-ECEAI>, Semester:<4> 
+(May, 2025) 
+ 
+Subject Code: BEC 210 
+Subject: DIGITAL COMMUNICATION SYSTEMS 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) The message bit sequence to a DPSK modulator is 1,1,0,0,1,1. The 
+carrier phase during the reception of the first two message bits is π, 
+π. Find the carrier phase for the remaining four message bits. 
+ 
+CO1 
+ 
+b) The input to a matched filter is given by  
+S(t)=[10 sin(2𝜋× 106) , 0 < 𝑡≤10−4𝑠𝑒𝑐
+0,                             𝑂𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+.                                      Find 
+the peak amplitude of the filter. 
+ 
+CO1 
+ 
+c) Find the minimum step-size required for a Delta-Modulation 
+operating at 32K samples/sec to track the signal (here u(t) is the unit-
+step function) 𝑥(𝑡) = 125𝑡{𝑢(𝑡) − 𝑢(𝑡 − 1)} + (250 − 125𝑡){𝑢(𝑡 − 1) − 𝑢(𝑡 
+− 2)} so that slope-overload is avoided. 
+ 
+CO2 
+ 
+d) Using the Gram-Schmidt orthogonalization procedure, find a set of 
+orthonormal basic functions to represent the three signals s1(t),s2(t) 
+and s3(t) shown in figure. Also express each of these signals in terms 
+of the set of basis functions. 
+ 
+ 
+CO2 
+ 
+e) Compare ASK, BPSK and BFSK modulation scheme in terms of data 
+rate, bandwidth and Probability of error. 
+ 
+CO3 
+ 
+f) What do you mean by eye pattern? How and where it is used? 
+ 
+CO3 
+ 
+g) Compare coherent and non-coherent digital modulation techniques. 
+ 
+CO4 
+ 
+h) Consider the output of shift register is  0 0 0 1 0 0 1 1 0 1 0 1 1 1 1. Is 
+the PN sequence satisfy the balance property and run length 
+property? Please justify your answer. Also determine the 
+autocorrelation of output. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) What is line codes? Describe its salient characteristics. Hence, draw 
+NRZ-L, NRZ-M, Manchester and AMI for binary data: 110011100011 
+b) Derive the SQNR of Delta modulation scheme. Hence, compare its 
+SQNR with PCM 
+(5+5
+=10) 
+CO1 
+Q3 
+a) A duobinary system is a way to achieve an ISI free baseband 
+transmission with the minimum bandwidth. 
+i) Draw a diagram of a duobinary signaling scheme. 
+ii) What is the frequency response of the duobinary signaling scheme? 
+iii) Find the output data sequence of a duobinary signaling with pre-
+coding if the input data sequence is: 1100101110010111. 
+ 
+(6+4
+=10) 
+CO1 
+b) What is the necessity of equalizers in transmission system? Explain 
+any one equalizer. 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Define binary phase shift keying. Draw the transmitter and receiver 
+block diagram and derive the probability of error or BER of the 
+Coherent BPSK 
+b) Binary data are transmitted over a microwave link at the rate of 106 
+bps and power spectral density of noise at the receiver input is 10-10 
+W/Hz. Find the average carrier power required to maintain an 
+average probability of error Pe ≤ 10-4 for i)BPSK ii)DPSK {Ref: 
+Q(3.72)≤10-4} 
+(5+5
+=10) 
+CO2 
+Q5 
+a) What is MSK. Draw its constellation diagram, transmitter and 
+Receiver block diagram and compare it with QPSK. 
+b) Determine the transfer function and impulse response of matched 
+filter. 
+(5+5
+=10) 
+CO2 
+UNIT IIII 
+ 
+CO Mapping 
+Q6 
+a) What is Spread Spectrum Techniques Explain in detail about Direct 
+Sequence Spread Spectrum Techniques with necessary diagrams?        
+ i. Concept of Spread Spectrum Techniques                                                 
+ii. Block Diagram Representation.                                                                  
+iii. Waveform at all stages of the system.                                                     
+iv. Derivation of processing Gain 
+b) A pseudo random sequence is generated using a feedback shift 
+register of length m=4. The chip rate is 107 chips per second. Find 
+the following i) PN sequence length ii) Chip duration of PN sequence 
+iii) PN sequence period 
+(6+4
+=10) 
+CO3 
+Q7 
+a) What is Frequency Hopping? Explain the different types of frequency 
+hopping with necessary diagrams.                                                  
+i. Concept of frequency hopping.                                                                          
+ii. Explanation of slow frequency hopping                                                          
+iii. Explanation of Fast frequency hopping                                                          
+iv. Block Diagrams and waveform 
+b) A Spread spectrum communication system has the following 
+parameters. Information bit duration Tb = 1.024 msecs and PN chip 
+duration of 1µsecs. The average probability of error of system is not to 
+exceed 10-5. calculate i) Length of shift register ii) Processing gain iii) 
+jamming margin 
+(6+4
+=10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+c) Draw the block diagram of OFDM transmitter and receiver and 
+explain 
+d) Consider an OFDM system with 52 subcarriers out of which 4 
+subcarriers are used as pilot subcarriers and the remaining as 
+data subcarriers. OFDM symbol duration including guard interval 
+for ISI mitigation is 4 micro second. If the system uses three-
+fourth of the FEC code rate and 64-QAM carrier modulation 
+scheme. Find the number of data bits transmitted per OFDM 
+symbol and approximate transmission data rate? 
+(5+5
+=10) 
+CO4 
+Q9 
+Write short note on the following- 
+a) Small-scale and Large- scale fading 
+b) time-dispersive and Frequency-dispersive fading 
+c) selective mapping (SLM) and partial transmit sequence (PTS) 
+d) PAPR and oversampling 
+e) Antenna Diversity. 
+(5*2
+=10) 
+CO4

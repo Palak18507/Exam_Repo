@@ -1,0 +1,166 @@
+{
+  "paper_id": "MCA106_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA106",
+    "subject_name": "Software Engineering",
+    "program": "<MCA>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between a Software Process and a Software Lifecycle Model? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "A client insists on a fixed budget and timeline but has evolving requirements. Which development model would you recommend and why? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "A mobile app suffers from performance issues on older devices. How could non-functional requirements have prevented this? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between basics, intermediation & detailed COCOCMO Model. 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly describe Exploratory Testing. What are its benefits? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "A software system was developed at a cost of ₹40 lakh. The software is expected to remain operational for 10 years. The average Annual Change Traffic is estimated to be 20%. Estimate the total maintenance cost over the software's lifetime 4",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Why is the study of Software Engineering essential in modern computing? Discuss in terms of complexity, scalability, and cost-effectiveness.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A large software project is expected to span 2 years, involves 15 distributed teams, and has loosely defined requirements. Which process model is best suited? Justify.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the steps involved in the Requirements Engineering process. How do these steps contribute to the success of a software project?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Read the following case description M/s Poornima Broker & Builders is a real estate company dealing with leasing the houses on rent. Their Real Estate Information System provide assistance to the agents as they sell houses. Interested Sellers/owners of the property contact the agency and an agent is assigned to help the seller to complete a Sales Request Form. Information about the house and lot taken from that form is stored on a computer file. Personal information about the sellers is copied by the agent onto a Sellers Personal Info Sheet and stored in a file. When a buyer contacts the agency, he/she fills out a buyer request form. On regular basis, the agency sends prospective buyers a home-on-sale magazine containing the addresses. Periodically, the agent will find a particular house that satisfies most or all of a specific buyer’s requirements, as indicated in the buyers requirement form distributed weekly to all agent. The agent occasionally photocopy a picture of the house along with vital data and send MLS Sheet to the potential buyer. When the buyer selects a house, he or she fills out a purchase agreement that is forwarded through the real estate agency to the seller, who responds with an offer acceptance or gives counteroffer After a purchase agreement has been accepted, the agency sends an appraisal report to an appraiser, who appraises the value of the house and lot. The agency also notifies its finance company with a finance request form Draw the Context Level DFD Draw First Level DFD",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "i). Draw the Structured Chart for the following description. The update file gets the valid transactions and update the file. Update file module update the master file then Update master file calls put new master that format the master, write to the master and checks if user wants to continue. ii). Consider the following code segment 1. i = 0 2. while : 3. if : 4. print 5. else: 6. print 7. i += 1 8. print a. Draw the Control Flow Graph b. Calculate the Cyclomatic Complexity c. List the independent path",
+      "marks": 0.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of Service-Oriented Architecture in Software Design. Discuss its Key Principles, benefits and challenges. Illustrate how SOA promotes loose coupling and reusability with the help of a suitable example or diagram",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of software project planning in ensuring successful software development. Explain the key components of a software Project Planning. How does modern estimation techniques like FPA and COCOMO improve the accuracy of planning?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "10 with low complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "15 with average complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "17 with high complexity ii) External outputs:",
+          "marks": null
+        },
+        {
+          "subpart_id": "a",
+          "text": "6 with low complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "13 with high complexity iii) External inquiries:",
+          "marks": null
+        },
+        {
+          "subpart_id": "a",
+          "text": "3 with low complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "4 with average complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "2 with high complexity iv) Internal logical files:",
+          "marks": null
+        },
+        {
+          "subpart_id": "a",
+          "text": "2 with average complexity",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "1 with high complexity v) External Interface files",
+          "marks": null
+        },
+        {
+          "subpart_id": "a",
+          "text": "9 with low complexity In addition to above, system required • Significant data communication • Performance is very critical • Designed code may be moderately reusable • System is not designed for multiple installations in different organizations. Other complexity adjustment factors are treated as average. Compute the function points for the project",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

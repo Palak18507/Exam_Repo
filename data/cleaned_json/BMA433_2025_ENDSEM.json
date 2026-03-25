@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA433_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA433",
+    "subject_name": "MACHINE LEARNING FOR MECHANICAL ENGINEERS",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the important objectives of machine learning?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Training data and Testing Data.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Reinforcement Learning? Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is Pseudo code? Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Are Tuples a Mutable or non-Mutable. Discuss with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is ROC curve? Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the use of ML in mechanical engineering give 4 real life examples? Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Differentiate between supervised and unsupervised learning.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain Keras and numpy in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Demonstrate any five operations on strings with the help of examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the various applications of Machine learning in mechanical engineering? Explain with the help of an example",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Distinguish between overfitting and underfitting. How it can affect model generalization?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How the logistic regression different from linear regression? Explain the various issues in SVM.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the following terms with respect to evaluation measure I. R square II. Precision III. Recall and IV. F score",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is clustering? Explain the different types of clustering in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain Principal Component analysis.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

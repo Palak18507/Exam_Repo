@@ -1,0 +1,78 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ECE/ECE AI) (Semester: 6th ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 306 
+Subject:  VLSI Design 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO 
+Mapping 
+ 
+a) MOSFETs are said to be more efficient than BJTs. Justify the answer. 
+ 
+ 
+Unit 1 & 
+Unit 2 
+ 
+b) Describe the different operating regions for an MOS transistor. 
+ 
+ 
+c) Define the terms: (i) Body effect. (ii) Channel length modulation. 
+ 
+ 
+d) Highlight all the characteristic of a good CMOS Inverter. 
+ 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw V-I characteristics of NMOS transistor. Explain its operation. 
+Derive the drain to source (Ids-Vds) current equation in saturation and 
+resistive region. 
+ 
+ 
+ 
+Unit 1 & 
+Unit 2 
+ 
+b) Explain in detail about the body effect and its effect in MOS device, 
+with diagram. 
+ 
+ 
+c) Explain the different steps involved in n-well CMOS fabrication process 
+with neat diagram. 
+ 
+UNIT II 
+ 
+CO 
+Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Why nMOS transistor is selected as Pull-Down transistor. Explain with 
+diagram. 
+ 
+ 
+ 
+Unit 2 
+ 
+b) Draw and explain the D.C. and transfer characteristic of a CMOS 
+inverter with necessary conditions for the different regions of 
+operation, with ALL neat diagram. 
+ 
+ 
+c) Derive  and explain the Noise Margins for CMOS Inverter.

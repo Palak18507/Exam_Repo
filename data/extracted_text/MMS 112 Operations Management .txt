@@ -1,0 +1,102 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MBA>, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code: MMS 112 
+Subject: Operations Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) List the difference between production and services? 
+ 
+CO1 
+ 
+b) Define Productivity? 
+ 
+CO1 
+ 
+c) Classify the concept of Product Design? 
+ 
+CO2 
+ 
+d) Explain the importance of Material Requirements Planning? 
+ 
+CO2 
+ 
+e) interpret functionality of JIT? 
+ 
+CO3 
+ 
+f) Explain ABC Analysis?  
+ 
+CO3 
+ 
+g) State the objective of ISO 9000? 
+ 
+CO4 
+ 
+h) Define Supply Chain Management.  
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+ Explain productivity. List the factors that affect productivity. And how 
+can it be improved? 
+(10) 
+CO1 
+Q3 
+Define production system? Discuss in detail using examples?  
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss Plant Location? Identify different factors affecting Plant 
+Location. 
+(10) 
+CO2 
+Q5 
+The average annual consumption of a material is 18,250 units at a 
+price of Rs. 36.50 per unit. The storage cost is 20% on an average 
+inventory. Ordering cost is Rs. 50. Compute the quantity is to be 
+purchased at a time?  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Illustrate the need of “six sigma” from manufacturing and service 
+industry’s view point, Elaborate.  
+(10) 
+CO3 
+Q7 
+Interpret the steps involved in value analysis? Show the criteria for 
+selection of vendors? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the role of flexibility and agility in modern supply chains. 
+(10) 
+CO4 
+Q9 
+Identify how smart pricing and IT affect supply chain management. 
+How can these aspects promote supply chain performance 
+measurement and improvement? 
+(10) 
+CO4

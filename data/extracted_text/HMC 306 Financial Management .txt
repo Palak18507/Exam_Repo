@@ -1,0 +1,164 @@
+1 
+ 
+ 
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 6th 
+(December, 2024) 
+Subject Code: HMC 306 
+Subject:  Financial Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What do you understand by the rule 72? Explain with examples 
+ 
+ 
+b) Explain the term financial management? 
+ 
+ 
+c) Explain the concept of the Interest Tax Shield? 
+ 
+ 
+d) What do you understand by the term Equity and how it is different from 
+preference share? 
+ 
+ 
+e) What do you understand by the term capital budgeting, and to which type of 
+decision does it belong? 
+ 
+ 
+f) You are given the present values of cash inflows and outflows for two projects (A 
+and B). Calculate the Profitability Index (PI) for each project and determine which 
+project is the most suitable for investment. 
+  
+A 
+B 
+Present Value of Cash Outflows 
+75000 68500 
+Present Value of Cash Inflows 
+85500 74500 
+ 
+ 
+g) Explain storage and ordering cost in inventory management 
+ 
+ 
+h) Explain the concept of gross and net working capital. 
+ 
+UNIT I 
+ 
+Q2 
+A. Why is the time value of money important to consider? Explain it with proper 
+examples  
+ 
+B. Jaya retires at the age of 60 years receiving pension of 10000 a year paid in 
+yearly installments. If he expects his life for another 15 years, what single sum is 
+equivalent to her pension (Interest rate = 6% p.a.) 
+(5) 
+ 
+ 
+(5) 
+Q3 
+A. Define the scope of Financial Management. What role should the financial 
+manager play in a modern enterprise? 
+ 
+B. Explain the factors affecting time value of money? 
+(5) 
+ 
+ 
+(5) 
+UNIT II 
+ 
+Q4 
+A. What is meant by the term cost of capital? What are the main components 
+involved in calculating it? Explain each component with suitable examples. 
+(5) 
+(5) 
+Q5 
+ XYZ ltd has the following capital structure 
+Equity Share Capital (5,000 Shares) 
+30,00,000 
+9% Preference Shares (100 Rs. Each) 
+22,00,000 
+12% Debentures 
+28,00,000 
+ The cost of Equity is 15% 
+ The preference shares are issued at a floatation cost of 2% and discount at 3%. 
+Calculate cost of preference shares if these shares are irredeemable. 
+ Debentures are issued at premium of 5%. 
+(10) 
+2 
+ 
+ Tax rate is given @20%. 
+1. Compute the cost of capital for each source 
+2. Compute the Weighted Average Cost of Capital 
+UNIT III 
+ 
+Q6 
+ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs 
+of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The 
+expected net cash flows for both machines over their useful lives are as follows:  
+Year 
+Machine P 
+Machine Q 
+1 
+8,50,000 
+5,85,000 
+2 
+7,55,000 
+3,83,000 
+3 
+4,95,000 
+7,50,000 
+4 
+3,50,000 
+6,50,000 
+5 
+7,44,000 
+4,38,000 
+6 
+4,50,000 
+6,80,000 
+The company has target return on capital from Machine X and Y are 12% 
+On the basis above information you are required to calculate the Net Present 
+Value of both the machines and compare the profitability of the machines and 
+state which alternative you consider to be financially preferable 
+(10) 
+Q7 
+Write Short Notes with suitable examples on 
+ 
+Net Present Value 
+ 
+Internal Rate of Return 
+ 
+Profitability Index 
+ 
+Payback Period 
+(10) 
+UNIT IV 
+ 
+Q8 
+A. Explain ABC analysis model of Inventory Management with suitable examples 
+ 
+B. What is the operating cycle? Explain its concept and the method of calculation. 
+(5) 
+ 
+(5) 
+Q9 
+ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, 
+ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The 
+ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost. 
+A. Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ 
+level. 
+B. Calculate the Total Cost if the order sizes are: 
+    i. 100 units 
+    ii. 600 units 
+    iii. 3000 units 
+C. Compare each of the above order sizes with the EOQ and comment on which 
+ordering policy is the most cost-effective 
+(10)

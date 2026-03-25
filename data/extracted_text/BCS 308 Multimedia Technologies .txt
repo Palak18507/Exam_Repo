@@ -1,0 +1,90 @@
+(Please write your Enrollment Number)                                         Enrollment No._________________ 
+ 
+REAPPEAR EXAMINATION 
+(CBCS)(SUBJECTIVE TYPE) 
+Course Name:< B.Tech >, Semester:<6th> 
+(MAY, 2025) 
+ 
+Subject Code: BCS 308 
+             Subject: Multimedia Technologies 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) What is the differentiate between temporal and non-temporal 
+media?  
+CO 1 
+ 
+(b) What is hypermedia? How is it different from hypertext? 
+CO 1 
+ 
+(c) Differentiate between lossy and lossless compression. 
+CO 2 
+ 
+(d) What do you mean by compression ratio? 
+CO 2 
+ 
+(e) What is the main purpose of MPEG-7? 
+CO 3 
+ 
+(f) What OS features are necessary to support multimedia applications? 
+CO 3 
+ 
+(g) What is the role of multiple monitors in multimedia systems? 
+CO 4 
+ 
+(h) What is the need of silence compression in audio processing? 
+CO 4 
+UNIT-I 
+CO Mapping 
+Q2 
+Describe hardware and software requirements for 
+multimedia systems. 
+(10) 
+CO 1 
+Q3 
+Explain in detail the types of media used in multimedia. 
+Discuss how they are synchronized using events and scripts. 
+(10) 
+CO 1 
+UNIT-II 
+CO Mapping 
+Q4 
+Discuss the LZW compression techniques with a suitable 
+example. Compare LZ77 and LZW compression techniques. 
+(10) 
+CO 2 
+Q5 
+Describe Huffman coding and Shannon Fano algorithm in 
+detail with an example each. 
+(10) 
+CO 2 
+UNIT-III 
+CO Mapping 
+Q6 
+What are the advantages of IEEE 1394 in multimedia 
+applications? 
+(10) 
+CO 3 
+Q7 
+Explain the design and working of a video-on-demand 
+system. 
+(10) 
+CO 3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Describe JPEG image compression technique in detail. 
+(10) 
+         CO 4 
+Q9 
+Explain the architecture and working of a multimedia 
+network. How is QoS managed in such networks? 
+(10) 
+         CO 4

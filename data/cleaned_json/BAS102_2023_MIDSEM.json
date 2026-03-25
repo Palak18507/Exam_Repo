@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAS102_2023_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS102",
+    "subject_name": "Applied Mathematics-II",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2022-2023",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the derivative of 𝑓 = 𝑥𝑒𝑦+ cos 𝑥𝑦 at the point in the direction of 𝑣= 3𝑖−4𝑗.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "If 𝐹= 𝑥𝑦𝑒𝑥𝑖⃗−𝑥3𝑦𝑧𝑒𝑧𝑗⃗−𝑥𝑦2𝑒𝑦𝑘⃗⃗, find curl 𝐹, div 𝐹 and div",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Solve 𝑦= 𝑒𝑥",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Solve 𝑦′′ + 𝑦 = 𝑠𝑒𝑐2𝑥, by the method of variation of parameters.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State Stoke’s theorem. Use Stoke’s theorem to evaluate the line integral ∮ 𝐶 where 𝐶 is the circle 𝑥2 + 𝑦2 = 1 in the plane 𝑧= 1, counter clockwise when viewed from the origin.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Show that the line integral given by ∫ 𝑑𝑥+ 𝑑𝑦 is independent of path. Hence, evaluate the line integral by finding the potential function 𝜙.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Verify the divergence theorem for 𝐹= 𝑥𝑖⃗+ 𝑦𝑗⃗−𝑘⃗⃗, where D is the region bounded by the hemisphere 𝑥2 + 𝑦2 + 2 = 9, 1 ≤ 𝑧 ≤4, and the plane z = 1.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Solve 𝑦 = 2𝑥2 + 3𝑒−𝑥, using the method of undetermined coefficient.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Solve 𝑑𝑥/𝑑𝑡 + 2𝑦 + 𝑥 = 𝑒𝑡, 𝑑𝑦/𝑑𝑡 + 2𝑥 + 𝑦 = 3𝑒𝑡",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Solve 𝑦 = 2𝑥2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

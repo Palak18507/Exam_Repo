@@ -1,0 +1,126 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<4> 
+(May, 2025) 
+ 
+Subject Code: BCS 204   
+ 
+ 
+ 
+Subject: Design and Analysis of Algorithms 
+Time: 3 Hours                
+ 
+ 
+ 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2.5*8=20) 
+ 
+a) Define time complexity and space complexity. Provide an example.  
+ 
+ 
+2.5 
+ 
+b) Explain the Master Theorem and give an example.  
+ 
+ 
+ 
+ 
+2.5 
+ 
+c) Differentiate between Divide and Conquer and Dynamic Programming.  
+ 
+2.5 
+ 
+d) What is a Greedy algorithm? Give an example.  
+ 
+ 
+ 
+ 
+2.5 
+ 
+e) State and explain the properties of NP-complete problems.   
+ 
+ 
+2.5 
+ 
+f) Write the algorithm for the BFS traversal of a graph.   
+ 
+ 
+ 
+2.5 
+ 
+g) Explain the significance of Huffman coding in data compression.  
+ 
+ 
+2.5 
+ 
+h) Describe the role of finite automata in string matching. 
+ 
+ 
+ 
+2.5 
+ 
+UNIT I 
+Q2 
+Solve the recurrence relation T(n) = T(n/2) + n using the iterative method. 
+ 
+   (10) 
+Q3 
+Explain the working of Quick Sort with an example. Derive its best, worst, and  
+average case complexities.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    (10) 
+ 
+UNIT II 
+Q4 
+Solve the 0/1 Knapsack problem using the Greedy approach. Show stepwise execution.      (10) 
+Q5 
+Explain the Matrix Chain Multiplication problem and solve it using Dynamic Programming.  (10) 
+ 
+UNIT III 
+Q6 
+Describe Dijkstra’s algorithm for finding the shortest path with the help of suitable  
+example.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (10) 
+Q7 
+Explain the working of the n-Queens problem using Backtracking. 
+                                  (10) 
+ 
+UNIT IV 
+Q8 
+Explain the working of the Rabin-Karp algorithm with an example.  
+ 
+ 
+      (10) 
+Q9 
+What are NP-Complete problems? Prove that the Subset Sum problem is NP-Complete.       (10)

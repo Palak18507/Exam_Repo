@@ -1,0 +1,78 @@
+{
+  "paper_id": "BCS104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS104",
+    "subject_name": "Mobile Application Development",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Differentiate between Native Apps vs Hybrid Apps b Differentiate between Mobile Operating Systems and Desktop OS c What are the salient features of Eclipse Simulator and how is it useful for App development? d Write a short notes on Event handling with the example code? e Write a short notes on Common Android APIs with the example code? f Briefly explain Cloud Storage for app development w.r.t any program or application g WAP to display your name, class, university through any mobile app h How do you publish mobile applications and explain",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the tool chain or Integrated Development Environment used for Mobile Application Development with neat diagram , input and output of each tool or software w.r.t any example of a program",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is SDKs, different components of it and explain its architecture w.r.t any platform with neat diagram",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "WAP to display weather information to the registered user in android platform along with any five UI components [ Make your own assumptions of the APP]",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "WAP to display patient information to the doctor in android platform along with graphics services and layer animations [ Make your own assumptions of the APP]",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the Android OS Layered Architecture with neat diagram and WAP to demonstrate use of any Android API’s with any application",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the Android User Interface Design Essentials w.r.t any application design with the proper code. How do you publish the same in Android App Store?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Consider the Q4. You have to test and deploy the developed application. Devise the complete methodology for testing, deployment and publishing in android environment",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9.",
+      "unit": "UNIT IV",
+      "question_text": "Consider the Q5. You have to test and deploy the developed application. Devise the complete methodology for testing, deployment and publishing in iOS/ Windows/ any other cross development environment",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

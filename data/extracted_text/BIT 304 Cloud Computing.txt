@@ -1,0 +1,72 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech) (Semester: 6th ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BIT 304 
+Subject: Cloud Computing  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain how Fog Computing supports real-time data processing applications 
+and how it differs from traditional cloud computing. 
+CO1 
+ 
+b) According to NIST, what are the essential characteristics of cloud 
+computing? 
+CO1 
+ 
+c) Differentiate between resource virtualization and server virtualization using 
+suitable real-world example. 
+CO2 
+ 
+d) How does cloud-optimized storage improve performance, scalability, and 
+cost-efficiency in a cloud-based infrastructure? 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) An enterprise is transitioning from a traditional IT model to a cloud-based 
+SPI framework. Analyze the key differences between these two models and 
+the potential advantages of SPI. 
+CO1 
+ 
+b) A business needs to decide on a cloud deployment strategy. Discuss the 
+various cloud deployment models and the factors influencing their 
+selection. 
+CO1 
+ 
+c) Explain how cloud computing supports green IT initiatives and contributes 
+to energy efficiency with real world example. 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the key components of storage network architecture and their role 
+in efficient data handling. 
+CO2 
+ 
+b) Discuss the role of Microsoft Hyper-V in server virtualization and its impact 
+on enterprise computing. 
+CO2 
+ 
+c) What is network virtualization? Explain its types and how it enhances 
+network performance in cloud environments. 
+CO2

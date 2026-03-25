@@ -1,0 +1,165 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B. TECH, Semester: 8 
+(May, 2025) 
+ 
+Subject Code: BAI 406 
+Subject: AI for Games 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between scripted behavior and AI-driven behavior in 
+games. 
+ 
+CO1 
+ 
+b) What is Navigation Meshes (NavMesh), and how are they used in 
+pathfinding? 
+ 
+CO2 
+ 
+c) Differentiate between Utility Theory and Decision Theory in the 
+context of NPC behavior. 
+ 
+CO2 
+ 
+d) Briefly explain how an NPC decision-making system can be 
+implemented in a game. 
+ 
+CO2 
+ 
+e) List and briefly explain the basic node types used in Behavior Trees. 
+ 
+CO3 
+ 
+f) How can AI be optimized for real-time performance in games? 
+ 
+CO3 
+ 
+g) What are some common techniques used in Procedural Content 
+Generation (PCG)? 
+ 
+CO4 
+ 
+h) How can game AI tools be used in student-level projects for learning? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the evolution of Artificial Intelligence in games from early 
+developments to modern implementations. Include key historical 
+milestones and their impact on the gaming industry. 
+(10) 
+CO1 
+Q3 
+Describe at least two variants of the A algorithm used in game 
+development. How do these variants improve performance or adapt 
+to specific game requirements? 
+Given the following grid map where S is the start, G is the goal, # 
+represents obstacles, and numbers represent the cost of movement: 
+ 
+Use the A* algorithm with Manhattan distance as the heuristic to 
+determine the optimal path from S to G. 
+Also, explain how the f(n) = g(n) + h(n) function works in the context 
+of this problem. 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Differentiate between Utility Theory and Decision Theory for NPC 
+decision-making. Give one example where each approach is more 
+suitable. 
+An NPC must choose one of three actions using the following utility 
+formulas: 
+(i) Attack = 2 * Enemy Threat Level 
+(ii) Hide = 100 – NPC Health % 
+(iii) Call Backup = 50 + (Number of Enemies) * 5 
+Given: 
+NPC Health = 40% 
+Enemy Threat Level = 8 
+Number of Enemies = 4 
+(10) 
+CO2 
+Task: 
+Calculate the utility for all three actions and decide which action the 
+NPC will take. Explain the reasoning based on Utility Theory. 
+Q5 
+Describe the steps involved in implementing NPC decision-making 
+using Utility Theory. What factors influence the utility score for 
+different actions? 
+An NPC can either Defuse a Bomb or Call Bomb Squad, with the 
+following outcomes: 
+Defuse: 
+70% success, reward = +150 
+30% failure, penalty = −100 
+Call Bomb Squad: 
+90% success, reward = +50 
+10% failure, penalty = −20 
+Task: 
+Calculate the expected value for both decisions and determine the 
+optimal choice. Justify your answer using Decision Theory principles. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is a Behavior Tree (BT) in game AI? Explain its structure and 
+how it differs from Finite State Machines (FSMs) in managing complex 
+NPC behavior. 
+Design a behaviour tree for a guard NPC with the following actions 
+and priorities: 
+Chase Player: if player is within 10 units 
+Call Backup: if player is within 10 units and health < 50% 
+Patrol Area: default action when no threat is detected 
+Retreat: if health < 30% 
+Task: 
+Draw and explain the behaviour tree structure with appropriate 
+selector and sequence nodes. Show how numerical thresholds guide 
+transitions and decision flow. 
+(10) 
+CO3 
+Q7 
+Explain the concept of spatial partitioning in games. How do techniques 
+like Quadtrees or Grids help improve the performance of AI in large 
+environments? 
+A 2D open-world game has a map of size 1024 × 1024 units. Without 
+spatial partitioning, an NPC must check for collision with 2000 objects 
+each frame. You decide to implement a quadtree, dividing the space 
+recursively until each quadrant has ≤ 50 objects. 
+Task: 
+Estimate the depth of the quadtree required to reduce object checks 
+per quadrant to ≤ 50. 
+How does this improve AI performance in terms of collision detection 
+or sensory checks? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the role of Natural Language Processing (NLP) in creating 
+dynamic and interactive game dialogues. How can NLP enhance player 
+experience and what are the limitations or ethical considerations 
+associated with it? 
+(10) 
+CO4 
+Q9 
+Describe the steps involved in developing a hands-on AI project using 
+a game engine of your choice. Outline the workflow from design to 
+implementation, including how AI techniques (like pathfinding, 
+decision-making, or animations) are used in the project. 
+(10) 
+CO4

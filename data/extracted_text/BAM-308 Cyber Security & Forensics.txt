@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Mid-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+Course Name: <B.Tech> Semester: <6th>  
+(March, 2025) 
+ 
+Subject Code: BAM 310 
+Subject: Cyber Security & Forensics 
+Time :1.5 Hours 
+Maximum Marks: 30 
+ 
+Note: Q1 is compulsory. Attempt any 2 parts each from Units I, & II. 
+ 
+Q1 
+Define the below-mentioned terminologies with suitable examples 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Operational Security 
+ 
+CO1 
+ 
+b) Identity Access Management 
+ 
+CO1 
+ 
+c) Network Intrusion Detection 
+ 
+CO1 
+ 
+d) Intellectual Property Theft 
+ 
+CO1 
+ 
+UNIT I 
+ 
+ 
+Q2 
+Attempt any 2 parts 
+(5*2=10) 
+CO Mapping 
+ 
+a) Comprehensively explain the concept of Computer Security 
+Incident Response Strategy and give technical justification for 
+employing computationally intensive Intrusion Detection Systems for 
+ensuring Network Security.  
+(5) 
+CO3 
+ 
+b) Quantitatively differentiate between User Authentication and 
+Authorization in Cyber Security giving suitable examples. 
+(5) 
+CO2 
+ 
+c) Categorically explain the Identity Theft and Fraud type of Cyber 
+Crime and give suitable countermeasures for overcoming these. 
+(5) 
+CO2 
+UNIT II 
+ 
+ 
+Q3 
+Attempt any 2 parts 
+(5*2=10) 
+CO Mapping 
+ 
+a) Categorically explain the process of using Netcat during initial 
+response while performing the Cyber Forensic Analysis. Give suitable 
+illustrations. 
+(5) 
+CO3 
+ 
+b) Explain the significance of creating a reliable TCP connection 
+between the Target System and Forensic Workstation during Cyber 
+Forensic Analysis. Give suitable illustrations with examples. 
+(5) 
+CO4 
+ 
+c) Quantitatively differentiate between OSPF Unicast Routing Protocol 
+and MOSPF Multicast Routing Protocol with suitable illustrations. 
+(5) 
+CO3

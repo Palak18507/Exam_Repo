@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                     Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name: B. Tech (4th Semester) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 204 
+Subject: Digital System Design 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Provide the full form of VHDL and discuss its key features and 
+capabilities in modeling digital systems. 
+2.5 
+Unit 1 
+ 
+b) What is the purpose of test bench in VHDL. How is a testbench 
+created and used for simulation? 
+2.5 
+Unit 1 
+ 
+c) Explain the concept of a state diagram in the context of digital 
+design?  
+2.5 
+Unit 2 
+ 
+d) What is the 'pulse mode' of operation in a finite state machine 
+(FSM)? Compare it with the 'fundamental mode' of operation in 
+terms of system behavior and design considerations. 
+2.5 
+Unit 2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Differentiate between behavioral, dataflow and 
+structural modelling in VHDL. 
+5 
+Unit 1 
+ 
+b) Write entity and architecture declarations for the 
+following circuits using behavioral modelling 
+i) XOR gate 
+ii) JK Flipflop 
+5 
+Unit 1 
+ 
+c) What are the five essential design units in VHDL? Explain 
+the role of each design unit in the process of digital 
+design. 
+5 
+Unit 1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the key differences between a Mealy machine 
+and a Moore machine?  
+5 
+Unit 2 
+ 
+b) Provide a detailed explanation of the structure of a finite 
+state machine (FSM). Illustrate its components with a 
+block diagram. 
+5 
+Unit 2 
+ 
+c) Describe the significance of initial and final states in state 
+diagrams. What would happen if the initial state were 
+not defined in a state diagram? 
+5 
+Unit 2

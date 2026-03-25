@@ -1,0 +1,87 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH : Sem: 8 
+(May, 2025) 
+ 
+Subject Code: BEC 412 
+                                    Subject: Non-Conventional Energy Resources  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Do Any Four 
+(5*4=20) 
+CO Mapping 
+a 
+Differentiate between conventional and non-conventional energy 
+resources. 
+5 
+CO1 
+b 
+Outline the challenges and remedies associated with the use of solar energy. 
+5 
+CO1 
+c 
+What is the impact of wind energy generation on environment? 
+5 
+CO2 
+d 
+What is biomass direct combustion? Explain in detail. 
+5 
+CO2 
+e 
+Distinguish between wave and tidal energy. 
+5 
+CO1 
+f 
+How do you classify hydrogen production methods? Explain any One of 
+them. 
+5 
+CO1 
+UNIT I 
+CO Mapping 
+Q2 
+What are the types of solar radiation measuring Instruments? Explain the 
+working of Sunshine recorder with a neat sketch. 
+10 
+CO1 
+Q3 
+Explain the process of generation of power in solar pond with a neat sketch 
+and mention its merits and demerits. 
+10 
+CO1 
+UNIT II 
+CO Mapping 
+Q4 
+Classify the Biomass energy conversion systems and explain them in brief. 
+10 
+CO2 
+Q5 
+Explain the function of Deenbandhu biogas digester with a neat sketch and 
+also mention its merits and demerits. 
+10 
+CO2 
+UNIT III 
+CO Mapping 
+Q6 
+Illustrate the power generation process in horizontal axis wind turbine with 
+its merits and demerits. 
+10 
+CO3 
+Q7 
+Classify the wind energy systems and explain their working with neat sketch. 
+10 
+CO3 
+UNIT IV 
+CO Mapping 
+Q8 
+What is tide? Explain the basic components of a tidal power plant and state 
+their merits and demerits. 
+10 
+CO4 
+Q9 
+Explain Geothermal binary cycle power plant with neat diagram. 
+10 
+CO4

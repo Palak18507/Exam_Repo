@@ -1,0 +1,36 @@
+{
+  "paper_id": "BMS304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS304",
+    "subject_name": "International Business Management",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Explain the following: International Business Management International Monetary System International Competitive Advantage Balance of Payment CO 1 1 2 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 CO Explain the role of IMF and World Bank in International business. 1 Explain the advantages and disadvantages of Globalization. 1 Explain the recent trends and challenges in international business in Indian perspective. 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 CO Explain the term and types of Trade Barriers? 2 Why FDI is important for any developing nation, explain. 2 Explain the following: Vocal for Local vs Globalisation Drivers of globalization. 2 Note: Q. 1 is compulsory. Subject: International Business Management Subject Code: BMS 304",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

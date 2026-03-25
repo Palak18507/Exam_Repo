@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD158_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD158",
+    "subject_name": "Environmental Impact Assessment",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions. Write short note on: a What do you understand by EIA? 2.5 b What is Environmental Management? 2.5 c What is intermediate Value Theorem? 2.5 d What is connectedness in EIA? 2.5 e Why Public involvement in EIA important? 2.5 f What is Impact Management? 2.5 g Why Project Management is important? 2.5 h What do you mean by implementation and follow up in a project? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the regulatory framework of Environmental management. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe any one EIA procedure. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the difference between Methodologies and Methods? Explain. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe any one EIA tools and Technique. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Mitigation and Preparation of Environmental Management Plan. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How can one review EIA Quality? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How do we kickstart a project imbibing sustainable development strategies? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How does Project management help in Decision Making and implementation of a project? 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

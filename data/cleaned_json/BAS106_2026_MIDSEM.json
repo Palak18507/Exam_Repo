@@ -1,0 +1,57 @@
+{
+  "paper_id": "BAS106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS106",
+    "subject_name": "Environmental Sciences",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½ Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the impacts of overutilization of groundwater.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the long term environmental effects of deforestation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of atom economy with suitable chemical reaction.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe the oxidation-reduction process for the treatment of hazardous waste.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 Discuss the benefits and problems related to the construction of dams. Comment on the statement that “The construction of a dam has a multiplier effect”. Write short notes on Environmental impact due to mining activities Malnutrition and undernutrition How can you differentiate the on-site impacts caused by agriculture with that of the off- site impacts?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 Discuss the formation of PAN in photochemical smog with chemical reactions involved. Explain the secondary treatment process of wastewater for the removal of organic matter. Discuss the merits of the green method over the traditional method for the synthesis of adipic acid. Subject: Environmental Sciences Subject Code: BAS 106",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

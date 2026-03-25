@@ -1,0 +1,98 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(December, 2024) 
+ 
+Subject Code: BEC 101 
+Subject: Analog Electronics  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) Establish relationship between α, β, and γ in BJT. 
+ 
+ 
+b) Draw a clamper circuit and explain the working of diode in it. 
+ 
+ 
+c) Draw h-parameter equivalent circuit of CC configuration. 
+ 
+ 
+d) Draw a Darlington pair and find out its current gain. 
+ 
+ 
+e) Explain why the frequency response of amplifier is plotted on a semi log scale. 
+ 
+ 
+f) Show that the gain bandwidth product of an RC coupled amplifier is constant. 
+ 
+ 
+g) Why FET is called a voltage-controlled device? 
+ 
+ 
+h) Depletion MOSFET is commonly known as “Normally-on” MOSFET. Why? 
+ 
+UNIT I 
+ 
+Q2 
+Demonstrate and justify the input and output characteristics of common emitter 
+configuration of BJT. 
+(10) 
+Q3 
+a) Explain the working of emitter bias circuit and derive the expression of its stability 
+factor S. 
+(5) 
+ 
+b) Derive the expressions for average voltage, ripple factor and efficiency for a full 
+wave bridge rectifier. 
+(5) 
+UNIT II 
+ 
+Q4 
+a) Draw hybrid-π MODEL and explain the physical significance of various 
+parameters. 
+(5) 
+ 
+b) Give the small signal hybrid model for BJT. Discuss its merits/ demerits & utility. 
+(5) 
+Q5 
+Find the overall voltage gain of the cascaded amplifier given in the following figure 
+with β of each transistor being 100 and rπ of Q1 is 1.00 kΩ and rπ of Q2 and Q3 is 0.5 
+kΩ. 
+ 
+(10) 
+ 
+ 
+UNIT III 
+ 
+Q6 
+Draw a 2 stage RC coupled amplifier circuit and explain its working and frequency 
+response. 
+(10) 
+Q7 
+a) Explain the constructional features, operation and characteristics of SCR. 
+(5) 
+ 
+b) Derive the frequency of oscillation of the UJT relaxation oscillator. 
+(5) 
+UNIT IV 
+ 
+Q8 
+Consider the JFET in the given figure, VGS (off) = -4V and IDSS = 10mA. Determine the 
+minimum value od VDD required to put the device in the constant-current region of 
+operation. 
+ 
+ 
+(10) 
+Q9 
+Write short notes on  
+a) JFET and its characteristics 
+b) Enhancement and Depletion type MOSFETs 
+(10)

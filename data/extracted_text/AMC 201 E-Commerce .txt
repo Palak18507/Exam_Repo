@@ -1,0 +1,114 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: BBA, Semester:3 
+(December, 2024) 
+ 
+Subject Code: AMC 201 
+Subject: E-Commerce 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Differentiate between E-Commerce and M-commerce.  
+ 
+ 
+ 
+b) Define WWW.  
+ 
+ 
+ 
+c) Briefly describe E-SCM.  
+ 
+ 
+ 
+d) Explain EDI and its features.  
+ 
+ 
+ 
+e) Define digital commerce.  
+ 
+ 
+ 
+f) What is Hacking and Cyber-vandalism? 
+ 
+ 
+ 
+g) What do you mean by E-Trading?  
+ 
+ 
+ 
+h) What are the advantages of ATM? 
+ 
+ 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Define Electronic Payment Systems (EPS). What are the needs and 
+components of EPS? Briefly describe the advantages and 
+disadvantages of EPS. 
+(10) 
+ 
+Q3 
+Define and describe the difference between  
+a) Debit card and credit card 
+b) Currency and money 
+(10) 
+ 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Explain Porter’s value chain model using an example of e-commerce 
+firm with diagram. 
+(10) 
+ 
+Q5 
+What is E-Commerce? Explain its process. Also discuss the key drivers 
+of E-commerce 
+(10) 
+ 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Explain the revenue model in detail using a real-life example. 
+(10) 
+ 
+Q7 
+You are the manager of a retail company considering adopting 
+internet banking to streamline financial operations. Analyze the 
+advantages and potential issues of internet banking in the context of 
+your company's needs. Discuss how you would address these issues to 
+ensure smooth implementation and secure financial transactions. 
+(10) 
+ 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Discuss the key services and applications of mobile commerce (M-
+commerce) and their impact on businesses and consumers. Also, 
+analyze the emerging trends shaping the future of M-commerce and 
+their potential implications. 
+(10) 
+ 
+Q9 
+a) Explain the concept of malicious code and its various types in 
+detail. 
+b) Recommend preventive measures to protect a company's systems 
+from future attacks.  
+(10)

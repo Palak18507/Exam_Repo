@@ -1,0 +1,51 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+(Course Name B.Tech AI ML ) (Semester VIth Sem) 
+(March , 2025) OFF LINE mode 
+ 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+ 
+Q1 
+(2.5*4) 
+1. Explain any three challenges faced in Natural Language Processing. 
+ 
+2. What is Parsing in NLP? Explain any two key benefits from it for the NLPist. 
+ 
+3. What is Tokenisation and Stop word analysis in NLP and why do you think it is important. 
+ 
+4. Write short note on any one. 
+     (a) Corpus storage Formats  
+     (b) Significance of Corpus   
+Q2 (Attempt any Two Parts )     UNIT- 1  
+(5,5) 
+(a ) Explain what is Top down and Bottom Up parsing with help of any one respective parser 
+used by them. 
+ 
+(b)What do you understand by Semantic Analysis in NLP. Explain with suitable example. 
+ 
+(c)Explain with example the following 
+              1. Hypernym & Hyponyms 
+              2. Meronyms and Holonyms 
+ 
+Q3 
+ (Attempt any Two Parts )     UNIT- 2 
+(5,5) 
+(a)Explain what do you mean by a Corpus and discuss what are its features and data attributes 
+to qualify it as a good corpus. 
+ 
+(b)Explain what do you understand by BoW and TDF-IF operations on a corpus. Take suitable 
+example to explain. 
+ 
+(c) Write short Note on  
+1. Word2Vec 
+2. GloVe 
+ 
+ 
+Note: Q. 1 is compulsory.  
+Subject: Natural Language Processing
+Subject Code: BAM 314

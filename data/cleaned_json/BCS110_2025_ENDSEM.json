@@ -1,0 +1,157 @@
+{
+  "paper_id": "BCS110_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS110",
+    "subject_name": "Programming in C Language",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Convert 512 KB to bytes and explain the significance of such conversions in a computer system.",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between a flowchart and an algorithm in the context of problem-solving? Provide one example of each.",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the result of the following expression, and why? int a = 6, b = 3; printf(\"%d\", a /",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "b",
+          "text": ";",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a conditional if-else statement to check whether a number is positive or negative, and return 1 for positive and -1 for negative.",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the correct way to declare and initialize a 2x2 array in C, and how do you access the element at position [1,1]?",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the output of the following C code snippet? int i = 0; while { printf; i++; }",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a program to demonstrate \"Call by Reference\" using pointers. Show how a function can modify the value of a variable passed as an argument.",
+          "marks": 2.2222222222222223
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define the relationship between arrays and pointers. How is an array passed to a function?",
+          "marks": 2.2222222222222223
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "* 2; printf; Analyze the program at a micro-level. Discuss the role of the ALU, registers, and memory in executing this program. Explain how the CPU performs each step from fetching to execution.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "c",
+          "text": "printf(\"%d is the largest\",",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "a",
+          "text": "; else if (b > a && b >",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "printf(\"%d is the largest\",",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "; else printf(\"%d is the largest\",",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "; Analyze the logic of this program and convert it into a flowchart and algorithm. Discuss any improvements or optimizations you would make to the program.",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A program contains multiple conditions with if-else, switch-case, and goto statements. Critique the program structure and suggest the best practices for readability and efficiency. Write an optimized program to check if a number is prime.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a program that uses scanf to input a floating-point number, an integer, and a character. The program should output whether the integer is odd or even, the character is uppercase or lowercase, and the floating-point number is positive or negative.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Given the following code that includes a combination of for and while loops, predict its output and explain the flow of execution step by step. int i = 0, j = 5; for { while { printf; j--; } }",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write a C program that uses the strlen and strcpy standard library functions to copy a string entered by the user into another string. The program should display both the original and copied strings, and explain the working of these library functions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Given the following code, determine its output and explain the working of pointers with respect to arrays. Also, identify any issues in the program. #include <stdio.h> int main { int arr[] = {10, 20, 30, 40, 50}; int *ptr = arr; ptr = ptr + 2; printf; ptr--; printf; return 0; }",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a C program that uses unions to store and print the data of either a student or a teacher . Ensure that the program handles memory efficiently by choosing the correct type at runtime. Discuss the memory management differences between structures and unions.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Reappear Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: 1 
+(May, 2025) 
+ 
+Subject Code: AMC 202 
+Subject:  Business Research 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a)  Outline the key steps involved in the research process. Explain 
+the steps considering a research topic. 
+ 
+CO1 
+ 
+b) Compare primary and secondary sources of data. When are the 
+two sources preferred over one another? 
+ 
+CO2 
+ 
+c) What are Type I and Type II errors in hypothesis testing? Explain 
+with examples. 
+ 
+CO3 
+ 
+d)  Outline and explain the typical layout or structure of a formal 
+research report. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Differentiate between exploratory, descriptive, and explanatory 
+research with examples. 
+(10) 
+CO1 
+Q3 
+Explain how to identify a research problem and formulate a testable 
+hypothesis. Take a research idea and develop hypothesis for it. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the characteristics and uses of Likert and Semantic 
+Differential Scales. 
+(10) 
+CO2 
+Q5 
+Discuss the principles of effective questionnaire and form design? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the key considerations in designing a sampling plan and 
+selecting an appropriate sampling technique. 
+(10) 
+CO3 
+Q7 
+When and how is a Chi-square test and ANOVA (One-way) used in 
+research? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the JEL classification system and its use in organizing 
+economic and business research. 
+(10) 
+CO4 
+Q9 
+Discuss the importance of citations and bibliography in a research 
+report. How they are usually formatted? 
+(10) 
+CO4

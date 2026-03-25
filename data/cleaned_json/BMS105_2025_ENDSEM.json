@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS105",
+    "subject_name": "Micro Economics",
+    "program": "BBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State the role of economics for businesses. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the role of Opportunity cost for a producer in economy. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "“The theory of supply and demand is the main pillar of microeconomics.” Justify this relationship with your comment 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is Cross elasticity of demand? Elucidate with example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss the concept of Production function. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What type of assumptions are followed in law of variable proportions? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Differentiate between Explicit cost and Implicit cost. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Describe the oligopoly market structure? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define Business economics? Explain the nature and scope of Business economics in today’s rapidly changing environment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How can economics contribute to businesses? Illustrate the applications of Economics in Business using industry examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "“Demand is the ability and willingness to buy a specific quantity of a good at alternative prices in a given period of time, ceteris paribus.” Justify the given statement and analyze the various types of demand using relevant schedules and curves.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Critically evaluate the law of diminishing marginal utility citing suitable diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the relationship between Average, Marginal and Total Product using suitable diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is production function? Explain short run production analysis in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is cost function? Demonstrate the role of different types of costs in determining the output prices.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain how a firm attains equilibrium in the short run under Monopolistic competition.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

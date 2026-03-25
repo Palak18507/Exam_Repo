@@ -1,0 +1,87 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech AIML, Semester: 5 
+(December, 2024) 
+ 
+Subject Code: BAM 303 
+Subject: Cryptography and Network Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+a) Consider the following encryption scheme:  
+   𝐶1 ≡2𝑃1 +  3𝑃2 (𝑚𝑜𝑑 26)    𝐶2 ≡5𝑃1 + 8𝑃2 (𝑚𝑜𝑑 26) 
+Where, the encryption algorithm takes two successive letters and transforms their 
+numerical equivalents 𝑃1 𝑃2 into a block 𝐶1𝐶2 of ciphertext numbers via the pair 
+of congruences given above. Encrypt the message BUYNOW and show the steps 
+of encryption. [Consider the following mapping. A:00, B:01, C:02, …. Z=25]. 
+ 
+ 
+b) Explain how digital signature standard works. 
+ 
+ 
+c) Explain the working of virus through the virus pseudocode 
+ 
+ 
+d)  Explain IPSec tunnel and transport mode with suitable diagram 
+ 
+UNIT I 
+ 
+Q2 
+a) Explain how meet-in-the middle attack on Double DES works. 
+b) Explain R&A algorithm in detail. 
+(5,5) 
+Q3 
+List out the: 
+a)  Properties of a group with a numerical example. 
+b) Properties of a field with a numerical example. 
+(5,5) 
+UNIT II 
+ 
+Q4 
+Solve using Fermat’s theorem: 
+a) 331 mod 7 
+b) 128 129 mod 17 
+c) Find inverse of 15 mod 43  
+(2.5, 
+2.5, 5) 
+Q5 
+a) Explain the working of ElGamal Cryptosystem (both encryption and 
+decryption) through equations. Justify the security of this cryptosystem.  
+b)  What is discrete log problem? What is the advantage of using primitive root 
+in Diffie Hellman Key exchange?                                      
+(6,4) 
+UNIT III 
+ 
+Q6 
+a)  Consider the following Diffie Hellman Key Exchange scenario between Ram and 
+Sita. The DHKE global parameters are: prime number p =13 and its primitive 
+element g = 2. Public key of Ram is 10. [Show computations in all cases.] 
+1. Choose a private key X for Sita and compute her corresponding public key Y. 
+Calculate Ram’s private key. 
+2. Compute the common key for each Ram and Sita. Show both calculations. 
+3. Does DHKE provide authentication of the parties? Justify your answer. 
+b) What are the properties of a cryptographic hash function? 
+(6,4) 
+Q7 
+a) Let n be a large integer. Let a cryptographic hash function h be defined as: 
+h(m) = m (mod n), where the output of h is regarded as an integer between 
+0 and n-1. Is this a cryptographic hash function? Why or why not? 
+b) Explain HMAC with a suitable diagram. 
+(5,5) 
+UNIT IV 
+ 
+Q8 
+Explain: a) PGP private key ring, b) PGP public key ring and c) PGP certificate. 
+(10) 
+Q9 
+a) Explain the structure of a block in blockchain 
+b) How Authentication & Confidentiality is achieved in IPSec 
+(5,5)

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAI406_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI406",
+    "subject_name": "AI for Games",
+    "program": "B. Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key milestones in AI for games? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between A* and Dijkstra’s algorithm. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a Finite State Machine in game AI? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "List two advantages of using FSMs in NPC behavior modeling. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Mention two modern games that use AI and describe their AI features. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss different variants of the A* algorithm and their advantages. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe how navigation meshes help in pathfinding for games. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how FSMs are used in NPC decision-making with an example. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe utility theory and its application in game AI decision- making. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the challenges in designing NPC decision-making systems. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

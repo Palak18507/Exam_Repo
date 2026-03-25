@@ -1,0 +1,129 @@
+{
+  "paper_id": "BIT102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT102",
+    "subject_name": "Object Oriented Programming",
+    "program": "<B.TECH>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are the four pillars of Object-Oriented Programming? Explain any one of them with example. Consider the following program: #include <iostream> using namespace std; int main { int i, j; for { cout<<i<<j<<endl; } return 0; } What is the output of the above program? Explain how friend functions can access private members of a class with suitable example. Which constructor is invoked when the object obj2 is created in the following C++ program? class A{ int i; A{ i=0; } A{ i=x+1; } A{ i=x+y; } }; main{ A obj1; A obj2; A obj3; } Can we create objects of an abstract class? Justify your answer with example. What is the purpose of seekg and tellg functions in file handling? What happens if an exception is not caught in C++? Write a simple C++ code snippet that uses try-catch blocks. Write a code snippet demonstrating a template with multiple parameters. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the need for Object-Oriented Programming in modern software development. How does it improve upon procedural programming?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a C++ program to print Right-Angled Triangle of Stars. Assume number of rows as 5.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 6.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a program to create a function to increment a number by 5: 1) Using call by reference 2) Using call by pointers",
+          "marks": 3.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a C++ program to print Number Pyramid Pattern. Assume number of rows as 5. CO Mapping",
+          "marks": 3.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is operator overloading? Create a class ComplexNumber with real and imaginary parts. Overload the following operator using member function/friend function: == to compare equality of two complex numbers",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Define a class Employee in C++ with the following specifications:  Data Members: o int empID o string name o double basicSalary o double grossSalary  Member Functions: o void inputDetails – To accept employee ID, name, and basic salary. o void calculateGrossSalary – To calculate gross salary as: grossSalary = basicSalary + + o void displayDetails – To display all details of the employee. In the main function:  Create an array of n employees .  Accept and display details for all employees. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create two base classes: Employee with member function getDetails Person with member function getDetails Now create a derived class Manager that inherits from both and resolves ambiguity using scope resolution. Also, demonstrate constructor inheritance and show how constructors are invoked in this program.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a base class Shape with a virtual function draw. Create derived classes Circle, Rectangle, and Triangle, each overriding draw method. Demonstrate polymorphism using base class pointers calling draw.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the process of opening, writing, and closing a file in C++ with programming code. Which are the different file opening modes? CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Develop a class Array that stores n integers. Write a function to access elements by index. Throw and handle an out_of_range exception if the index is invalid. Demonstrate the program with proper input and output.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the possible ambiguities that can arise when using multiple namespaces and how they can be resolved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a class template for a simple calculator that can work with int, float, and double.",
+          "marks": 2.5
+        }
+      ]
+    }
+  ]
+}

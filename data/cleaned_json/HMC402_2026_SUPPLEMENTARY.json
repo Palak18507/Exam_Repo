@@ -1,0 +1,120 @@
+{
+  "paper_id": "HMC402_2026_SUPPLEMENTARY",
+  "paper_metadata": {
+    "subject_code": "HMC402",
+    "subject_name": "Creativity Innovation and Entrepreneurship",
+    "program": "< B.Tech.(CSE-AI)>",
+    "academic_year": "2025-2026",
+    "exam_type": "Supplementary",
+    "exam_name": "Supplementary Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the term innovation. What are the major categories of innovation typically seen in the tech industry?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Mention a modern technique used to boost creativity in AI-based projects. How does this differ from traditional problem-solving approaches?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly describe a structured framework used for creative problem-solving in AI applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Name two key ethical principles in AI development. How do they contribute to reducing bias and promoting transparency?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How can AI innovation be protected theory patents and copyrights?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the role of AI for social good initiatives?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Describe the Lean Startup methodology. How is it particularly useful for AI-focused entrepreneurs?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Why is market validation essential during the early phases of an AI startup?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe three practical methods for enhancing creativity within AI projects. Illustrate each method with an example from real-world AI development.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "How does brainstorming contribute to ideation in AI-based business ventures? Suggest three techniques to conduct effective brainstorming sessions aimed at generating innovative AI startup ideas.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is the core ethical principles guiding responsible AI development? Discuss how they help reduce bias and support fairness, including examples from real AI projects.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What is AI bias, and why is it a major concern in automated decision-making? Present two methods to address and reduce algorithmic bias and assess their effectiveness.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain how the innovation process in AI differs from traditional innovation approaches. Discuss the role of Licensing & IPR.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Discuss the role of responsible AI development and deployment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Highlight the essential components of entrepreneurship in the AI sector. In what ways does identifying opportunities in AI differ from traditional markets?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Examine the unique challenges faced by AI startups during development and scaling. Propose actionable strategies to manage these obstacles and ensure sustainable growth.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

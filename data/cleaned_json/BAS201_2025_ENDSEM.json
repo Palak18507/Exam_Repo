@@ -1,0 +1,142 @@
+{
+  "paper_id": "BAS201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS201",
+    "subject_name": "Material Science and Engineering",
+    "program": "<B.Tech. >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare the hardness, electronic conductivity, thermal conductivity and temperature stability of polymer, metal and ceramic materials. Which material is used to make excellent brake pads in the automobile sector? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a polymer? What is the difference between thermoplastic and thermoset polymers? Give one example. 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A Hall voltage of 0.1 mV is found to be developed when a sample carrying a current of 10 mA is placed in a transverse magnetic field of 0.3 T. Calculate the charge carrier’s concentration of the sample. Given the thickness of the sample along the direction of the magnetic field is 0.3 mm. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the piezoelectric effect? Discuss its application. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the chromic materials? Discuss any one application of photochromic material. 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you mean by photo-conducting material? How are they useful for making photodetectors? How will you select materials for solar applications? 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is AFM? What is its application? Which material is used for making AFM tips? 2.5 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the difference between a light microscope and SEM? Which one is used for taking measurements for nanomaterials and why? 2.5 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Dielectric materials come under which category, metallic, semiconductor, or ceramic? Discuss the application of dielectric materials. Compare the properties of metal, semiconductor and ceramic material.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is glass used for window panes? Glass comes under which material category? Which materials are used for storing acids in the chemical lab and why? Discuss their properties and other applications. 5 5 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Can a composite material exhibit the electric conducting properties? comment. What are the advantages of using polymer composites for making mobile phone outer case as compared to metal?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is nanocomposite? What is the role of matrix and reinforcement in composites? Discuss in detail. 5 5 1 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "For a given specimen of a superconductor, the critical fields are respectively 1.4 ×105 and 4.2 ×105 amp/m for 14 K and 13 K. Calculate the transition temperature and critical field at 4.2 K. What do you understand by soft and hard magnetic material? What is spintronics? What is the GMR effect? Discuss in detail. 5 5 2",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is diamagnetism? Discuss the classical theory of diamagnetism. How you will identify the diamagnetic material based on the susceptibility value? What is fermi energy? Compare the fermi energy level of p- type and n-type semiconductors. Find the position of fermi level EF at room temperature for germanium crystal having 5 × 1022 atoms/m3. 5 5 2",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is LED? Discuss the working principle and IV characteristics of LED in detail. What is the shape memory effect? What are shape memory alloys, explain their properties and their working principle. 5 5 3",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are polymeric implant materials? Write the name of any two bio-compatible polymers. Which properties will you use to decide the selection of these materials? What is LCD? How it is different from LED? Discuss the working of LCD. Why polarizer sheets are used in LCD? 5 5 3",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "To find out the miller indices corresponding to the crystalline planes in a material, which instrument you will use? Explain its construction and working principle in detail. For a cubic crystal system, the powder X-ray diffraction pattern of 1st order was recorded using a Cu Kα source having wavelength 1.54 A°, which shows a peak at 33.60° for 111 planes. Find the lattice parameter of the sample. 5 5 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "For selecting materials for solar application, an optical band gap of the material is required, which instrument is used for finding an optical band gap? Discuss its working principles and construction. For testing the high-temperature stability of the material which instrument is used? Discuss its construction and working? Which type of crucibles are required for this study? 5 5 4",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

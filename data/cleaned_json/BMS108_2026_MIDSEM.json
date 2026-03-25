@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS108",
+    "subject_name": "Marketing Management",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does marketing differ from selling? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is positioning in marketing? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the different levels of a product? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is test marketing? 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does the marketing concept evolve over time, and how does it differ from earlier business orientations ? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key components of a marketing environment, and how can businesses adapt to changes in macro and micro-environmental factors? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the STP model with real-world examples. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the impact of product life cycle on marketing strategy and resource allocation. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does a company decide on its product mix width, and product line depth? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the stages of new product development in detail. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

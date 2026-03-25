@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS316_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS316",
+    "subject_name": "Retail Management",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are department stores and how do they differ from convenience stores?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "“Define sustainability practices and experiential retailing as trends in retailing.\"",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of Open to Buy Planning and its significance in retail.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How retailers Analyze the merchandise performance .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "explain and differentiate online and offline retail media advertising with example",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "explain the gaps model for improving the quality of services.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What do you understand by environmental orientation in retail?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain FDI in the context of the Indian organized retail sector.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Do you think India has potential to become a global retail hub? Justify your answer with facts and arguments.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the major challenges in the development of retail in India. How can these challenges be addressed?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the role of purchase management in retail. How does merchandise purchasing and Open to Buy planning contribute to effective inventory management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Develop a pricing strategy for a new retail store entering a competitive market. Discuss the use of competitive pricing and price skimming strategies in this scenario.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the key components of promotional budgeting in retail and examine how push and pull promotional strategies align with budgeting decisions and support the overall success of retail promotion plans.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is service recovery in retail, and why is it crucial for maintaining customer satisfaction? Discuss strategies retailers can implement to recover from service failures effectively.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the ethical and legal issues prevalent in retailing. How can retailers promote social responsibility and sustainability.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "explain the role of information systems in retailing. How can retailers use technology to enhance their operations and decision-making.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

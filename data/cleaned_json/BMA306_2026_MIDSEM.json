@@ -1,0 +1,110 @@
+{
+  "paper_id": "BMA306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA306",
+    "subject_name": "Computer-Aided Design",
+    "program": "B. Tech. MAE/DMAM",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are homogenous transformations? Co2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How many matrices would be required for the concatenated transformation of rotating a point about an arbitrary line? Show with an example. Co2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Is rotation a linear transformation, why? Co2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the major advantages of using the Breshenham circle drawing algorithm? Co1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using Bresenham's algorithm, generate the coordinates of the pixels that lie on a line segment having endpoints and Co1,Co3",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive Bresenham's Circle Drawing Algorithm. Co1,Co3",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the steps involved in a typical Product Development Process. Co1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The end points of two lines L1 and L2 are P1 P2 and P3 P4 respectively. Find the parametric equations of the lines. Show the parameterization directions. Are the two lines parallel or perpendicular? Find the coordinates of the intersection point. Co1,Co3,Co2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the center of a circle with radius R, that is tangent to two known lines passing through the points P1&P2 and P3&P4 respectively. Co1,Co3,Co2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A triangle is formed by points A, B, and C. Calculate the new coordinates if the triangle is reduced in size using the scale factors Sx= 0.5, Sy= 0.7 and base point is point A._______________ Co1,Co3,Co2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}i) Translation is a linear transformation. iv) Tangent vector of a curve is called the slope of the curve. , , Note: Q. 1 is compulsory. Subject: Computer Aided Design Subject Code: BMA 306 v) The homogenous transformation matrix for a 2D rotation will be a 4X4 Matrix",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 CO Using Bresenham's algorithm, generate the coordinates of the pixels that lie on a line segment having endpoints and . I , Derive Bresenham's Circle Drawing Algorithm. , Explain the steps involved in a typical Product Development Process.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 CO The end points of two lines L1 and L2 are P1 P2 and P3 P4 respectively. Find the parametric equations of the lines. Show the parameterization directions. Are the two lines parallel or perpendicular? Find the coordinates of the intersection point. , , Find the center of a circle with radius R, that is tangent to two known lines passing through the points P1&P2 and P3&P4 respectively. , , A triangle is formed by points A, B, and C. Calculate the new co-ordinates if the triangle is reduced in size using the scale factors Sx= 0.5, Sy= 0.7 and base point is point A. ________________ , ,",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

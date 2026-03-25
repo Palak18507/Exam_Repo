@@ -1,0 +1,100 @@
+{
+  "paper_id": "BMS313_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS313",
+    "subject_name": "Consumer Behaviour",
+    "program": "BBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between primary and secondary research methods in consumer behavior studies.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concepts below- 1- Freud’s Personality Theory 2 - Jung’s Personality Theory",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the various determinants of social class with suitable examples. C",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is consumer delight and what are the benefits of achieving consumer delight for a brand.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Please read the case study carefully and answer the questions provided below. A popular beverage company, \"powerSip,\" is seeing a decline in sales of its energy drink despite increasing competition in the market. The marketing team decides to conduct consumer behavior research to understand the shift in consumer preferences. I. How can insights from consumer behavior help \"powerSip\" modify its marketing strategy to boost sales? II. Provide examples of how they could adjust their product features, pricing, or promotional tactics based on consumer behavior insights.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the different bases of consumer segmentation . Provide examples of how these segmentation methods can help marketers better understand their target audience and develop tailored marketing strategies.\"",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the process of categorization and discrimination in consumer perception. How do consumers categorize products, and how does this influence their purchasing decisions",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of consumer memory networks. Discuss how marketers can use this understanding to design marketing messages that enhance brand retention and recognition.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss how consumer culture influences buying behavior. how each impacts consumer preferences and decisions. Provide examples of brands that effectively target specific cultural values or social classes. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the different types of family decisions .How do marketers tailor their marketing strategies based on the type of decision-making within the family unit.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "\"Consumer satisfaction is a key driver of customer loyalty and repeat purchases.\" Explain the concept of consumer satisfaction, its importance in the post-purchase phase, and how businesses can measure and enhance consumer satisfaction",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the different consumer value delivery strategies businesses can use to create superior value for their customers. How can these strategies help a company differentiate itself in a competitive marketplace?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

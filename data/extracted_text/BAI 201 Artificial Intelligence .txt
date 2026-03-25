@@ -1,0 +1,118 @@
+1 
+ 
+(Please write your Enrollment Number)                                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B. Tech, Semester: 3rd   
+(December, 2024) 
+ 
+Subject Code: BAI 201 
+Subject: Artificial Intelligence 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(4*5=20) 
+CO 
+Mapping 
+a) 
+Compare and contrast uninformed search strategies like BFS and 
+DFS. 
+(04) 
+CO1 
+b) 
+Explain the concept of heuristic function. How does it improve the 
+performance of search algorithms? 
+(04) 
+CO1 
+c) 
+Describe the difference between the Bag of Words (BoW) model 
+and Word Embeddings. 
+(04) 
+CO2 
+d) 
+What is a Neural Network? Briefly explain its structure and 
+working. 
+(04) 
+CO3 
+e) 
+What are the ethical considerations involved in the development 
+and deployment of AI systems? 
+(04) 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+How does A* use both path cost and heuristics to find the optimal 
+solution? Consider the following Graph:  
+ 
+The numbers written on edges represent the distance between 
+the nodes. The numbers written on nodes represent the heuristic 
+value. Find the most cost-effective path to reach from start state 
+A to final state J using A* Algorithm. 
+(10) 
+CO1 
+2 
+ 
+Q3 
+Explain how intelligent agents can be used to solve real-world 
+problems. What are the different types of AI agents, and how are 
+they applied in practical scenarios? 
+(10) 
+CO1 
+UNIT - II 
+ 
+CO 
+Mapping 
+Q4 
+Compare and contrast different methods of knowledge 
+representation in AI. Furthermore, explain ontology and how is it 
+used in AI for knowledge representation. 
+(10) 
+CO2 
+Q5 
+Define Rule-Based Systems and discuss their role in AI. 
+Additionally, explain the concepts of Forward Chaining and 
+Backward Chaining in Rule-Based Systems, highlighting their 
+differences and practical applications. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Compare and contrast the use of probabilistic reasoning and Fuzzy 
+Logic in AI systems. Provide real-world examples of their 
+applications. How does Fuzzy Logic improve decision-making in 
+uncertain environments?  
+(10) 
+CO3 
+Q7 
+Explain how Genetic Algorithms (GAs) work and their application 
+in solving optimization problems in AI. Provide a detailed 
+explanation of the GA workflow, including a flowchart, and discuss 
+key components 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Discuss the architecture of an Expert System with an example. 
+Explain how it can be applied in real-world decision-making 
+processes. 
+(10) 
+CO4 
+Q9 
+How are IoT applications being enhanced by AI? Provide examples 
+of IoT systems that use AI. 
+(10) 
+CO4

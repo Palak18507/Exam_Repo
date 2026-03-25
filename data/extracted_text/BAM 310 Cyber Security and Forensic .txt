@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Off-Line) 
+Course Name:< B.TECH>, Semester:<6> 
+(May, 2025) 
+ 
+Subject Code: BAM 310 
+Subject: Cyber Security and Forensics 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Define the below-mentioned terminologies with suitable examples 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Version Control 
+ 
+CO3 
+ 
+b) Pharming 
+ 
+CO2 
+ 
+c) Trusted Shell 
+ 
+CO1 
+ 
+d) Forensic Duplication 
+ 
+CO2 
+ 
+e) Digital Signature 
+ 
+CO1 
+ 
+f) Faraday Bag 
+ 
+CO3 
+ 
+g) Sandboxing 
+ 
+CO4 
+ 
+h) Malware Forensics 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Analyze how identity fraud can be uncovered in digital systems 
+through anomalies in authentication logs and metadata. Highlight the 
+role of biometric spoofing and synthetic identity detection in forensic 
+investigations. 
+(10) 
+CO2 
+Q3 
+Evaluate a scenario where a data breach occurred despite 
+authentication mechanisms being in place. Discuss how weak or 
+misconfigured access control models could contribute to such 
+incidents. Give suitable illustrations. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Critically examine the Trusted Shell Execution in secure systems. 
+How does it help prevent unauthorized command execution and 
+ensure the integrity of shell operations? 
+(10) 
+CO4 
+Q5 
+Elucidate the concept of root-level privileges in the context of 
+operating system security. Discuss how unauthorized access to root 
+privileges can be exploited by attackers in a compromised system. 
+Illustrate with a real-world case study involving privilege escalation. 
+(10) 
+CO1 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Investigate how cryptographic checksums assist in ensuring data 
+integrity during forensic evidence acquisition. Discuss the 
+consequences of mismatched checksums in chain-of-custody 
+validation. 
+(10) 
+CO3 
+Q7 
+During forensic imaging of a compromised system, how does 
+validation ensure the authenticity of acquired data? Assess the role 
+of hashing algorithms in maintaining integrity of evidences. 
+(10) 
+CO2 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Critically examine the role of behavioral or dynamic malware analysis 
+in detecting process anomalies involving memory injection and 
+stealthy persistence during forensic investigations. 
+(10) 
+CO3 
+Q9 
+Analyze the procedural stages of mobile forensics with emphasis on 
+issues related to data volatility, encryption, and evidence 
+admissibility. 
+(10) 
+CO4

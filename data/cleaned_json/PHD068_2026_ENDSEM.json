@@ -1,0 +1,99 @@
+{
+  "paper_id": "PHD068_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD068",
+    "subject_name": "Cyber Security",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define vulnerability and explain its impact in cyber security 2.5 b Differentiate between IDS and IPS with examples 2.5 c What are biometric authentication methods? Explain with advantages. 2.5 d Explain the concept of IoT security and its challenges 2.5 e Describe how blockchain can be used in securing digital transactions. 2.5 f Define stylometry. How is it used in cybercrime investigations? 2.5 g Discuss the management of digital forensic evidence. 2.5 h What are cyber security awareness tips for common users? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "1. A vulnerability assessment scan of a corporate network yields the following results for 5 hosts:  Host A: 3 critical, 2 high, 1 medium  Host B: 0 critical, 5 high, 3 medium  Host C: 2 critical, 1 high, 4 medium  Host D: 4 Critical, 1 high, 2 medium  Host E: 1 Critical,4 high,5 medium Task: Calculate the total number of vulnerabilities by severity level and determine which host has the highest risk exposure based on a weighted score:  Critical = 5 points  High = 3 points  Medium = 1 point 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss different classifications of cyberattacks and malware with examples. Explain the need for cybersecurity. Describe the architecture of an information system and how it can be compromised. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss security challenges in mobile and cloud computing environments. How can they be mitigated? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain various security models and mechanisms. Also, elaborate on social media security threats. 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "You are given three suspect email samples believed to be written by the same person. Stylometric features such as average word length, frequency of function words, and punctuation usage are calculated as follows: Feature Email 1 Email 2 Email 3 Anonymous Email Avg. Word Length 5.2 5.3 5.1 5.2 Function Words 23.1 22.8 23.5 22.9 Commas per 100 words 4.5 4.6 4.4 4.7 Using Euclidean distance or cosine similarity, determine which known email is most stylistically similar to the anonymous email and justify your choice. Discuss its implications for author identification and cybercrime investigation. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the fraud rate for each platform.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compute the total estimated monetary loss per platform.",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "If the trend continues, project the expected loss for the next quarter assuming a 10% increase in fraud reports and constant fraud rate.",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Based on the above, suggest which platform requires priority for awareness and incident handling. 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the process of digital forensic investigation. What are the legal challenges associated with it? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is the IT Act 2000? Discuss key amendments and its relevance in today's cybercrime landscape. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

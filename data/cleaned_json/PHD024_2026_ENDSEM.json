@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD024_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD024",
+    "subject_name": "Introduction to Machine Learning",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping A How is learning rate used in Gradient Boosting, and what is its effect on model convergence? B How is risk minimization used to derive the optimal decision rule in statistical decision theory? C How does entropy differ from Gini impurity as a splitting criterion in decision trees? D What is the impact of increasing model complexity on bias and variance? E Define bootstrapping and explain its role in estimating the sampling distribution of a statistic. F How do precision and recall differ, and how are they calculated? G Describe the ROC curve and the concept of Area Under the Curve . How can ROC analysis help in comparing the performance of classification models? H Highlight one key similarity and one key difference between LDA and logistic regression. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Compare and contrast Principal Component Regression and Partial Least Squares in terms of dimensionality reduction and predictive accuracy. Provide examples of scenarios where each method is preferred.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Discuss the differences between linear regression and multivariate regression. Provide examples to illustrate when each is appropriately used. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "How does Principal Component Regression select components, and how does this impact model interpretation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe the architecture and training process of a feedforward neural network. Discuss how training and validation are used to avoid overfitting. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain how ensemble methods help to improve the bias- variance tradeoff. Provide examples of scenarios where ensemble methods outperform individual models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Discuss the working principle of Support Vector Machines in detail. How SVM handles linear and non-linear classification problems? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Describe the perceptron learning algorithm and its application in training single-layer neural networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Define BIRCH and CURE algorithms and compare these algorithms in terms of their clustering approaches and scalability.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "paper_id": "BMA428_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA428",
+    "subject_name": "Sensors and Actuators",
+    "program": "B.Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Explain any five static characteristics of sensor. What do you understand by Mechanical actuation? Explain the mechanical actuators in brief. What are the advantages of thin films deposition? Explain. Explain the sputtering and its advantages in brief.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT (CO1)",
+      "question_text": "Explain the working of hall effect sensor and optical encoder. Explain the working of MOFSET and list its applications. What is electrical actuation system? Explain the electrical actuators in brief.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT (CO2)",
+      "question_text": "Explain the working principles of physical vacuum deposition technique with diagram and list its advantages and disadvantages. Explain the photolithography technique and its applications. Elaborate the various advantages and disadvantages of etching methods. Note:Q. 1 is compulsory. Subject: Sensors and Actuators Subject Code: BMA 428",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

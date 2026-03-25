@@ -1,0 +1,193 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OFFLINE) 
+Course Name: BBA Semester: 5th 
+(December, 2024) 
+ 
+Subject Code: BMS 331 
+Subject: Data Analytics 
+Time :3 Hours 
+Maximum Marks: 60 
+Note: Q.1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Explain the importance of data analytics. 
+CO1 
+ 
+(b) 
+Describe the benefits of using SPSS software. 
+CO1 
+ 
+(c) 
+What is frequency distribution? 
+CO2 
+ 
+(d) 
+What is cross tabulation? 
+CO2 
+ 
+(e) 
+What is independent sample t test? 
+CO3 
+ 
+(f) 
+What is ANOVA? 
+CO3 
+ 
+(g) 
+Differentiate between time series and cross sectional data. 
+CO4 
+ 
+(h) 
+What is regression analysis? 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+What are the types of measurement scales? 
+(10) 
+CO1 
+Q3 
+What are techniques used in exploratory data analysis? 
+(10) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+Individual Gender 
+Age 
+Cola 
+Preference 
+Weekly 
+Units 
+Purchases 
+James 
+M 
+19 
+Coke 
+2 
+Parker 
+M 
+17 
+Pepsi 
+5 
+Bill 
+M 
+20 
+Pepsi 
+7 
+Laurie 
+F 
+20 
+Coke 
+2 
+Jim 
+M 
+18 
+Coke 
+4 
+Jill 
+F 
+16 
+Coke 
+4 
+Tom 
+M 
+17 
+Pepsi 
+12 
+Julia 
+F 
+22 
+Pepsi 
+6 
+Amie 
+F 
+20 
+Pepsi 
+2 
+Dawn 
+F 
+19 
+Pepsi 
+3 
+ 
+1. Prepare a frequency distribution of the respondents’ ages. 
+2. Cross-tabulate the respondents’ genders with cola 
+preference. 
+3. Which tests can be applied to test the impact of gender on 
+cola preference and weekly unit purchases? 
+ 
+(10) 
+CO2 
+Q5 
+Explain the various graphical methods used to summarize the 
+data? 
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+The results of attitude toward business career of the two 
+groups of college students is shown below: 
+Business Students 
+Sociology Students 
+X̅ 1 = 16.5 
+X̅ 2 = 12.2 
+S1 = 2.1 
+S2 = 2.6 
+n1 = 21 
+n2 = 14 
+Are business majors or sociology majors more positive about 
+a career in business? Apply suitable statistical test to verify 
+this statement. The attitude towards business careers is 
+measured on interval scale. 
+(10) 
+CO3 
+Q7 
+Is there any effect of location on Papa john’s restaurants? 
+Suppose the researcher wishes to examine the following 
+hypothesis: 
+ 
+Standalone locations are more likely to be profitable than are 
+shopping center locations. 
+ 
+The data is found in the following contingency table: 
+Location 
+Profitable 
+Not Profitable 
+Total 
+Standalone 
+50 
+10 
+60 
+Shopping Center 
+15 
+25 
+40 
+Totals 
+65 
+35 
+100 
+Apply the suitable statistical technique to test the given 
+hypothesis. 
+(10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+What are the steps in interpreting the regression model? 
+(10) 
+CO4 
+Q9 
+What is the factor analysis? What are the steps in 
+implementing a factor analysis on any research data? 
+(10) 
+CO4

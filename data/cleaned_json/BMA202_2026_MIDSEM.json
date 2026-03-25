@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMA202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA202",
+    "subject_name": "Production Technology-II",
+    "program": "B. Tech. (MAE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between the self-centering three jaw chuck and independent four jaw chuck with neat sketch. 01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the different type of chips formed during orthogonal cutting with the neat sketch 01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw the neat diagram of drill bit mentioning various tool nomenclature. 02",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the purpose of face plate? Explain. 02",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between the conventional lathe with CNC lathe with the help of suitable diagram. 01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the single point cutting tool. Also, write the various tool signatures of single point cutting tool with suitable diagram. 01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the selection criteria for cutting tool material? Explain any five cutting tool materials. 01",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the use of drilling machine? Draw and explain the various constructional features of shaper machine with neat sketch. 02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the various operation performed on drilling machine with suitable diagram: drilling, reaming, counter boring, counter sinking, tapping. 02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the various operation performed on Lathe machine with suitable diagram: tapering, facing, knurling, chamfering. 02",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA303",
+    "subject_name": "Fluid Mechanics and Hydraulic Machines",
+    "program": "<B.Tech.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between kinematic viscosity and dynamic viscosity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is ‘centre of pressure’?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between laminar and turbulent flow.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the function of venturimeter. Why the divergent part of the venturimeter made longer than the convergent part.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the function of draft tube in the case of reaction turbines?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is drag force and lift force in case of bluff bodies?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write Euler’s equation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the applications of differential form of equations in fluid mechanics?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "A differential manometer is connected at two points A and B of two pipes as shown in Fig. 1. The pipe A contains a liquid of specific gravity =1.5 while pipe B contains a liquid of specific gravity =0.9. The pressures at A and B are 1 kgf/cm2 and 1.80 kgf/cm2 respectively. Find the difference in mercury level in the differential manometer. Fig. 1 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Obtain an expression for the depth of centre of pressure when the lamina is immersed in a liquid and is vertical the lamina is immersed in a liquid and is at an angle with the horizontal.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Apply and explain the Momentum equation for inertial control volume and for control volume with rectilinear acceleration.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write the control volume formulation of conservation of mass. What is its significance?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "The efficiency η of a fan depends on the density ρ, the dynamic viscosity µ of the fluid, the angular velocity ω, diameter D of the rotor and the discharge Q. Express η in terms of dimensionless parameters. Explain the different types of hydraulic similarities that must exist between a prototype and its model.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Two tanks whose water surface levels differ by 10m are connected by three pipes of diameters 250 mm, 150 mm and 200 mm in series. Their lengths are 300 m, 250 m and 150 m respectively. Their coefficients of friction are 0.005, 0.006 and 0.0055 respectively. Find the rate of flow through the pipeline considering all losses. Find also the values of individual losses of head.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain how unit quantities are useful in predicting the performance of a given machine under various input output conditions.? Discuss",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT SPEED,",
+      "question_text": "Differentiate between centrifugal pumps and reciprocating pumps. Explain the working of centrifugal pump with the help of neat sketch.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

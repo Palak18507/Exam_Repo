@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M. Tech: Semester: 2 
+(May, 2025) 
+ 
+Subject Code: MAI 102  
+Subject: Advanced Machine Learning  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(5*4 =20) 
+CO Mapping 
+a) 
+What are machine learning algorithms? Discuss the different 
+categorizes of ML algorithms in detail. 
+ 
+CO1 
+b) 
+Difference between active learning and reinforcement learning. 
+ 
+CO2 
+c) 
+Explain data augmentation techniques for imbalanced dataset. 
+ 
+CO3 
+d) 
+What are the three types of clustering method? Describe each method 
+in detail. 
+ 
+CO4 
+UNIT I 
+(10) 
+CO Mapping 
+Q2 
+Discuss sampling in brief. Elaborate about the methods and types of 
+sampling. 
+ 
+CO1 
+Q3 
+What is feature selection in machine learning? Discuss each method in 
+detail. 
+ 
+CO1 
+UNIT II 
+(10) 
+CO Mapping 
+Q4 
+Describe Support Vector Machine (SVM). Write in detail about each 
+kernal functions used in SVM. 
+ 
+CO2 
+Q5 
+Explain the working of SMOTE algorithm. Differentiate between over 
+sampling and under sampling with advantages and disadvantages of 
+both techniques. 
+ 
+CO2 
+UNIT III 
+(10) 
+CO Mapping 
+Q6 
+What is fuzzy clustering. Explain its working with its advantages and 
+disadvantages. 
+ 
+CO3 
+Q7 
+Elaborate centroid based clustering along with k-means and k-medoids. 
+Explain DBSCAN method with steps. 
+ 
+ 
+CO3 
+UNIT IV 
+(10) 
+CO Mapping 
+Q8 
+What is an ANN. Explain it's architecture, techniques and applications 
+in detail. 
+ 
+CO4 
+Q9 
+Discuss the reinforcement learning. Mention it's application and case 
+study in medical area in detail. 
+ 
+CO4

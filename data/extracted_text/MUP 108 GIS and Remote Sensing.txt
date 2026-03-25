@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Plan) (Semester:   2nd) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MUP 108 
+Subject: GIS and Remote Sensing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+a) 
+Explain the main components of the Global Positioning System 
+(GPS) and its benefits. 
+ 
+CO1 
+b) 
+What is geo-referencing in GIS, and why is it important? 
+ 
+CO1 
+c) 
+Differentiate between raster data capture and spatial data 
+generalization in GIS. 
+ 
+CO2 
+d) 
+Briefly describe how GIS supports decision-making through buffer 
+and overlay analysis. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) 
+Discuss the process of spatial data entry into GIS and explain how 
+attribute data is linked to spatial data. 
+ 
+CO2 
+b) 
+Explain the concepts of coordinate systems and geo-coding in 
+GIS. How do they contribute to accurate mapping and spatial 
+analysis? 
+ 
+CO2 
+c) 
+Describe the various GIS data processing techniques, including 
+digitization, topology building, and metadata creation, 
+highlighting their significance in GIS applications. 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) 
+What are the different scales and levels of information needs in 
+planning information systems? 
+ 
+CO1 
+b) 
+Explain the process of terrain modelling and its applications in 
+information systems. 
+ 
+CO2 
+c) 
+Describe the role of summary statistics and inference in data 
+analysis within information systems. 
+ 
+CO2

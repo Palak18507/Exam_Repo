@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI403_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI403",
+    "subject_name": "Computer Vision",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Name the two key stages of computer vision and their use in understanding an image.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Difference between Stochastic Gradient Descent & batch Gradient Descent.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is batch normalization in CNN?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why is pooling layer important? Explain with example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Attention Mechanism? What are it’s types?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain any 4 applications of Vision Transformers.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Describe Semantic Segmentation. State it’s applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain Adversarial Network in details",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is “K” in the K-nearest neighbors algorithm? Why is the odd value of “K” preferred over even values in the KNN Algorithm? How does Backpropagation Algorithm work? Describe the two major steps involved.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is optimization function of the loss function? Explain it’s role in CV. Explain Mean Squared Error and list it’s applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain AlexNet architecture. Explain K-means clustering for vector quantization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe various weight initialization techniques in CNN. Explain the role of regularization in CV. Differentiate between Overfitting and Underfitting.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain RNN architecture. What are the different variants of RNN? Describe them. Differentiate between feedforward Neural Networks and RNNs.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How do Vision Language models work? What is Image Captioning? Explain it’s step by step workflow.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Object Detection and it’s working. Explain different data Augmentation Techniques in details. Differentiate between Two stage detectors and Single stage detectors.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How does face recognition take place using Siamese Neural Networks? What are conditional GANs? What are it’s applications? What are the use cases of Variational Autoencoders?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

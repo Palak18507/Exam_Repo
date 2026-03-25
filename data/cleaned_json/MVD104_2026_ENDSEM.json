@@ -1,0 +1,80 @@
+{
+  "paper_id": "MVD104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD104",
+    "subject_name": "Advances in Emerging VLSI",
+    "program": "M.Tech ECE",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1.",
+      "unit": null,
+      "question_text": "CO Mapping List any six Analog Design trade-offs.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3.",
+      "unit": "UNIT I",
+      "question_text": "What happens when a signal mode is hit by radioactive or cosmic particle? Differentiate between planar and Fin FET, with suitable diagrams",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4.",
+      "unit": "UNIT I",
+      "question_text": "Name some digital faults. Explain any one and steps to rectify it.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7.",
+      "unit": "UNIT III",
+      "question_text": "Draw stick diagram of a CMOS inverter and label its layer information. List 5 differentiating factors of use of MOSFET as an amplifier and as a switch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8.",
+      "unit": "UNIT III",
+      "question_text": "What is Built-in-self-test? Give its benefits over other tests.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5.",
+      "unit": "UNIT II",
+      "question_text": "What is Logic Optimization, list down its benefits & Classification? What is the objective of technology mapping, explain its significance?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6.",
+      "unit": "UNIT II",
+      "question_text": "What are the various steps involved in VLSI Testing? Discuss about the Test generation for combinational circuits",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2.",
+      "unit": "UNIT IV",
+      "question_text": "Name the leakage mechanisms influencing the performance of MOS during off-state. How is the performance of MOS affected by Trap assisted Tunneling?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9.",
+      "unit": "UNIT IV",
+      "question_text": "Explain any Test generation one algorithms for Sequential Circuits.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

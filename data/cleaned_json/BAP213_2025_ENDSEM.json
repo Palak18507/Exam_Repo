@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP213_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP213",
+    "subject_name": "Building Services-1: Water Supply & Sanitation",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the term \"water crisis\" and mention two key contributing factors. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the various types of impurities found in water? Explain based on their category. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is zero discharge, and how does it contribute to water conservation? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define sludge and sewage. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the functioning of a low-flow fixture and its water-saving benefits. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the dry and wet zones in toilet design. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the significance of self-cleaning velocity in drainpipes? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss Inspection chamber and Manhole. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Design a water storage tank for the residential apartment building with G+7 story having four apartments on each floor. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the properties, applications, and key differences between PVC, UPVC, and CPVC pipes. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the working principle of EcoSAN toilet and its relevance to sustainable sanitation. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare the Single stack system, one-pipe and two-pipe systems of drainage with diagrams. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is STP? Explain the process of water treatment in STP with the help of a diagram. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are the various methods of water conservation? Explain in detail. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What does ETP stand for; How it can be integrated in planning layout while designing a farm house?? Explain with the help of a pdiagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the working principle of a solar water heating system designed for residential buildings. Support your answer with a well-labeled diagram to illustrate the process.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

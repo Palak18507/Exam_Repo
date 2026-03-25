@@ -1,0 +1,35 @@
+{
+  "paper_id": "MMS290_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS290",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Explain the process of collecting and Understanding Social Media data? Explain- 1) Crawler 2) log file analysis 3) page tagging 4) hit 5) PPC Explain Affiliation and identity in the social analysis context and their usage? Explain the information you can generate from clickstream data?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 Explain in context of Social Media Analytics: 1) concept and importance 2) its impact on business 3) technical requirements 4) main basic activities 5) Components? A company wants to analyze the effectiveness of its recent social media marketing campaign. They collected the following data over a month from multiple platforms: Total Reach: 1,200,000 users Total Impressions: 4500,000 Total Clicks on Ads: 95,000 Total Engagements : 350,000 Total Conversions : 7,500 Total Ad Spend: $ 85,000 Using this data calculate 1)Click-Through Rate 2) Conversion Rate 3)Cost Per Click 4) Cost Per Acquisition 5) Return on Ad Spend if the total revenue generated was $300,000. Explain in detail the technique used to examine relationships and connections between entities in the context of social network? How does this technique work?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 Explain Web Analytics and stages Web Analytics process in detail? Also explain the concept of Acquisition and Site Content in the context of Web Analytics? In which Social Media Model each business unit or group within the company may create its own social media programs? Explain the characteristics, advantages and challenges associated with this model, and examples of this Model? Explain Social Network Analysis and its importance? What are the primary methods for collecting SNA data? Note: Q. 1 is compulsory. Subject Name: Social Media and Web Analytics Subject Code: MMS 290",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

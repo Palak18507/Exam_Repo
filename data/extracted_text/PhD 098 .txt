@@ -1,0 +1,135 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: PhD : Semester 1 
+(May, 2025) 
+ 
+Subject Code: PHD 098 
+Subject: Introduction to Industry 4.0 and Industrial Internet of Things 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+What is a smart factory? Briefly explain how it leverages cyber-physical 
+systems for efficient production processes. 
+2.5 
+CO1 
+b 
+How can Augmented Reality (AR) improve industrial maintenance 
+processes? Briefly explain its application. 
+2.5 
+CO1 
+c 
+What is the function of sensors and actuators in Industrial IoT (IIoT)? 
+Briefly describe one example of how they are used in industrial 
+automation. 
+2.5 
+CO2 
+d 
+What is one benefit of adopting an IIoT business model for industries? 
+Explain how it can improve decision-making in manufacturing. 
+2.5 
+CO2 
+e 
+What is the role of data center networks in IIoT? Briefly explain how 
+they support large-scale data processing in industrial applications. 
+2.5 
+CO3 
+f 
+What is one security challenge in IIoT? Briefly explain one approach to 
+addressing this challenge. 
+2.5 
+CO3 
+g 
+What role does IIoT play in healthcare? Briefly explain how IoT devices 
+improve patient monitoring and hospital management. 
+2.5 
+CO4 
+h 
+How does Augmented Reality (AR) and Virtual Reality (VR) improve 
+plant safety in industrial settings? Briefly explain one application. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of the Fourth Industrial Revolution. How does it 
+differ from previous industrial revolutions, and what are the major 
+technological innovations driving this transformation? 
+10 
+CO1 
+Q3 
+What is a LEAN production system? Explain the principles of LEAN 
+manufacturing and how it contributes to efficiency, waste reduction, 
+and continuous improvement in production processes. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the IIoT Reference Architecture. Discuss the key layers and 
+components 
+of 
+this 
+architecture 
+and 
+how 
+they 
+facilitate 
+communication and integration between various industrial systems 
+and devices. 
+10 
+CO2 
+Q5 
+Explain the importance of cybersecurity in Industry 4.0. Discuss the key 
+challenges that industries face in securing connected systems and data, 
+and the technologies and strategies used to mitigate these risks. 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the concept of Software Defined Networks (SDN) in the context 
+of IIoT. Discuss the benefits of SDN for flexible network management, 
+including improved scalability and efficient resource utilization in 
+industrial networks. 
+10 
+CO3 
+2 
+ 
+Q7 
+What role does cloud computing play in Industrial IoT (IIoT)? Discuss 
+how cloud computing enables remote monitoring, data storage, and 
+processing in IIoT systems, and explain its integration with fog 
+computing for better latency and real-time decision-making. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain how UAVs are utilized to collect and transmit real-time data in 
+industries like oil & gas, mining, and agriculture. What technologies 
+facilitate their integration into IIoT systems? Also discuss the main 
+benefits and challenges associated with deploying UAVs across 
+different industrial sectors. 
+10 
+CO4 
+Q9 
+Explain how Industrial IoT (IIoT) is applied in the food industry. Discuss 
+its role in optimizing production processes, ensuring food safety, and 
+enabling traceability and monitoring in the supply chain. 
+10 
+CO4

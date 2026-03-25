@@ -1,0 +1,77 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Supplementary Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< B.Tech.(CSE-AI)>, Semester:<VIII> 
+(May, 2025) 
+ 
+Subject Code: HMC 402 
+Subject: Creativity Innovation and Entrepreneurship 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define the term innovation. What are the major categories of innovation typically seen 
+in the tech industry? 
+ 
+b) Mention a modern technique used to boost creativity in AI-based projects. How does 
+this differ from traditional problem-solving approaches? 
+ 
+c) Briefly describe a structured framework used for creative problem-solving in AI 
+applications. 
+ 
+d) Name two key ethical principles in AI development. How do they contribute to reducing 
+bias and promoting transparency? 
+ 
+e) How can AI innovation be protected theory patents and copyrights? 
+ 
+f) What is the role of AI for social good initiatives? 
+ 
+g) Describe the Lean Startup methodology. How is it particularly useful for AI-focused 
+entrepreneurs? 
+ 
+h) Why is market validation essential during the early phases of an AI startup? 
+ 
+ 
+UNIT-I 
+Q2 
+Describe three practical methods for enhancing creativity within AI projects. 
+Illustrate each method with an example from real-world AI development. 
+(10) 
+Q3 
+How does brainstorming contribute to ideation in AI-based business ventures? 
+Suggest three techniques to conduct effective brainstorming sessions aimed at 
+generating innovative AI startup ideas. 
+(10) 
+UNIT-II 
+Q4 
+What is the core ethical principles guiding responsible AI development? Discuss how 
+they help reduce bias and support fairness, including examples from real AI projects. 
+(10) 
+Q5 
+What is AI bias, and why is it a major concern in automated decision-making? 
+Present two methods to address and reduce algorithmic bias and assess their 
+effectiveness. 
+(10) 
+UNIT-III 
+Q6 
+Explain how the innovation process in AI differs from traditional innovation 
+approaches. Discuss the role of Licensing & IPR. 
+(10) 
+Q7 
+Discuss the role of responsible AI development and deployment. 
+(10) 
+UNIT-IV 
+Q8 
+Highlight the essential components of entrepreneurship in the AI sector. In what 
+ways does identifying opportunities in AI differ from traditional markets? 
+(10) 
+Q9 
+Examine the unique challenges faced by AI startups during development and scaling. 
+Propose actionable strategies to manage these obstacles and ensure sustainable 
+growth. 
+(10)

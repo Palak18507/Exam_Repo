@@ -1,0 +1,186 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<4th > 
+(May, 2025) 
+ 
+Subject Code: BMA 208 
+Subject: Thermal Engineering - II 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Adiabatic efficiency of a reciprocating air compressor. Write 
+its expression and give the description of each notation appearing in 
+the expression. 
+ 
+CO1 
+ 
+b) Define isentropic efficiency of a centrifugal air compressor with the 
+help of T-s diagram. Write its expression and give the description of 
+each notation appearing in the expression. 
+ 
+CO1 
+ 
+c) In what type of multi cylinder engine, there are three sets of opposed 
+piston type of cylinder blocks? Draw the schematic diagram of that 
+engine and briefly explain its constructional features and power 
+production process. 
+ 
+CO2 
+ 
+d) Define Octane Number rating of SI engine fuels. Give the chemical 
+name and structural formula of the fuel which is assigned an Octane 
+Number of 100. 
+ 
+CO2 
+ 
+e) Give the names of two substances that are extensively used as 
+working fluid in a closed cycle gas turbine? 
+ 
+CO3 
+ 
+f) Draw a single T-s diagram for an open cycle gas turbine plant showing 
+inter-cooling, regeneration and reheating simultaneously. 
+ 
+CO3 
+ 
+g) Differentiate between jet propulsion and rocket propulsion. 
+ 
+CO4 
+ 
+h) Define sonic velocity in a medium and write the expression for sonic 
+velocity in a perfect gas describing each notation appearing in the 
+expression. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Define volumetric efficiency of a single stage reciprocating air 
+compressor with clearance and derive the following expression for the 
+volumetric efficiency: 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+2
+n
+vol
+p
+p
+K
+
+    
+Where, K is the clearance ratio of the compressor. 
+Apart from the pressure ratio, clearance and index of compression, on 
+what other factors does the volumetric efficiency of the compressor 
+depend? Explain the effects of all such factors on volumetric efficiency. 
+(10) 
+CO1 
+Q3 
+Air is sucked in by a centrifugal compressor at the volumetric flow rate 
+of 5 m3/s. Inlet pressure and temperature are 1 bar and 300 K. Air is 
+compressed by the compressor polytropically with polytropic index, n 
+= 1.45 through a pressure ratio of 1.5:1. The mean diameters of the eye 
+and impeller tip are 30 cm and 60 cm respectively, and the flow velocity 
+of air at inlet and outlet is the same and equal to 67 m/s. The 
+(10) 
+CO1 
+compressor runs at 8500 rpm. There is no diffuser and the whole 
+pressure rise takes place in the impeller and the casing. The blades have 
+negligible thickness. Calculate: 
+(i) Blade angles at inlet and outlet of the impeller 
+(ii) Absolute angles at the tip of the impeller 
+(iii) Breadths of the blade at inlet and outlet of the impeller.                      
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the effects of following factors on the detonation tendency of 
+an SI engine giving proper reasons: 
+(i) 
+Supercharging 
+(ii) 
+Engine speed 
+(iii) Cylinder size 
+(iv) Molecular structure of fuel 
+(10) 
+CO2 
+Q5 
+Draw a neat sketch of battery ignition system for an SI Engine and 
+explain the function of each component of the system.  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Draw the T-s diagram for a Brayton cycle and derive the expressions for 
+optimum pressure ratio for maximum cycle efficiency and optimum 
+pressure ratio for maximum specific work output in terms of 
+compressor inlet and turbine inlet temperatures and prove that the 
+pressure ratio for maximum specific work output is the square root of 
+the pressure ratio for maximum cycle efficiency. Clearly describe each 
+notation used in the derivations. 
+(10) 
+CO3 
+Q7 
+In an open cycle gas turbine plant, air enters the compressor at 1 bar 
+and 30oC. The pressure ratio is 4:1. The isentropic efficiencies of the 
+compressor and turbine are 80% and 85% respectively. The maximum 
+cycle temperature is 800oC. Calculate the net power developed in kW 
+and thermal efficiency of the cycle if the flow rate of air is 2.5 kg/s. Take 
+Cp = 1.005 kJ /kg-K and γ = 1.4 and neglect the mass of fuel. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+With the help of neat sketches explain the working of Ramjet Engine 
+and Liquid Propellant Rocket Engine. 
+(10) 
+CO4 
+Q9 
+A fighter aircraft is flying at an altitude of 15 km where the values of 
+atmospheric pressure and temperature are 18821 Pa and - 60oC 
+respectively. The Mach angle of the flight is 30o.  
+(i) Use drawing instruments, assume suitable scale and draw the 
+Mach cone showing the wave fronts at 1, 2 and 3 seconds prior 
+to the current position of the aircraft. Mark the Mach angle in 
+the Mach cone and show different zones. 
+(ii) Calculate the value of the stagnation temperature of the air 
+after it is rammed due to the motion of the aircraft.  
+(iii) Calculate the value of the stagnation pressure of the air after it 
+is rammed due to the motion of the aircraft. 
+For air, R = 287 J/kg-K and ϒ = 1.4. 
+(10) 
+CO4

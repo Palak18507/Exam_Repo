@@ -1,0 +1,89 @@
+{
+  "paper_id": "MMS232_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS232",
+    "subject_name": "Promotion Management & B2B Marketing",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How is B2B different from B2C marketing 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is it vital to synergize different marketing channels for high ROI 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does segmentation help in boosting marketing effectiveness 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Customized organic content marketing is more effective than paid advertising in B2B marketing effectiveness- Explain 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "B2B promotion management is consultative & data driven: Explain with examples 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is integrating sales, marketing, branding & CSR engagement key to B2B marketing wins 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does people branding & marketing scale-up of HR initiatives help in boosting overall brand edge and market thought leadership 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does trade /event marketing boost segmented promotion management 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How do product line extensions help in achieving B2B marketing’s goals 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Word of mouth or referral marketing is a smart B2B sales & branding boost- Explain with examples 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

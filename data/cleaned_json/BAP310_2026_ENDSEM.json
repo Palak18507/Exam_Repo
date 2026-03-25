@@ -1,0 +1,164 @@
+{
+  "paper_id": "BAP310_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP310",
+    "subject_name": "Building Services -IV Acoustics, Fire Fighting & Lifts",
+    "program": "<B.ARCH>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is reverberation time? How is it measured? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the role of NRC in evaluating acoustic materials. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How do acoustic panels work in reducing noise levels? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are acoustic materials? Explain their purpose with examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss the significance of compartmentalization in fire safety planning. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the role of fire-resistant materials in architectural design and building safety. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the purpose of a machine room in a traditional lift system? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Differentiate between escalators Lifts and conveyor belts. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the role of frequency and wavelength in determining the nature of sound.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define noise. What distinguishes airborne noise from structure-borne noise?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the reverberation time before acoustic treatment.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "If 50%of walls are covered with an acoustic panel , what is the new reverberation time",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the different factors affecting the acoustics of an auditorium with a sketch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the various acoustic defects in buildings? Suggest remedies for at least 3 defects.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the dry and wet riser with the help of a neat sketch",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the objectives and importance of fire safety in buildings as per NBC 2016.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the various types of fire extinguishers and their specific uses.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the different types of lifts used in buildings based on their function operation and type.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the terms: o Rated Load o Round Trip Time o Handling Capacity",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw and describe a detailed cross-section of a lift, including the lift well, lift pit, machine room, and safety equipment.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <B.Tech.)>, Semester: <02> 
+(May, 2025) 
+ 
+Subject Code: BIT 101 
+Subject: Cyber Security Awareness 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt any five Parts 
+20 
+ 
+ 
+a) What are the core principles of Cyber Security? 
+4 
+CO1 
+ 
+b) Explain the concept of 'Zero-Day Vulnerability' and its impact on 
+Cyber Security. 
+4 
+CO1 
+ 
+c) List the steps involved in exploiting a Cross-Site Scripting (XSS) 
+vulnerability. 
+4 
+CO2 
+ 
+d) What is a 'Man-in-the-Middle' (MITM) attack, and how can it be 
+mitigated? 
+4 
+CO2 
+ 
+e) What is the role of Threat Hunting in Cyber Security? 
+4 
+CO3 
+ 
+f) What are the main objectives of the IT Act, 2000? 
+4 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+i) 
+Why is Cyber Security important in today’s digital world? 
+ii) What is the role of antivirus and anti-malware software in cyber 
+security? 
+(10) 
+ 
+CO1 
+Q3 
+Explain Cyber Security Impact on National Security, Economy, and Privacy. 
+(10) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+What is incident Response? Explain the phases of a Cyber Security Incident 
+Response process. 
+(10) 
+ 
+CO2 
+Q5 
+Describe SQL Injection attacks. How do attackers exploit input validation 
+vulnerabilities? 
+(10) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+What is Multi-Factor Authentication (MFA) and why is it considered a strong 
+security practice? 
+(10) 
+CO3 
+Q7 
+Discuss secure practices for safe usage of social media platforms. 
+(10) 
+C03 
+UNIT IV 
+ 
+ 
+Q8 
+Explain digital forensics and its role in cybercrime investigations. Discuss the 
+process of collecting digital evidence. 
+(10) 
+CO4 
+Q9 
+Explain the significance of the Information Technology Act, 2000 (IT Act 2000) 
+in the Indian legal framework. 
+(10) 
+CO4

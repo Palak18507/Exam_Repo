@@ -1,0 +1,120 @@
+{
+  "paper_id": "MIS102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS102",
+    "subject_name": "Secure Coding and Security Engineering",
+    "program": "M.Tech (IT",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How can integration of security practices into early stages of SDLC influence post-deployment software maintenance efforts?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "List any four security principles for secure software development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the importance of requirements prioritization in secure software requirements engineering.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of threat modeling in secure design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the purpose of the CWE database?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Why is the use of magic URLs discouraged in secure software implementations?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Why is memory management crucial for secure coding?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the significance of version control in secure coding?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the challenges organizations might face when transitioning from a traditional SDLC to Microsoft SDL.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the Seven Touchpoints of Software Security and their significance in the software development lifecycle.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the role of \"Misuse\" and \"Abuse\" cases in identifying security requirements. Why is collaboration between designers and security engineers essential during requirement analysis?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of a Requirements Traceability Matrix . Create a Requirement Traceability Matrix for web-based banking application.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain any five vulnerabilities from OWASP Top 10 and their preventive measures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "a. How does failing to sanitize output contribute to cross-site scripting ? b. How can improper input formatting lead to injection flaws?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What the role of code analysis tools in the early detection of security vulnerabilities. Compare static and dynamic code analysis tools with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss a case study on recent software vulnerabilities due to insecure coding and how they could have been prevented.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

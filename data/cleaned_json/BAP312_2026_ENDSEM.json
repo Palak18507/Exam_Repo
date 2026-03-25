@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAP312_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP312",
+    "subject_name": "Settlement Design",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Name 5 essential components of a settlement. 2.5 b What is the full form of ECBC and NBC? 2.5 c What are the 3 pillars of sustainable development? 2.5 d Write 3 key principles of inclusive design relevant for any settlement. 2.5 e What is the full form of TOD in settlement design? 2.5 f What is your understanding of urban form pertaining to a settlement? 2.5 g What is the tool/bye-law used by planners to control the population density in a settlement? 2.5 h What is the full form of UBBL? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "“A city is a physical system with structured functional arrangement of physical elements.” Explain in detail with suitable exaples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the image structure of city as described by Kevin Lynch in his book “The Image Of The City”. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw neat labelled conceptual sketch of a major arterial road depicting all the elements and components of street design. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are transit hubs in cities? What are the components of transit hubs that influence the effective and efficient functioning of these transit hubs? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain any 5 bye-laws/development codes from NBC or Model BBL and their respective purpose and applicability to achieving a healthy and sustainable urban form. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is NBC? What is the purpose and scope of NBC? What are the principles the NBC is based on? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain TOD and mixed land use? What are their benefits to a settlement and its urban form? Give examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is urban redevelopment? When and why does the need for urban redevelopment arise? What are the tools/policies used by planners to induce redevelopment in any existing city area? Give suitable examples to support your answer. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

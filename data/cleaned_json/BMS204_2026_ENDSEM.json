@@ -1,0 +1,164 @@
+{
+  "paper_id": "BMS204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS204",
+    "subject_name": "Business Laws",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is law? Critically apprise the definition of law.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between an offer and an invitation to offer?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Can a non-owner transfer the goods from one person to another? Explain with examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the rights of a consumer under the Consumer Protection Act, 2019?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the phenomenon of doctrine of ultra vires and enumerate its consequences.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a short note on Control and Regulation of Banking in India.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What role does trademark play in protecting brands?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the dominant position of an enterprise.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between the Contract of Indemnity and Guarantee.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between bailment and pledge.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What do you mean by consideration? Are there any exceptions to the general rule of consideration? Discuss.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "If a consumer is not satisfied with the decision of a particular forum, what alternative options are available to them to seek redressal for and appeal the decision of the concerned forum? Discuss and explain the means and basis of filing an appeal in different forums?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Kyle bought a Harris Tweed, tailor-made coat from the Ramson Tailors. Due to her abnormal sensitive skin, she contracted dermatitis from wearing the coat. Only someone who had a sensitive skin type would have suffered from this problem. Is Ramson liable to Kyle?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Aron purchased a hot water bottle from Xess. The Bottle was used by Aron’s wife and, on its fifth use, it burst, scalding her. When Aron took the matter with Xess, the owner said that it was Aron’s fault as he did not state for what purpose he wanted the hot water bottle. Can Xess claim the defense in this case? 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Mayur holds shares of the total nominal value of Rs. 10,000 and has already paid 50%of the value as a part payment at the time of allotment. Thereafter, the company went into insolvency and the shareholders were called upon to contribute their share for meeting the company’s liability. Mayur was asked to make a payment of Rs. 7,000 in lieu of being a shareholder but Mayur refused to do so. Is Mayur liable to make any payment toward meeting the debts of the company? If yes, how much should he pay?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Are the shares in a public and private company freely transferable? What is the rationale behind the concept of “free transferability of shares”?",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Yen Ltd. Had been in existence for 25 years. It had 25 shareholders of which 15 left. After a few days the remaining 10 members went for a holiday and on their way all of them died. Can the company still continue its existence with no member/shareholder?",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Mayank is a 99% shareholder of a timber company and is also a major creditor of the company. So, Mayank decided to insure the company’s timber in his name. However, due to accidental mishap, the timber was lost in a fire. Mayank claimed insurance compensation. Can Mayank claim insurance for the property owned by the company?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "List out different forms of organizations. What do you think are the differences in terms of ownership, liability and composition?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a short note on Copyright- its ownership, infringement of copyright and remedies for infringement.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain in detail about combinations, regulation of combinations, establishment, composition of CCI.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

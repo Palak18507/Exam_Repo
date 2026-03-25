@@ -1,0 +1,84 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Arch.) (Semester:  Even) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAP 114 
+Subject: Climatology and Environmental Studies-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Which part of a building receives maximum heat and why? 
+ 
+CO4 
+ 
+b) What is solar altitude angle? 
+ 
+CO2 
+ 
+c) Define Time Lag. What are its units? 
+ 
+CO1 
+ 
+d) What do you understand by ‘U’ value of a window/wall? 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What do you understand by Horizontal Shadow Angle? Explain 
+with a sketch. 
+ 
+CO2 
+ 
+b) What is Solar Heat Gain Co-efficient? Give its units. If the solar 
+transmittance is 91% and the glass absorbed re-radiated heat is 
+2%, what is the SHGC of the glass? 
+ 
+CO1 
+ 
+c)What are the 3 types of shading devices for a window? Explain 
+with neat sketches. 
+ 
+CO3 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a)Draw a clear and detailed diagram showing the movement of 
+the Earth around the Sun in 1 year showing the Spring and 
+Autumn Equinox. 
+ 
+CO2 
+ 
+b) What is the solar angle of incidence (ꞵ) for a place on 28 
+degrees S latitude at 1 pm on 22 Dec, on a south facing wall 
+(w=180)? Use the given solar chart and cosine table values. 
+Cos 35=0.82; Cos 36=0.81; Cos 37=0.80; cos 161= -0.945; Cos 
+162= -0.951; cos 163= -0.956; cos-1 0.76=138.59; cos-1 
+0.77=140.35; cos-1 0.78=141.26; cos-1 0.79=142.18 
+ 
+CO3 
+ 
+c) If the width of the horizontal shading device of a window, is 
+0.75m and the window height is 1.5m, what is the projection 
+factor? Name the Building Code which gives us the M adjustment 
+factor? 
+ 
+CO1

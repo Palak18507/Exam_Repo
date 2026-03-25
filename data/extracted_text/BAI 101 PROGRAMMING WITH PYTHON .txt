@@ -1,0 +1,156 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<BTECH>, Semester:<I> 
+(December, 2024) 
+ 
+Subject Code: BAI 101 
+Subject: PROGRAMMING WITH PYTHON 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Write a Python program to print the prime numbers of up to a 
+given number, accept the number from the user. 
+ 
+CO1 
+ 
+b)Write a Python program that accepts a string and calculates the 
+number of digits and letters. 
+ 
+CO1 
+ 
+c) Write a program to check if the word 'open' is present in the "This 
+is open source software". 
+ 
+CO2 
+ 
+d) Write a program that reads in numbers separated by a space in one 
+line and display distinct numbers.  
+For example:  
+Input: 1 1 1 1 1 2 2 2  
+Output: 1 2 
+ 
+CO2 
+ 
+e) Write a Python function to calculate the factorial of a number (a 
+non-negative integer). The function accepts the number as an 
+argument. 
+ 
+CO3 
+ 
+f) Write a Python program to handle the exception that occurs when 
+accessing an index out of range in a list.  
+ 
+CO3 
+ 
+g) Given a numpy array, write a function to sort it in descending order. 
+ 
+CO4 
+ 
+h) Use regular expression to check if the string ends with “World!”. If a 
+match is found, it prints “Match found!” otherwise, it prints “Match 
+not found”. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+(a) Explain the difference between break and continue with 
+suitable examples. 
+(b) Write a program to print all prime numbers that fall between 
+two numbers. (Accept two numbers from the user) 
+(10) 
+CO1 
+Q3 
+(a) Write the python program the print the given series: 
+53,53,40,40,27,27............... (from 53 to 100) 
+(b) Print the following pattern using a for loop – 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 2 
+ 
+ 
+1 2 3 
+ 
+1 2 3 4 
+1 2 3 4 5 
+(10) 
+CO1 
+ 
+2 
+ 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+(a) State the difference between lists and dictionary with 
+examples. 
+(b) Write a python script to merge two python dictionaries. 
+(10) 
+CO2 
+Q5 
+(a) Define Tuple and show it is immutable with an example. 
+(b) Write a program to find maximum and minimum of tuple. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+(a) Define scope of a variable in a function. Differentiate between 
+local and global variable with examples. 
+(b) Write a Python program to reverse a string 
+Sample String : "1234abcd" 
+Expected Output : "dcba4321" 
+(10) 
+CO3 
+Q7 
+(a) Write a Python function to check whether a string is a 
+pangram or not. 
+(b) Write a Python function that takes a list as an argument and 
+returns the sum of all the elements in the list. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+(a) Differentiate between class attributes and instance attributes 
+with examples. 
+(b) Create a base class Animal with a method sound. Create a 
+derived class Dog that overrides the sound method to print 
+“BARK”. 
+(10) 
+CO4 
+Q9 
+Write a Python programming to create a pie chart with a title of the 
+popularity of programming Languages. 
+Sample data: 
+Programming languages: Java, Python, PHP, JavaScript, C#, C++ 
+Popularity: 22.2, 17.6, 8.8, 8, 7.7, 6.7 
+The code snippet gives the output shown in the following screenshot: 
+(10) 
+CO4

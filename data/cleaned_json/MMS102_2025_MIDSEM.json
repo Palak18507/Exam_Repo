@@ -1,0 +1,37 @@
+{
+  "paper_id": "MMS102_2025_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS102",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2024-2025",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt both the parts 5*2 Explain the significance of job analysis in the hiring process. Provide an example of how job analysis can help a company ensure they hire the right candidate for a specific role \"An investment in training today leads to excellence tomorrow.\" Comment",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 “Manpower planning is essential for ensuring that an organization has the right people with the right skills at the right time” Discuss In a rapidly changing business environment, discuss the role of HRM in helping organizations adapt to changes and maintain a competitive edge with special emphasis on contemporary trends today",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 How can organizations use career development programs to enhance employee retention while equipping them for future roles? Provide examples of effective strategies You are a newly appointed training manager at a retail company facing declining customer satisfaction scores. Design a training program for customer service representatives that focuses on improving customer interactions and issue resolution. Note: Q. 1 is compulsory.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

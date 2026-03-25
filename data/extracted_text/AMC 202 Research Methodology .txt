@@ -1,0 +1,102 @@
+(Please write your Enrollment Number) 
+                     Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: IV 
+(May, 2025) 
+ 
+Subject Code: AMC  202 
+Subject: Research Methodology 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define research methodology. 
+ 
+CO1 
+ 
+b) Illustrate any two sources used for literature review. 
+ 
+CO1 
+ 
+c) Mention any two types of research design. 
+ 
+CO2 
+ 
+d) What is a nominal scale? Give one example. 
+ 
+CO2 
+ 
+e) What is a Type I error in hypothesis testing? 
+ 
+CO3 
+ 
+f) State any one method to calculate the mean and briefly explain its 
+utility. 
+ 
+CO3 
+ 
+g) What is plagiarism in the context of report writing? 
+ 
+CO4 
+ 
+h) Mention any two components of a research report layout. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the steps involved in the research process with a flow 
+diagram. 
+(10) 
+CO1 
+Q3 
+What is a hypothesis? How do you formulate a hypothesis in 
+business research? Support your answer with example. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain various types of measurement and scaling techniques used 
+in business research. 
+(10) 
+CO2 
+Q5 
+Discuss the steps involved in designing a questionnaire. What are 
+the characteristics of a good questionnaire? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the procedure of testing a hypothesis using t-test. Illustrate 
+with example. 
+(10) 
+CO3 
+Q7 
+What is sampling? Explain different sampling techniques used in 
+data analysis. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the structure and layout of a standard research report. 
+(10) 
+CO4 
+Q9 
+Explain the steps involved in writing a research report. How are 
+citations and bibliography handled? 
+(10) 
+CO4

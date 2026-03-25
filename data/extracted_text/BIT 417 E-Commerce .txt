@@ -1,0 +1,87 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.TECH>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BIT- 417 
+Subject: E-Commerce 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define E-Commerce and explain its architectural framework 
+ 
+ 
+b) Discuss the advantages and disadvantages of engaging in E- Commerce 
+ 
+ 
+c) What are the differences between e-business and e-commerce? 
+ 
+ 
+d) Explain the Strategic Planning Process in e-business strategies. 
+ 
+ 
+e) Describe the SET protocol for credit card payment in e-commerce 
+ 
+ 
+f) Discuss symmetric and asymmetric encryption techniques used in E-Commerce. 
+ 
+ 
+g) Explain the architecture and infrastructure of mobile commerce 
+ 
+ 
+h) What is a mobile wallet? Discuss its pros and cons 
+ 
+UNIT I 
+ 
+Q2 
+Discuss in detail the impact of E-Commerce on modern business practices. Provide 
+examples of how it has revolutionized business-to-business (B2B), business-to-consumer 
+(B2C), and consumer-to-consumer (C2C) transactions. 
+(10) 
+Q3 
+Explain the economic potential of electronic commerce. Discuss the incentives for 
+businesses to adopt E-Commerce and analyze the forces driving this adoption. Include 
+real-world examples to support your answer. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the different levels of e-business strategies. How can businesses achieve strategic 
+positioning using these strategies? Illustrate your answer with case studies or examples 
+of successful implementations. 
+(10) 
+Q5 
+Define ERP in the context of e-business. Discuss its core modules and their 
+functionalities, emphasizing how ERP integrates and streamlines various business 
+processes. Provide examples of industries where ERP has been transformative. 
+(10) 
+UNIT III 
+ 
+Q6 
+Explain the key security threats in online transactions and discuss in detail how firewalls 
+and VPNs address these threats. Include diagrams to illustrate the functioning of firewalls 
+(10) 
+Q7 
+Digital signatures are critical for E-Commerce security. Explain their working mechanism, 
+including the role of hashing and encryption. Discuss their legal implications and how 
+they enhance trust in electronic transactions 
+(10) 
+UNIT IV 
+ 
+Q8 
+Discuss the role and components of Wireless Application Protocol (WAP) in secure 
+mobile commerce transactions. How do emerging technologies like 3G/4G networks 
+support the WAP framework? Provide examples of secure mobile transactions using WAP 
+(10) 
+Q9 
+Explain the benefits and challenges of mobile payments, mobile portals, and mobile 
+wallets. Include a discussion on the role of Bluetooth and wireless LANs in facilitating 
+secure transactions in mobile commerce. 
+(10)

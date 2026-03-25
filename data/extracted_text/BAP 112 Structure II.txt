@@ -1,0 +1,64 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B.Arch (Semester:  2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAP 112 
+Subject: Structure II  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What is steel table? What information is available in steel tables as per SP 
+6(1). 
+ 
+ 
+b) What are hollow tubes? What are different shapes of hollow tubes? 
+Explain with neat sketches.  
+ 
+ 
+c) What is slenderness ratio? How does stress vary as per slenderness ratio of 
+steel column?  
+ 
+ 
+d) Explain the safe compression load of a steel structure. Describe with neat 
+sketches. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What are merits & demerits of a steel structure compared to timber 
+structure? 
+ 
+ 
+b) Explain three types of rolled steel sections and their used in steel structure.  
+ 
+ 
+c) Define masonry building. What is the maximum height used for a masonry 
+building. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain brick masonry foundation for residential building.  
+ 
+ 
+b) Explain walls and piers of masonry building.  
+ 
+ 
+c) Find the safe column load of a steel column. ISMB = 300 Effective length = 
+3.45m, Area= 56.26 cm², RXX =12.37cm, RYY = 2.65cm.  
+SR            Permissible compressive stress  
+130                                   57 
+140                                   51

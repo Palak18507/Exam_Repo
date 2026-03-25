@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAP114_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP114",
+    "subject_name": "Climatology and Environmental Studies-II",
+    "program": "B. Arch.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Which part of a building receives maximum heat and why?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is solar altitude angle?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Time Lag. What are its units?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by ‘U’ value of a window/wall?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by Horizontal Shadow Angle? Explain with a sketch.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Solar Heat Gain Co-efficient? Give its units. If the solar transmittance is 91% and the glass absorbed re-radiated heat is 2%, what is the SHGC of the glass?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the 3 types of shading devices for a window? Explain with neat sketches.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw a clear and detailed diagram showing the movement of the Earth around the Sun in 1 year showing the Spring and Autumn Equinox.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the solar angle of incidence for a place on 28 degrees S latitude at 1 pm on 22 Dec, on a south facing wall ? Use the given solar chart and cosine table values. Cos 35=0.82; Cos 36=0.81; Cos 37=0.80; cos 161= -0.945; Cos 162= -0.951; cos 163= -0.956; cos-1 0.76=138.59; cos-1 0.77=140.35; cos-1 0.78=141.26; cos-1 0.79=142.18",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "If the width of the horizontal shading device of a window, is 0.75m and the window height is 1.5m, what is the projection factor? Name the Building Code which gives us the M adjustment factor?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.TECH>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BMA - 301 
+Subject:  Machine Design 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a)  Define Endurance Limit. 
+ 
+CO 1 
+ 
+b) Define (1) Factor of safety (2)  Stress Concentration Factor.  
+ 
+CO 1 
+ 
+c)  Sketch examples where the bolts are subjected to (1) Shear stress 
+only (2) Tensile and shear stresses. 
+ 
+CO 2 
+ 
+d)  Why taper is provided on the cotter of cotter joint? 
+ 
+CO 2 
+ 
+e)  Differentiate between Shaft and Axle. 
+ 
+CO 3 
+ 
+f)  What is a Self Locking screw? 
+ 
+CO 3 
+ 
+g)  What is Bearing Characteristic Number? 
+ 
+CO 4 
+ 
+h)  What is Herringbone gear? 
+ 
+CO 4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe various theories of failure in machine design and their 
+application. 
+(10) 
+CO 2 
+Q3 
+A circular member is subjected to a direct tensile load of 20 kN and a 
+shear load of 12 kN . the yield stress in tension is 25KN/ 𝑐𝑚2. Determine 
+the diameter of the member according to maximum principal stress 
+theory and maximum shear stress theory using a factor of safety 2.  
+(10) 
+CO 2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+A double -riveted double strap butt joint is used to connect two plates 
+each of 12 mm thickness, by means of 16 mm diameter rivets having a 
+pitch of 48 mm. The rivets and plates are made of steel. The permissible 
+stresses in tension, shear and compression are 80, 60 and 120 𝑁/𝑚𝑚2 
+respectively. Determine the efficiency of the joint 
+ 
+(10) 
+CO 2 
+Q5 
+Design a knuckle joint to transmit 150 kN. The design stresses may be 
+taken as 75 MPa in tension, 60 MPa in shear and 150 MPa in 
+compression. 
+(10) 
+CO 2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A double threaded power screw, used for lifting loads, has a nominal 
+diameter of 30 mm and a pitch of 6 mm. The coefficient of friction at 
+the screw threads is 0.1. Neglecting collar friction, calculate (a) 
+(10) 
+CO 3 
+efficiency of the screw with square threads (b) efficiency with ACME 
+threads. 
+Q7 
+A steel shaft 35 mm in diameter and 1200 mm long held rigidly at one 
+end has a hand wheel 50 cm diameter keyed to the other end. The 
+modulus of rigidity of steel is  80 × 103𝑁/𝑚𝑚2.  
+What load tangentially applied to the rim of the wheel produces a 
+torsional shear stress of 60 𝑁/𝑚𝑚2.  
+How many degrees will the handwheel twist, when this load is applied? 
+(10) 
+CO 3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) What are the desired properties of bearing material? 
+b) What is meant by Hydrodynamic Lubrication? How is the oil 
+pressure created in these bearings? 
+(10) 
+CO 4 
+Q9 
+The following data is given for a pair of spur gears with 20℃ full depth 
+involute teeth:  
+Number of teeth on pinion = 24  
+Number of teeth on gear = 56  
+Speed of pinion = 1200 rpm 
+Module = 3 mm  
+Service factor = 1.5 
+Lewis form factor for 24 teeth is 0.337 
+Face width = 30 mm  
+Both gears are made of steel with an ultimate tensile strength of 600 
+N/𝑚𝑚2 . Using the velocity factor to account for the dynamic load,  
+Calculate: 
+i. 
+Beam strength  
+ii. 
+Velocity factor  
+iii. 
+Rated power that gear can transmit without bending failure, if 
+the factor of safety is 1.5  
+(10) 
+CO 4

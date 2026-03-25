@@ -1,0 +1,71 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech (IT)) (Semester: 2nd) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MIS 102 
+Subject: Secure Coding and Security Engineering 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How core security requirements are prioritized during the design and 
+development phases of a software project. 
+CO2 
+ 
+b) How does threat modeling help in secure software design? 
+CO2 
+ 
+c) Illustrate the impact of late detection of security issues in Software 
+Development. 
+CO1 
+ 
+d) How does (ISC)² focus on education and professional certifications 
+contribute to maintaining high standards within the information security 
+industry? 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How does OWASP contribute to making software more secure, and what 
+valuable resources does it offer to developers? 
+CO1 
+ 
+b) Discuss the challenges and benefits of implementing secure practices early 
+in the software development process, with examples of the consequences 
+of delayed security considerations. 
+CO1 
+ 
+c) Discuss the Seven Touchpoints of Software Security and their significance in 
+the software development lifecycle 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is the SQUARE process model, and how does it integrate security 
+requirements into the software development lifecycle? 
+CO2 
+ 
+b) Explain the purpose of a Requirements Traceability Matrix. Provide an 
+example of how RTM can assist in managing project changes effectively. 
+CO2 
+ 
+c) Describe the role of "Misuse" and "Abuse" cases in identifying security 
+requirements using suitable example. 
+CO2

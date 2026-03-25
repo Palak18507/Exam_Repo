@@ -1,0 +1,220 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<1>  
+Reappear upto 2023 batch 
+(December, 2024) 
+ 
+Subject Code: BAS 109 
+Subject:  Applied Mathematics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) If the  Eigen values  of 𝐴=  [4
+0
+5
+7] are 4 and 7 then find the eigen 
+values of A2, 5A and A2+ 5A+I 
+ 
+CO 1 
+ 
+ b) Find the rank of the matrix  [
+1
+2
+−1
+3
+2
+4
+1
+6
+3
+6
+−3
+9
+] by elementary row 
+transformation. 
+ 
+CO 1 
+ 
+c) Find Laplace Transformation of   t𝑒2𝑡 cos5t  
+ 
+CO 2 
+ 
+d) Find fourier coefficient ao , bn where f(x)= x+x2,   , - 𝜋 ≤x ≤ 𝜋 
+ 
+CO 2 
+ 
+e) If V = (x2 + y2 + z2)
+−1 2
+⁄ , then show that x
+∂V
+∂x + y
+∂V
+∂y + z
+∂V
+∂z = −V.    
+ 
+CO 3 
+ 
+f) Show that the function  𝑓(𝑥, 𝑦) = 𝑥3 + 𝑦3 −63(𝑥+ 𝑦) + 12𝑥𝑦    is 
+maximum at (-7,-7) and minimum at (3, 3). 
+ 
+CO 3 
+ 
+g) Evaluate ∫∫∫𝑥𝑦𝑧 𝑑𝑥 𝑑𝑦 𝑑𝑧
+3
+2
+2
+1
+1
+0
+ 
+ 
+CO 4 
+ 
+h) Find grad where 𝜑 is given by 𝜑= 3𝑥2𝑦−𝑦3𝑧2 at the 
+point (1, −2, −1) and Show that if  𝑟= 𝑥𝑖̂ + 𝑦𝑗̂ + 𝑧𝑘̂, 𝑑𝑖𝑣( 𝑟 ) = 3. 
+ 
+CO 4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+a).  Using elementary row transformation, find the inverse of the matrix 
+[
+0
+1
+2
+1
+2
+3
+3
+1
+1
+] 
+b) Investigate the values of  λ and μ so that the equation 
+ 2x + 3y + 5z = 9,7x +3y -2z =8,2x +3y + λ z =µ have (i) No solution 
+(ii) A unique Sol (iii) Inf. sol. 
+ 
+(5*2=1
+0) 
+CO 1 
+2 
+ 
+Q3 
+a)  Verify Cayley- Hamilton Theorem. & also Find A-1  𝑜𝑓 [
+1
+2
+0
+2
+−1
+0
+0
+0
+−1
+] 
+b) Find Eigen values and Eigenvectors of matrix [
+3
+1
+4
+0
+2
+6
+0
+0
+5
+]  
+(5*2=1
+0) 
+CO 1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+a) Find the Inverse Laplace Transform of  F(s) by convolution 
+theorem where F(s) = 
+1
+(𝑠2+1)(s−2) 
+b) If T:V2(R)->V3(R) defined by T(a,b)= (a-b, a+b, 2b) is a Linear 
+Transformation then Find rank  and nullity of T 
+(5*2=1
+0) 
+CO 2 
+Q5 
+a) If T: V2-> V2 defined by T(x, y) = (x+3y, x-4y) is a Linear 
+Transformation? 
+b) Find Half range fourier cosine series of f(x) =  (x+π)/2,  , 0 ≤x ≤ 𝜋 
+(5*2=1
+0) 
+CO 2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+a). If u = sin−1 (
+x
+y) + tan−1 (
+y
+x), prove that  x
+∂u
+∂x + y
+∂u
+∂y = 0   
+b) State Leibnitz theorem and prove that (1 −x2)y2 − xy1 −a2y = 0,  
+If y = e asin−1x 
+  
+(5*2=1
+0) 
+CO 3 
+Q7 
+a). Expand x2y + 3y −2 in powers of (x −1) and(y + 2) up to second 
+degree terms. 
+b). Find the extreme value of the function𝑓(𝑥, 𝑦) = 𝑥3 + 𝑦3 −3𝑎𝑥𝑦.  
+a >0.                           
+(5*2=1
+0) 
+CO 3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+a). Solve by changing the order of integration ∫∫
+𝑥𝑦 𝑑𝑥 𝑑𝑦
+2−𝑥
+𝑥2
+1
+0
+ 
+b). Find the directional derivative of the following function  
+  𝑓= 2𝑥2 + 3𝑦2 + 𝑧2 at the point 𝑃(2,1,3) in the direction of the 
+vector 𝑎= 𝑖̂ −2𝑘̂.   
+(5*2=1
+0) 
+CO 4 
+Q9 
+a). Show that the vector field 𝑓=
+𝑟
+𝑟3 is irrotational as well as solenoldal. 
+b). Evaluate ∭(𝑥−2𝑦+ 𝑧)𝑑𝑥 𝑑𝑦 𝑑𝑧,
+𝑅
+ where 𝑅: 0 ≤𝑥≤1, 0 ≤𝑦≤
+𝑥2, 0 ≤𝑧≤(𝑥+ 𝑦).  
+ 
+(5*2=1
+0) 
+CO 4

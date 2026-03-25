@@ -1,0 +1,179 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<Ist> Batch :<2024 > 
+(December, 2024) 
+ 
+Subject Code: BEC 102 
+Subject: Signals and Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) Define graphically the following signals/systems/properties by 
+also providingwith the help of mathematical representation, if 
+needed: 
+(i) 
+Signum Function 
+(ii) 
+Time Scaling. 
+ 
+CO1 
+ 
+a) Time Scaling. 
+(b) Draw the waveforms of the following Signal: 
+  X(t)=u(t) -2u(t-1) + u(t-2) 
+ 
+CO2 
+ 
+b) Rectangular Signal.  
+(c) What do you mean by Periodic Signals? Explain with the help 
+of suitable Examples 
+ 
+CO1 
+ 
+(d) c) Determine whether the system y(t) = x(n2 ) is  
+i) 
+Linear  
+Time-invarientSignum Function.  
+ii) 
+ 
+ 
+CO2 
+ 
+d) Continuous Time and Discrete Time Signals. 
+(e) What are the basic properties of ROC? 
+ 
+CO2 
+ 
+e) Deterministic and Non-deterministic Signals. 
+(f) Explain the term Aliasing in brief.  
+ 
+CO3 
+ 
+f) Real and Imaginary Signals. 
+(g) Determine stability & causality of the following  
+h(n) = (1/2)n u(n) 
+ 
+CO3 
+ 
+g) LinerDistinguish between Linear and Non-linerlinear Systems. 
+(h)  
+ 
+CO2 
+ 
+h) Causal and Non-Causal Systems. 
+ 
+ 
+ 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Solve the system described by  
+𝑑𝑦
+𝑑𝑡 +  8𝑦(𝑡) =  𝑥(𝑡). Given the input is 
+x(t)=Ke2tu(t),   
+where K is a real number 
+(10) 
+CO2 
+Formatted: Line spacing:  single
+Formatted: Condensed by  0.1 pt
+Formatted: List Paragraph
+Formatted: List Paragraph, Numbered + Level: 1 +
+Numbering Style: a, b, c, … + Start at: 1 + Alignment:
+Left + Aligned at:  0.63 cm + Indent at:  1.27 cm
+Formatted: List Paragraph, Numbered + Level: 1 +
+Numbering Style: i, ii, iii, … + Start at: 1 + Alignment:
+Left + Aligned at:  1.27 cm + Indent at:  2.54 cm
+Formatted Table
+Formatted: Normal (Web), Numbered + Level: 1 +
+Numbering Style: a, b, c, … + Start at: 1 + Alignment:
+Left + Aligned at:  0.63 cm + Indent at:  1.27 cm
+Formatted: Font: (Default) Calibri, Font color: Auto
+Formatted: List Paragraph, Numbered + Level: 1 +
+Numbering Style: a, b, c, … + Start at: 1 + Alignment:
+Left + Aligned at:  0.63 cm + Indent at:  1.27 cm
+Formatted: Font: (Default) Calibri, Font color: Auto
+Formatted Table
+Formatted: Normal (Web), Centered, Indent: Left:  1.27
+cm
+Formatted: Font: (Default) Calibri, Font color: Auto
+Formatted: Normal (Web), Numbered + Level: 1 +
+Numbering Style: a, b, c, … + Start at: 1 + Alignment:
+Left + Aligned at:  0.63 cm + Indent at:  1.27 cm
+Formatted: Normal (Web)
+2 
+ 
+Q3 
+Compute the convolution of the two signals below:  
+𝑥(𝑡) = {1, 0 < 𝑡< 𝑇
+0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒   and  h(t) = {𝑡, 0 < 𝑡< 2𝑇
+0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 
+(10) 
+CO3 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Let x(t) be the input to an LTI system with unit impulse response h(t) , 
+where  
+x(t)=e−atu(t), a>0 and h(t)=u(t) 
+Calculate the output y(t). 
+(10) 
+CO2 
+ 
+Q5 
+What is Parsival’s Identity? Express the function as a fourier intergral- 
+𝑓(𝑥) = {1, |𝑥| <= 1
+0, |𝑥| > 1  
+ 
+(10) 
+CO3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Find the Laplace transform of the following functions.  
+i. 
+sin 3t cos 2t.                            
+ii. 
+sin2 3t  
+ 
+(10) 
+CO3 
+Q7 
+Find the Fourier transform of  
+i. 
+ 𝑓(𝑥) = {𝑥, |𝑥| < 𝑎
+0, |𝑥| > 𝑎          
+ii. 
+𝑓(𝑥) = 𝑒−𝑥2/2 
+(10) 
+CO4 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain in detail with diagrams the following- 
+a) flat top sampling 
+b) Impulse sampling 
+c) Natural sampling 
+d) Aliasing effect 
+(10) 
+CO2 
+Q9 
+Find z-transform and ROC of  
+𝑎𝑛𝑢[𝑛] + 𝑎−𝑛𝑢[−𝑛−1] 
+ 
+(10) 
+CO4

@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: M.TECH : Sem: 2 
+(May, 2025) 
+ 
+Subject Code: MCS 110 
+                                                Subject: Big Data Analytics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Outline three historical milestones that led to the development of 
+Apache Hadoop. 
+2.5 
+CO1 
+b 
+Briefly explain Hadoop’s two‑layer architecture and how it supports 
+scalable data analytics. 
+2.5 
+CO1 
+c 
+Explain the role of Flume in data ingestion and contrast it with Sqoop. 
+2.5 
+CO2 
+d 
+What is block size in HDFS, and why is setting an appropriate block size 
+important for performance? 
+2.5 
+CO2 
+e 
+How does job scheduling in Hadoop ensure cluster resource utilisation? 
+Give one example of a scheduler. 
+2.5 
+CO3 
+f 
+Distinguish between key‑value pair formats (e.g., TextInputFormat vs. 
+SequenceFileInputFormat) used in MapReduce jobs. 
+2.5 
+CO3 
+g 
+Compare HiveQL tables with traditional RDBMS tables in terms of 
+schema enforcement and query latency. 
+2.5 
+CO4 
+h 
+Describe the execution modes of Pig (local vs. MapReduce) and state one 
+use‑case where each mode is preferable. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+How does Hadoop achieve data locality, and why is it critical for 
+performance? Contrast Hadoop Echo System (ecosystem) components 
+with the Hadoop core.  
+10 
+CO1 
+Q3 
+Describe the role of YARN in resource management within a Hadoop 
+cluster. Identify two limitations of early Hadoop versions and how 
+modern releases resolve them. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Explain how HDFS handles data integrity using checksums.  
+b) Explain how Avro supports schema evolution in big-data workflows. 
+10 
+CO2 
+Q5 
+a) Illustrate the write-path in HDFS, covering block replication 
+sequencing.  
+b) What is serialization, and why is it important for Hadoop I/O 
+performance? 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the purpose of the Combiner and its effect on network traffic. 
+Explain speculative execution and when it may backfire. 
+10 
+CO3 
+Q7 
+Discuss how partitioners influence load balancing across reducers. Give 
+two reasons to implement a custom WritableComparable and 
+summarize how to do it. 
+10 
+ CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Compare Grunt shell (Pig) and Hive shell for interactive query 
+prototyping. Describe how user-defined functions (UDFs) extend Pig 
+Latin or HiveQL capabilities. 
+10 
+CO4 
+Q9 
+List key differences between HBase and HDFS regarding data access 
+patterns. Explain HBase’s column‑oriented design (regions, memstore, 
+HFiles) and architect a write‑heavy, low‑latency time‑series app. 
+10 
+CO4

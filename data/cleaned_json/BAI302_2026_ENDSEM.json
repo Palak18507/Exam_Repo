@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI302_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI302",
+    "subject_name": "Natural Language Processing",
+    "program": "<B. Tech.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the purpose of stop word removal in text preprocessing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of TF-IDF and its significance in text analysis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define morphology and state its role in Natural Language Processing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is ambiguity in NLP? Briefly explain with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Neural Machine Translation and state two different from phrase-based MT?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the purpose of using LSTM in sequential data processing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Mention two differences between CNN and RNN in the context of NLP.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Write the formula for calculating Inverse Document frequency . Why it is called so?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the components of Natural Language Processing with suitable examples. How do these components work together in a typical NLP system?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is parsing in NLP? Describe different parsing techniques and the challenges involved in syntactic analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Compare and contrast word2vec, doc2vec, and GLoVe word embedding techniques. Discuss their working principles and applications in NLP tasks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the different formats used for representing a text corpus. How do these formats influence text preprocessing and model training?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe various approaches to Machine Translation. Compare rule- based, statistical, and neural methods with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the architecture of the Anusaraka system. How does it handle translation using the interlingua approach?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the working of LSTM and GRU models. Highlight how they overcome the limitations of standard RNNs in language modeling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the use of the Natural Language Toolkit for implementing deep learning-based NLP tasks with examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

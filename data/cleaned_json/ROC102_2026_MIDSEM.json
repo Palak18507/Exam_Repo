@@ -1,0 +1,89 @@
+{
+  "paper_id": "ROC102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "ROC102",
+    "subject_name": "Research Methodology & Publication Ethics",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define research and differentiate between fundamental and applied research with examples? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are research metrics? Explain their role in evaluating research quality. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the importance of research publication and the role of open- access journals. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of research design and the significance of sampling in research. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the significance of research problem formulation and hypothesis development in the research process. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are different citation databases ? How do they help researchers? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the differences between systematic review and meta-analysis. Why are they important in research? 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the essential components of a well-structured research paper? Explain the role of each component. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define data collection and explain different methods used in research, including their advantages and limitations. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the importance of authorship, conferences, and research ethics in scientific writing and publication. 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

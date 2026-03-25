@@ -1,0 +1,119 @@
+{
+  "paper_id": "BAP214_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP214",
+    "subject_name": "Building Services II – Illumination & Electrical Design",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Maintenance Factor & Utilization Factor. What are these ‘factors’ used for? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Illuminance Luminous Intensity. Also mention the measurement units for both the terms 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a “unit” for Power Consumption and how is it calculated? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the function of a ‘transformer’? Mention the difference between ‘step-up’ and ‘step-down’ transformers & which points are they used in the electricity distribution network? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Which of the two is higher: Total load or Demand load? What factor is used to determine the relation between these two? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "A Single Pole Neutral electric circuit has an appliance with rated power of 750 Watts. If the voltage for the circuit is 230 Volts, considering a power factor of 0.8, what will the current drawn through the appliance be ? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Mention any THREE electrical appliances for which star rating standards are given by BEE, GoI, along with the respective parameters used for such grading. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the function of an ‘Inverter’ in Solar Photovoltaic Plant? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "“For a given built space at a given location with defined climate, at a given time, the daylight factor is not same for different points in the interior”. Is this statement TRUE or FALSE? Give an explanation. For each of the factors given below, identify if they govern the daylight factor or not. If yes, which component of daylight factor do they influence the most? [FACTORS: Surface finish of surrounding buildings, Architectural light shelf, Room interior wall finish]",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "An area of 15 m x 15 m is to be illuminated to 500 lux. Lighting fixtures used to achieve this illumination are ceiling mount with 2500 lumen flux output each. Considering a utilization factor of 0.8 and maintenance factor of 0.7, calculate the number of lamps required. Recommend the lamp layout with the number of rows and columns of lamps for the space Calculate the lamp spacing in the recommended layout If lamps of flux output 3000 lumen are used , what will the decrease in number of required lamps be?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the wiring configurations of a one-way switch and a two-way switch, with the help of relevant diagrams. Give TWO examples for the application of each of the two types of switches mentioned above.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Electrical layout for a flat is given in the Annexure. Considering the given layout, powers & loads, average daily usage time, calculate the Annual Units of Electricity Consumption for the flat in a non-leap year.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write down the key differences between SPN electrical circuit and TPN electrical circuit. A TPN electric circuit with a 3 horsepower motor is subjected to the standard voltage in India. Considering a power factor of 0.8 and 1 horsepower = 746 Watts, calculate the current drawn through the circuit .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A residential building with 6 floors having one flat per floor has typical layout and electrical fixtures as shown in the Electrical Plan . Also consider the additional loads given. Calculate Total load of each flat Demand load for each flat Total demand load of building Considering a power factor of 0.8 and 20% safety margin, calculate the minimum Transformer ‘kVA’ rating required",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the key aspects in design of Roof-top Solar Photovoltaic Plant for buildings, outlining the steps in design including panel and inverter types. Mention the main expenses and returns for SPV plant. Define terms RoI and Payback period which are used to assess investment in SPV plant",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define Energy Performance Index which is used for star rating of buildings in India. Also mention its measurement unit A Medium category office building in Warm and Humid climate has 80% of total built-up air-conditioned. Using the standard table given below, calculate the ‘Lower limit’ and ‘Upper limit’ of the EPI values for the building to obtain a 4-star rating as per BEE Guidelines. ANNEXURE",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

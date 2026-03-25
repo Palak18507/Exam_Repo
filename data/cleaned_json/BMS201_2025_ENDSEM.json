@@ -1,0 +1,181 @@
+{
+  "paper_id": "BMS201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS201",
+    "subject_name": "Human Resource Management",
+    "program": "BBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a short note on Human Resource Information System .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Human Resource Development and its relation with HRM.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between job description and a job specification?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a job advertisement for one of the following positions: HRM professor, home-care worker, professional basketballer.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Distinguish between training, learning and development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Distinguish between performance appraisal and performance management.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What do the following terms mean: ethnocentric, polycentric, regiocentric and geocentric. Future of SHRM The future of SHRM is difficult to predict, but likely to be influenced by: different products and services; more competitive local and global industries; greater use of technology; diverse jobs and workplaces; the gig economy; different employee expectations of jobs and careers; and new workplace issues such as environmental issues, corporate governance and CSR.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Which new HR roles and competencies might be expected in the future?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write the difference between HRM and personnel management.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is human capital, and how does it differ from traditional views of labor?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is downsizing, and why do organizations resort to it? Discuss its impact on employees and organizational performance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare internal and external sources of recruitment. Which would you recommend for a growing organization, and why?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Suggest innovative selection methods that organizations can use to assess candidates for creative roles.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Analyze the ethical dilemmas associated with moonlighting.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Also, evaluate the pros and cons of permitting moonlighting in organizations.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Identify a particular need in an organization and put the data in ADDIE model of training. List and briefly explain each of the steps in the training process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the difference between competency-based and traditional pay/compensation plans. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Do you feel that Eric was being exploited by the refuse collectors? Local authority officials heard about what Eric was doing and said it had to stop.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why do you think they made this decision? Do you agree with it? A personnel manager in the neighborhood heard about Eric and arranged for him to be taught to operate a sewing machine. He was then employed in the personnel manager’s factory to maintain and repair all the overalls, a straightforward job carried out skillfully and conscientiously.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Do you feel that Eric was being exploited by the personnel manager?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Green HRM and explain its significance in achieving organizational sustainability.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "How can an organization integrate Green HRM practices into its recruitment and selection process? Provide examples.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

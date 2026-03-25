@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(May, 2025) 
+ 
+Subject Code: BMA 404 
+Subject: Robotics  
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Define the range and proximity of a sensor. 
+Co1 
+ 
+(b) 
+What is inverse  kinematics in robotics 
+Co2 
+ 
+(c) 
+What is a jacobian? 
+Co2 
+ 
+(d) 
+Write generalized transformation matrix in robotics when rotation 
+is about the x-axis followed by a translation in z direction. 
+Co2 
+ 
+(e) 
+Write essential components of a robot control system  
+Co1 
+ 
+(f) 
+What are singularities in robotics? 
+Co3 
+ 
+(g) 
+Define Roll , pitch and yaw?  
+Co3 
+ 
+(h) 
+Explain why path planning is required for a robotic system? 
+Co1 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Describe various types of robotic arms. 
+(10) 
+Co1 
+Q3 
+ What are the design considerations in the robot end 
+effector for holding the object? 
+(10) 
+Co1 
+UNIT-II 
+CO Mapping 
+Q4 
+What are the types of mechanical grippers? Explain with a 
+neat sketch. 
+(10) 
+Co1 
+Q5 
+Explain various types of non-contact sensors and their 
+importance in a robot.  
+(10) 
+Co3 
+UNIT-III 
+CO Mapping 
+Q6 
+ 
+ 
+ 
+ 
+ Give 
+the 
+mathematical 
+analysis 
+of 
+the 
+forward 
+transformation of a 2-degree of freedom robot arm 
+(10) 
+Co2 
+Q7 
+What is DH presentation in robotics? Explain the procedure 
+for obtaining the DH parameters. 
+(10) 
+Co2 
+UNIT-IV 
+CO Mapping 
+Q8 
+Explain the different types of Robot languages and different 
+teaching methods of robot. 
+(10) 
+Co4 
+Q9 
+What is the difference between Lagrange–Euler and Newton 
+Euler formulations? What are the various applications of 
+these formuations in robotics ? 
+(10) 
+Co3

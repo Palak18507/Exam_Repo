@@ -1,0 +1,98 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION (March 2025)  
+(Course Name: B.Tech. Semester – 1st  
+(for students admitted before 2022) 
+ 
+Subject Code: BAS 102 
+Subject: Applied Mathematics-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any two parts from Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Solve the differential equation 
+d2y
+dx2 + 5 dy
+dx −6y = Sin 3x + Cos 2x 
+ 
+CO 1 
+ 
+b) Find the PI of the equation 
+                [D2 + 2D + 1]y = x2 + x + 1 
+ 
+CO 1 
+ 
+c) If f(t) =
+eat−cosbt
+t
+, find the Laplace transform of f(t). 
+ 
+CO2 
+ 
+d) Express f(t) = {𝑡−1            1 < 𝑡< 2
+3 −𝑡            2 < 𝑡< 3 },  
+    in terms of unit step function. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Solve the following differential equation 
+x2 d2y
+dx2 −2x
+dy
+dx −4y = x2 + 2 logx.   
+ 
+CO1 
+ 
+b) Solve the following differential equations by the method of 
+variation of parameter. 
+d2y
+dx2 −3 dy
+dx + 2y = e2x+ x2 
+ 
+CO1 
+ 
+c) Solve the following simultaneous equation 
+           
+d2x
+dt2 + y = Sin t  ,
+d2y
+dt2 + x = Cos t. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Find the inverse Laplace transform of  
+log (1 + 1
+s) 
+ 
+CO2 
+ 
+b) Find the inverse Laplace transform of  
+      F(s) =
+1
+(s+1)(s2+4) 
+    by Convolution Theorem. 
+ 
+CO2 
+ 
+c) Using Laplace transform, find the solution of  
+y,, + 9y = 6 cos 3t, y(0) = 2, y,(0) = 0. 
+ 
+CO2

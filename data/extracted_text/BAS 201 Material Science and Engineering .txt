@@ -1,0 +1,187 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech. >, Semester:<3rd > 
+(December, 2024) 
+ 
+Subject Code: BAS 201  
+                                       Subject:  Material Science and Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Compare the hardness, electronic conductivity, thermal 
+conductivity and temperature stability of polymer, metal and 
+ceramic materials. Which material is used to make excellent 
+brake pads in the automobile sector?   
+2.5 
+1 
+ 
+b) What is a polymer? What is the difference between 
+thermoplastic and thermoset polymers? Give one example.   
+2.5 
+1 
+ 
+c) A Hall voltage of 0.1 mV is found to be developed when a 
+sample carrying a current of 10 mA is placed in a transverse 
+magnetic field of 0.3 T. Calculate the charge carrier’s 
+concentration of the sample. Given the thickness of the 
+sample along the direction of the magnetic field is 0.3 mm.   
+2.5 
+2 
+ 
+d) What is the piezoelectric effect? Discuss its application.   
+2.5 
+2 
+ 
+e) What are the chromic materials? Discuss any one application 
+of photochromic material.    
+2.5 
+3 
+ 
+f) What do you mean by photo-conducting material? How are 
+they useful for making photodetectors?  How will you select 
+materials for solar applications? 
+2.5 
+3 
+ 
+g) What is AFM?  What is its application?  Which material is used 
+for making AFM tips?    
+2.5 
+4 
+ 
+h) What is the difference between a light microscope and SEM? 
+Which one is used for taking measurements for nanomaterials 
+and why?   
+2.5 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Dielectric materials come under which category, metallic, 
+semiconductor, or ceramic? Discuss the application of 
+dielectric materials. Compare the properties of metal, 
+semiconductor and ceramic material. 
+b) Why is glass used for window panes? Glass comes under 
+which material category? Which materials are used for storing 
+acids in the chemical lab and why? Discuss their properties 
+and other applications.  
+5(1+2+2) 
+ 
+ 
+5(1+1+3) 
+1 
+Q3 
+a) Can a composite material exhibit the electric conducting 
+properties?  comment. What are the advantages of using 
+polymer composites for making mobile phone outer case as 
+compared to metal?  
+b) What is nanocomposite? What is the role of matrix and 
+reinforcement in composites?  Discuss in detail.   
+    
+5(2+3) 
+ 
+ 
+ 
+5(2+3) 
+1 
+ 
+2 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) For a given specimen of a superconductor, the critical fields 
+are respectively 1.4 ×105 and 4.2 ×105 amp/m for 14 K and 13 
+K. Calculate the transition temperature and critical field at 4.2 
+K.  
+(b) What do you understand by soft and hard magnetic material?  
+What is spintronics? What is the GMR effect? Discuss in detail.  
+5 
+ 
+ 
+ 
+ 
+5(2+1+2) 
+2 
+Q5 
+(a) What is diamagnetism? Discuss the classical theory of 
+diamagnetism. How you will identify the diamagnetic material 
+based on the susceptibility value?  
+(b) What is fermi energy? Compare the fermi energy level of p-
+type and n-type semiconductors.  Find the position of fermi 
+level EF at room temperature (= 27 ℃) for germanium crystal 
+having 5 × 1022 atoms/m3.  
+5(1+3+1) 
+ 
+ 
+ 
+5(1+1+3) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) What is LED? Discuss the working principle and IV 
+characteristics of LED in detail. 
+(b)  What is the shape memory effect? What are shape memory 
+alloys, explain their properties and their working principle.  
+ 
+5(1+4) 
+ 
+     5(2+3) 
+3 
+Q7 
+(a) What are polymeric implant materials? Write the name of any 
+two bio-compatible polymers. Which properties will you use 
+to decide the selection of these materials? 
+ 
+(b)  What is LCD? How it is different from LED? Discuss the 
+working of LCD. Why polarizer sheets are used in LCD?  
+5 (2+1+2) 
+     
+5(1+1+2+1) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) To find out the miller indices corresponding to the crystalline 
+planes in a material, which instrument you will use? Explain its 
+construction and working principle in detail.   
+(b) For a cubic crystal system, the powder X-ray diffraction 
+pattern of 1st order was recorded using a Cu Kα source having 
+wavelength 1.54 A°, which shows a peak at 33.60° for 111 
+planes. Find the lattice parameter of the sample.  
+5 
+ 
+ 
+ 
+5 
+4 
+Q9 
+(a) For selecting materials for solar application, an optical band 
+gap of the material is required, which instrument is used for 
+finding an optical band gap? Discuss its working principles and 
+construction.  
+(b) For testing the high-temperature stability of the material 
+which instrument is used? Discuss its construction and 
+working? Which type of crucibles are required for this study?  
+    5 
+ 
+ 
+ 
+ 
+   5 
+4

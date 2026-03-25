@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS204",
+    "subject_name": "Business Laws",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Mr. A father of B, promises his son to buy an expensive mobile handset if he secures first position in his university examination, but later on eventually the father fails to fulfil his promise, Can B sue his father for the reward promised? Justify 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How mistake of law is different from mistake of fact? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Mr. A visits to Maruti car showroom where six different models are displayed and he agreed to buy white colour Alto 800 model of Maruti Car. Identify and define the type of good involved in this situation. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the doctrine of Caveat Emptor with exceptions. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Aaryan who is fourteen years of age, fractures his leg while playing cricket. He goes to a doctor and get his leg plastered. The doctor demanded a fee at RS. 1500, but Aaryan refuses to pay on the ground he is a minor. The doctor files a suit against him. Will the doctor succeed? Give reasons. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "“The status of finder of goods is just like a bailee”. Explain. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "“A mere mental acceptance, not evidenced by words or conduct, is in the eyes of law, no acceptance.” Explain by giving suitable example. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "X bought a car from Y who had no title to it. X used the car for several months. After that the true owner came forward and demanded the car. State the right ox X and true owner of the car. Amar agreed to sell to Biswas 20kg of rice described as “Punjabi Sela” as per the sample shown. Although the rice supplied was in accordance with sample but the sample itself was of “Basmati Rice”. The buyer refuses to make payment. What remedies are available to seller? 2+3 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "“No seller of goods can convey to the buyer of goods a better title than what he himself possess”. Explain the statement and explain the exception to this rule as per Sale of Goods Act. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "In terms of Consumer Protection Act 2019 explain Complainant Consumer dispute 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

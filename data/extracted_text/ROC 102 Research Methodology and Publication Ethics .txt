@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech / PhD  Sem: 2 
+(May, 2025) 
+ 
+Subject Code: ROC 102 
+Subject: Research Methodology and Publication Ethics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(5*4=20) 
+CO Mapping 
+a 
+What is a research problem? How is it identified? 
+ 
+CO1 
+b 
+What is the purpose of hypothesis testing in research? 
+ 
+CO2 
+c 
+What is the Copyright Act? Mention one of its applications in research. 
+ 
+CO3 
+d 
+Explain the relevance of Team Work in research. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) Distinguish between systematic review and meta-analysis. 
+(b) Explain the concept of stewardship of data in research. 
+ 
+CO1 
+Q3 
+Describe the importance of meta research and explain how tools like 
+EigenFactor, Article Influence Score, and SNIP are used in evaluating 
+research performance. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Write a detailed note on organizing a research paper, including 
+introduction, literature review, methodology, results, and conclusion. 
+ 
+CO2 
+Q5 
+Explain how to perform data analysis using R. Include basic steps such 
+as data import, summary statistics, and graphical representation.  
+ 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Write a detailed note on scientific misconduct. Discuss various forms 
+such as plagiarism, data fabrication, and ethical violations. Include the 
+roles of COPE and WAME in handling such misconduct. 
+ 
+CO3 
+Q7 
+Explain the ethical theories of research along with their examples 
+ 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Analyze the Plutonium Experiments and Tuskegee Study in the context 
+of research ethics. What common ethical principles were violated? 
+ 
+CO4 
+Q9 
+Compare and contrast any three case studies (e.g., Milgram, Stanford, 
+Henrietta Lacks) in terms of ethical concerns, public reaction, and 
+impact on future research regulations. 
+ 
+CO4

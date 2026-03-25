@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC302_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC302",
+    "subject_name": "Digital Signal Processing (DSP",
+    "program": "B.Tech. ECE",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State & explain the Time reversal and Complex Conjugate property of DFT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the differences and similarities between DIF and DIT algorithms?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write the important features of IIR filters.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the FT of unit step function and sketch the frequency spectra for the same.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the cases, when an IIR filter is preferable over an FIR filter?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain Frequency Sampling Realization of FIR filter.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is decimation? When it is performed?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Give few methods to prevent the overflow.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Find the 8-point DFT of the following Sequences by using DIT FFT algorithm: x = {1,1,1,1,0,0,0,0}",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Find the DFT of the Sequence x defined by x = 1 for 2 ≤ n ≤ 6 = 0 for n = 0, 1 and 7 Use DIF algorithm. Give all intermediate results.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Design a Chebyshev IIR digital low pass filter to satisfy the constraints using bilinear transformation method and assuming T= 1s. 0.707≤│H│ ≤1 ; 0 ≤ ω ≤ 0.2π │H│ ≤0.1 ; 0.5 π ≤ ω ≤π",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a Butterworth IIR low pass filter with the following specifications: pass band Ripple αp =1 dB, stop band attenuation αs =40 dB, pass band edge frequency is 2 KHz, stop band edge frequency 10 KHz, Sampling frequency is 25 KHz. Use the bilinear transformation technique. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is meant by linear phase filters? Describe the procedure of designing linear phase FIR filters by Fourier Transform method. Illustrate with the help of high pass filter design example. Give windowing function w[n] for at least four different windows. Which window is most popular and efficient?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Determine if the following FIR systems are minimum phase, maximum or mixed phase h = [10, 9, -7, -8, 0, 5, 3] h = [5, 4, -3, -4, 0, 2, 1] An FIR filter is given by the difference equation Y = 2. x + . x + . x + . x Determine its lattice form.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the applications of multi rate digital signal processing? Explain the spectrum of down sampling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the interpolation process. How it is different from Decimation? How do you change the sampling rate by arbitrary factor?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

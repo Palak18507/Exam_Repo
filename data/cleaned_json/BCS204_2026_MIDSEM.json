@@ -1,0 +1,90 @@
+{
+  "paper_id": "BCS204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS204",
+    "subject_name": "Design and Analysis of Algorithms",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider the following function: int unknown { int i, j, k = 0 ; for for k = k + n/ 2 ; return k; } What is the time complexity of the function?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the minimum number of comparisons required to find the minimum and the maximum of 100 numbers.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A list of n strings, each of length n, is sorted into lexicographic order using the merge-sort algorithm. What is the worst case running time of this computation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider a weighted complete graph G on the vertex set {v1, v2, ..vn} such that the weight of the edge is 2|i−j|. Find the weight of a minimum spanning tree of G in terms of n.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Solve the following recurrence relation: T= √𝑛T+n, for n≥1, = 1, for n=1.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Solve the following recurrence using recursion tree method T= T+T+7n, if n>0 = 1 , if n=0",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "In quick sort, for sorting n elements, the th element is selected as pivot. Write the algorithm for this quick sort and analyse its complexity.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the longest common subsequence of the following sequences using Dynamic Programming. Show all the steps in detail. XYZXY YXZY",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider a matrix multiplication chain A1A2A3A4 where the matrices A1,A2,A3 and A4 are of dimensions 2 X 25, 25 X 3, 3 X 1, 1 X 1000. Find the parenthesization of A1A2A3A4 that minimizes the total number of scalar multiplications? Show all steps.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider the weights and values of items listed below. Item number Weight Value 1 10 60 2 7 28 3 4 20 4 2 24 The task is to pick a subset of these items such that their total weight is no more than 11 Kgs and their total value is maximized. Design a greedy algorithm for this task and find the items and their total value picked by your greedy algorithm. Analyse the complexity of the algorithm.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

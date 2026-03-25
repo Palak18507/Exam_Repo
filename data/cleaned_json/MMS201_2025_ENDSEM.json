@@ -1,0 +1,80 @@
+{
+  "paper_id": "MMS201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS201",
+    "subject_name": "Business Analytics",
+    "program": "M.B.A",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Define business Analytics 1 What is data visualization? 1 What is data cleansing? 2 List data collection methods. 2 How you recognize a problem as business analytics? 3 What are according to you core competencies of a business analytics? 3 What is difference between data and information? 4 What are common challenges of business analytics? 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Discuss importance of reports in business analytics. Elucidate various types of reports used. Explain key elements of custom reports. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Data planning is an important aspect of business analytics. Discuss. Explain various types of data used in business analytics with real life examples. What are popular data quality dimensions 1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "How can analytics be used in the following situations? Support your answers with suitable examples. Exploring market opportunities Understanding customer service 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What do you understand by the term “Big Data”? Discuss reliability and validity characteristics of data with suitable examples. Explain various variations in found in big data and how are they managed? 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What do you understand by a model? Discuss nature of a typical decision model. Explain three forms of decision models. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Write a technical note on data mining. 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What do you understand by descriptive analytics Explain its use. Discuss an appropriate descriptive model you have come across. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "“Business analytics provides opportunities for career planning and nation building.” Discuss in detail. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

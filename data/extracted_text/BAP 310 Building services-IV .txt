@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(OffLine) 
+Course Name:<B.ARCH>, Semester:<VI> 
+(May, 2025) 
+ 
+Subject Code: BAP 310     
+Subject:  Building Services -IV  Acoustics, Fire Fighting & Lifts  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1  
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is reverberation time? How is it measured? 
+2.5 
+CO1 
+ 
+b) Explain the role of NRC (Noise Reduction Coefficient) in evaluating 
+acoustic materials. 
+ 
+2.5 
+CO1 
+ 
+c) How do acoustic panels work in reducing noise levels? 
+2.5 
+CO2 
+ 
+d) What are acoustic materials? Explain their purpose with examples. 
+2.5 
+CO2 
+ 
+e) Discuss the significance of compartmentalization in fire safety planning. 
+2.5 
+CO3 
+ 
+f) Explain the role of fire-resistant materials in architectural design and 
+building safety. 
+2.5 
+CO3 
+ 
+g) Explain the purpose of a machine room in a traditional lift system? 
+2.5 
+CO4 
+ 
+h) Differentiate between escalators Lifts and conveyor belts. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 a) Explain the role of frequency and wavelength in determining the nature 
+of sound. 
+b) Define noise. What distinguishes airborne noise from structure-borne 
+noise? 
+(5x2=10) 
+CO1 
+Q3 A classroom measures 10 m x 8 m x 4 m. The absorption coefficients are:  
+Wall: 0.15 
+Ceiling (Plaster board) :0.10 
+Floor (Concrete) : 0.02 
+a) Find the reverberation time before acoustic treatment.  
+b) If 50%of walls are covered with an acoustic panel ( absorption 
+coefficient is 0.6), what is the new reverberation time   
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 Discuss the different factors affecting the acoustics of an auditorium with a 
+sketch. 
+(10) 
+CO2 
+Q5  What are the various acoustic defects in buildings? Suggest remedies for 
+at least 3 defects. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 a) Discuss the dry and wet riser with the help of a neat sketch  
+b) Explain the objectives and importance of fire safety in buildings as per 
+NBC 2016. 
+(5x2=10) 
+CO3 
+Q7 Describe the various types of fire extinguishers and their specific uses. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 Explain the different types of lifts used in buildings based on their function 
+operation and type. 
+(10) 
+CO4 
+Q9 
+a) Explain the terms: 
+o 
+Rated Load 
+o 
+Round Trip Time (RTT) 
+o 
+Handling Capacity 
+b) Draw and describe a detailed cross-section of a lift, including the 
+lift well, lift pit, machine room, and safety equipment. 
+(5x2=10) 
+CO4

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAP407_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP407",
+    "subject_name": "Advanced Building Services-VII",
+    "program": "B. Arch",
+    "semester": 7,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write the purpose of the following in a ‘Fire Safety Door’ Intumescent strip Self-closing spring mechanism 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is ‘Piston Effect’ in high-rise elevator systems? Write a short note on how to address this issue in design of high-rise elevators? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a Paternoster Parking System? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write full forms for these abbreviations: LPG CNG LNG GHG BOD 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is ‘Source Segregation’ in Solid Waste Management? Mention the recommended colour coding as per The Solid Waste Management Rules, 2016 by MoEFCC 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Fill in the blanks: BOD is a measure of the level of pollution due to _____ pollutants Full form of DEWATS is _______ A BOD to COD ratio close to 1 implies _____ biodegradability of the pollutants in a given sewage sample 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the two types of ‘Field Devices’ used in Building Automation System? Write a short note on these two types. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Write full forms for these abbreviations: ECBC HVAC BEE TR EER 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Mention any FOUR important guidelines/standards for design of ‘Refuge Area’ in High-rise buildings. A high-rise building has a height of 45 meters with 3 meter floor-to-floor height. The floor area on each floor is uniform throughout the building and is equal to 1000 m² at each floor. List down the minimum required refuge areas and all their corresponding floor levels. Consider relevant guidelines as per NBC 2016.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write the definitions of the following and mention their respective measurement",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write a brief note on any FIVE types of Automated Parking Systems explaining their main features/functions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Answer the following questions in around FOUR lines each: What is Biogas and mention few suitable raw materials for Biogas production. Which process is used in Biogas production ? Write the definition of the process. Mention the major gases released during Biogas production Is Biogas Renewable/Non-renewable source of energy. Give two examples for each – renewable & non-renewable energy sources.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the 3Rs in Solid Waste Management ? Describe the sequence of steps in ‘Solid Waste Management’ from ‘Source Segregation’ to ‘Disposal & Landfills’.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Fill in the blanks: Ideal cross-section shape for combines sewers is _______ Tricking filters used in wastewater treatment is _______ process Septic Tank is an example for _____ treatment process Imhoff Tank is an example for _____ treatment process UASB reactor in wastewater treatment is ______ process Velocity in a sewer should be ______ than self-cleansing velocity Describe the sequence of steps in ‘Wastewater Treatment’ from ‘Screening’ to ‘Digestion of Sewage Sludge’.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain in detail what is Integrated Building Management system?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain what is ‘Building Energy Analysis’? Mention any TWO BEE Approved Compliance Software used for Daylighting Analysis",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

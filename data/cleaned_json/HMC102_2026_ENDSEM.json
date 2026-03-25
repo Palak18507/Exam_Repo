@@ -1,0 +1,120 @@
+{
+  "paper_id": "HMC102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC102",
+    "subject_name": "Human Values And Professional Ethics",
+    "program": "<MCA>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does valuing time reflect one’s character and discipline?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the significance of empathy in maintaining peaceful relationships?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the basic skill sets required for an engineering professional?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the purpose of ethical codes for engineers?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is risk-benefit analysis? Provide one example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define the concept of safety in engineering design.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define Corporate Social Responsibility",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Mention one ethical challenge faced by multinational corporations.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How does the Indian concept of Purusharth guide an individual towards a balanced and meaningful life?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are moral dilemmas? How do ethical theories help in conquering the situations of moral dilemmas?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Compare and contrast Kohlberg’s and Gilligan’s theories of moral development. How are these theories relevant to understanding ethical behavior in professional life?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is the significance of ethical codes for engineers? How do such codes guide engineers in handling ethical conflicts?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the case of Bhopal Gas Tragedy. What were the major reasons that it happened? What lessons do we learn from such cases?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write about safety and engineer and risk benefit analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the scope and aims of Engineering Ethics. Explain why an Engineer should study ethics?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss major ethical issues in computing, such as data privacy, cybercrime, and intellectual property rights.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

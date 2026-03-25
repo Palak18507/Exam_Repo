@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS234_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS234",
+    "subject_name": "MARKETING SERVICES",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by service perishability?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Mention any two reasons for the growing importance of the services sector.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List and briefly explain the three approaches to pricing services.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How do cost-based pricing and value-based pricing differ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Integrated Services Communication Mix ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "State two promotional tools used in services promotion management.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the role of complaint handling in customer retention?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does e-commerce enhance service delivery and profitability?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the key marketing challenges faced by service marketers. Suggest strategies to overcome these challenges.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the strategic importance of understanding consumer behavior in the context of service marketing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the services design and development process. Discuss how the marketing mix plays a role in each stage of service creation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How would you approach the pricing of a new service offering in a competitive market? Discuss your strategy considering cost, competition, value to customer, and ethical aspects.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Analyze the benefits and limitations of cyberspace delivery of services. How has digital transformation impacted service distribution.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Highlight the challenges in managing service promotion. How can marketers ensure effectiveness while maintaining ethical standards.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Evaluate different service recovery strategies. How can firms turn service failures into opportunities for strengthening customer relationships.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss how service firms can build profitable customer relationships using CRM systems and loyalty metrics.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

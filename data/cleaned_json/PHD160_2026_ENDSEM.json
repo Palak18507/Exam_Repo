@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD160_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD160",
+    "subject_name": "Sustainability Sciences",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions. Write short note on: a Sustainable Development 2.5 b Cradle to cradle approach 2.5 c Sustainability Indicators 2.5 d Human Needs 2.5 e Resource Management 2.5 f Public Participation Approach 2.5 g Environmental Ethics 2.5 h Green Technology 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain why the Indian Real Estate Industry needs a Life Cycle thinking and a Circular Economy 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "List down major global challenges of Sustainable Development 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "List all 17 SDG’s and briefly describe SDG 6 and SDG 11 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of Sustainability Science with suitable example 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss Landscape Ecology w.r.t the Yamuna Riverfront Development Project in Delhi 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write short essay on Watershed Management 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss LiFE initiative of Government of India and its importance in achieving SDG goals 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What role does education and awareness play in promoting sustainable development? 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

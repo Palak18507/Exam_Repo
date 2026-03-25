@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAS102_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS102",
+    "subject_name": "Applied Physics",
+    "program": "<B Tech >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a For a plane transmission grating with 5000 lines/cm, find the absent order spectra if the width of the opacity is twice that of the transparency? b A parallel beam of monochromatic light is normally incident on a plane transmission grating having 12,000 lines per cm. The second order spectral line is observed at an angle 45°. Find the wavelength of light used? c Describe the properties and physical significance of Displacement current vector. d Visible light of frequency ω ≈ 1015 s−1 is made to shine on a metal having conductivity σ ≈ 107 S m−1. Assuming µ ≈ µ0 for the metal, find the depth at which the current density of incident light would drop down to 37% of its value at the metal surface. e Plot the first three quantum states, ψn and the corresponding probability density distribution functions |ψn|2 for a quantum particle trapped in a 1-D box for principal quantum numbers n=1and 2. f Calculate de Broglie wavelength of a proton whose kinetic energy is 2.0 MeV. g A laser light with wavelength 770 nm has coherence length 10.2×10–4m. Find the number of oscillations corresponding to the coherence length and the coherence time. h An optical signal at specific wavelength has a loss of 55% of its power after travelling 3.5 Km. Calculate the attenuation in db/km in this fiber.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2a",
+      "unit": "UNIT I",
+      "question_text": "Derive Fresnel’s Diffraction at a straight edge for a line source. Show the graphical representation of the diffraction pattern in the illuminated and the geometrical shadow regions. b Obtain the condition of bright fringes when interference of light occurs by reflected ray in a parallel thin film. Why the reflected and transmitted fringes are complementary to each other?",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3a",
+      "unit": "UNIT I",
+      "question_text": "Derive the intensity distribution for a single slit Fraunhoffer Diffraction. Show that the relative intensities of first two successive maximas are in the ratio 1: 4/9π2 : 4/25 π2 and so on. Show a plot of the diffraction pattern. 2 b The sodium doublet lines have wavelengths 5890 Å and 5896 Å. Find the resolving power of the grating that can resolve the doublet in first order.",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "a Write the four Maxwell’s equations in integral form giving physical interpretation of each equation. b Two EM waves travel in opposite directions to form a standing wave. The electric and magnetic field vectors of the standing wave are given by Ey = 2Eo Cos Cos and Bz = 2BoSin Sin .Calculate the time average of the Poynting vector of the resultant wave. What do we infer from the result?",
+      "marks": 6.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "a Under what conditions does Ampere’s circuital law fail? How did Maxwell modify Ampere’s circuital law to account for these cases? b Derive the differential equations for propagation of electric and magnetic field vectors of an EM wave in an isotropic dielectric medium . Find the impedance offered by the dielectric medium and speed of light in the given medium.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6a",
+      "unit": "UNIT III",
+      "question_text": "Describe the properties of wave function. Normalise the given Wave function : 𝜓 = {𝐴sin , −𝜋≤𝑥≤𝜋 0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒 } b The position and momentum of a 1.0 keV electron are simultaneously measured. If the position is located within a 1 Å wave packet, what is the percentage of uncertainty in momentum?",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7a",
+      "unit": "UNIT III",
+      "question_text": "Derive the normalized wave function of an electron trapped in an infinite potential well and show that quantum mechanically such a particle acquires only discrete energy values. b An electron is constrained to move in a one dimensional box of Length 0.1 nm. Find the first two energy Eigen values and the corresponding de-Broglie wave lengths .",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8a",
+      "unit": "UNIT IV",
+      "question_text": "Establish a relationship between the Einstein’s Coefficients for spontaneous and stimulated emissions in a LASER system. b Classify the multimode optical fibers on the basis of refractive index profile of the core, comparing the advantages/disadvantages of both.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9a",
+      "unit": "UNIT IV",
+      "question_text": "An optical fiber has the refractive index of the core and cladding as 1.545 and 1.495 respectively. Calculate its critical angle, numerical aperture and acceptance angle? b Explain the working of a He Ne Laser with its energy level diagram.",
+      "marks": 5.0,
+      "subparts": []
+    }
+  ]
+}

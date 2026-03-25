@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS210_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS210",
+    "subject_name": "Corporate Mergers, Acquisitions and Restructuring",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is merger and acquisition?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the primary differences between operating synergy and financial synergy?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main causes of bankruptcy of any business firm?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the main provisions of Competition Act for M&A.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the acceptable reasons for mergers and acquisitions.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the major types of M&A?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the porter five forces model?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the role of companies act in M&A in India?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the SEBI takeover code related to M&A.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main provisions of M&A in income tax act?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

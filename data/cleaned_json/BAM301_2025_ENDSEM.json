@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAM301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM301",
+    "subject_name": "Optimization Techniques and Decision Making",
+    "program": "B.TECH",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State associated Issues with Iterative Methods. 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the complementary slackness conditions? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Curvature Analysis. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "State disadvantages of Newton’s Method. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Bias-Variance tradeoff? 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate overfitting and underfitting. 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the \"positive ideal solution\" and \"negative ideal solution\" in the TOPSIS method? 2.5 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the role of the kernel in Support Vector Machines? 2.5 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "The manager of an oil refinery must decide on the optimal mix of two possible blending processors of which the input and output production runs as follows- Process Input Input Output Output Crude A Crude B Gasoline X Gasoline Y 1. 6 4 6 9 2. 5 6 5 5 The maximum amounts available of Crude A and B are 250 units and 200 units respectively. Market demand shows that atleast 150 units of Gasoline X & 130 units of Gasoline Y must be produced. The profits per production run from Process 1 & Process 2 are Rs.4 and Rs.5 respectively. Formulate the problem for maximizing the profit. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Minimize the quadratic function using Steepest Descent Method. f=x2+4x+4 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of lagrange variables. Find minimum value of the objective function f=x2+y2 subject to: x+y=1, using Lagrange variables method. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is the advantage of the Quasi Newton Method over Newton Method? Minimize the function using the Quasi Newton Method. f=x2+2x+1 starting from an initial guess of x0=0 and Take α=1. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain K Nearest Neighbors Algorithm with an example. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Define Prescriptive Analytics? What are its types and differentiate between them? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain k-means algorithm. For the given data, compute two clusters using K-means algorithm for clustering where initial cluster centers are and . Execute for two iterations. Record No R1 R2 R3 R4 R5 R6 R7 A 1 1.5 3 5 3.5 4.5 3.5 B 1 2 4 7 5 5 4.5 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is a Markov Decision Process , and why is it important in reinforcement learning? What is reinforcement learning? Write its applications. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

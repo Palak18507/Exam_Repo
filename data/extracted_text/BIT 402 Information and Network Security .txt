@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<8> 
+(May, 2025) 
+ 
+Subject Code: BIT 402 
+Subject: Information and Network Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) Explain the differential and linear cryptanalysis attacks on DES. How 
+effective are these methods in breaking the encryption? 
+ 
+CO1 
+ 
+b) Discuss the concept of a digital signature. How does it ensure 
+authentication, integrity, and non-repudiation? 
+ 
+CO2 
+ 
+c) Discuss the role of cryptographic hash functions in authentication. 
+How do they ensure data integrity? Explain the working of MD5 and its 
+vulnerabilities. 
+ 
+CO3 
+ 
+d) Describe how HTTPS secures web traffic. What are the advantages 
+of HTTPS over HTTP in ensuring data security? What is a VPN (Virtual 
+Private Network)? Explain how VPN provides secure communication 
+over public networks. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Differentiate between Active and Passive Attacks. Provide examples 
+and discuss how modern security mechanisms counter these threats. 
+(10) 
+CO1 
+Q3 
+Describe the structure and working of the Data Encryption Standard 
+(DES). What are its vulnerabilities, and how have they been mitigated 
+in modern encryption techniques? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the fundamental differences between symmetric and public key 
+cryptography. What are the advantages and limitations of each? 
+Discuss the key requirements of public key cryptosystems. How do they 
+ensure security in cryptographic applications? 
+(10) 
+CO2 
+Q5 
+Explain the El Gamal cryptosystem and analyze its security compared 
+to RSA. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Compare 
+password-based, 
+certificate-based, 
+and 
+biometric 
+authentication. What are the advantages and disadvantages of each 
+method? Discuss the example use cases as well. 
+(10) 
+CO3 
+Q7 
+Explain the requirements of authentication in security systems. How 
+does authentication help in preventing unauthorized access? What is 
+Kerberos authentication? Explain its working principle with a step-by-
+step flow of authentication messages. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the architecture of IP Security (IPSec). How does it provide 
+confidentiality, 
+integrity, 
+and 
+authentication 
+in 
+network 
+communications? Compare transport mode and tunnel mode in IPSec. 
+(10) 
+CO4 
+Q9 
+Differentiate between Intrusion Detection System (IDS) and Intrusion 
+Prevention System (IPS). Explain their types, working mechanisms, and 
+use cases in network security. Also, discuss the advantages and 
+limitations of each with suitable examples. 
+(10) 
+CO4

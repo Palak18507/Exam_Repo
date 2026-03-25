@@ -1,0 +1,119 @@
+{
+  "paper_id": "MIS103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS103",
+    "subject_name": "Advances in Machine Learning",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between outputs of Multilayer Perceptron and Neural Networks. 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How Specificity, Sensitivity and ROC/AOC are calculated from Confusion Matrix? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "How curse of Dimensionality affects the Learning Process in AI Models? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the issues in Hill Climbing? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "Describe AI as searching paradigm. 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "How environment and problem is related in Reinforcement Learning? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "g",
+          "text": "How does exploration and exploitation phases are conceptually realizing a trained model in Reinforced Learning? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "h",
+          "text": "How Operators of Genetic Algorithms allows faster convergence towards optimality? 2.5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "a. Derive the mathematical expression for gradients at various layer and weight update functions for 03 Layer Multilayer perceptron. b. Explain Feature Vectors and Feature Selection Methods in ML Models.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "a. Demonstrate the phenomenon of over fitting and under-fitting and describe the relationship dataset. b. Explain Factor Analysis and Independent Component Analysis.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "a. Theoretically compare ID3, C4.5 and IBM CART algorithms. Apply any one algorithm of your choice on the example below generate Decision Tree. Sr. No. Age Competition Type Profit 1 Old Yes Software Down 2 Old No Software Down 3 Old No Hardware Down 4 Mid Yes Software Down 5 Mid Yes Hardware Down 6 Mid No Hardware Up 7 Mid No Software Up 8 New Yes Software Up 9 New No Hardware Up 10 New No Software Up",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "a. Prove that Perceptron Converges for Linearly Separable Data Set through theorem proof. b. Derive the weight update equations for Linear and Logistic regression.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "a b C d e a 0 12 21 31 23 b 12 0 22 30 20 c 21 22 0 25 33 d 31 30 25 0 38 e 23 20 33 38 0 a. An example of Data Cluster Centroids is given below. Execute Hierarchical clustering with Single Linkage, Average Linkage works? Also create dendograms along with. b. How Fuzzy Clustering and Fuzzy Clustering with Expectation Maximization work? Derive all important equations thereof.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "a. How RNN works? Take language modeling as example application for explanation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "a. How Convolution Neural Network works? Take image classification as example application for explanation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "a. How K mean+ is capable of handling the outliers given K means as context? b. How Boosting and Bagging works through sampling data samples with equal or unequal probabilities of selection and realize Ensemble Learning?",
+      "marks": 5.0,
+      "subparts": []
+    }
+  ]
+}

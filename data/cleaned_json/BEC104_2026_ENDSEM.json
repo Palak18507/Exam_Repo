@@ -1,0 +1,78 @@
+{
+  "paper_id": "BEC104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC104",
+    "subject_name": "Network Analysis and Synthesis",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Two resistances when connected in series, the effective value of equivalent resistance is 100 Ohms. When connected in parallel the effective value is 24. Find the value of resistance R1 and R2. 5 b Explain with the help of mathematical representation of the following theorems Initial value Theorem Final value Theorem 5 c Define y-parameters for a two port network and draw its equivalent circuit model. 5 d How the function can be identified as a positive real function? Explain with the help of a suitable example 5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Find Voltage V1 and V2 and current in 6 Ohm and 8 Ohm in the circuit shown below 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Find the value RL in the figure for maximum power transfer to RL and calculate the maximum power transferred. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Steady state is achieved in the circuit shown in figure with switch S as open. At t=0 the switch S is closed. Find the value of I at t>0. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A constant voltage source of 100V applied at t=0 to a series RC circuit with R=5 kΩ and C=20µF, given that there is no initial charge on the capacitor. Examine the current i and charge q for time t > 0. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define h-parameters. Obtain the h-parameters of the circuit shown in the figure. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Drive the condition of symmetry and reciprocity for a two-port network in terms transmission parameters. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is an LC immittance function? State the properties of such functions. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Synthesize the network using Foster-I and Foster -II forms for the impedance function given below: 𝑍 = 𝑠 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

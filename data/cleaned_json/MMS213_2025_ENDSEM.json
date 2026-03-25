@@ -1,0 +1,100 @@
+{
+  "paper_id": "MMS213_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS213",
+    "subject_name": "Investment Banking & Financial Services",
+    "program": "MBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the New Issue Market and how do IPOs contribute to capital formation in India?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of investment banks in public offers of debt securities?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is hire purchase and how is it different from leasing? Discuss its advantages for consumers and businesses.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are rating symbols/grades used by credit rating agencies?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the structure and key components of the Indian Financial System. Discuss the role of various financial institutions, markets, and instruments in the functioning of the Indian economy",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the role and functions of the secondary market in the stock exchange. Discuss how market indices like Sensex and Nifty are used to assess the performance of the stock market in India.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between a rights issue and a secondary public offer. How do investment banks facilitate these types of offers, and what are the advantages of each for both the company and the shareholders?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the various functions of investment banks in the public offering process. How do they contribute to the preparation, structuring, pricing, and marketing of securities to potential investors?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is consumer finance provided by NBFCs? How do NBFCs facilitate consumer spending through various financing options?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the key provisions of the Insurance Act and the role of IRDA in regulating the insurance sector in India.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the different types of mutual fund schemes/products available in India. Explain the key differences between equity, debt, hybrid, and index mutual funds.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Name some of the prominent credit rating agencies in India. What functions do these agencies serve, and how do they influence investment decisions",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

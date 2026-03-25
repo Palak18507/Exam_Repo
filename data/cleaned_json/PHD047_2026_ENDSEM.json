@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD047_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD047",
+    "subject_name": "Introduction to Internet of Things",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a How does the Internet of Things differ from traditional internet usage? 2.5 b Discuss the term “Industrial IoT” in today’s scenario. 2.5 c Describe one IoT-based smart city service and how it improves urban life. 2.5 d Why is networking important in IoT systems? Mention one example where networking enables an IoT solution. 2.5 e Define data analytics in the context of IoT. 2.5 f Briefly explain the difference between Zigbee and LoRaWAN in terms of range and power usage. 2.5 g How is Arduino different from Raspberry Pi? 2.5 h What security concerns arise in IoT systems, and what are some basic ways to address them? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the architecture and components of an IoT system. How do sensing and actuation technologies contribute to the functioning of IoT applications? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role of communication protocols in IoT with a focus on HTTP. How does HTTP work in IoT systems and what are its limitations? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is interoperability in the context of IoT systems? Why is it a critical challenge and how can it be addressed? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the concept of machine-to-machine communication. How does M2M communication influence the performance and scalability of IoT networks? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the steps involved in implementing an IoT system using Raspberry Pi? Provide an example use-case to illustrate your answer. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Define Software Defined Networking . Explain the role of SDN in IoT with emphasis on network management, flexibility, and scalability. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Compare cloud computing and fog computing in the context of IoT. How does fog computing address the limitations of cloud computing in real-time applications? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain how IoT is transforming the healthcare industry. Describe an IoT-based remote health monitoring system and its benefits. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

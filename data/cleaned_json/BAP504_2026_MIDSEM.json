@@ -1,0 +1,37 @@
+{
+  "paper_id": "BAP504_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP504",
+    "subject_name": "Project Management",
+    "program": "Such as B.Arch",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write short notes on following: Define the term ‘Management’ Define Project Management Importance of Leadership Staffing",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt any two parts Discuss how era of Mass Production gave rise and acceptance to the management theories Discuss four theories of Learning with suitable examples. Write short note on ‘Management by Might’ and ‘Management by Guesswork’.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt any two parts Explain ‘Systems Approach to Management Diagram’ through the case example of Parliamentary/ Assembly Election Mechanism deployed by the Election Commission of India , as discussed in the class. Explain each stage of Maslow’s Need Hierarchy Model. Discuss the Planning and Organizing strategy that you have developed and deployed for your Thesis project work",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAI320_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI320",
+    "subject_name": "Advanced Machine Learning (Re-appear",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What do we mean by machine learning? Discuss the different categorizes of ML algorithms in detail. b Difference between active learning and reinforcement learning. c Explain data augmentation techniques for imbalanced dataset. d Discuss the three types of clustering methods in detail.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the Principal component analysis in detail. Explain its working in detail along with diagram. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is feature selection in machine learning? Discuss each method in detail. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe Support Vector Machine . Discuss about each kernal functions used in SVM in detail. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What do we mean by ensemble learning? Explain the different techniques: Bagging, Boosting, XGBoost, AdaBoost. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Elaborate on unsupervised learning. Explain the centroid based clustering along with k-means and k-medoids. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the self-organizing maps. Illustrate the use of elbow method in clustering along with diagram 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the Gradient Descent Algorithm. Discuss the role of backpropagation in neural network. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the reinforcement learning. Mention it's application and case study in medical area in detail. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

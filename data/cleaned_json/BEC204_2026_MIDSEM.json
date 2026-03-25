@@ -1,0 +1,54 @@
+{
+  "paper_id": "BEC204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC204",
+    "subject_name": "Digital System Design",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Provide the full form of VHDL and discuss its key features and capabilities in modeling digital systems. 2.5",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between behavioral, dataflow and structural modelling in VHDL. 5",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key differences between a Mealy machine and a Moore machine? 5",
+          "marks": 10.0
+        }
+      ]
+    }
+  ]
+}

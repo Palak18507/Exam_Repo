@@ -1,0 +1,89 @@
+{
+  "paper_id": "BCS304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS304",
+    "subject_name": "Microprocessor and Interfacing",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Do 8086 implements pipelining? Justify your statement",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Can we change the content of the Code Segment directly? Justify your statement.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate and explain the following instructions: 1. SUB CL,BL 2. SUB CX,AX 3. SUB DX,0016H 4. SUB CX,[DI] 5. SUB [BP] AH",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Given AX=0102H, BX=0304H, SP=0722, and SS=0200. After executing the following program what will be the contents of AX, BX, SP, and STACK : POP BX POB AX",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the function of the following pins in 8085: INTR, ALE, READY, HOLD, TRAP",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain in detail the demultiplexing of the Address bus in 8086",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the function of EU, BIU, and QUEUE in 8086",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "IF SS-0100H, DS=2000H, ES-1002, BX-1001H, BP-2100, SI- 0002H. Mention the contents of BX, BP, SI, ES, and SS after the execution of LES BX, [BP]+[SI]",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the timing diagram of the write cycle in 8086 Minimum mode",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the following assembler directives: ASSUME, ENDP, EXTRN, ORG, ENDS",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "paper_id": "BMA206_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA206",
+    "subject_name": "Engineering Materials",
+    "program": "B. Tech (MAE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Short Questions CO Mapping What is Crystallographic Direction? Explain. 01 What is crystal structure, define with suitable diagram. 01 Define grain boundary with suitable diagram. 02 What is Anisotropy? 02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "c",
+          "text": "Draw and explain the cooling curve of pure iron with suitable diagram 02",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw and explain the Iron-Carbon equilibrium phase diagram with neat sketch. 02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the term alloy? Write down advantages and disadvantages of Alloy Steel. 02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Schottky defect and Frankel defect with suitable diagram. 02",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

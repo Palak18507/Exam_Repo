@@ -1,0 +1,78 @@
+{
+  "paper_id": "BMS346_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS346",
+    "subject_name": "TIME SERIES ANALYTICS",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define a difference equation with an example. 2.5 b What is a lag operator and how is it used in time series modeling? 2.5 c What conditions make an ARMA model stationary? 2.5 d Differentiate between autocorrelation and partial autocorrelation functions. 2.5 e What are the stylized facts of economic time series? 2.5 f Write a brief note on the GARCH model. 2.5 g Explain the concept of a stochastic trend. 2.5 h What is the purpose of the Dickey-Fuller test in time series analysis? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the cobweb model and illustrate its solution using both graphical and algebraic methods. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Using the method of undetermined coefficients, solve the non- homogeneous difference equation: yt−0.8yt−1=5. Interpret the solution in the context of a time series application. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the Box-Jenkins methodology in detail. How do Auto Correlation Function and Partial Auto Correlation Function help in model identification? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define stationary in the context of time series. Discuss why stationary is essential for ARMA model estimation, with the help of an example. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the concept of volatility clustering in financial time series. How do ARCH models capture this phenomenon? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Develop a GARCH model to estimate inflation volatility. Explain the estimation procedure and interpretation of the model parameters. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Perform a Dickey-Fuller test on a time series with an upward trend. Explain each step of the testing procedure and how you would interpret the results. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is a unit root in time series data? How can its presence affect model selection and forecasting? 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

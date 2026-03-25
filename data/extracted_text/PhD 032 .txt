@@ -1,0 +1,74 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< PhD>, Semester:< 1st > 
+(May, 2025) 
+ 
+Subject Code: PHD 032 
+Subject: Software Testing  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define software bug and failure. 
+ 
+ 
+b) Why is complete testing not achievable? Give example. 
+ 
+ 
+c) Compare and contrast Verification and Validation. 
+ 
+ 
+d) Differentiate between white box and black box testing. 
+ 
+ 
+e) Give the fault model for an OO program. 
+ 
+ 
+f) What do you understand by Mc/Dc testing? 
+ 
+ 
+g) What is the importance of test automation? 
+ 
+ 
+h) Briefly explain dataflow testing. 
+ 
+UNIT I 
+ 
+Q2 
+What are the basic steps of SDLC, Explain any 3 models. 
+(10) 
+Q3 
+How are testing techniques effected by the Pesticide effect? 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain Pairwise and Black box Testing techniques. 
+(10) 
+Q5 
+Differentiate between Equivalence class and Boundary value testing with 
+examples. 
+(10) 
+UNIT III 
+ 
+Q6 
+What are the various types of path testing? Give example. 
+(10) 
+Q7 
+What are the various types of mutation testing and how can it be achieved? 
+(10) 
+UNIT IV 
+ 
+Q8 
+What is regression testing? Explain different types of regression testing techniques 
+with example. 
+(10) 
+Q9 
+How are integration and system testing different from each other? 
+(10)

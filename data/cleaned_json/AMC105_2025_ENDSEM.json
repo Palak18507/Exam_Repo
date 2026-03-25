@@ -1,0 +1,120 @@
+{
+  "paper_id": "AMC105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC105",
+    "subject_name": "COMPUTER APPLICATIONS IN MANAGEMENT",
+    "program": "<>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the primary function of an operating system in a computer? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is 5G, and how is it different from 4G technology? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Big Data, and how is it different from traditional data? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of using macros in Excel for data analysis? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Bluetooth 5.0, and how does it differ from earlier versions of Bluetooth technology? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Question: What are the main functions of input and output devices in a computer system? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the purpose of using filters in Excel? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Why is data quality important in business analytics? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Compare the features of wired and wireless networking. Discuss how communication standards like Bluetooth and Wi-Fi have improved connectivity.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the differences between Supercomputers, Mainframes, and Personal Computers. Discuss their respective roles in business management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of Artificial Intelligence and its applications in daily life, such as voice assistants and gesture-based controls. Provide practical examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the significance of Virtual Reality and Artificial Intelligence in transforming business operations. Provide examples of their applications in industries such as retail and healthcare.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define database management systems and discuss their role in storing, retrieving, and analyzing business data. Provide examples of how they assist in business operations",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How does data quality impact business decision-making? Discuss methods businesses use to ensure data accuracy, such as data cleaning and validation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the process and importance of using Pivot Tables and Pivot Charts in Excel for business data analysis. How do these tools help in summarizing large datasets and facilitating decision-making in business operations?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the role of statistical functions such as NPV , IRR , and EMI in financial decision-making. Provide examples of how businesses use these functions in evaluating investment opportunities.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

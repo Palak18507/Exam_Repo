@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS210_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS210",
+    "subject_name": "Corporate Mergers, Acquisitions and Restructuring",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Distinguish between horizontal and vertical mergers with relevant examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Dell Computer is one of the best-known global technology companies. How would you assess Dell’s bargaining power with respect to its customers?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is bankruptcy?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the SEBI takeover codes for M&A.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the main components of due diligence report?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How important are the human factors to the success of integration? Why?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is LBO and Equity Carve Out?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "As a financial analyst, how would you assess synergy gains in M&A deal?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How can a business firm use SWOT analysis to identify strategic acquisition opportunities in a highly competitive market?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "In what ways does the stage of the product life cycle influence a business firm's decisions when pursuing growth through mergers and acquisitions?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the role of Companies Act in M&A in India?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the various provisions of Indian Income Tax act, 1961 related to mergers and acquisitions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the sequential steps involved in the M&A process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Companies often adopt various takeover defense strategies to deter or complicate the mergers and acquisitions process. What are some of the most commonly used methods? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the concept and rationale of the discounted cash flow approach?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Company A needs to be valued with the help of multiples. The industry to which company belongs has already witnessed five successful acquisition deals. The data of these five deals is given in the table below: Data of the five deals No. of deals Target Company Offer price per share by acquirer as a multiple of Total Business Value as a multiple of EPS Book Value Sales EBITDA Deal 1 X 25x 5x 4x 18x Deal 2 Y 15x 3x 6x 14x Deal 3 Z 14x 4x 4x 12x Deal 4 D 21x 6x 5x 14x Deal 5 E 22x 8x 3x 16x The financial data available for company A Assets 10,000 EPS 8/share Debt 4,000 EPS 6/share Sales 5,000 Book value 42/share EBITDA 2,000 Debt/Equity 0.84 Number of shares 120 million Determine the value of the target company A based on the value of transaction multiples of the five deals that took place in the industry.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

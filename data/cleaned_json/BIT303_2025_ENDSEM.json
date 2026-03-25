@@ -1,0 +1,119 @@
+{
+  "paper_id": "BIT303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT303",
+    "subject_name": "Artificial Intelligence and Machine Learning",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How rational agent mimics human intelligence? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How Does K- cross validation and classifiers are related? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How to choose an output function of output layer in a multi-layer neural network? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How TF and IDF are defined for a document? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Compare performance of BFS, DFS, IDA* and RBFS on completeness, optimality, Time Complexity and Space Complexity. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Visualize AI as a search paradigm and map 8-puzzle as search problem in AI. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How does dimensionality affects the applications of AI models? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does google search use language modeling? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "a. Derive parameter update equations for linear and logistic regression. b. How a Neural Network with 03 hidden layers work during back propagation, given N data samples of Labelled Data Set?",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "a. How Naïve Bayes classier works? What is 0-probability issue in Naïve Classifier and how it is resolved? b. Classify the following Test Sample < >. Use following Data Set for calculations involved therein.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "a. How RNN works for Language Modeling using NN?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "a. How Skip Gram and Bag of Words approaches works for Word Vector in Wordnet? b. How Glove Model Differs from Word2Vec? Explain.",
+      "marks": 6.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "a. How Genetic Algorithm solve optimality problems? Apply the GA on populations <110011,100100,011011,000111,111000> to search solution vector <110111>. b. How Annealed Healing works and which issues of Hill Climbing are solved through Annealed Healing?",
+      "marks": 6.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "a. Write and Explain Evaluation Parameters for Algorithms in AI. b. Compare the DFS, BFS, UCS and A* algorithms on these parameters. c. Write pseudo Code for RBFS . Evaluate RBFS on the parameters identified in 7.a.",
+      "marks": 3.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "a. Describe architectures of Expert Systems with brief working. [5] b. Write a short note on ethics in AI. [5]",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "a. Write short note on the following: I. Applications of AI in Medical Science II. Applications of AI in IoT III. Applications of AI in Information Retrieval from search engine",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

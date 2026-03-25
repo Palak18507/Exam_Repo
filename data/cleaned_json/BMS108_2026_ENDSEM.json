@@ -1,0 +1,101 @@
+{
+  "paper_id": "BMS108_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS108",
+    "subject_name": "Marketing Management",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What does positioning mean in marketing strategy.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between product development and product diversification?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define marketing logistics and explain its significance in delivering value to customers.?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is personal selling? Why is it important in the marketing process.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Illustrate how the STP process helps marketers design effective marketing campaigns.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain how changes in the macro-environment can influence marketing decisions with recent industry examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Design a pricing strategy for a new product entering a competitive market. Discuss your approach to pricing tactics, market research, and competitive positioning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the concept of pricing strategies. How do value-based pricing and cost-based pricing differ, and when should each be applied.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the meaning and importance of place in the marketing mix. How does it influence customer satisfaction and business success?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the integration of retailing and logistics in marketing strategy. How do effective retail operations and logistics management impact customer experience and profitability?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the promotion mix and explain how it integrates the various promotional tools to create a cohesive marketing strategy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is rural marketing? Discuss the challenges and opportunities businesses face when promoting products in rural areas.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.Tech., Semester: 7th 
+(December, 2024) 
+ 
+Subject Code: BAI 415 
+Subject: Recent Trends in AI 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: 1. Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+2. Use appropriate diagrams, examples, and illustrations to support your answers where   
+applicable. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Artificial Intelligence. Discuss the significance of AI 
+architecture in developing intelligent systems. 
+2.5 
+CO1 
+ 
+b) List any four AI tools and briefly explain their applications. 
+2.5 
+CO1 
+ 
+c) An AI-powered recommendation system predicts product 
+preferences for users with the following outcomes for a test set of 
+1,000 recommendations: 
+ 
+Predicted as Preferred & Actually Preferred: 450 
+ 
+Predicted as Preferred & Not Preferred: 200 
+ 
+Predicted as Not Preferred & Actually Preferred: 150 
+ 
+Predicted as Not Preferred & Not Preferred: 200 
+Construct the Confusion matrix for the system. 
+2.5 
+CO2 
+ 
+d) How does AI contribute to knowledge discovery in Data Mining? 
+Provide a real-world example. 
+2.5 
+CO2 
+ 
+e) What are the main components of a Computer Vision system? How 
+does AI enhance image recognition? 
+2.5 
+CO3 
+ 
+f) Briefly explain the concept of Generative Adversarial Networks 
+(GANs). Mention one practical application. 
+2.5 
+CO3 
+ 
+g) Discuss one example where AI is used in smart city development. 
+2.5 
+CO4 
+ 
+h) Explain how AI-based systems can enhance intrusion detection in 
+cybersecurity. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the architecture of Artificial Intelligence in detail. Include a 
+diagram to illustrate your explanation. 
+(10) 
+CO1 
+Q3 
+A company uses an AI-based search algorithm for optimizing delivery 
+routes. The algorithm provides the following probabilities of success: 
+ 
+Path A: 0.8 
+ 
+Path B: 0.6 
+ 
+Path C: 0.9 
+Using the weighted probabilities method, determine the optimal path 
+considering delivery weights: 
+(10) 
+CO1 
+ 
+Path A: 50 deliveries 
+ 
+Path B: 30 deliveries 
+ 
+Path C: 20 deliveries. 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the role of AI in knowledge discovery and decision-making 
+processes. How does it enhance the efficiency of Information 
+Technology systems? 
+(10) 
+CO2 
+Q5 
+A data mining algorithm categorizes customers based on the following 
+criteria: 
+ 
+Spending: High (40%), Medium (35%), Low (25%). 
+ 
+Retention Probability: High spenders (0.9), Medium (0.7), Low 
+(0.4). 
+Calculate the expected retention rate of customers in a sample size of 
+1000. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is Smart Grid Computing? Discuss its implementation and 
+benefits with AI technologies. 
+(10) 
+CO3 
+Q7 
+A self-driving car vision system uses object detection algorithms with 
+the following confidence levels for identifying obstacles: 
+ 
+Pedestrian: 0.85 
+ 
+Vehicle: 0.92 
+ 
+Cyclist: 0.78 
+Assuming the system triggers braking when confidence exceeds 0.80, 
+calculate the braking decision probabilities for each obstacle. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+How is AI utilized in the healthcare industry? Discuss its applications 
+with examples. 
+(10) 
+CO4 
+Q9 
+Discuss AI-based security and intrusion detection mechanisms. How do 
+they help in securing real-world systems? 
+(10) 
+CO4

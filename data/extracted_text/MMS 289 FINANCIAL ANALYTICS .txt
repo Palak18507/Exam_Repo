@@ -1,0 +1,149 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(FINANCIAL ANALYTICS) (OffLine) 
+Course Name: MBA, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code: MMS 289 
+Subject: FINANCIAL ANALYTICS 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define the internal rate of return (IRR) in financial analysis with an 
+example 
+(2.5) 
+CO -1 
+ 
+b) What is the weighted Average Cost of Capital (WACC). Name two 
+components used to calculate WACC? 
+(2.5) 
+CO – 1 
+ 
+c) What is the purpose of the consolidated statement of cash flows in 
+business valuation?  
+(2.5) 
+CO – 3 
+ 
+d) Why is Sensitivity analysis important in financial modelling? 
+(2.5) 
+CO – 3 
+ 
+e) Explain the Capital Asset Pricing Model (CAPM) briefly. 
+(2.5) 
+CO – 2 
+ 
+f) What is a variance – Co- Variance matrix and how is it useful in 
+portfolio management? 
+(2.5) 
+CO – 3 
+ 
+g) What is the purpose of an Immunization strategy in bond investing? 
+(2.5) 
+CO – 4 
+ 
+h) How does duration affect a bond’s price when interest rates 
+changes?  
+(2.5) 
+CO - 4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of Net Present Value (NPV) and its importance in 
+financial decision making? 
+(10) 
+CO - 2 
+Q3 
+ What is the Internal Rate of Return (IRR)? Discuss its significance and 
+how it is used to evaluate investment projects.  
+Calculate the IRR for the following cash flow series 
+Initial Investment = Rs. 6,00,000 
+Cash flow: 
+Year 1 = Rs. 1,50,000 
+Year 2 = Rs. 2,00,000 
+Year 3 = Rs. 2,50,000 
+Year 4 = Rs. 3,00,000 
+(10) 
+CO - 1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is Sensitivity analysis in financial modeling? How does it help 
+business understand the impact of changes in key assumptions on 
+their financial results? 
+(10) 
+CO - 3 
+Q5 
+A Company has the following projections for its next 3 years:  
+Year 1 
+Revenue = Rs. 20,00,000 
+Operating Expenses = Rs. 10,00,000 
+Depreciation = Rs. 1,00,000 
+ 
+Year 2 
+Revenue = Rs. 2,50,000 
+Operating Expenses = Rs. 12,00,000 
+(10) 
+CO - 1 
+2 
+ 
+Depreciation = Rs. 1,20,000 
+ 
+Year 3 
+Revenue = Rs. 30,00,000 
+Operating Expenses = Rs. 15,00,000 
+Depreciation = Rs. 1,50,000 
+ 
+Calculate the free cash flow (FCF) for each year.  
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A portfolio consists of two assets, A & B with the following 
+information: 
+Expected Return of Asset A = 9% 
+Expected Return of Asset = 8% 
+ 
+Standard Deviation of Asset A = 5% 
+Standard Deviation of Asset B = 10% 
+ 
+Correlation Coefficient between Asset A & Asset B = 0.4 
+Calculate the expected return and standard deviation of a portfolio 
+with 40% weight in Asset A and 60% weight in Asset B. 
+(10) 
+CO - 2 
+Q7 
+Why is diversification important in a portfolio? What are the benefits 
+of adding more assets with low correlation to a portfolio?  
+(10) 
+CO - 2 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are Treasury Notes? How are they used to reflect the term 
+structure of interest rates? 
+(10) 
+CO – 4 
+Q9 
+A Bond pays a fixed coupon of Rs.3500 every year and has a face value 
+of Rs.70,000. The bond matures in 5 years, the current market interest 
+rate is 6%. 
+(a) What is the price of the bond? 
+(b) What would happen to the bond price if the interest rate increased 
+to 8%?   
+(10) 
+CO - 4

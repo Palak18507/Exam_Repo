@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name :<PHD> 
+(May, 2025) 
+ 
+Subject Code: PHD 110 
+Subject: Reinforcement Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt any four Parts 
+20 
+ 
+ 
+a) Explain the effect of optimistic initial action-value estimates on the 10- 
+armed testbed. Is the method biased? Give reasons.  
+5 
+CO1 
+ 
+b) What are the actions, states and rewards, if we apply reinforcement 
+learning to the following case study: 
+(i) Pick-and-Place Robot: To control the motion of a robot arm in a 
+repetitive pick-and-place task 
+(ii) Bioreactor: To determine moment-by-moment temperatures and 
+stirring rates for a bioreactor (a large vat of nutrients and bacteria used 
+to produce useful chemicals) 
+5 
+CO1 
+ 
+c) Define the following (Any Two): 
+(i) 
+Policy improvement 
+(ii) 
+Policy evaluation 
+5 
+CO2 
+ 
+d) Explain the two distinct approaches to planning: State-space planning 
+and plan space planning with reference to Artificial Intelligence. 
+5 
+CO3 
+ 
+e) What are action critic methods? Explain. 
+5 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+Differentiate between ε-greedy methods, UCB Methods, Gradient Bandit 
+methods. Draw a graph showing parameter study over 1000 steps for the 
+Bandit Algorithms. 
+(10) 
+ 
+CO1 
+Q3 
+What are the four main sub-elements of a reinforcement learning system other 
+than agent and environment? Give an example of re-enforcement learning. 
+(10) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+How Dynamic programing is different from Temporal differences methods? 
+Explain in a neat tabular form.  
+(10) 
+ 
+CO2 
+Q5 
+Define a finite Markov Decision Process. Explain Agent-Environment interface 
+in an MDP.  
+(10) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+Explain Feature Construction for Linear Parameterization Methods.  
+(10) 
+CO3 
+Q7 
+What are Eligibility traces?  What are the advantages of Eligibility traces? 
+Explain any one Eligibility trace method.  
+(10) 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+What is Hierarchical Reinforcement Learning? What are its key components? 
+How is it advantageous over traditional RL approaches? 
+(10) 
+CO4 
+Q9 
+What are policy gradient methods? Explain REINFORCE: Monte Carlo-based 
+policy gradient algorithm. 
+(10) 
+CO4

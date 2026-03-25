@@ -1,0 +1,98 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:BBA, Semester: 5th  
+(December, 2024) 
+Subject Code: BMS-311 
+Subject:  Investment Analysis & Portfolio Management 
+Time: 3 Hours 
+Maximum Mark: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Difference between Systematic Risk and Unsystematic 
+Risk 
+(2.5) 
+CO1 
+ 
+b) Explain about Immunization of a Bond Portfolio 
+(2.5) 
+CO1 
+ 
+c) Difference between Technical and Fundamental Analysis 
+(2.5) 
+CO2 
+ 
+d) What is Efficient Market Hypothesis (EMH)? 
+(2.5) 
+CO2 
+ 
+e) What is Indifference Curve? 
+(2.5) 
+CO3 
+ 
+f) Investor Risk and Return Preferences  
+(2.5) 
+CO3 
+ 
+g) Major Classification of Mutual Fund Scheme 
+(2.5) 
+CO4 
+ 
+h) Explain about Security Market Line 
+(2.5) 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What do you mean by Risk? Briefly tells about various types 
+of risk in an investment. 
+(10) 
+CO1 
+Q3 
+What do you mean by Fundamental Analysis? What are the 
+key components of fundamental analysis? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Briefly explain about technical analysis approach of 
+investment analysis with a suitable example. 
+(10) 
+CO2 
+Q5 
+What is Efficient Market hypothesis (EMH)? What are the 
+implications of three forms of EMH in investment decisions? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is Portfolio Management? What are the various steps 
+involved in the process of portfolio management? 
+(10) 
+CO3 
+Q7 
+Briefly explain about Markowitz portfolio model. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is the concept of Efficient Frontier? Give an example of 
+efficient frontier by use of risky and risk free assets. 
+(10) 
+CO4 
+Q9 
+Explain the concept of overvalued and undervalued assets 
+through capital market line. 
+(10) 
+CO4

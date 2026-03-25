@@ -1,0 +1,136 @@
+{
+  "paper_id": "BMS312_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS312",
+    "subject_name": "Financial Modelling and Derivatives",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand goal seek. Explain it with examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Pivot Table and Charts.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is free cash flow? Explain it suitable examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of Terminal value, how it is calculated.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you understand by moneyness of the option, explain this with relevant examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Calculate future price using cost of carry model for three month contract with the following details Titan company share price is currently trading in the market on 15th April 2025, 1450. The Risk free rate is 6% as per current repo rate.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain Swaps with suitable examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are different types of options based on styles, explain it suitable examples",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What do you understand by financial modeling? Discuss the different methods available to perform financial modeling, and explain how investors and companies can leverage the benefits of financial modeling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define sensitivity analysis. Explain how different techniques of sensitivity analysis can be used to analyze financial statements through financial modeling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What do you understand by common size and comparative statements for both the profit and loss account and balance sheet? Explain each with the format and relevant examples. Calculate Enterprise Value from the following information given below Cash 1,12,000 Marketable Securities 76,000 Bank 66,000 Short Term Debt 1,58,000 Long Term Debt 2,38,000 Preference Share 2,17,000 Equity 5,48,000 2",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "80",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "150",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "110",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are derivatives? What are the different types of derivatives? Explain each in detail with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Prepare a payoff matrix and payoff diagram for both the holder and writer of an Adani call and put option based on the following information: Option Price: 80 Current Spot Price: 2350 Strike Price: 2400 The above prices are as on 15th April 2025 Spot prices on the expiration of the contract as on 29th May 2025: 1800, 1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Black Scholes Model for determining options pricing for both call and put option with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A. What are the factors affecting option pricing, commonly referred to as the \"Greeks\"? Explain each Greek in detail with relevant examples. B. Calculate option price for a strike price of Rs. 1490 based on binomial model for the period of 1 year with following details given below: The current market spot price of SBI life insurance is Rs. 1500 as on 15th April 2025. The volatility of up move of the stock is 1.25 and down move is 0.8. The probability of up move is 0.6 and down move is 0.4. The risk free rate of interest based on repo rate is 6%.",
+      "marks": 5.0,
+      "subparts": []
+    }
+  ]
+}

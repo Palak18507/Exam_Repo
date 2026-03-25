@@ -1,0 +1,99 @@
+{
+  "paper_id": "PHD102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD102",
+    "subject_name": "Deep Learning for Computer Vision",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Given a 2x2 matrix M=1 2 2 1, where M is the second moment matrix of edge pixel that is obtained while applying the canny edge detector, find the measure of straightness",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Suppose vanilla batch gradient descent applied on a neural network with L layers is taking excessively long to find the weight parameters that achieve a small error value for the loss function J. Give any three techniques could help in finding parameter values that attain a small error value for J.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "A 32x32x12 feature map is given as the input to a Pyramid Pooling Module which creates feature maps at 4 different scales. What is the number of 1x1 convolution filters required for each scale? What is the dimension of the output feature map after concatenation?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "In a VAE, if the encoder outputs µ =[ 0.4, 0.2, 0.1] and σ=[0.2,0.5,0.3] and ε sampled from N is [0.7,0.1,0.3], then calcuate the latent value z given to the decoder?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the SIFT feature detector. What are its key features? Give any two applications of SIFT",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the Bag of Words technique for image retrieval. Also compare the Bag of Words and VLAD representations",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the various regularization techniques used in neural networks?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain back propagation in Convolutional Neural network with necessary derivations of gradients and loss functions",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain object detection using YOLO",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the attention mechanism and the transformer model",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Generative Adversarial Network and its training algorithm",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of few shot learning",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

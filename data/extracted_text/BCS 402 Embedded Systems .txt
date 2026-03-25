@@ -1,0 +1,97 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech: Sem: VIII  
+(May, 2025) 
+ 
+Subject Code: BCS 402 
+Subject: Embedded Systems  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Answer the following questions 
+5*4=20 
+CO 
+a 
+Differentiate between embedded systems and General-purpose 
+computers w.r.t Processor, IDE, OS, Efficiency, functionality etc. 
+ 
+CO1 
+b 
+How do you select the Processor for embedded systems and what are the 
+merits and dementias of RISC and CISC architectures 
+ 
+CO2 
+c 
+Explain the architecture of Hard real time and Soft real time systems and 
+how are they differ? 
+ 
+CO3 
+d 
+WAP for implementing embedded system for any application [Make your 
+assumptions of the application] and draw its architecture? 
+ 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+How do you Select the IDE for ESD and Explain the different components 
+of the same with sample input and output code?  
+Why do you need H/W-S/W Partitioning and explain?  
+ 
+CO1 
+Q3 
+What is H/W –S/W co-design, explain different components of it along 
+with its architecture with neat diagram? 
+What are the merits and demerits of H/W –S/W co-design? 
+ 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+Explain ARM instruction set with any five addressing modes along with 
+Assembly Code?  
+WAP to implement  Software interrupt of ARM Processor and its  Interrupt 
+Service Routines with an example code 
+ 
+CO2 
+Q5 
+Explain the Atom processors architecture and how it is suitable for 
+embedded applications? 
+Differentiate salient features of Atom and ARM Processors  
+ 
+ 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+WAP to implement any interrupt of the ARM processor w.r.t RTOS? 
+Explain how interrupts are handled in RTOS with neat diagram? 
+ 
+CO3 
+Q7 
+Explain any ARM’s  Cortex series processor architecture, its Register set 
+and its pipeline mechanism 
+What is ARMS programming  model and explain the same with nest 
+diagram and sample code for any application  
+ 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+Explain the Performance analysis of ESD w.r.t  Optimization, speed, Power 
+consumption,  System Reliability, Safety and Security in detail and how do 
+you improve the reliability of the system 
+ 
+CO4 
+Q9 
+Explain  various testing and  debugging techniques  of embedded systems 
+What is emulation and simulation and what are its  merits and demerits  
+ 
+CO4

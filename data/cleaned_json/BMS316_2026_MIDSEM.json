@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMS316_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS316",
+    "subject_name": "Retail Management",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How ancient retailing is different from modern retailing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How do organized and unorganized retail sectors differ in India?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does \"Open to Buy Planning\" help retailers manage inventory.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does price skimming work in the retail industry.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Suppose after getting management degree, you decide to open a retail business. What points you would like to consider with regard to store location, competition, impact of emerging trends, and government attitude towards organized retail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different types of retail formats? Explain each with suitable examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Analyze the current trends in the retailing industry and their impact on consumer behavior.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare and contrast different retail price strategies with example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of merchandise purchasing in retail. How do retailers plan their purchases, and what factors influence their buying decisions.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is psychological pricing .How do retailers use it to influence consumer behavior and maximize sales Provide examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

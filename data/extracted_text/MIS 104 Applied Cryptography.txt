@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+                                             (M.Tech (CS) ) (1st Sem) 
+                   (FEBRUARY 2025) OFF LINE mode 
+ 
+Subject Code: MIS 104 
+Subject: Applied Cryptography 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) State Shannon’s theorem. 
+ 
+1 
+ 
+b) Is AES a Feistel cipher? Why or why not? 
+ 
+1 
+ 
+c) Mention the 3 RSA requirements. 
+ 
+2 
+ 
+d) Define non-repudiation and how it can be achieved. 
+ 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Prove that the following definitions of perfect secrecy are 
+equivalent: 
+DEF 1. For all x ∈𝑃 and y ∈𝐶, 
+Pr[𝑥|𝑦] = Pr[𝑥] 
+DEF 2. For all x ∈𝑃 and y ∈𝐶, 
+Pr[𝑦|𝑥] = Pr[𝑦] 
+b) What is the third definition of perfect secrecy? 
+(3,2) 
+1 
+ 
+a) List out the polynomial representation of any 10 elements 
+of the Galois field GF (24). 
+(5) 
+1 
+ 
+a) What is the characteristic and order of the Galois field: 
+GF (24)? 
+b) Assume Multiplication in GF(24): Compute A(x) ·B(x) mod 
+P(x) in GF(24) using the irreducible polynomial P(x) = 
+x4+x+1. A(x) = x2+1, B(x) = x3+x2+1 
+ 
+(2,3) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Whis is discrete log problem? What is the advantage of 
+using primitive root in Diffie Hellman Key exchange?             
+(2,3) 
+2 
+ 
+b) Find Multiplicative inverse of 11 modulo 26 by applying 
+Extended Euclidean Algorithm? 
+(5) 
+2 
+ 
+c) Explain in detail with a suitable diagram the X.509 
+Certificate Format 
+(5) 
+2

@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: PhD 
+(May, 2025) 
+ 
+Subject Code: PhD 143 
+Subject: Image Processing using Python 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+ 
+CO Mapping 
+ 
+a) Compare and contrast the usage of PIL, OpenCV, and scikit-image 
+libraries in Python. Highlight strengths and use-cases. 
+4 
+CO1 
+ 
+b) Describe the steps involved in applying geometric transformations 
+such as scaling and rotation using OpenCV. 
+4 
+CO1 
+ 
+c) What is the difference between edge detection and feature 
+extraction in image analysis? 
+4 
+CO2 
+ 
+d) d) What is the purpose of transfer learning in medical image 
+classification, and which pre-trained models are commonly used? 
+4 
+CO3 
+ 
+e) In the context of image steganography, what is LSB (Least 
+Significant Bit) substitution? 
+4 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) Discuss the role of Laplacian filter for image sharpening and provide 
+a code-based example in Python. 
+(b) Explain the concept of morphological operations in image 
+processing. Illustrate dilation and erosion using suitable diagrams 
+or code examples. 
+(10) 
+CO1 
+Q3 
+(a) Describe the process of performing histogram analysis of an image 
+using OpenCV. What insights can be derived from the shape of a 
+histogram? 
+(b) Explain the purpose of histogram equalization in image processing. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Compare and contrast inverse filtering and Wiener filtering as image 
+restoration techniques. Under what conditions is Wiener filtering 
+preferred? 
+(10) 
+CO2 
+Q5 
+What is the role of image segmentation in object recognition? Explain 
+the Watershed algorithm and how it helps in separating overlapping 
+objects. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What are the common filtering techniques used for noise reduction in 
+medical images, and how do they affect segmentation accuracy? 
+(10) 
+CO3 
+Q7 
+(a) Describe the architecture of a basic CNN model used for medical 
+image classification in TensorFlow.  
+(b) Discuss the preprocessing and normalization techniques applied to 
+CT or MRI scans before inputting them into a deep learning model. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Briefly differentiate between lossless and lossy image compression 
+with examples of each.  
+(b) Why is the Discrete Cosine Transform (DCT) preferred in JPEG 
+compression over other transforms like Fourier or Sine? 
+(10) 
+CO4 
+Q9 
+(a) Discuss and compare spatial-domain and transform-domain 
+steganography techniques.  
+(b) What is the primary advantage of wavelet-based compression over 
+block-based techniques like JPEG in preserving image features? 
+(10) 
+CO4

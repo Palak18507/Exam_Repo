@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech ) (Semester: 2nd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MCS 110 
+Subject:  Big Data Analytics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is Big Data? Explain the key characteristics of Big Data 
+(5Vs). 
+ 
+1 
+ 
+b) What is Hadoop Streaming, and how does it work? 
+ 
+1 
+ 
+c) Explain different types of Hadoop I/O compression techniques 
+and their advantages. 
+ 
+2 
+ 
+d) Discuss Hadoop Archives (HAR) and how it optimizes storage in 
+HDFS. 
+ 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the architecture and components of Apache Hadoop 
+with a diagram. 
+ 
+1 
+ 
+b) Explain the Hadoop ecosystem and its major components in 
+detail. 
+ 
+1 
+ 
+c) What was the main challenge that led to the development of 
+Hadoop? How does Hadoop analyze large datasets efficiently? 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Describe serialization in Hadoop and explain how Avro is used 
+for efficient data storage. 
+ 
+2 
+ 
+b) What are the main components of HDFS, and what are their 
+roles? Explain any two commands from the HDFS command-line 
+interface. 
+ 
+2 
+ 
+c) Explain the role of Flume and Sqoop in data ingestion. 
+Compare their functionalities and describe their data flow 
+processes. 
+ 
+2

@@ -1,0 +1,78 @@
+{
+  "paper_id": "BEC303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC303",
+    "subject_name": "Control Systems",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What is the effect of positive and negative feedback on overall gain of the control system? What is D’Alembert’s Principle? How it is applicable to mechanical systems? Define Static Error Coefficients? Define the damping ratio and explain how it affects the response of a standard second order system? Define Gain Crossover Frequency, Phase Crossover Frequency, Gain Margin and Phase Margin? Draw the polar plot of 𝐺 = 𝐾 𝑠 Explain how to obtain the adjoint of 3x3 matrix? List the properties of a State Transition Matrix. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "For the given electrical network, find the transfer function Vo/Vi.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Reduce the block diagram using block diagram reduction techniques and obtain the overall transfer function. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Draw the signal flow graph of the block diagram and obtain the overall transfer function of the control system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "A unity feedback system is characterized by an open loop transfer function, 𝐺 = 𝐾 𝑆. Determine the gain ‘K’ so that the system will have a damping ratio of 0.5. For this value of K, determine delay time, rise time, peak overshoot, settling time and peak time for unit step input. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Investigate the stability of a system having following characteristics equation using Routh-Hurwitz Criterion 𝑠6 + 2𝑠5 + 8𝑠4 + 12𝑠3 + 20𝑠2 + 16𝑠1 + 16 = 0",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Sketch the root locus for the open loop transfer function of unity feedback control system is given by 𝐺 = 𝐾 𝑠 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "A system is represented by the state equation 𝑋̇ = 𝐴𝑋+ 𝐵𝑈, 𝑌= 𝐶𝑋, Where 𝐴= [ 0 1 0 0 −1 1 0 −1 −10 ],𝐵= [ 0 0 10 ] and 𝐶= [1 0 0]. Determine the transfer function of the system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Write a short note on Transducer Stepper Motor Magnetic Amplifier",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MBA) (Semester: 2nd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: AMC 152 
+Subject: Information Technology  and Innovation Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all parts. 
+(2.5*4=10) 
+ 
+a) What is Primary key? How is it different from foreign key? 
+ 
+ 
+b) What is Normalization? Why is it important? 
+ 
+ 
+c) Encrypt the data “I love my India” with ceaser cipher having key +4. 
+ 
+ 
+d) Define E-Governance and explain its significance. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Discuss the role of data warehousing and data mining in decision 
+support systems. 
+ 
+ 
+b) Define SQL and explain its significance in managing data. Write an SQL 
+query to update the salary of an employee with ID = 101 in the emp 
+table. 
+ 
+ 
+c) Describe the major issues in data organization and how they impact 
+database performance. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Discuss the key features and challenges of Digital India Program. 
+ 
+ 
+b) What is BPR? Explain its importance. 
+ 
+ 
+c) What are the main challenges and advantages in E-commerce 
+operations?

@@ -1,0 +1,120 @@
+{
+  "paper_id": "PHD156_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD156",
+    "subject_name": "ABCs of Supply Chain",
+    "program": "PhD",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is supply chain?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the goal of a supply chain and explain the impact of supply chain decisions on the success of a firm.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the role of logistics in managing the movement of materials within an organization, including inbound logistics, internal movement, and physical distribution of finished goods",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the major types of demand forecasting methods?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the two key factors to be considered when designing a distribution network.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is JIT?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the various functions performed by a warehouse in modern supply chain systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the major obstacles faced in managing supply chains.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the cycle and push/pull views along with the macro processes of a supply chain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the key drivers of supply chain performance effectiveness.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the role of different transportation modes in a supply chain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the major factors that affect the decision to outsource a supply chain function? How do third parties increase the Supply Chain Surplus?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the factors that influence the required level of safety inventory in business organizations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the framework for making network design decisions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain why achieving strategic fit is critical to a company’s overall success. Describe how a company achieves strategic fit between its supply chain strategy and its competitive strategy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the significance of packaging in the supply chain. Discuss the various functions of packaging, types of packaging materials, and the emerging trends in sustainable and smart packaging.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

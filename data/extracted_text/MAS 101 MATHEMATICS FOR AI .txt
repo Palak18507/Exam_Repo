@@ -1,0 +1,184 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<M.Tech CSE>, Semester:<I> 
+(December, 2024) 
+ 
+Subject Code: MAS-101 
+Subject: Mathematics for AI 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Determine whether the polynomials 𝑥3 −5𝑥2 −2𝑥+ 3, 𝑥3 −
+1, 𝑥3 + 2𝑥+ 4 are linearly dependent or independent.  
+CO1 
+ 
+(b) 
+Find the Eigen values of the matrix 𝐴= [
+1
+1
+1
+0
+2
+1
+0
+2
+3
+] 
+CO1 
+ 
+(c) 
+Verify the chain rule for Jacobians i.e. 𝐽𝐽′ = 1 if 𝑥= 𝑢, 𝑦=
+𝑢 tan 𝑣 , 𝑧= 𝑤 
+CO2 
+ 
+(d) 
+Find 𝑔𝑟𝑎𝑑 𝜏 , when 𝜏 is given by 𝜏= 3𝑥2𝑦−𝑦3𝑧2 at a point 
+(1, −2, −1). 
+CO2 
+ 
+(e) 
+Prove that 𝐶𝑜𝑣(𝑎𝑋, 𝑏𝑌) = 𝑎𝑏 𝑐𝑜𝑣(𝑋, 𝑌) 
+CO3 
+ 
+(f) 
+‘A’ can hit a target 4 times in 5 shots; ‘B’ 3 times in 4 shots; ‘C’ twice 
+in 3 shots. They fire a volley. What is the probability that at least 
+two shots hit?  
+CO3 
+ 
+(g) 
+Use Graphical method to solve the following LPP  
+𝑀𝑎𝑥𝑖𝑚𝑖𝑧𝑒 𝑍= 4𝑥1 + 3𝑥2  
+Subjected to the constraints  
+   𝑥1 + 𝑥2 ≤8, 
+ 2𝑥1 + 𝑥2 ≤10, 
+ 𝑥1 ≥0 , 𝑥2 ≥0 
+CO4 
+ 
+(h) 
+Differentiate between gradient descent and stochastic gradient 
+descent methods.  
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+(a) Let 𝐶(𝑅) denotes the vector space of complex number 
+over real numbers and 𝑇 be a linear operator on 𝐶(𝑅) 
+defined by 𝑇(𝑥+ 𝑖𝑦) = 𝑥−𝑖𝑦 for all 𝑥, 𝑦, ∈𝑅. Determine 
+the matrix of 𝑇 relative to the basis 𝐵= {1 + 𝑖, 1 + 2𝑖} 
+(b) Is the vector (3, −1,0, −1) in the subspace of 𝑅4 spanned 
+by 
+the 
+vectors 
+𝑣1 = (2, −1,3,2), 𝑣2 =
+(−1,1,1, −3) 𝑎𝑛𝑑 𝑣3 = (1,1,9, −5)?  
+(5+5) 
+CO1 
+Q3 
+Find the Singular Value Decomposition for the  matrix  
+                                   A= [3
+0
+4
+5] 
+(10) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+(a) If  𝑓= log (𝑥3 + 𝑦3 −𝑥2𝑦−𝑥𝑦2) 
+Show that  
+𝜕2𝑓
+𝜕𝑥2 + 𝜕2𝑓
+𝜕𝑦2 + 2 𝜕2𝑓
+𝜕𝑥𝜕𝑦= −4(𝑥+ 𝑦)−2 
+(b) What is deep learning? Write at least five applications of 
+deep learning,  
+(5+5) 
+CO2 
+Q5 
+What do you mean by Backpropagation? Write at least three real 
+life examples of backpropagation. For the following network 
+diagram, find the error term up to first iteration. 
+ 
+(10) 
+CO2 
+ 
+       0.05= 
+𝑥1                                   ℎ1                           𝑂1=0.01 
+ 
+ 
+𝑏1 
+ 
+ 
+        0.10=𝑥2                                 ℎ2                       𝑂2 =0.99 
+                    𝑏1 = 0.35                                         𝑏2 = 0.60                
+Weights are  defined as follows:  
+𝑥1ℎ1 = 0.15  ,  𝑥1ℎ2 = 0.25   
+𝑥2ℎ1 = 0.20 ,  𝑥2ℎ2 = 0.30   
+ℎ1𝑂1 = 0.40 , ℎ1𝑂2 = 0.50   
+ℎ2𝑂1 = 0.45 , ℎ2𝑂2 = 0.55   
+UNIT-III 
+CO Mapping 
+Q6 
+(a) An urn contain 10 white and 3 black balls, while another 
+urn contains 3 white and 5 black balls. Two balls are drawn 
+from the first urn and put into the second urn and then a 
+ball is drawn from the latter. What is the probability that it 
+is a white ball?  
+(b) A die is drawn thrice. A success is ‘getting 1 or 6’ on a toss. 
+Find mean and variance of the number of successes. 
+ 
+(5+5) 
+CO3 
+Q7 
+For the adjoining bivariate probability distribution of X and Y 
+having joint density function  
+𝑓(𝑥, 𝑦) = {
+1
+8 (6 −𝑥−𝑦); 0 ≤𝑥< 2,2 ≤𝑦< 4
+0                 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 
+ find (𝑖)𝑃(𝑋<
+1 ∩𝑌< 3), (𝑖𝑖)𝑃(𝑋+ 𝑌< 3), 
+(𝑖𝑖𝑖)𝑃(𝑋< 1|𝑌< 3)   
+ 
+(10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Derive Cost function and compute Gradient descent for the 
+following set of values: 
+X 
+3 
+5 
+7 
+9 
+11 
+Y 
+3 
+5 
+6 
+5 
+7 
+  
+(10) 
+CO4 
+Q9 
+Solve the following QPP using Wolfe Method  
+𝑀𝑎𝑥𝑖𝑚𝑖𝑧𝑒 𝑍= 4𝑥1 + 6𝑥2 −2𝑥12 −2𝑥1𝑥2 −2𝑥22 
+Subjected to  
+𝑥1 + 2𝑥2 ≤2, 
+                                                𝑥1 ≥0 , 𝑥2 ≥0 
+ 
+(10) 
+CO4

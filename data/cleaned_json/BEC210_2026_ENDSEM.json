@@ -1,0 +1,223 @@
+{
+  "paper_id": "BEC210_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC210",
+    "subject_name": "DIGITAL COMMUNICATION SYSTEMS",
+    "program": "<B.Tech-ECEAI>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The message bit sequence to a DPSK modulator is 1,1,0,0,1,1. The carrier phase during the reception of the first two message bits is π, π. Find the carrier phase for the remaining four message bits.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "The input to a matched filter is given by S=[10 sin , 0 < 𝑡≤10−4𝑠𝑒𝑐 0, 𝑂𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 . Find the peak amplitude of the filter.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the minimum step-size required for a Delta-Modulation operating at 32K samples/sec to track the signal is the unit- step function) 𝑥 = 125𝑡{𝑢 − 𝑢} + {𝑢 − 𝑢} so that slope-overload is avoided.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Using the Gram-Schmidt orthogonalization procedure, find a set of orthonormal basic functions to represent the three signals s1,s2 and s3 shown in figure. Also express each of these signals in terms of the set of basis functions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Compare ASK, BPSK and BFSK modulation scheme in terms of data rate, bandwidth and Probability of error.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you mean by eye pattern? How and where it is used?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Compare coherent and non-coherent digital modulation techniques.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Consider the output of shift register is 0 0 0 1 0 0 1 1 0 1 0 1 1 1 1. Is the PN sequence satisfy the balance property and run length property? Please justify your answer. Also determine the autocorrelation of output.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is line codes? Describe its salient characteristics. Hence, draw NRZ-L, NRZ-M, Manchester and AMI for binary data: 110011100011",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive the SQNR of Delta modulation scheme. Hence, compare its SQNR with PCM",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A duobinary system is a way to achieve an ISI free baseband transmission with the minimum bandwidth. i) Draw a diagram of a duobinary signaling scheme. ii) What is the frequency response of the duobinary signaling scheme? iii) Find the output data sequence of a duobinary signaling with pre- coding if the input data sequence is: 1100101110010111.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the necessity of equalizers in transmission system? Explain any one equalizer.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define binary phase shift keying. Draw the transmitter and receiver block diagram and derive the probability of error or BER of the Coherent BPSK",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Binary data are transmitted over a microwave link at the rate of 106 bps and power spectral density of noise at the receiver input is 10-10 W/Hz. Find the average carrier power required to maintain an average probability of error Pe ≤ 10-4 for i)BPSK ii)DPSK {Ref: Q≤10-4}",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is MSK. Draw its constellation diagram, transmitter and Receiver block diagram and compare it with QPSK.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Determine the transfer function and impulse response of matched filter.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT IIII",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Spread Spectrum Techniques Explain in detail about Direct Sequence Spread Spectrum Techniques with necessary diagrams? i. Concept of Spread Spectrum Techniques ii. Block Diagram Representation. iii. Waveform at all stages of the system. iv. Derivation of processing Gain",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A pseudo random sequence is generated using a feedback shift register of length m=4. The chip rate is 107 chips per second. Find the following i) PN sequence length ii) Chip duration of PN sequence iii) PN sequence period",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT IIII",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Frequency Hopping? Explain the different types of frequency hopping with necessary diagrams. i. Concept of frequency hopping. ii. Explanation of slow frequency hopping iii. Explanation of Fast frequency hopping iv. Block Diagrams and waveform",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A Spread spectrum communication system has the following parameters. Information bit duration Tb = 1.024 msecs and PN chip duration of 1µsecs. The average probability of error of system is not to exceed 10-5. calculate i) Length of shift register ii) Processing gain iii) jamming margin",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "c",
+          "text": "Draw the block diagram of OFDM transmitter and receiver and explain",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Consider an OFDM system with 52 subcarriers out of which 4 subcarriers are used as pilot subcarriers and the remaining as data subcarriers. OFDM symbol duration including guard interval for ISI mitigation is 4 micro second. If the system uses three- fourth of the FEC code rate and 64-QAM carrier modulation scheme. Find the number of data bits transmitted per OFDM symbol and approximate transmission data rate?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Small-scale and Large- scale fading",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "time-dispersive and Frequency-dispersive fading",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "selective mapping and partial transmit sequence",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "PAPR and oversampling",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Antenna Diversity.",
+          "marks": 2.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "paper_id": "MVD104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD104",
+    "subject_name": "Advances in Emerging VLSI",
+    "program": "M. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the MOS Scaling trends and state its effect on deep submicron region of operation. 2.5",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "How can the gate oxide leakage be reduced? What are the specifications of such materials? Name such materials which the researchers are exploring/suggesting could help in reducing the gate oxide leakage.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt any one part i. Differentiate between Defects, Errors and Faults. Discuss about any one digital fault or analog fault with a diagram. ii. Write a short note on: Deep Submicron IC Reliability What are the various steps involved in VLSI Testing? Discuss about the Test generation for combinational circuits",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

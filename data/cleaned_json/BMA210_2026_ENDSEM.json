@@ -1,0 +1,78 @@
+{
+  "paper_id": "BMA210_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA210",
+    "subject_name": "Operations Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions a. List five principles of management. b. What is the difference between partial productivity and total factor productivity? c. Differentiate between prediction and forecasting. d. What are therbligs used for? Explain any one therblig. e. What is material requirement planning? f. What is the purpose of safety stock? g. What are the advantages of ABC analysis in case of selective control of inventories? h. What is the need of industrial maintenance?",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss briefly different types of Plant Layout along with their applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss briefly different types of Organization structures. List the advantages, limitations of each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of Method Study and Work Study. Discuss the Steps involved in Method Study, and explain the use of Cycle Graph and Chrono Cycle Graph in motion analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "The data given in Table 2 refers to the past sales of production unit for last ten years. Forecast the demand for the next three years using least square method. Table 2 Year Sales 2015 40 2016 43 2017 47 2018 49 2019 52 2020 56 2021 58 2022 60 2023 65 2024 68",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6(a)",
+      "unit": "UNIT III",
+      "question_text": "The annual demand for a particular part is 10,000 units. The cost per unit is Rs. 2 and it costs Rs. 36 to place an order and to process the delivery. The inventory carrying cost is estimated at 9 per cent of average inventory investment. Determine Economic order quantity Optimum number of orders to be placed per annum Minimum total cost of inventory per annum Discuss briefly the factors influencing make or buy decision.",
+      "marks": 6.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain briefly the different costs associated with production. Why is it necessary to analyze production costs?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss briefly different types of maintenance used in industry. Differentiate between preventive and breakdown maintenance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on: Failure analysis Organization for maintenance department",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

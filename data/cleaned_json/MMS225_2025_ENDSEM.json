@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS225_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS225",
+    "subject_name": "Strategic Human Resource Management",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare and contrast traditional and strategic HR. In what types of organizations might traditional HR still be appropriate?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the major trends influencing SHRM in the 21st century?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What recruitment strategies can SHRM adopt to address skill shortages in critical business areas?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does performance appraisal differ from performance management?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Distinguish between on-the-job and off-the-job training methods.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the difference between training and learning. Why is a learning orientation important in today’s competitive scenario?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a short note on ‘High Performance Work Systems’.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Difference between expatriation and repatriation. What are the potential risks of repatriation failure, and how can SHRM mitigate these risks?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the external factors that influence SHRM.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "In a gig economy, organizations often struggle to balance cost efficiency with ethical treatment of gig workers. Discuss how SHRM can resolve such dilemmas while maintaining organizational sustainability.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A manufacturing company focuses on cost efficiency and maintaining market stability. Identify its strategic type based on Snow and Miles' typology. Design an HRM strategy aligned with this type, focusing on recruitment, training, and performance management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A luxury hotel chain wants to enhance employee performance. Should it adopt the Best Fit or Best Practice approach? Justify your recommendation with specific HR practices tailored to the hospitality industry.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Examine the training and development practices in an organization of your choice and comment on the following: i. Whether the approach is traditional or strategic in nature. ii. The different components of the ADDIE model of imparting learning evident in the organization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain in detail the various performance appraisal techniques in SHRM. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How is 360-degree appraisal and feedback an important component of strategically linked performance managements systems? Discuss how 360-degree mechanism can be effectively implemented.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the organizational and individual purposes for expatriation. Why do these need to be incorporated as part of a strategic approach to managing global assignments?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

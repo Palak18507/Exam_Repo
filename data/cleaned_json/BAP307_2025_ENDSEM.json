@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP307_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP307",
+    "subject_name": "History of Architecture -V",
+    "program": "<B.Arch>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Dadaism, Surrealism, and Impressionism with suitable examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "List at least three differences between art deco and art nouveau design movements. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Critical regionalism.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "The Chapel of Notre Dame du Haut located in Ronchamp. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Gaudi’s Casa Mila. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Spatial massing and abstract composition of Alva Alto. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the Chicago School and the rise of the early skyscrapers with the help of any one example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Concept of Plularism. CO",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the socio–economic condition of the workers in the industrial society in Europe during Industrial revolution. What was the housing condition of migrant workers in the industrial cities of England? Draw neat sketches. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How were the new materials instrumental in the design of Crystal Palace Exhibition in London in 1851 AD? CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the new architecture typology by Adler and Sullivan as part of their philosophy “form follows function”. How did they apply this principle in the auditorium building in Chicago? CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a brief note on the Prairie Style of Architecture by Frank L. Wright. Draw sketches with notes of any of the key work related to that. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Briefly explain the new Architecture form as seen in Villa Savoye by Le Corbusier or Pavillion de I’Esprit Nouveau? CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain in detail the origin of Bauhaus Design Movement from 1919 to 1930. Explain the building design and planning of Bauhaus School of Art and Architecture in Dessau, Germany. Draw Plan/Section/elevation/sketches to support your answers. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How Oscar Niemeyer’s building Cathedral of Our Lady Aparecida in Brasilia used concrete in free-flowing form in this building. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain de-constructivism as a key design movement of Post Modernism by illustrating at least two buildings by any pioneer deconstructivist architect. Draw neat sketches. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

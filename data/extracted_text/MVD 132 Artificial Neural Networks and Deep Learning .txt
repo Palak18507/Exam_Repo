@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: M.Tech, Semester:2 
+(May, 2025) 
+ 
+Subject Code: MVD 132 
+Subject: Artificial Neural Networks and Deep Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the applications of soft computing in detail. 
+ 
+CO1 
+ 
+b) What is Bayes’ Rule? 
+ 
+CO1 
+ 
+c) Draw the schematic diagram of a biological neuron. Explain 
+the terms: synapse and refractory period.  
+ 
+CO2 
+ 
+d) What is an activation function? Explain with examples. 
+ 
+CO2 
+ 
+e) What is dropout? Why is it needed? 
+ 
+CO3 
+ 
+f) What are the different rules for designing a CNN? 
+ 
+CO3 
+ 
+g) How are NLP models used for sentiment analysis? 
+ 
+CO4 
+ 
+h) Discuss the ethical considerations and challenges of using AI 
+in healthcare. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the features of hard computing and soft computing. How do 
+you select a suitable scheme of computing (either hard computing or 
+softcomputing) to solve a particular problem? 
+(10) 
+CO1 
+Q3 
+Explain the role of uncertainty in real-world decision-making 
+problems. Provide examples where uncertainty significantly affects 
+outcomes. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the practical issues in neural network training? 
+(10) 
+CO2 
+Q5 
+Explain the architecture and learning factors of a back-propagation 
+network. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the different types of CNN. Also mention the applications. 
+(10) 
+CO3 
+Q7 
+Explain the role of saliency maps in visualizing convolutional neural 
+networks. How do they help in understanding model predictions? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain how deep learning has transformed problem-solving 
+approaches in real-world domains. Support your answer with any two 
+relevant case studies. 
+(10) 
+CO4 
+Q9 
+Discuss how recurrent neural networks are applied for stock market 
+prediction. Include a case study with performance evaluation. 
+(10) 
+CO4

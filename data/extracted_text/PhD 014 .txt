@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: PhD  
+(May, 2025) 
+ 
+Subject Code: PHD 014 
+                                       Subject: Wireless Communication  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+How did the evolution from 4G to 5G improved voices on internet 
+protocol services? 
+2.5 
+CO1 
+b 
+Explain the concept of “mobility” in wireless networks. Why is it 
+important? 
+2.5 
+CO1 
+c 
+What is meant by a "handover" in cellular systems? Briefly describe its 
+importance. 
+2.5 
+CO2 
+d 
+Why is cell capacity planning critical in mobile network design? 
+2.5 
+CO2 
+e 
+What is quantization noise? How does it affect signal quality? 
+2.5 
+CO3 
+f 
+What is the key idea behind packet reservation multiple access 
+(PRMA)? 
+2.5 
+CO3 
+g 
+Why is OFDMA more suitable for 4G systems than FDMA? 
+2.5 
+CO4 
+h 
+What is duplexing in wireless communication? How is FDD different 
+from TDD? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of cell splitting and frequency reuse in cellular 
+communication. How do these techniques improve cell capacity and 
+coverage? 
+10 
+CO1 
+Q3 
+Discuss the roadmap for achieving higher data rate capability in 6G 
+systems. What role does spectrum management play in this context? 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Illustrate the OSI reference model and discuss its relevance in wireless 
+data communication. 
+10 
+CO2 
+Q5 
+Discuss the different types of transmission impairments such as 
+attenuation, phase distortion, and noise. How do these affect 
+communication performance? 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What are random access methods? Explain the working of Pure ALOHA, 
+Slotted ALOHA, and CSMA techniques with the help of diagrams. 
+10 
+CO3 
+Q7 
+Discuss the significance of spectral efficiency in wireless networks. How 
+do multiple accesses impact overall system performance? 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are the main differences between wired and wireless networks 
+in terms of design, performance, and reliability? 
+10 
+CO4 
+Q9 
+Describe the characteristics and applications of wide area networks 
+(WAN) in next generation wireless communication networks. 
+10 
+CO4

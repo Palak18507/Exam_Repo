@@ -1,0 +1,90 @@
+{
+  "paper_id": "AMC206_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC206",
+    "subject_name": "Cyber Security Management",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Cryptography",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Classify Ciphers?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between Threat, Risk and Vulnerability?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define Cyber security.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain different attributes of Cyber Security.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Security design principles.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Threat? Classify them and explain any two.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Difference between Private and Public key cryptography.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Role of SHA in Digital Signature.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain RSA with any example.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

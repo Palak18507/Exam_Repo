@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+                               (Course Name: B. Tech.) (Semester: 4) 
+                    (March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 208 
+Subject: Communication Systems 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What is a Random Process? Draw a comparison chart of Random Variable 
+vs Random Process. 
+ 
+ 
+b) Plot the CDF and PDF for a Random Variable ‘x’ which is specifying 
+number of heads in the experiment of tossing a coin twice. 
+ 
+ 
+c) Explain the block diagram of the Phase Discrimination Method. 
+ 
+ 
+d) For a signal amplitude modulated to a depth of 100% by a sinusoidal signal, 
+how much is the power required for the modulated signal in terms of the 
+power of the unmodulated carrier? 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) A random process is given by X(t) = A cos(ꞷo t +ϴ), where A and ꞷo are 
+constants and ϴ is a random variable, which is uniformly distributed in the 
+interval (0, 2π). Find whether the given Random Process is Wide Sense 
+Stationary or not? 
+ 
+ 
+b) A continuous random variable has a uniform density function as specified 
+below. Find all its statistical averages. 
+ 
+ 
+ 
+c) What are ergodic random processes? Explain ensemble averages and 
+time averages. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) A carrier of 10 cos8𝜋105𝑡 is amplitude modulated by a message signal 
+of 6 cos 𝜋104𝑡. 
+(i) 
+Find all the parameters of AM (µ, PC, Pt , AM Bandwidth, PSB, PUSB, 
+PLSB, and Ƞ) 
+(ii) 
+Draw the spectrum. 
+ 
+ 
+b) Explain the concept and block diagram of the square law modulator. 
+Derive all the frequency components generated before the BPF. Also, draw 
+the spectrum including the components before and after the placement 
+of BPF.  What is the resulting carrier amplitude and the amplitude 
+sensitivity at the output of square law modulator? 
+ 
+ 
+c) An AM signal is given by 
+𝑠(𝑡) = [20 + 12 cos2 𝜋104𝑡+ 16 cos 4 𝜋104𝑡] 
+(i) 
+Find all the parameters of AM (µt, PC, Pt , AM Bandwidth, PSB, 
+PUSB1, PUSB2, PLSB1, PLSB2, and Ƞ) 
+(ii) 
+Draw the spectrum.

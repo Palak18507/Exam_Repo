@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<VII> 
+(December, 2024) 
+ 
+Subject Code: BAI 403 
+Subject: Computer Vision 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Name the two key stages of computer vision and their use in 
+understanding an image. 
+ 
+CO1 
+ 
+b) Difference between Stochastic Gradient Descent & batch Gradient 
+Descent. 
+ 
+CO1 
+ 
+c) What is batch normalization in CNN? 
+ 
+CO2 
+ 
+d) Why is pooling layer important? Explain with example. 
+ 
+CO2 
+ 
+e) What is Attention Mechanism? What are it’s types? 
+ 
+CO3 
+ 
+f) Explain any 4 applications of Vision Transformers. 
+ 
+CO3 
+ 
+g) Describe Semantic Segmentation. State it’s applications. 
+ 
+CO4 
+ 
+h) Explain Adversarial Network in details 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) What is “K” in the K-nearest neighbors algorithm? Why is the odd 
+value of “K” preferred over even values in the KNN Algorithm? 
+(b) How does Backpropagation Algorithm work? Describe the two 
+major steps involved. 
+(10) 
+CO1 
+Q3 
+(a) What is optimization function of the loss function? Explain it’s role 
+in CV. 
+(b) Explain Mean Squared Error and list it’s applications. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Explain AlexNet architecture. 
+(b) Explain K-means clustering for vector quantization. 
+(10) 
+CO2 
+Q5 
+(a) Describe various weight initialization techniques in CNN. 
+(b) Explain the role of regularization in CV. 
+(c) Differentiate between Overfitting and Underfitting. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Explain RNN architecture. 
+(b) What are the different variants of RNN? Describe them. 
+(c) Differentiate between feedforward Neural Networks and RNNs. 
+(10) 
+CO3 
+Q7 
+(a) How do Vision Language models work? 
+(b) What is Image Captioning? Explain it’s step by step workflow. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Explain Object Detection and it’s working. 
+(b) Explain different data Augmentation Techniques in details. 
+(c) Differentiate between Two stage detectors and Single stage 
+detectors. 
+(10) 
+CO4 
+Q9 
+(a) How does face recognition take place using Siamese Neural 
+Networks? 
+(b) What are conditional GANs? What are it’s applications? 
+(c) What are the use cases of Variational Autoencoders? 
+(10) 
+CO4

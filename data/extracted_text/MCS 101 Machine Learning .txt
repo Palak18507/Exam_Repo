@@ -1,0 +1,275 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.TECH (AI&DS), Semester: I 
+(December, 2024) 
+ 
+Subject Code: MCS 101   
+Subject: MACHINE LEARNING 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Machine Learning in terms of tasks, performance measure 
+and training experience. Define set of tasks ‘T’, Performance measure 
+‘P’ and Training experience ‘E’ for the following learning problem 
+when given to some machine: A handwriting recognition learning 
+problem 
+2.5 
+CO1 
+ 
+b) Consider a scenario where 8,000 patients undergo flu testing. 
+Among them, 7,000 are healthy and 1,000 are sick. The test results 
+show that out of the sick patients, 600 tested positive and 400 tested 
+negative. Among the healthy patients, 200 tested positive and 6,800 
+tested negative. Construct a confusion matrix based on this data and 
+calculate the precision and recall. 
+2.5 
+CO1 
+ 
+c) What is a Perceptron? Explain the working of a perceptron with the 
+help of a neat diagram. 
+2.5 
+CO2 
+ 
+d) Define entropy. Given the probabilities of five events where P1 = 
+0.5, and P2 = P3= P4= P5= 0.125 , determine the entropy of the system 
+ 
+2.5 
+CO2 
+ 
+e) Explain Bayesian Network with the help of an example. 
+2.5 
+CO3 
+ 
+f) What is a Bag of Words (BOW) approach for document classification 
+in machine learning? State its two disadvantages. 
+2.5 
+CO3 
+ 
+g) State two advantages of hierarchical clustering over K-means 
+clustering. Explain single linkage and complete linkage functions used 
+in hierarchical clustering. 
+2.5 
+CO4 
+ 
+h) State difference between SARSA and Q-Learning approaches. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Consider a dataset having dependent variable Y and independent 
+variable X as given by Y = (13,6,4,3,6.5)T and independent variable X= 
+(6,3,2,1,3)T having a linear relationship. Execute an iteration of the 
+Gradient Descent algorithm to fine tune slope (w1) and intercept 
+coefficient (w0). Consider initial values for w1 = 2,  w0 = 1 and learning 
+rate = 0.3. Write the updated values of w0 and w1. Find initial mean 
+squared error ( using given w1 and w0) and new mean squared 
+error(using fine tuned w0 and w1). 
+ 
+(10) 
+CO1 
+Q3 
+Using least squares method, find the best fit linear regression 
+coefficients for the data given below.  Also predict the value of Y for X 
+=15 using learned coefficients. Find the mean squared error for the 
+given dataset using your learned hypothesis. 
+X 
+Y 
+2 
+21 
+4 
+27 
+6 
+29 
+(10) 
+CO1 
+8 
+64 
+10 
+86 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Consider the following neural network with initial weights, biases and 
+input/outputs as mentioned. 
+ 
+ 
+Given the inputs x1 = 0.9 and x2 = 0.3, determine the outputs 
+predicted at the output units o1 and o2. Calculate the prediction error 
+Etotal. Show the outputs of hidden units as well. Use sigmoid function 
+as the activation function for hidden as well the output layers. 
+(10) 
+CO2 
+Q5 
+Consider following training data for 5 persons. For binary classification 
+of a person as sick or not sick create a decision tree model. Show all the 
+steps.  
+Person No 
+A1 
+A2 
+A3 
+Class 
+1 
+Yes 
+Yes 
+Yes 
+Not Sick 
+2 
+Yes  
+No 
+Yes 
+Sick 
+3 
+No 
+No 
+Yes 
+Sick 
+4 
+No 
+Yes 
+Yes 
+Not Sick 
+5 
+No 
+Yes  
+No  
+Sick 
+ 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Apply Naïve Bayesian Classifier to Predict whether a car is stolen or 
+not with features {Color:RED, Origin:Domestic, Type:SUV} based on 
+given dataset. 
+ 
+Color  
+Type 
+Origin 
+Stolen 
+RED 
+SPORTS 
+DOMESTIC  
+YES 
+RED  
+SPORTS 
+DOMESTIC 
+NO 
+RED 
+SPORTS 
+DOMESTIC 
+YES 
+YELLOW 
+SPORTS 
+DOMESTIC 
+NO 
+YELLOW 
+SPORTS 
+IMPORTED 
+YES 
+YELLOW 
+SUV 
+IMPORTED 
+NO 
+YELLOW 
+SUV 
+IMPORTED 
+YES 
+YELLOW 
+SUV 
+DOMESTIC 
+NO 
+RED 
+SUV 
+IMPORTED 
+NO 
+(10) 
+CO3 
+RED 
+SPORTS 
+IMPORTED 
+YES 
+Q7 
+Consider the dataset given below to classify a new instance with A1=2 
+and A2=5 as positive or negative using K-Nearest Neighbor method. 
+Use value for ‘K’ as 5 and distance function as Euclidean distance. 
+A1 
+A2 
+Y 
+2 
+3 
+- 
+5 
+7 
++ 
+6 
+6 
++ 
+1 
+2 
+- 
+7 
+5 
++ 
+1 
+4 
+- 
+4 
+1 
+- 
+7 
+3 
++ 
+ 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+State difference between supervised and unsupervised machine 
+learning. Cluster the following set of data objects in two clusters by 
+applying one iteration of k-means algorithm. Treat objects 2 and 5 as 
+initial cluster centers. Use Euclidean distance as the distance metric. 
+Determine updated cluster center coordinates. 
+Object Number  
+X-coordinate 
+Y-coordinate 
+1 
+2 
+4 
+2 
+4 
+6 
+3 
+6 
+8 
+4 
+10 
+4 
+5 
+12 
+4 
+ 
+(10) 
+CO4 
+Q9 
+ Explain following : 
+ 
+Markov Decision process  
+ 
+Positive and negative reinforcement learning 
+(10) 
+CO4

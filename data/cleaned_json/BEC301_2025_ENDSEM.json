@@ -1,0 +1,141 @@
+{
+  "paper_id": "BEC301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC301",
+    "subject_name": "Digital Communication Systems",
+    "program": "B.Tech. ECE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does single-carrier modulation differ from multi-carrier modulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the uses of Gold Codes in communication systems?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define the probability of missed detection and the probability of false detection.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a constellation diagram, and why is it important?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the benefits of using correlative coding in communication?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is overload distortion, and what causes it?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the main causes of inter-symbol interference in communication systems?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Describe the windowing technique in OFDM and its advantages.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the following terms in the context of signal space representation: Vector Space Inner Product Norm Orthonormality Orthogonality",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is Delta Modulation? Explain its block diagram and illustrate its operation using waveform representation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Frequency and phase synchronization",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Symbol synchronization",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Frame synchronization",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Network synchronization",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Draw the circuit diagram of a balanced modulator and explain its working.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the working principle of a Rake receiver with the help of a diagram. Also, explain its advantages and disadvantages.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Draw the diagram of a Linear Feedback Shift Register and explain how it can be used to generate a Pseudorandom Noise sequence. Additionally, discuss the purpose of using PN sequences.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the basic principle of Orthogonal Frequency Division Multiplexing and discuss the types of applications that require its use.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the various factors that contribute to multipath propagation. Also, briefly elaborate on the key impairments caused by multipath transmission.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

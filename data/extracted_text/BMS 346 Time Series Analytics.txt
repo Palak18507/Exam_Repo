@@ -1,0 +1,66 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: BBA) (Semester: vi) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMS-346 
+Subject: Time Series Analytics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt any 4 parts, each carry equal marks. 
+(2.5*4=10) 
+ 
+a)  Define Time Series with two examples. 
+2.5 
+ 
+b) Define Lag operator for yt = 4yt-1 + 5yt-2 -7 
+2.5 
+ 
+c) In ARMA(p,q), what is the meaning of p and q in ARMA model  
+2.5 
+ 
+d) What is the order of the given difference equation:  
+yt = a(yt-1 – yt-2 ) + 10 
+2.5 
+ 
+e)  y = 4x + 7, Find E(y) and V(y) 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a)  Solve the following difference equation:  
+yt – 2yt-1 = 5 
+5 
+ 
+b) Define Convergent Cobweb model. 
+5 
+ 
+c) Given demand and supply for 
+Qdt = 18 – 3Pt 
+Qst = -3 + 4Pt-1 
+Find (a) the time path of price 
+         (b) Determine, the time path is stable or unstable   
+5 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Define Exogenous and Endogenous variables. 
+5 
+ 
+b) Define ARMA model with AR and MA approach. 
+5 
+ 
+c) Define Stationary time series model. 
+Consider a time series {Yt}, where yt = e1 + e2 + e3 +……… et   and et are iid and 
+have mean 0 and variance 2, Is the process Stationary? 
+5

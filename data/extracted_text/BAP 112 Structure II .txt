@@ -1,0 +1,69 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Arch>, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code: BAP 112 
+Subject: Structure II 
+Time : 3 Hours 
+Maximum Marks : 60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Explain Following  
+(2.5*8=20) 
+ 
+(a) 
+What are steel tables? What information is available in steel tables? 
+ 
+(b) 
+Define hollow tubes? What are the types of hollow tubes?  
+ 
+(c) 
+Different type of wood in hilly areas of India.  
+ 
+(d) 
+Classification of brick in masonry construction. 
+ 
+(e) 
+What are timber structures? Explain their applications? 
+ 
+(f) 
+What are the 3 types of timber columns? Explain with neat sketches.  
+ 
+(g) 
+Define Lateral loadings on building. 
+ 
+(h) 
+Explain Eccentric loading of foundation. 
+UNIT-I 
+Q2 
+Explain advantage and disadvantage of timber construction over steel structures.  (10) 
+Q3 
+Write short note on brick masonry walls and piers. Also draw sketches. 
+(10) 
+UNIT-II 
+Q4 
+Sketch 230 mm brick wall foundation plan and section having loading 90 KN/m 
+and SBC  = 100 Kn/m sq. Assume suitable data.  
+(10) 
+Q5 
+ Explain about Design & analysis of masonry wall foundation. 
+(10) 
+UNIT-III 
+Q6 
+Draw neat sketch of brick foundation for three storey building?  
+(10) 
+Q7 
+Write down steps for design of steel column as per IS codes. 
+(10) 
+UNIT-IV 
+Q8 
+Write short note on Grillage foundation. Explain different types of grillage 
+foundations with neat sketches.   
+(10) 
+Q9 
+Write short note on Grillage foundation. 
+(10)

@@ -1,0 +1,102 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Off Line) 
+Course Name: B.Tech, Semester: VIII 
+(May, 2025) 
+ 
+Subject Code: BMA 428 
+Subject:  Sensors and Actuators  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Write about the static characteristics of sensors.  
+ 
+CO1 
+ 
+b) What is calibration of sensor? 
+ 
+CO1 
+ 
+c) Explain the photolithography for pattering layer. 
+ 
+CO2 
+ 
+d) What is the pulse laser deposition? 
+ 
+CO2 
+ 
+e) Briefly explain the field effect transistor. 
+ 
+CO3 
+ 
+f) Describe the Optical gas sensor. 
+ 
+CO3 
+ 
+g) What are micro actuators? Give some practical application. 
+ 
+CO4 
+ 
+h) What is a Piezoelectric Actuator? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Differentiate between sensors & transducers giving suitable examples. 
+(10) 
+CO1 
+Q3 
+ What is metal-oxide semiconductor field-effect transistor (MOSFET)? 
+Where are MOSFET used in? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+ Explain physical vapour deposition (PVD) & its complete process? Also 
+give their application? 
+(10) 
+CO2 
+Q5 
+ Describe the chemical vapour deposition? Also write its advantages 
+over the other methods of depositions. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+ Explain construction, and application of Nano-structured based gas 
+sensor? 
+(10) 
+CO3 
+Q7 
+ What is a Gas Sensor? Write their Advantages, Disadvantages and 
+Applications? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain design and fabrication process of Force Sensors? 
+(10) 
+CO4 
+Q9 
+A strain gauge have a gauge factor of 3·7. It is bonded to a metal bar 
+which is 'stretched' from 10 cm to 10·25 cm by application of force. 
+What would be the % change in resistance? It the unstrained value of 
+resistance is 240 ohms, what is the value of the strain produced? 
+(10) 
+CO4

@@ -1,0 +1,146 @@
+{
+  "paper_id": "BAM314_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM314",
+    "subject_name": "Natural Language Processing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why is ambiguity a challenge in natural language understanding? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare rule-based and statistical parsers. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between word2vec and GloVe embeddings 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Given the following three documents:  Document 1 : \"the sky is blue\"  Document 2 : \"the sun is bright\"  Document 3 : \"the sun in the sky is bright\" Calculate the TF-IDF value for the term \"sun\" in Document 3 . 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Illustrate how NLP powers sentiment analysis in social media. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the structure of Anusaraka and it suitability for Machine Translation. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain use of NLP in chatbots 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define a Recurrent Neural Network 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss various phases of NLP in detail and give example of processing of Natural Language Text in each phase",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is semantics in NLP?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of ambiguity in NLP and discuss its different types with illustrations.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the various text preprocessing steps involved in NLP task and Explain Term Frequency-Inverse Document Frequency ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the concept of word embeddings and explain the working of word2vec and GLoVe. Compare & contrast word2vec & GLoVe",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the key features and challenges in building multilingual chatbots using NLP and MT?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Example/Analogy-based MT",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Phrase-based MT",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Neural MT",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe the steps to build an NLP model using NLTK and LSTM for spam detection.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Design an NLP pipeline using NLTK and a deep learning model for sentiment analysis.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

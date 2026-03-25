@@ -1,0 +1,91 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 8) 
+(March 2025) OFF LINE mode 
+Subject Code: BIT 410 
+Subject: Cryptography 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is a one-time pad, and why is it considered perfectly 
+secure? 
+ 
+1 
+ 
+b) What are the key features of AES that make it more secure than 
+DES? 
+ 
+1 
+ 
+c) A RSA cryptosystem uses two prime numbers 3 and 13 to 
+generate the public key= 3 and the private key = 7. What is the 
+value of cipher text for a plain text? 
+ 
+2 
+ 
+d) how do you calculate ab mod n for large values of  b 
+ 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a)  What are the key differences between ECB, OFB, CTR and CBC 
+modes of encryption? 
+ 
+1 
+ 
+b) Explain the working of Playfair technique 
+ 
+1 
+ 
+c) Describe the key expansion process in AES. What is the role of 
+the S-box in AES encryption? 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) 
+Explain 
+how 
+man-in-the-middle 
+(MITM) 
+attacks 
+can 
+compromise 
+the 
+Diffie-Hellman 
+Key 
+Exchange. 
+Suggest 
+countermeasures to prevent such attacks. 
+ 
+2 
+ 
+b) Explain the basic working principle of the RSA algorithm in 
+encryption and decryption. Generate RSA keys using the prime 
+numbers p=5, q=11 and choose e=7. 
+ 
+2 
+ 
+c) What is an elliptic curve in ECC? Write its general equation and 
+explain its significance in cryptography. What are the advantages 
+of ECC over RSA in terms of efficiency and security? 
+ 
+2

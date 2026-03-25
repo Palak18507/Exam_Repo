@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS101",
+    "subject_name": "Principles of Management",
+    "program": "BBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the classical approach to management thought. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Outline the roles of a manager as per Henry Mintzberg. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly explain the planning process. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define Management by Objectives . 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Herzberg’s Two-Factor Theory? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the traits of an effective leader? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is benchmarking in the context of control? 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Why is the control function considered important in management? 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define management. Discuss its nature, process, and significance in modern organizations. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast classical, neo-classical, and behavioral approaches to management thought. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define planning. Explain the planning process in detail and discuss its importance in an organization. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define authority, responsibility, and delegation. Discuss the principles of delegation and its importance in effective management. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain McGregor’s Theory X and Theory Y, and Ouchi’s Theory Z. Discuss their relevance in today’s organizational context. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is leadership? Explain the various leadership styles as per Likert’s Systems and the Managerial Grid. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define controlling and explain the steps in the control process with relevant examples. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain traditional and modern techniques of control. Compare their features and effectiveness. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< BBA >, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code: AMC-201 
+Subject: E – COMMERCE 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the limitations and barriers that can hinder the growth and 
+adoption of E-Commerce. 
+2.5 
+CO1 
+ 
+b) Describe various web-based tools used in Electronic Commerce and 
+how they facilitate online business activities. 
+2.5 
+CO1 
+ 
+c) What are the basic security issues associated with E-Commerce, and 
+why are they significant? 
+2.5 
+CO2 
+ 
+d) Explain the concept of Public Key Infrastructure (PKI) and its role in 
+securing electronic transactions. 
+2.5 
+CO2 
+ 
+e) Define e-Money and discuss its usage in electronic payment 
+systems. 
+2.5 
+CO3 
+ 
+f) What are the different types of Electronic Payment Systems, and 
+how do they function? 
+2.5 
+CO3 
+ 
+g) Describe what is meant by Digital Commerce and how it relates to 
+E-Commerce. 
+2.5 
+CO4 
+ 
+h) Identify and explain emerging trends in E-Business that are 
+influencing the current market landscape. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the difference between E-Commerce and E-Business. 
+(10) 
+CO1 
+Q3 
+Describe the benefits of using an Intranet within an organization. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is a digital signature, and how does it enhance E-Commerce 
+security? Explain. 
+(10) 
+CO2 
+Q5 
+Explain the role of a Virtual Private Network (VPN) in securing E-
+Commerce transactions with examples. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define Electronic Fund Transfer (EFT) and its importance in electronic 
+payments. Explain with real-world examples. 
+(10) 
+CO3 
+Q7 
+Describe how smart cards are used in Electronic Payment Systems. 
+Discuss with an application.  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is mobile commerce, and how does it differ from traditional E-
+Commerce? 
+(10) 
+CO4 
+Q9 
+Explain the concept of Internet-enabled Supply Chain Management (e-
+Supply Chain) with an example. 
+(10) 
+CO4

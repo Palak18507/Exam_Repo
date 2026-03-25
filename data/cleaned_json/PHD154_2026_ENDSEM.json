@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD154_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD154",
+    "subject_name": "Financial Markets, Institutions and Financial Services",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define financial markets and explain its significance. b Explain the instruments of the money market. c Explain Development Financial Institutions role in economic development. d Explain the angel investors in startup financing. e Why Non-Performing Assets are bad? f Describe the functions of RBI in regulating banks. g How do Insurance products contribute to capital market development? h Discuss the role of fintech in financial inclusion.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the nature and mechanism of Indian financial system and the role of regulatory bodies like RBI and SEBI in its functioning.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the functions of capital market. How do they support economic growth?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is project financing? Explain the methods used in analyzing project feasibility for financing.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain different types of NBFCs and their functions.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain what is fund-based services and fee-based services. Give examples.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why do companies need credit ratings? How does venture capital benefit startups?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the common challenges startups face in raising funds? Name two new funding methods",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define derivatives. How do they help investors manage risk?",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

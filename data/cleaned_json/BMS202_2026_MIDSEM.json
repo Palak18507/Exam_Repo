@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS202",
+    "subject_name": "Project Management",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a project? Discuss its key characteristics that distinguish it from routine operations. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the critical factors that influence the selection of a project site? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is secondary information in the context of market analysis? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does the discounted cash flow method address some of the limitations of the payback period in project evaluation? 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the different phases of a project life cycle. How do these phases contribute to the successful execution of a project? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the significance of market analysis during project formulation? How would you characterize a market, in terms of demand and customer segmentation? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Conduct a discounted cash flow calculation to determine the NPV of the following project, assuming a required rate of return of 0.2. The project will cost $75,000 but will result in cash inflows of $20,000, $25,000, $30,000, and $50,000 in each of the next four years. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the aspects considered for technical analysis of a typical project? Discuss three important issues that managers must consider while conducting technical analysis. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Two new Internet site projects are proposed to a young start-up company. Project A will cost $250,000 to implement and is expected to have annual net cash flows of $75,000. Project B will cost $150,000 to implement and should generate annual net cash flows of $52,000. Considering the company's concern about cash flow, determine which project is preferable using the payback period method. Justify your choice. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain any three demand forecasting methods commonly used in project management. How do these methods assist in making informed project decisions? 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

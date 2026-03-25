@@ -1,0 +1,125 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name:<B.Tech>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BMA 403 
+Subject: Mechatronics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How Solenoid valve is used for operation of any pneumatic 
+actuator? 
+(2.5) 
+CO1 
+ 
+b) Differentiate between SPST, SPDT & DPDT. 
+(2.5) 
+CO1 
+ 
+c) Explain briefly the circuit of D and T flip-flops using JK flip-flop 
+(2.5) 
+CO2 
+ 
+d) What is meant by Memory Address wit reference to Microprocessor? 
+(2.5) 
+CO2 
+ 
+e) How displacement is sensed by LVDT. 
+(2.5) 
+CO2 
+ 
+f) Define the modulation and demodulation. 
+(2.5) 
+CO3 
+ 
+g) Distinguish between physical and mathematical model. 
+(2.5) 
+CO3 
+ 
+f) Analyze any industrial robot & identify the different Mechatronics 
+elements? 
+(2.5) 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Bulk lose material is to be emptied from a dump hopper (Fig-1), by 
+pressing a press button P1 ,the dump hopper is tilted and bulk lose 
+material tilted out, by pressing a another press button P2 ,the dump 
+hopper is returned to its initial position.  Design a pneumatic circuit for 
+operation & describe the components used in the circuit. 
+ 
+Figure-1 
+(10) 
+CO1 
+Q3 
+Design a pneumatic valve circuit to give the sequence A+, followed by 
+B+ and then simultaneously followed by A- and B-. 
+(10) 
+CO1 
+ 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Minimize the following switching function by K- map and implement it 
+by NAND gate only. 
+F (a,b,b,d) =Σ (0,1,3,4,6,7,8,12) + Σ dc (9,11) 
+(10) 
+CO2 
+Q5 
+What is a load cell? Draw the schematic diagram of a strain gauge based 
+load cell. Discuss the principle of operation. 
+(10) 
+CO2 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+As a Mechatronic designer moves progressively from an 8-bit to 10-bit 
+to 12-bit A/D converter. Comment on the feasibility of design & Discuss 
+what problems might be incurred in the design of the data acquisition 
+system? 
+ 
+(10) 
+CO3 
+Q7 
+Distinguish between inverting and non-inverting amplifiers also derive 
+the gain equation for a non-inverting amplifier. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the working of a PLC by drawing its basic architecture. Also draw 
+the ladder rungs to represent the two switches are normally open and 
+both have to be closed for a motor to operate. 
+(10) 
+CO4 
+Q9 
+Describe for any two of the following systems, giving free hand sketch, 
+list of components & justification as Mechatronics Product. 
+i) 
+Printer 
+ii) 
+Bar Code Reader 
+iii) 
+Domestic Washing Machine 
+(10) 
+CO4

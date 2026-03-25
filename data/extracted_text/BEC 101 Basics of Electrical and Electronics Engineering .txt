@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name:<B.Tech >, Semester:2> 
+(May, 2025) 
+ 
+Subject Code: BEC 101 
+Subject: Basics of Electrical and Electronics Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt all questions 
+(5*4=20) 
+CO Mapping 
+ 
+a) Draw the circuit diagram of practical voltage and practical current 
+source. 
+ 
+CO1 
+ 
+b) Two impedances 𝑍1 = 3 + 𝑗9 Ohm and 𝑍2 = 5 −𝑗9 Ohm are connected 
+in parallel. What is the equivalent impedance of the combination? 
+ 
+CO2 
+ 
+c) Draw the v-i characteristic of p-n junction diode and define peak inverse 
+voltage and breakdown voltage. 
+ 
+CO3 
+ 
+d) Explain the construction and working of junction field effect transistor 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Find branch currents using Nodal analysis for the circuit shown in Figure? 
+(10) 
+CO2 
+Q3 
+Define Maximum Power Transfer Theorem. What value of resistance may 
+be connected across the terminal a and b, so that Maximum Power transfer 
+takes place through it? Also find the value of Maximum Power transferred. 
+ 
+ 
+(10) 
+CO3 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Two impedances Z1 and Z2 are connected in parallel, where currents 
+corresponding to impedances are 𝐼1 = 50∠10 and 
+𝐼2 = 20∠300 . If the 
+applied voltage is 100∠15 𝑉, find true power, reactive power and 
+apparent power in each branch. 
+(10) 
+CO2 
+Q5 
+a) A series RLC circuit of R=40 Ω, L= 50.07mH and a capacitor is connected 
+across a 400V,50Hz, A.C supply. This RLC combination draws a current of 
+10A.Calculate (i) Power factor of the circuit. (ii) Capacitor value. 
+ 
+b) An alternating current is expressed as i = 14.14 sin 314t. Determine (i) 
+Maximum current (ii) RMS current (iii) Frequency (iv) Instantaneous current 
+when t = 0.02msec. 
+(5+5) 
+CO2 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Draw and explain the V-I characteristics of a practical PN junction diode 
+ 
+b) Discuss the applications of a PN Junction Diode. 
+(5+5) 
+CO2 
+Q7 
+a) Explain how a Zener diode may be used as a voltage regulator? 
+  
+b) Explain clipping and clamping circuits. Do write some of its examples. 
+(5+5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) Draw the common emitter circuit and sketch the input and output 
+characteristics. Also explain active region, cutoff region and saturation 
+region by indicating them on the characteristic curve.  
+ 
+b) In a Common Emitter transistor circuit if β = 100 and IB = 50µA, 
+compute the values of α, IE and IC. 
+(5+5) 
+CO3 
+Q9 
+a) With the help of neat diagram, explain the operation and characteristics 
+of n-channel enhancement type MOSFET.  
+ 
+b) Mention the differences between depletion and enhancement MOSFET. 
+(8+2) 
+CO4

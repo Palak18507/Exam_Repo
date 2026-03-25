@@ -1,0 +1,121 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. ECE, Semester: 5th  
+(December, 2024) 
+ 
+Subject Code: BEC 301 
+Subject: Digital Communication Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Explain following: 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How does single-carrier modulation differ from multi-carrier 
+modulation? 
+ 
+CO1 
+ 
+b) What are the uses of Gold Codes in communication systems? 
+ 
+CO2 
+ 
+c) Define the probability of missed detection and the probability of false 
+detection. 
+ 
+CO3 
+ 
+d) What is a constellation diagram, and why is it important? 
+ 
+CO4 
+ 
+e) What are the benefits of using correlative coding in communication?  
+CO3 
+ 
+f) What is overload distortion, and what causes it? 
+ 
+CO2 
+ 
+g) What are the main causes of inter-symbol interference (ISI) in 
+communication systems? 
+ 
+CO4 
+ 
+h) Describe the windowing technique in OFDM and its advantages. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the following terms in the context of signal space 
+representation:  
+(a) 
+Vector  Space 
+(b) 
+Inner Product 
+(c) 
+Norm 
+(d) 
+Orthonormality 
+(e) 
+Orthogonality 
+(10) 
+CO2 
+Q3 
+What is Delta Modulation? Explain its block diagram and illustrate its 
+operation using waveform representation. 
+(10) 
+CO4 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is benefit of Synchronization in digital communication? Explain 
+following terms:  
+a) Frequency and phase synchronization  
+b) Symbol synchronization  
+c) Frame synchronization 
+d) Network synchronization 
+(10) 
+CO3 
+Q5 
+Draw the circuit diagram of a balanced modulator and explain its 
+working. 
+(10) 
+CO4 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the working principle of a Rake receiver with the help of a 
+diagram. Also, explain its advantages and disadvantages. 
+(10) 
+CO2 
+Q7 
+Draw the diagram of a Linear Feedback Shift Register (LFSR) and explain 
+how it can be used to generate a Pseudorandom Noise (PN) sequence. 
+Additionally, discuss the purpose of using PN sequences. 
+(10) 
+CO4 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the basic principle of Orthogonal Frequency Division 
+Multiplexing (OFDM) and discuss the types of applications that require 
+its use. 
+(10) 
+CO3 
+Q9 
+Explain the various factors that contribute to multipath propagation. 
+Also, briefly elaborate on the key impairments caused by multipath 
+transmission. 
+(10) 
+CO4

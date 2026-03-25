@@ -1,0 +1,123 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 1st Semester 
+(December, 2024) 
+ 
+Subject Code: BEC-103 
+Subject: Electronics Workshop 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the difference between Zener Breakdown and avalanche 
+Breakdown. 
+ 
+CO1 
+ 
+b) What is an Electrodynamometer type Wattmeter? 
+ 
+CO2 
+ 
+c) What is an Amplified DC Meter? 
+ 
+CO3 
+ 
+d)  Give the relationship between α, β and γ of a transistor 
+ 
+CO1 
+ 
+e) Briefly explain the True-RMS responding voltmeter? 
+ 
+CO3 
+ 
+f) Discuss about the cut-off and saturation mode of operations of BJT. 
+ 
+CO2 
+ 
+g) Simplify using Boolean Algebra 
+𝑌 =  𝐴𝐵 + 𝐴𝐶
+̅̅̅̅  +  𝐴𝐵̅𝐶 (𝐴𝐵 +  𝐶) 
+ 
+CO4 
+ 
+h) Convert the following expression in canonical POS form. 
+Y = (A + B) (𝐵̅ + C) 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Demonstrate and justify the input and output characteristics of 
+common base configuration of BJT. 
+(10) 
+CO1 
+Q3 
+Describe the construction, characteristics, and operation of a Zener 
+diode. Explain how it can be used as a voltage regulator. 
+For the circuit shown below, find (i) the output voltage (ii) the voltage 
+drop across series resistance (iii) the current through zener diode. 
+ 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the working of emitter bias circuit and derive the expression of 
+its stability factor S. 
+(10) 
+CO2 
+2 
+ 
+Q5 
+With a neat diagram explain in detail the construction and principle of 
+PMMC Instruments. What are shunts and multipliers?  
+Derive the expression for both, with reference to meters used in 
+electrical circuits. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+With the help of block diagram explain the working principle of 
+Electronic Voltmeter?                             
+(10) 
+CO3 
+ 
+Q7 
+(a) Draw the block diagram of Digital Frequency meter? 
+(b) Explain the principle of operation of Vector Voltmeter? 
+(5+5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Use K-Map to minimize and express the function in SOP form. 
+Implement the expression using NAND gates only. 
+ 
+F = ∑m (0, 1, 2, 6, 7, 10, 12, 15) + ∑d (3, 8, 13, 14) 
+(10) 
+CO4 
+Q9 (a) Implement the following Boolean functions using a 3:8 decoder. Use 
+block diagram for the decoder.  
+F1 (A B C) =∑ m (2, 4, 7) 
+F2(A B C) =∑ m (0, 3) 
+F3 (A B C) =∑ m (0, 2, 3, 4, 7) 
+ 
+(b) Differentiate between 
+i. Positive Logic and Negative Logic 
+ii. Multiplexer and Demultiplexer 
+(6+4) 
+CO4

@@ -1,0 +1,89 @@
+{
+  "paper_id": "BAS203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS203",
+    "program": "B.Tech. CSE/IT/CSE-AI/AI-ML",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "chopping",
+          "marks": 10.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "rounding. 1 b. Compute one real of 0 3  x ex correct to two decimal places using the method of bisection. 2 c. Solve the integral  dx x   5.0 0 2 exp numerically with the help of the Gauss– Legendre 3-points formula. 5 d. Solve the system of equations using the Gauss Elimination method with partial pivoting. 8 3 2 2 1  x x ; . 19 7 4 2 1  x x 3 e. The following table gives the measured output voltage y of an electronic circuit as a function of the applied input voltage x . Find the least-squares straight-line fit for the given data: x in V 0.1 0.2 0.3 0.4 0.5 0.6 0.7 y in V 0.16 0.21 0.23 0.30 0.36 0.39 0.46 4 f. Find the function  x g whose first difference is . 12 9 4 2 3    x x x Also, compute its successive differences in factorial notation. 4 g. Use the fourth-order Runge-Kutta method with ,1.0  h find  1.1 y for IVP 2 y x dx dy   with  .2 1  y 5 h. Using Picard’s method, find first approximate values of y and z corresponding to 1.0  x given that  2 0  y ,  1 0  z and z x dx dy   and . 2 y x dx dz   5 Subject Code: BAS 203 Subject Name: Numerical Methods Time: 3 hours Maximum Marks: 60 2 CO Mapping",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe the process of the fixed-point iteration method. Using this method, determine the real root of the equation cos⁡– 2𝑥+ 3 = 0 within the interval [1, 2] correct to three decimal places. 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Find the approximate value for the real root of 𝑥log10 𝑥−1.2 = 0 correct to five decimal places using the Newton-Raphson method. 10 2 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the diagonally dominant system of equations. Find the solution to the system 6𝑥1 −𝑥2 + 2𝑥3 = 2 𝑥1 + 5𝑥2 + 𝑥3 = 10 2𝑥1 + 𝑥2 + 7𝑥3 = −3 by using the Gauss–Seidel method upto five iterations. 10 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Determine the smallest eigenvalue and the corresponding eigenvector of the matrix          2 2 2 2 7 1 7 6 10 , considering the initial eigenvector   . 111 0 T X  10 3 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Find the polynomial of the lowest possible degree, which takes the values as follows: x 3 2 1 -1  x f y  3 12 15 -21 Also, calculate the values   4 , 2 f f and  5 f . 10 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Derive the Newton-cote’s quadrature formula using Lagrange’s interpolation method. Evaluate the value of the integral dx x dx   6 0 2 1 by Simpson’s '3 1' rule and Simpson’s '8 3' rule. 10 5 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Apply Euler’s method to the ordinary differential equation y x dx dy   , with  1 0  y using increments of size .2.0  h If the exact solution is , 2 1 xe x y     then determine the error and percentage error at each step. 10 5",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Use the Taylor series method to compute the values of  1.0 y and  1.0 t for the following system: x t dx dy   and t x y dx dt    2 with  0 0  y and  .0 0  t Compute only the first five terms of the Taylor series. 10 5",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

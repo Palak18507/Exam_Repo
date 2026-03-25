@@ -1,0 +1,159 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech, Semester: 1 
+((May, 2025)  
+ 
+Subject Code: BAS 104 
+Subject: ENVIRONMENTAL SCIENCES  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.  
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Write a short note on common approaches towards water 
+conservation practiced in India.  
+ 
+CO 1 
+ 
+b) Define Chemical Oxygen Demand? How is it different from BOD? 
+How will you determine COD?  
+ 
+CO 1 
+ 
+c) Define carbon credits. Write a short note on international emission 
+trading.   
+ 
+CO 2 
+ 
+d) What is In situ biodegradation? Write its two approaches for 
+treatment of hazardous waste.  
+ 
+CO 2 
+ 
+e) Define Bioplastics. Explain two methods involved in the 
+manufacture of Bioplastics.  
+ 
+CO 3 
+ 
+f) Give the importance of the use of Photostabilizers and 
+Photosensitisers in polymers with suitable examples  
+ 
+CO 3 
+ 
+g) What is Ocean Thermal Energy Conversion (OTEC)? Give its merits.  
+ 
+CO 4 
+ 
+h) List some positive and negative impacts of developing a project in 
+an area. 
+ 
+CO 4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(i) 
+50 ml of a sample of water required 5 ml of N/50 H2SO4 
+using methyl orange as indicator but did not give any 
+coloration with phenolphthalein. What type of alkanity is 
+present? Express the same in ppm. 
+(ii) 
+Discuss the various steps involved in the primary 
+treatment of waster water.  
+(5,5) 
+CO 1 
+Q3 
+(i) 
+(a) The total hardness of a sample of water was 
+determined by titrating the sample with standard EDTA 
+solution. From the following results calculate the total 
+hardness of water sample and express the hardness of 
+water in ppm. 100 mL of water required 10.2 mL of 
+centimolar EDTA. The indicator used is EBT.  
+(b)   why EDTA titrations are performed in buffer of  
+pH 8-10?  
+(ii) 
+(a) Explain ‘Trickling filters’ of waste water treatment 
+(b)  Discuss three methods for the removal of dissolved 
+pollutants from the waste water.  
+ 
+(5,5)  
+CO 1 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(i) 
+Write five principles of Green Chemistry. Explain them 
+with proper chemical reactions, if any.  
+(ii) 
+What are sanitary landfills? Discuss the advantages and 
+problems of sanitary landfills.  
+(5,5)  
+CO 2 
+Q5 
+(i) 
+What is acid rain? Explain the chemistry behind the 
+formation of acid rain.   
+(ii) 
+What is the % atom economy of the desired product in 
+the following reaction    
+(a) Fe2O3 + 3CO                  2Fe (Desired Product) + 3CO2     
+(b) Calculate the atom economy for the preparation of 
+ammonia from the thermal decomposition of 
+ammonium sulfate    
+(NH4)2 SO4                 H2SO4 + 2NH3 (Desired Product)  
+(5,5)  
+CO 2 
+UNIT III  
+ 
+CO Mapping 
+Q6 
+(i) 
+Give the mechanism of degradation of photo 
+biodegradable and hydro-biodegradable polymers.  
+(ii) 
+Enumerate various forms of Mercury and describe its 
+biochemical effects. 
+(5,5) 
+CO 3 
+Q7 
+(i) 
+Discuss various forms of chromium (Cr) with their sources and 
+Bio chemical effects 
+(ii) 
+Equal weights of polymer molecules with molecular weights 
+20,000 g/mol and 200,000 g/mol are mixed.  Calculate Mn and 
+Mw?    
+(5,5) 
+CO 3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(i) Discuss five important components of Environmental Management 
+Systems?  Explain.  
+(ii) write a short note on   
+(a) Renewable and non-renewable sources of energy 
+(b) Concept of sustainable development 
+(5,5) 
+CO 4 
+Q9 
+(i) 
+What is Power alcohol? Explain the steps/processes 
+involved in its formation.    
+(ii) 
+What are the challenges associated with Green hydrogen 
+energy 
+(5,5)  
+CO 4

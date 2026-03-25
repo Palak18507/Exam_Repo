@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS114_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS114",
+    "subject_name": "Management Accounting",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "“Management Accountant is the controller” explain the concept.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe Relationship of Management Accounting to cost accounting and Financial accounting. C",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the classification of costs, specifically:- 1)- Period cost 2)- product cost",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Prepare the format of the Income Statement using Absorption Costing.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the scope and techniques utilized in management accounting",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Financial Accounting & Management Accounting",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the functions of management accounting?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Absorption costing and Marginal costing also differentiate both",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Classify the following items into factory overhead , Administrative overheads , and selling and distribution overheads and items excluded from cost. Unproductive wages 4,850 Advertisement cost 3,000 Cost of gas and water 2,200 Grease and oil for machines 800 Dividend paid 7,800 Bad debts 700 Provision for bad debts 1,600 Factory repairs and renewals 2,400 Wages of foreman 1,350 Carriage inwards 670 Upkeep of delivery vans 2,700 Sales branches office expenses 3,800 Transfer to general reserve 2,600 Collection charges 1,300 Mobile phone charges of salesman 2,100 Travelling charges of salesmen 1,900 Stationery — Office 450 — Showroom 340 Income tax paid 1,250 Legal charges 400 Preliminary expenses written off 850 Labour welfare expenses 2,600 Warehouse rent 750 Electricity — Office Factory Showroom 700 1600 800",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Following Data is given- Total Fixed Cost -12000 Selling Price – 12 Rs. Per unit Variable Cost – 9 Rs. Per Unit What will be profit when sales is - 1)- 84000 Rs. 2)- 1,20000 Rs.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

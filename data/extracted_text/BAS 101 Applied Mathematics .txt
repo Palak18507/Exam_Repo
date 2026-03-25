@@ -1,0 +1,228 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(NEP)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B. Tech, Semester: 2nd Sem 
+(May, 2025) 
+ 
+Subject Code: BAS 101 
+Subject: Applied Mathematics   
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Using elementary row operations find the inverse of Matrix N, if it 
+exists  
+𝑁= [2
+5
+1
+3] 
+2.5 
+CO1 
+ 
+b) If 𝜆 is an Eigenvalue of a non-singular matrix 𝐴, show that  
+|𝐴|
+𝜆   is an 
+eigenvalue of Adj 𝐴. 
+2.5 
+CO1 
+ 
+c) If 𝑢= 𝑥 log(𝑥𝑦) where  𝑥3 + 𝑦3 + 3𝑥𝑦= 1, find  
+𝑑𝑢
+𝑑𝑥. 
+2.5 
+CO2 
+ 
+d) Discuss the continuity of  
+𝑓(𝑥, 𝑦) =
+{
+ 
+ 
+𝑥
+√𝑥2 + 𝑦2 ,     𝑥≠0, 𝑦≠0
+1
+2 ,                     𝑥= 0, 𝑦= 0
+ 
+at the origin. 
+2.5 
+CO2 
+ 
+e) Evaluate a double integral by reversing the order 
+∫∫𝑒𝑦2𝑑𝑦 𝑑𝑥
+1
+𝑥
+1
+0
+ 
+2.5 
+CO3 
+ 
+f) Sketch the region D and then evaluate the double integral 
+∬𝑓(𝑟, 𝜃) 𝑑𝑟 𝑑𝜃= ∫∫𝑟2 cos2 𝜃  𝑑𝑟 𝑑𝜃
+3
+1
+𝜋
+2
+0
+ 
+𝐷
+ 
+2.5 
+CO3 
+ 
+g) If 𝑎⃗ is a constant vector and 𝑟⃗= 𝑥𝑖⃗+ 𝑦𝑗⃗+ 𝑧𝑘⃗⃗,  find  
+curl (𝑎⃗ × 𝑟⃗) = 2𝑎⃗ 
+2.5 
+CO4 
+ 
+h) Evaluate  ∫𝐹⋅𝑑𝑅,
+ 
+𝑐
+ where 𝐹= (𝑦2 −𝑧2)𝑖 ⃗⃗+  2𝑦𝑧 𝑗⃗−𝑥2𝑘⃗⃗ and 
+𝐶 is the curve defined parametrically by 𝑥= 𝑡2, 𝑦= 2𝑡, and 𝑧=
+𝑡  for 0 ≤𝑡≤1.  
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Using the concept of rank, determine whether the following 
+vectors are linearly independent or linearly dependent 
+(3,4,5), (−3,0,5), (4,4,4), (3,4,0). 
+b) Find a matrix P which converts the matrix 𝐵 = [
+1
+1
+3
+1
+5
+1
+3
+1
+1
+]   to 
+diagonal form. Hence calculate 𝐵4. 
+(4,6) 
+CO1 
+Q3 
+a) For the matrix  
+𝑀= (
+2 + 𝑖
+−1
+0
+4
+3 −𝑖
+2
+𝑖
+1 + 2𝑖
+−3
+ ), 
+find non-singular matrices 𝑃 and 𝑄 such that 𝑃𝑀𝑄 is in the normal 
+form. 
+b) Show that the equations 
+−2𝑥 +  𝑦 +  𝑧 =  𝑎,  
+ 𝑥 –  2𝑦 +  𝑧 = 𝑏, 
+ 𝑥+  𝑦 −2𝑧 = 𝑐 
+have no solution unless 𝑎+  𝑏+  𝑐 =  0. In which case they have 
+infinitely many solutions?  
+(5,5) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) If 𝑢= tan−1 
+𝑥3+𝑦3
+𝑥−𝑦, prove that  
+(i) 
+𝑥 
+𝜕𝑢
+𝜕𝑥+ 𝑦 
+𝜕𝑢
+𝜕𝑦= sin 2𝑢 
+(ii) 
+𝑥2 
+𝜕2𝑢
+𝜕𝑥2 + 2𝑥𝑦 
+𝜕2𝑢
+𝜕𝑥𝜕𝑦+ 𝑦2 
+𝜕2𝑢
+𝜕𝑦2 = 2 cos 3𝑢 sin 𝑢  
+b) Expand sin(𝑥𝑦)  in powers of (𝑥−1) and (𝑦−
+𝜋
+2) as far as the 
+terms of second degree. 
+(5,5) 
+CO2 
+Q5 
+a) If 𝑦= (sin−1 𝑥)2, Prove that  
+(1 −𝑥2)𝑦𝑛+2 −(2𝑛+ 1)𝑥𝑦𝑛−𝑛2𝑦𝑛= 0  
+b) Examine 𝑓(𝑥, 𝑦) = sin 𝑥 +  sin 𝑦 +  sin(𝑥+ 𝑦) for maximum 
+and minimum values. 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Trace the curve 9𝑎𝑦2 = 𝑥(𝑥−3𝑎)2 
+b) Compute ∬(
+𝑥−𝑦
+𝑥+𝑦)
+4
+𝑑𝑦 𝑑𝑥,
+ 
+𝐷
+ where 𝐷 is the triangular region 
+bounded by the line 𝑥+ 𝑦= 1 and the coordinate axes, by change 
+of variables taking 𝑢= 𝑥−𝑦 and 𝑣= 𝑥+ 𝑦. 
+ 
+(5,5) 
+CO3 
+Q7 
+a) Find the area between the circle 𝑥2 + 𝑦2 = 𝑎2 and the line 𝑥+
+𝑦= 𝑎 in the first quadrant. 
+b)  Compute ∭
+𝑑𝑥 𝑑𝑦 𝑑𝑧
+(𝑥+𝑦+𝑧+1)3 if the region of integration is bounded by 
+the coordinate planes and the plane 𝑥+ 𝑦+ 𝑧= 1. 
+ 
+(5,5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) Show that the vector field 
+𝐹⃗= 2𝑥(𝑦2 + 𝑧3)𝑖 + 2𝑥2𝑦𝑗 +  3𝑥2𝑧2𝑘 
+is conservative. Find its scalar potential and the work done in 
+moving a particle from (-1, 2, 1) to (2, 3, 4). 
+b) State Stoke’s theorem. Use Stoke’s theorem to evaluate the line 
+integral   
+∮𝑥3𝑦2 𝑑𝑥 + 𝑑𝑦+ 𝑧2 𝑑𝑧
+ 
+𝑐
+ 
+where 𝐶 is the circle 𝑥2 + 𝑦2 = 1 in the plane 𝑧= 1, counterclockwise 
+when viewed from the origin.  
+ 
+(5,5) 
+CO4 
+Q9 
+a) Apply Green’s theorem to evaluate 
+∮(2𝑥2 −𝑦2) 𝑑𝑥 + (𝑥2 + 𝑦2) 𝑑𝑦
+ 
+𝑐
+ 
+over a curve C which is the boundary of the area enclosed by the 
+x-axis and the upper half of the circle 𝑥2 + 𝑦2 = 𝑎2 negatively 
+oriented. 
+b) Verify Gauss’ Divergence Theorem, where 𝑆 is the surface of the 
+sphere 𝑥2 + 𝑦2 + 𝑧2 = 16 and  𝐹⃗=  3𝑥 𝑖 +  4𝑦 𝑗 +  5𝑧 𝑘. 
+(5,5) 
+CO4

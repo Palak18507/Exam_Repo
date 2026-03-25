@@ -1,0 +1,90 @@
+{
+  "paper_id": "AMC152_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC152",
+    "subject_name": "Information Technology and Innovation Management",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Primary key? How is it different from foreign key?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Normalization? Why is it important?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Encrypt the data “I love my India” with ceaser cipher having key +4.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define E-Governance and explain its significance.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the role of data warehousing and data mining in decision support systems.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define SQL and explain its significance in managing data. Write an SQL query to update the salary of an employee with ID = 101 in the emp table.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the major issues in data organization and how they impact database performance.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the key features and challenges of Digital India Program.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is BPR? Explain its importance.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main challenges and advantages in E-commerce operations?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

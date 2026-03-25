@@ -1,0 +1,219 @@
+{
+  "paper_id": "MCS116_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS116",
+    "subject_name": "Computer Vision",
+    "program": "M.Tech(AI&DS",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Low-level, Mid-Level and High-level Computer Vison.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between Perspective Projection and Orthographic Projection?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are salt and pepper noise? Which filter is best suited to remove it?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the role of Regularization theory in motion estimation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How do active contour evolve to detect object boundaries?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define Euler Number in shape representation. The word \"COMPUTER VISION\" is displayed in a binary image. Calculate Euler Number for it.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How do Gaussian Mixture Model help in image segmentation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are Eigen faces? How do they simplify face recognition?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the relationship between depth of field, aperture size, and brightness in image formation.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A camera with a focal length f=40 mm has an aperture diameter d=8 mm. Calculate the f-number and determine the hyperfocal distance h where the acceptable blur circle diameter c=0.02 mm. How does changing the aperture diameter to d=4 mm affect the depth of field?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between Computer Vision and Computer Graphics.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "In a pinhole camera setup, a 3D point in the camera coordinate frame is located at mm. The focal length of the camera is 25 mm, the scaling factors are mx=10 pixels/mm and my=10 pixels/mm, and the principal point is at pixels. Estimate the image coordinates of this point on the image sensor.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the fundamental steps in digital image processing with the help of block diagram.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Mention three image preprocessing techniques used for computer vision application.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the different edge detection techniques, highlighting their respective advantages and disadvantages.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Briefly explain steps in structure from Motion. 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between contour-based and region-based shape representation techniques in image processing. Provide two examples for each type.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given the following 8-directional chain code for a boundary: 5 0 2 0 1 4 0 7 6 0 2 i. Compute the curvature values between consecutive directions. ii. Calculate the bending energy using the curvature values.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the level set representation technique used in shape representation.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider the following object of size : F y=1 y=2 y=3 y=4 x=1 2 1 4 3 x=2 0 3 2 1 x=3 1 2 0 3 x=4 3 1 2 0 Find: i. Mass of the object ii. Moment w.r.t. x-axis iii. Moment w.r.t. y-axis iv. Centroid of the object",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how pattern recognition in computer vision helps in image understanding. How Hidden Markov Model help in finding out the patterns?",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Foreground-background separation",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Chamfer matching",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Particle filters",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Road sign identification",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Human gait analysis",
+          "marks": 2.0
+        }
+      ]
+    }
+  ]
+}

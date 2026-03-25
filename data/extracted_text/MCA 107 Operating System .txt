@@ -1,0 +1,197 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+MCA Semester:<1> 
+(December, 2024) 
+ 
+Subject Code: MCA 107 
+Subject:  Operating System 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between Multiprogramming and Time sharing system 
+giving example of each. 
+ 
+Co1 
+ 
+b) What are the different tasks performed by OS when CPU shifts 
+from one process to another?  
+ 
+Co1 
+ 
+c) What are the merits of  Binary Semaphore over  Counting 
+Semaphore 
+ 
+Co2 
+ 
+d) Compare Deadlock Avoidance Versus Recovery from Deadlock 
+ 
+Co2 
+ 
+e) Differentiate dedicated device, shared device and virtual device 
+ 
+Co3 
+ 
+f) What are the function of Device Management Module of OS? 
+ 
+Co3 
+ 
+g) What are the different types of files supported by OS? 
+ 
+Co4 
+ 
+ h) Name two directory structures where files can be shared. Also  
+give one demerit for each 
+ 
+Co4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+.  (a) Explain the concepts:  (i) system calls, (ii) system program. What 
+is the advantages of layered approach for design of OS? 
+ (b)  What resources are used when a thread is created. Differentiate 
+between and user level thread and kernel supported threads  
+ 
+(5) 
+ 
+ 
+(5) 
+Co1 
+Q3 
+(a) Define tasks of three types of scheduler short, medium and long 
+term for processor managements. 
+   (b)  consider the following set of processes with CPU burst time given 
+in milliseconds: 
+ 
+  
+Process  
+Burst Time 
+ 
+  
+  P1 
+ 
+10 
+                               P2 
+ 
+29 
+                               P3 
+ 
+3 
+ 
+  
+  P4                                     7 
+                               P5 
+ 
+12 
+ 
+ 
+        The process are assumed to have arrived in order P1, P2, P3, P4, 
+P5, all at time  zero.  Work out average turn around time using 
+Round Robins Algorithm taking  time quantum  as 5,10, 15 ms 
+respectively. If context switch time is 2 ms, which time slot is most 
+efficient.  
+(c) What are the important parameters that determine its performance 
+of Multilevel feed back queue cpu scheduling algorithm. 
+(3) 
+ 
+ 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+Co1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Consider the multiple Partition Scheme with variable partition 
+(MVT). With suitable example illustrate the different storage 
+allocation algorithm. 
+ (b)  Explain the structure of Page table providing memory protection 
+in Paged Environment. How frames are allocated to a process? If 
+memory reference takes 200 nanoseconds and 20 nanosecond to 
+search associative registers. Calculate the effective memory 
+access time if 75% of the Page Table is kept in associative register 
+(c) Give one algorithm for deadlock prevention. 
+ 
+(5) 
+ 
+ 
+ 
+(3) 
+ 
+ 
+ 
+ 
+(2) 
+CO2 
+Q5 
+(a)  What are the sequence of events that occur when page fault 
+occur. How does it affect the memory access? Support your 
+answer with suitable example 
+   (b) What are the possible solutions to implement Least recently 
+used page replacement algorithm. Give one algorithm which is 
+its  approximation. Support your answer with example with 
+following reference string and initi allocation of five frames 
+containing nil page. 
+ 
+ 
+1,2,3,4,5,3,4,1,6,7,8,9,7,8,9,5,4,5,4,2 
+ 
+(5) 
+ 
+ 
+ 
+(5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe briefly swap space management and disk reliability 
+(10) 
+CO3 
+Q7 
+Consider following ordered disk queue with request involving 
+following tracks (tracks are 0 to 199): 
+98, 185, 35, 122, 15, 127, 69, 85.  
+If read write head is initially at cylinder 100. Calculate head movements 
+using FCFS, shortest seek time first,  SCAN and CSCANexplaining steps 
+used 
+ 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are the different methods to access files? List their merits and 
+demerits. Describe mechanism for file protection 
+(10) 
+CO4 
+Q9 
+Describe different directory structures. Also  give one demerit for 
+each. 
+(10) 
+CO4

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP310_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP310",
+    "subject_name": "Building Services IV",
+    "program": "B. Arch.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define sound and explain its basic characteristics",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is reverberation time? How is it measured?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between reflection, absorption, and diffusion of sound.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are acoustic materials? Explain their purpose with examples?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A Person clapped his hands near the cliff and heard the echo after 5 s. What is the distance of the cliff from the person, if the speed of the sound is taken as 340m/sec?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define noise. What is the difference between airborne noise and structure-borne noise?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the various acoustic defects in buildings? Suggest remedies for each defect.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the factors affecting the acoustics of an auditorium?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the STC rating and its importance in building acoustics.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A hall of Volume 5500Cubic-m has a Reverberation time of 2.3 sec. The sound-absorbing surface of the hall has an area of 750 sqm. Calculate the average absorption coefficient.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

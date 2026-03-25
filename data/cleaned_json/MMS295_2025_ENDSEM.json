@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS295_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS295",
+    "subject_name": "Time Series Analytics",
+    "program": "< MBA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define a difference equation. How is it used in time series modeling? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of lag operators with an example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between autocorrelation and partial autocorrelation. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of the autocorrelation function in time series analysis? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the key characteristics of ARCH and GARCH models? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain how volatility clustering is captured in a GARCH model. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the difference between deterministic and stochastic trends? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define unit roots and their importance in time series analysis. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Analyze the role of undetermined coefficients in solving difference equations. Illustrate with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is the cobweb model? State its importance in economic modeling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is parameter instability in time series models, and how does it affect forecasting?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Analyze the steps involved in estimating and diagnosing an ARMA model using a real-world dataset.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Provide a practical example of using GARCH models in financial risk management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Construct a hypothetical ARCH-M model, and explain its implications for economic data.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Examine the methods for testing structural change in time series data.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of Monte Carlo methods in evaluating unit root tests.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

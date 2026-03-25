@@ -1,0 +1,137 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) 
+Course Name: PhD  
+(May, 2025) 
+ 
+Subject Code: PhD 152 
+Subject: Advances in Additive Manufacturing of Materials  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+List out types of Binder jet AM 
+2.5 
+CO1 
+b 
+List out steps in design for AM  
+2.5 
+CO1 
+c 
+How AM of soft materials different from hard materials?  
+2.5 
+CO2 
+d 
+How material viscosity affects AM.  
+2.5 
+CO2 
+e 
+Briefly explain the various types of Regression algorithms in Machine 
+Learning. 
+2.5 
+CO3 
+f 
+Differentiate SLA and SLS in rapid prototyping 
+2.5 
+CO3 
+g 
+What are some of the current challenges faced by 3D printing machines, 
+and what are the potential future perspectives to overcome these 
+challenges? 
+2.5 
+CO4 
+h 
+What are the clinical application of 3D extrusion Printing  
+2.5 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+Explain the working of Binder jet AM (BJAM) process along with example. 
+What are the advantages and disadvantages of BJAM process? 
+10 
+CO1 
+Q3 
+Explain how processing parameter of Additive manufacturing effect the 
+structure property relationship of produced part 
+10 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+Explain the significance of additive manufacturing (AM) of soft materials. 
+Discuss the key material requirements, challenges, and commonly used 
+AM techniques for printing soft materials. Support your answer with 
+suitable examples 
+10 
+CO2 
+Q5 
+Define the concept of Regenerative Engineering (RE). Explain how Additive 
+Manufacturing (AM) supports and enhances RE, particularly in the 
+development of biomimetic structures and tissue scaffolds. Provide 
+relevant examples. 
+10 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+Explain the concepts of Regression and Classification algorithms in 
+Machine Learning. Discuss their differences, types of problems they solve, 
+and provide examples of algorithms used for each type.  
+10 
+CO3 
+Q7 
+Discuss the various applications of Artificial Intelligence (AI) and Machine 
+Learning (ML) in 3D printing. Explain how AI/ML techniques are used to 
+optimize design, improve printing processes, and enhance the quality of 
+printed objects. Explain using suitable example  
+10 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+An engineer is investigating how different 3D printing parameters 
+influence surface roughness (Ra, in µm). They collect data on: 
+ 
+Extrusion temperature (°C) 
+ 
+Print speed (mm/s) 
+ 
+Layer height (mm) 
+A multiple linear regression model is built, and the following output is 
+obtained:Ra=5.12−0.015⋅Temperature+0.022⋅Speed+1.45⋅Layer Height 
+10 
+CO4 
+2 
+ 
+Supplementary model info:R2=0.76 
+ 
+p-values: Temperature = 0.001, Speed = 0.045, Layer Height = 
+0.0001 
+a) Based on the regression equation, explain how each variable affects 
+surface roughness. 
+b) Which variables are statistically significant at a 5% significance level? 
+Justify your answer. 
+c) If the engineer wants to minimize surface roughness, what parameter 
+adjustments would you recommend based on this model? 
+d) Explain what an R2R^2R2 value of 0.76 means in this context. 
+e) Name one regression diagnostic method the engineer should use to 
+ensure the model's validity, and explain why. 
+Q9 
+Write short note on emerging application of Additive manufacturing and 
+Briefly explain the challenges in additive machining for these emerging 
+applications. 
+10 
+CO4

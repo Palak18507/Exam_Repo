@@ -1,0 +1,171 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech (MAE)>, Semester:<6> 
+(May, 2025) 
+ 
+Subject Code: BMA 308 
+Subject:  Production Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are the Objectives and Scope of Production Management? 
+ 
+ 
+ 
+b) Explain the types of Production system and their classification. 
+ 
+ 
+ 
+c) What do you mean by the work measurement? 
+ 
+ 
+ 
+d) What are the different steps in making a time study?  
+ 
+ 
+ 
+e) Define micro motion study. What are therbligs? 
+ 
+ 
+ 
+f) What is float or slack and when does a sub critical path becomes 
+critical?  
+ 
+ 
+ 
+g) The observed time for an element is 1.2 minutes. The pace rating for 
+the element is 120% and job difficulty is found to be 30%. Find Normal 
+Time of the element. Also find standard time at an allowance of 10%. 
+ 
+ 
+ 
+h) If orders are placed once a month to meet an annual demand of 6,000 
+units, what would be the average inventory? 
+ 
+ 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the factors that should be taken into account in deciding the 
+location of plant? 
+(10) 
+ 
+Q3 
+Define the plant layout and explain the significance of plant location. 
+How will you decide the location of a mini steel plant in India? 
+(10) 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain simple exponential smoothing method of forecasting demand. 
+The demand for a two-wheeler was 900 units and 1030 units in April 2015 
+and May 2015, respectively. The forecast for the month of April 2015 was 
+850 units. Considering a smoothing constant of 0.6, considering a 
+smoothing constant of 0.6, find the forecast for the month of June, 2015. 
+(10) 
+ 
+Q5 
+Explain the need for sales forecasting. How are forecasting methods 
+classified?  
+(10) 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain in detail the different types of Inventory Control Techniques. 
+A machine tool manufacturing industry requires to purchase 2000 
+helical gears/year from a gear manufacturing industry. The ordering 
+cost is Rs. 100/- per order and the carrying cost per unit per year is Rs. 
+10/-. The economic order quantity is 
+(10) 
+ 
+2 
+ 
+Q7 
+What is break-even analysis? How is it useful to the manager? For a 
+particular product, the following information is given: Selling price per 
+unit: Rs. 100, Variable cost per unit: Rs. 60, Fixed costs: Rs. 10,00,000.  
+Due to inflation the variable costs have increased by 10% while fixed 
+costs have increased by 5%. If the break-even quantity is to remain 
+constant by what percentage should the Sales price be raised? 
+(10) 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Write short notes on: 
+(a) Characteristics and objectives of Production Management. 
+(b) Difference between CPM and PERT. 
+(10) 
+ 
+Q9 A project consists of 7 jobs. Jobs A and F can be started and completed 
+independently. Jobs B and C can start only after job A has been completed. 
+Jobs D, E and G can start only after jobs B, (C and D) and (E and F) are 
+completed, respectively. Time estimates of all the jobs are given in the 
+following table: 
+ 
+Job 
+ 
+Time Estimates (Days) 
+Optimistic 
+Pessimistic 
+Most Likely 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+3 
+7 
+4 
+4 
+4 
+5 
+2 
+7 
+11 
+18 
+12 
+8 
+19 
+6 
+5 
+9 
+14 
+8 
+6 
+12 
+4 
+Draw the network and determine the critical path, and its expected 
+duration 
+. What is the probability of completing the project in 
+days? Also, determine the total and free slacks of all the jobs. 
+ 
+(10) 
+ 
+ 
+ 
+ 
+
+
+e
+T
+e
+T

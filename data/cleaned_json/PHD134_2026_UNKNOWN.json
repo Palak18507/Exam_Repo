@@ -1,0 +1,76 @@
+{
+  "paper_id": "PHD134_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "PHD134",
+    "subject_name": "Introduction to Robotics",
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "What are the main applications of Robotics? Explain. Explain the laws of Robotics. What is role of sensors in Robotics? Explain. Differentiate between forward and inverse kinematics. Differentiate between DC and AC motors. Explain the Jacobian matrix of 2-DOF robotic arm. What is mapping in robotics? Explain. Explain A-star and Voronoi diagram.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain the various components of robotics system",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Explain the DH parameter of 2-DOF robotic arm. OR What is kinematic tranformation? Explain the representations of various transformations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the working of DC motor and its classification.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What do you understand by actuation? Explain the BLDC servomotor and AC induction motor.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Describe the role of control system in robotics with detailed explanation of joint motion control, feedback control and computed torque control.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Discuss the significance of perception, localization and mapping in autonomous robotic system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain simultaneous localization and mapping with its advantages and applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain path planning. Also define DFS and D- star.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

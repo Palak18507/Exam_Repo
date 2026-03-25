@@ -1,0 +1,75 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(M. Tech) (Semester: 2nd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MVD 120 
+Subject: Low Power VLSI Design
+Time : 1 ½Hours 
+Maximum Marks :30
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO 
+Mapping 
+ 
+a) What are the key principles of low power VLSI design. 
+2.5 
+CO1 
+ 
+b) Write short note on computing power and chip power. 
+2.5 
+CO1 
+c) What do you understand by Power Management in terms of 
+power saver modes. 
+2.5
+CO2
+ 
+d) What do you understand by transistor sizing for leakage power 
+reduction. 
+2.5 
+CO2 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the power of dissipation in CMOS. 
+5 
+CO1 
+b) Explain about SOI and Bulk CMOS Technology.
+5
+CO1
+c) Discuss the recent trends in battery technology for portable 
+electronics. 
+5
+CO1
+UNIT II 
+ 
+CO 
+Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain how low power designing in VLSI can be achieved 
+through voltage scaling. 
+5 
+CO2 
+ 
+b) Discuss low power digital cells library with their properties. 
+5 
+CO2 
+ 
+c) Explain the parallel architecture with voltage reduction using 
+suitable diagram. 
+5 
+CO2

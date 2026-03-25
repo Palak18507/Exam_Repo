@@ -1,0 +1,79 @@
+{
+  "paper_id": "MAS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MAS101",
+    "subject_name": "Mathematics for AI",
+    "program": "<M.Tech CSE>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Determine whether the polynomials 𝑥3 −5𝑥2 −2𝑥+ 3, 𝑥3 − 1, 𝑥3 + 2𝑥+ 4 are linearly dependent or independent. Find the Eigen values of the matrix 𝐴= [ 1 1 1 0 2 1 0 2 3 ] Verify the chain rule for Jacobians i.e. 𝐽𝐽′ = 1 if 𝑥= 𝑢, 𝑦= 𝑢 tan 𝑣 , 𝑧= 𝑤 Find 𝑔𝑟𝑎𝑑 𝜏 , when 𝜏 is given by 𝜏= 3𝑥2𝑦−𝑦3𝑧2 at a point . Prove that 𝐶𝑜𝑣 = 𝑎𝑏 𝑐𝑜𝑣 ‘A’ can hit a target 4 times in 5 shots; ‘B’ 3 times in 4 shots; ‘C’ twice in 3 shots. They fire a volley. What is the probability that at least two shots hit? Use Graphical method to solve the following LPP 𝑀𝑎𝑥𝑖𝑚𝑖𝑧𝑒 𝑍= 4𝑥1 + 3𝑥2 Subjected to the constraints 𝑥1 + 𝑥2 ≤8, 2𝑥1 + 𝑥2 ≤10, 𝑥1 ≥0 , 𝑥2 ≥0 Differentiate between gradient descent and stochastic gradient descent methods. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Let 𝐶 denotes the vector space of complex number over real numbers and 𝑇 be a linear operator on 𝐶 defined by 𝑇 = 𝑥−𝑖𝑦 for all 𝑥, 𝑦, ∈𝑅. Determine the matrix of 𝑇 relative to the basis 𝐵= {1 + 𝑖, 1 + 2𝑖} Is the vector in the subspace of 𝑅4 spanned by the vectors 𝑣1 = , 𝑣2 = 𝑎𝑛𝑑 𝑣3 = ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Find the Singular Value Decomposition for the matrix A= [3 0 4 5] CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "If 𝑓= log Show that 𝜕2𝑓 𝜕𝑥2 + 𝜕2𝑓 𝜕𝑦2 + 2 𝜕2𝑓 𝜕𝑥𝜕𝑦= −4−2 What is deep learning? Write at least five applications of deep learning,",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What do you mean by Backpropagation? Write at least three real life examples of backpropagation. For the following network diagram, find the error term up to first iteration. 0.05= 𝑥1 ℎ1 𝑂1=0.01 𝑏1 0.10=𝑥2 ℎ2 𝑂2 =0.99 𝑏1 = 0.35 𝑏2 = 0.60 Weights are defined as follows: 𝑥1ℎ1 = 0.15 , 𝑥1ℎ2 = 0.25 𝑥2ℎ1 = 0.20 , 𝑥2ℎ2 = 0.30 ℎ1𝑂1 = 0.40 , ℎ1𝑂2 = 0.50 ℎ2𝑂1 = 0.45 , ℎ2𝑂2 = 0.55 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "An urn contain 10 white and 3 black balls, while another urn contains 3 white and 5 black balls. Two balls are drawn from the first urn and put into the second urn and then a ball is drawn from the latter. What is the probability that it is a white ball? A die is drawn thrice. A success is ‘getting 1 or 6’ on a toss. Find mean and variance of the number of successes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "For the adjoining bivariate probability distribution of X and Y having joint density function 𝑓 = { 1 8 ; 0 ≤𝑥< 2,2 ≤𝑦< 4 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 find 𝑃, 𝑃, 𝑃 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Derive Cost function and compute Gradient descent for the following set of values: X 3 5 7 9 11 Y 3 5 6 5 7",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Solve the following QPP using Wolfe Method 𝑀𝑎𝑥𝑖𝑚𝑖𝑧𝑒 𝑍= 4𝑥1 + 6𝑥2 −2𝑥12 −2𝑥1𝑥2 −2𝑥22 Subjected to 𝑥1 + 2𝑥2 ≤2, 𝑥1 ≥0 , 𝑥2 ≥0",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

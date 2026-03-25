@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS214_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS214",
+    "subject_name": "Financial Modelling and Analysis",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do you calculate the cost of equity using classical CAPM model in excel? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between relative cell reference and absolute cell reference? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are random variables? 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Sample is drawn from the lots of suppliers A and B. Here n1 = 10, and n2= 15. S 2X= 150 , S 2y= 120 Test the null hypothesis Ho: σ2A = σ2B. Critical value at 5% level of significance, degree of freedom 9,14 = 2.65. 2.5 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is “What if analysis” tool in excel? Explain its 2 types. 5 1",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How do you calculate the flat annual payment required to pay off a five- year loan of rs 100,000 bearing an interest rate of 13 percent in Excel? 5 1",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the ways to calculate NPV and IRR in excel? 5 1",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A sample of 16 engineering students of a college was taken and the information was obtained on their starting salary. The monthly means starting salary was found to be ₹30,200 with the standard deviation of ₹960. The past data on the salary has given the mean value of ₹30,000. Using a 5% level of significance, can we conclude that the average starting salary is different from ₹30,000? Critical value at 5% level of significance and degree of freedom 15 is -2.131 and 2,131 5 2",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the properties of point estimators? 5 2",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the following : i) Standard error ii) Maximum likelihood estimators iii) Type 1 and type 2 error Stochastic error term 5 2",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

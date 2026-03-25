@@ -1,0 +1,157 @@
+(Please write your Enrollment Number)                            Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: Ph.D Course Work  
+(May, 2025) 
+Subject Code: PhD 155 
+Subject: Financial Management 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Distinguish between diversifiable risk and non-diversifiable risk. 
+ 
+CO1 
+ 
+b) Explain the relevance of the time value of money in financial 
+decision-making. 
+ 
+CO1 
+ 
+c) How pay back period method is used to select a project? 
+ 
+CO2 
+ 
+d) What is profitability index method of evaluating a capital project? 
+ 
+CO2 
+ 
+e) What are the roles and functions of financial markets? 
+ 
+CO3 
+ 
+f) Explain how asset securitization is considered as a source of finance? 
+ 
+CO3 
+ 
+g) Risk increases proportionately with financial leverage. Refute this 
+statement with reason. 
+ 
+CO4 
+ 
+h) It is Myopic to disinvest the share of the Government in PSUs. Argue. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+It is not profit maximization but maximization of corporate wealth that 
+is the ultimate objective of financial decisions. Comment.  
+(10) 
+CO1 
+Q3 
+Assume that an investor pays Rs. 400 for a 15 percent fully secured 
+nonconvertible debenture with a face value of Rs. 500. The debenture 
+is due to be repaid five years from now. Compute the yield-to-maturity 
+(YTM). 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Quality products is a consumer products company with well-
+established brand names. The cost of capital of quality products is 
+estimated at the end of 2020 for use in evaluating investment proposals 
+in 2021. The data for Quality Products Ltd. are as follows: 
+Financial data for Quality Products Ltd. 
+Source 
+Book Value 
+Rs. 
+Market Value 
+Rs. 
+Interest Rate 
+(%) 
+Debentures 
+170 
+149 
+13.2 
+Other debts 
+210 
+192 
+13.2 
+Preference shares 
+20 
+10 
+14 
+Equity shares 
+720 
+824 
+16 
+Total 
+1120 
+1175 
+ 
+Assume the tax rate of 46%. Calculate the WACC using both book value 
+and market value methods.  
+(10) 
+CO2 
+ 
+Q5 
+The cash flows of the ABC company are given below: 
+Years 
+Cash Flow (after tax) 
+1 
+13,000 
+2 
+11,000 
+3 
+9,000 
+4 
+6,400 
+5 
+6,000 
+The total investment is Rs. 30,000. Assuming depreciation with straight 
+line method and interest of Rs. 400 per year, calculate the accounting 
+rate of return. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the determinants of capital structure? 
+(10) 
+CO3 
+Q7 
+Discuss the concept of working capital. What factors a financial 
+manager would ordinarily take into consideration while estimating 
+working capital needs of a firm? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+From the following details, calculate the market value of equity share 
+of a company by using Walter’s model:  
+Earnings per share (E) = Rs.5  
+Dividend per share (D) = Rs.3  
+Rate of return on Investment (r) = 15%  
+Cost of capital (k) = 10%  
+Will there be any change in the value, if 100% dividends are paid 
+instead of present 60%? 
+(10) 
+CO4 
+Q9 
+Explain the major biases that influence investment decisions of 
+investors. 
+(10) 
+CO4

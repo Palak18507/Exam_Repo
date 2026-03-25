@@ -1,0 +1,82 @@
+{
+  "paper_id": "BEC104_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BEC104",
+    "subject_name": "Digital Electronics",
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Implement in NAND logic: F = ABC + DE + 𝐹̅",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "The 74154 is an active low decoder. Implement the following min-term expressions using 74154. Use a block diagram for the decoder. Minimize the no. of inputs in the external gates. Y1 = Σm Y2 = Σm Y3 = Σm",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Draw a K-Map for the following function of four variables and use it to reduce the function. Realize the reduced function using only NAND gates Y=F =∑ m",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "For Active low input SR latch 1. Draw the internal diagram 2. Truth Table and Block diagram. 3. Extend this active low SR latch further by adding combinational circuitry, to work as SR flip flop. State the truth table of SR F/F",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a Synchronous MOD 5 counter using JK f/f. Design a 3-bit DOWN Ripple Counter using positive edge triggered Toggle f/fs. Draw the timing diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "An 8 bit D/A converter has a step size of 6 mV. Find full scale output voltage and percentage resolution. A 5 bit digital to analog converter has a current output. When the digital input is 10000, the output current is 8 mA. Find the output current if digital input is 11111.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write short note on R-2R Ladder type network and Dual-slope ADC.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Implement the PLA programme table for the generation of following Boolean expressions in SOP form. The PLA must have 3 inputs, 4 product terms and two outputs. F1 = ∑m F2 = ∑m",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Realize a full subtractor circuit using ROM. Write a short Note on Successive-Approximation ADC III",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

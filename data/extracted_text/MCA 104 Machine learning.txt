@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MCA) (Semester:  2nd  ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MCA 104 
+Subject: Machine Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Use of calculators are allowed. 
+ 
+Q1 
+Explain the following: 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Overfitting and Underfitting. 
+ 
+CO1 
+ 
+b) Prospective Issues in machine learning. 
+ 
+CO1 
+ 
+c) Neural Network. 
+ 
+CO2 
+ 
+d) Cost function of Linear regression. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts: 
+(5*2=10) 
+ 
+ 
+a) A binary classifier model is trained to classify the test data of 
+150 samples into class A and class B. The test data contains 65 
+samples of class A and 85 samples of class B. The model could 
+classify 40 samples of class A and 50 samples of class B correctly. 
+Find the following: 
+i) 
+Confusion Matrix 
+ii) Accuracy 
+iii) Precision 
+iv) Recall 
+v) F1 score 
+ 
+CO1 
+ 
+b) What is dimensionality reduction? How PCA works? Explain in 
+detail. 
+ 
+CO1 
+ 
+c) What is dimensionality reduction? Differentiate between PCA, 
+LDA and ICA. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) x(weeks): {1,2,3,4,5} 
+     y(sales in thousands): {2.3,2.8,1.4,3.2,3.6} 
+Using the Linear Regression, predict the sales of the 8th and 12th 
+week. 
+ 
+CO2 
+ 
+b) Explain the Linear regression and its Gradient Descent. 
+ 
+CO2 
+ 
+c) Explain Naïve Bayes classifier. 
+ 
+CO2

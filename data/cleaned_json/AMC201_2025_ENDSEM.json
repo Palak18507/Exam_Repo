@@ -1,0 +1,134 @@
+{
+  "paper_id": "AMC201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC201",
+    "subject_name": "E – COMMERCE",
+    "program": "< BBA >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the limitations and barriers that can hinder the growth and adoption of E-Commerce. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe various web-based tools used in Electronic Commerce and how they facilitate online business activities. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the basic security issues associated with E-Commerce, and why are they significant? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of Public Key Infrastructure and its role in securing electronic transactions. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define e-Money and discuss its usage in electronic payment systems. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the different types of Electronic Payment Systems, and how do they function? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Describe what is meant by Digital Commerce and how it relates to E-Commerce. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Identify and explain emerging trends in E-Business that are influencing the current market landscape. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the difference between E-Commerce and E-Business.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the benefits of using an Intranet within an organization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is a digital signature, and how does it enhance E-Commerce security? Explain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the role of a Virtual Private Network in securing E- Commerce transactions with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define Electronic Fund Transfer and its importance in electronic payments. Explain with real-world examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe how smart cards are used in Electronic Payment Systems. Discuss with an application.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is mobile commerce, and how does it differ from traditional E- Commerce?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Internet-enabled Supply Chain Management with an example.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}[
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of malicious code and its various types in detail.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Recommend preventive measures to protect a company's systems from future attacks.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

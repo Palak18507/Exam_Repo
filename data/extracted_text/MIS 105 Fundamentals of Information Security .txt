@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech(IT) , Semester:1 
+(December, 2024) 
+ 
+Subject Code: MIS 105 
+Subject: Fundamentals of Information Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define the CIA triad of Network Security. 
+ 
+ 
+b) Explain the use of Integer Factorisation in RSA. 
+ 
+ 
+c) Define digital signature. 
+ 
+ 
+d) What are the properties of cryptographic hash function? 
+ 
+ 
+e) What is specification-based intrusion detection modelling? 
+ 
+ 
+f) Briefly explain the 3 components of intrusion detection system. 
+ 
+ 
+g) What is firewall? 
+ 
+ 
+h) What is proxy firewall? 
+ 
+UNIT I 
+ 
+Q2 
+What is hybrid access policy? Explain Chinese wall model in detail with suitable 
+example. 
+(10) 
+Q3 
+a) Alice can use only the shift cipher (given below) on her computer to send a 
+message to a friend. 
+Shift Cipher: |P|=|C|=|K|=26  
+Encryption: c = (p + k) mod 26 
+Decryption: p = (c- k) mod 26 
+ 
+She thinks that her message will be more secure if she encrypts the message 
+two times, each time with a different key. 
+ 
+i) 
+What is the equation for encryption and decryption now? 
+ii)  Is she right in her security assumption? Defend your answer. 
+ 
+b) Define the type of attack (under ITU-T X.800) in each of the following cases. 
+Briefly explain why. 
+1) A student breaks into a professor’s office to obtain a copy of the next test. 
+2) A student sends thousands of emails per day to the school website server using 
+a phony email address. 
+(5,5) 
+UNIT II 
+ 
+Q4 
+a) What is the role of salting in password security? 
+b) How memory consuming password hashing algorithm resist dictionary attack? 
+Explain with suitable example 
+(5,5) 
+Q5 
+a) Explain Diffie Hellman Key Exchange (DHKE) with suitable equations. 
+b) Explain Man-in-the-middle attack on DHKE with suitable equations. 
+(5,5) 
+UNIT III 
+ 
+Q6 
+Write short note on: 
+a) Ransamware 
+b) Stealth virus 
+(5,5) 
+Q7 
+Explain the lifecycle of a virus with the help of a pseudocode. 
+(10) 
+UNIT IV 
+ 
+Q8 
+a) What is confinement problem? 
+b) Write short notes on: 
+i) 
+Virtual machine monitor 
+ii) 
+Sandboxing 
+(10) 
+Q9 
+Define DMZ server and justify its role in a computer network. 
+Explain in detail the role of four servers residing inside the DMZ server. 
+(10)

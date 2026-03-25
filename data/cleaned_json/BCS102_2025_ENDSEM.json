@@ -1,0 +1,120 @@
+{
+  "paper_id": "BCS102_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS102",
+    "subject_name": "Web Application Development",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the purpose of the <br> tag in HTML? How does it differ from the <p> tag?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the role of the alt attribute in the <img> tag. Why is it important for web accessibility?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between an internal and an external CSS? Provide an example of how external CSS is linked to an HTML document.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are DTDs in XML? How are they used to define the structure of an XML document?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the difference between let, var, and const in JavaScript? Provide a brief example for each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the main advantage of using AJAX in web applications? How does it improve user experience?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the role of a CMS. How does it simplify website development?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the purpose of mysqli_connect in PHP? Write a simple example of establishing a connection to a MySQL database.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Design a simple HTML page structure that includes:  A heading.  A paragraph with emphasized text.  A horizontal rule.  An ordered list with three items and an unordered list with two items.  A table with two rows and three columns, including appropriate headings. Provide the HTML code and explain the functionality of each tag used.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Create an HTML form for user registration that includes:  A textbox for the user's name.  A password field.  A dropdown list for gender selection.  A multi-line text area for the address.  A submit button. Write the HTML code and explain how each form element works. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the key components of XML and how they are used to structure data. Create an example XML document for a bookstore that includes details such as book titles, authors, prices, and publication dates.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a CSS and DHTML-based example to create a web page where:  CSS is used for styling the page with a background color, font styles, and positioning elements.  A DHTML feature is implemented to dynamically change the color of a paragraph when the user clicks a button. Provide the HTML, CSS, and JavaScript code along with an explanation of the implementation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write a JavaScript program that includes:  A function to validate a form input .  Event handling to display a success message if the validation passes. Provide the code and explain the role of each component, including form properties, conditions, and event handling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain how AJAX works in web applications, and demonstrate with an example where:  A button click fetches data from a server without reloading the page.  Use JavaScript and XMLHttpRequest to implement the functionality. Provide the code and explain the flow of the AJAX request and response.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a PHP script that:  Connects to a MySQL database.  Creates a table named Users with fields for ID, Name, and Email.  Inserts three sample records into the table.  Displays all the records in an HTML table format. Provide the complete code and explain each part.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Compare the WordPress and Drupal as content management systems based on the following:  Discuss their benefits, use cases, and key differences in terms of theme customization, plugin/module development, and scalability.  Provide examples of scenarios where one would be more suitable than the other.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

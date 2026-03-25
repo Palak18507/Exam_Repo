@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS236_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS236",
+    "subject_name": "Digital Marketing",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What role does a website play in consumer decision-making?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of personalization in e-CRM?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define customer engagement in the context of digital marketing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Mention two tools used for traffic building on websites.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define marketing gamification with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define Google AdWords and its primary use.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define the term negative campaign in the context of digital marketing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the role of KPI in campaign management?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the consumer decision-making process in an online environment. How do digital touchpoints influence each stage?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is e-CRM? Explain its benefits and the role it plays in building long- term digital customer relationships.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Analyze various ways in which brands can engage customers online. Highlight the importance of interactivity and personalization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Create a strategy for a new digital brand that includes segmentation, online positioning, content strategy, and engagement plan.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the process and key elements of a successful email marketing campaign. How can marketers ensure high open and click-through rates?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Analyze the importance of blogging in digital marketing. How can a company use a blog to boost its SEO and customer engagement",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the importance of information gathering in campaign planning. What sources and tools can marketers use for this purpose.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is digital marketing analytics? Discuss its components and importance in campaign evaluation and decision-making.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

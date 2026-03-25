@@ -1,0 +1,117 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MBA. Semester: 2nd  
+(May, 2025) 
+ 
+Subject Code: MMS 202   
+Subject: Project Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a) 
+Project managers play an instrumental role in planning and execution of 
+project. Justify above statement. 
+2.5 
+CO1 
+b) 
+Analyze the common causes of project failures and suggest preventive 
+measures citing suitable examples. 
+2.5 
+CO1 
+c) 
+A project manager is tasked with creating a budget for a new project. 
+Which approach would you recommend for estimating costs and why? 
+2.5 
+CO2 
+d) 
+Describe the use of Work Breakdown Structure (WBS) in project 
+planning. 
+2.5 
+CO2 
+e) 
+What are the key steps involved in project scheduling? Provide a brief 
+explanation of how project scheduling helps in managing time and 
+resources effectively. 
+2.5 
+CO3 
+f) 
+What is a precedence network diagram? Illustrate how it is used to 
+determine the sequence of project activities 
+2.5 
+CO3 
+g) 
+Discuss the concept of Earned Value Management in project control. 
+2.5 
+CO4 
+h) 
+Identify and explain two key criteria used to measure the success of a 
+project. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the phases of a project life cycle with examples. Why is 
+understanding the project life cycle crucial for effective project 
+management? 
+(10) 
+CO1 
+Q3 
+Explain the fundamental principles of project management. How do 
+these principles contribute to the successful completion of a project? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the key steps involved in the project planning process. Discuss 
+how these steps contribute to the successful execution of a project. 
+(10) 
+CO2 
+Q5 
+Recall and explain the approaches in preparing project budgets. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define the Critical Path Method (CPM) and explain its importance in 
+project management. How does CPM help in identifying project 
+bottlenecks and ensuring timely project completion? 
+(10) 
+CO3 
+Q7 
+A project activity has three time estimates: optimistic (O) = 2 days, 
+pessimistic (P) = 8 days, and most likely (M) = 5 days. 
+a) Calculate the expected time and variance for the activity using the 
+PERT formula. 
+b) Discuss the advantages of using PERT over other project scheduling 
+techniques. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain how the key processes of Project Quality Management (PQM), 
+such as Plan Quality Management, Manage Quality, and Control Quality, 
+can be practically implemented in a project. Provide examples to 
+illustrate their application. 
+(10) 
+CO4 
+Q9 
+Discuss the risk assessment process and how risks are prioritized in 
+project management. 
+(10) 
+CO4

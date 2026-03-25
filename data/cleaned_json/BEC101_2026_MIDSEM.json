@@ -1,0 +1,90 @@
+{
+  "paper_id": "BEC101_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC101",
+    "subject_name": "Basics of Electrical and Electronics Engineering",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Active, Reactive and Apparent Power. Also show them on the Power Triangle.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain ideal voltage source and real voltage source.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of Resonance in series RLC circuit. Also draw the Resonance curve.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "A coil having an inductance of 50 mH and resistance 10 Ω is connected in series with a 25 μF capacitor across a 200 V ac supply. Calculate resonance frequency of the Circuit current flowing at resonance value of Quality Factor by using different data.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State and prove Maximum Power Theorem.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "In a series circuit containing pure resistance and a pure inductance, the current and the voltage are expressed as: I = 5 sin and V = 15 sin What is the impedance of the circuit? What is the value of the resistance? What is the inductance in henrys? What is the average power drawn by the circuit? What is the power factor?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The series and parallel circuits shown in Figure 2.c, have the same impedance and the same power factor. If R = 3 Ω and X = 4 Ω, find the values of R1 and X1. Also, find the impedance and power factor. Figure 2.c",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find Thevenin equivalent circuit for the network shown in Figure. 3.a Figure. 2.a",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Using Superposition theorem, find the value of the output voltage of the circuit as shown in figure 3.b figure 3.b",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Using Node voltage method, find the current in the 3Ω resistance for the network as shown in figure 3.c figure 3.c",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

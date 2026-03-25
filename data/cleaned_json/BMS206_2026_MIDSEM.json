@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS206_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS206",
+    "subject_name": "International Business Management",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the main challenges faced by companies in international business? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key institutions under the World Bank Group? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Technology Transfer? Give an example. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the main drivers of Globalization? 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the role of the Bretton Woods System and its impact on today’s international financial markets. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "List three key factors that influence a country’s FDI inflow. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept and constituents of balance of payments account. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why do some governments impose tariff and non-tariff barriers despite promoting globalization? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why do companies like McDonald's modify their menu for different countries? Explain with examples. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How has globalization affected local industries in developing countries? Provide examples of both positive and negative impacts. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

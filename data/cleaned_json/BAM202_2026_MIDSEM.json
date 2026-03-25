@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAM202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM202",
+    "subject_name": "Machine Learning",
+    "program": "B. Tech (AIML",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Normalize the following data using Z- score standardization and Min-Max normalization.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given a binary classification problem with a dataset containing 1000 samples, where 600 samples belong to class 0 and 400 samples belong to class 1, a machine learning model makes the following predictions:  540 samples are correctly predicted as class 0.  340 samples are correctly predicted as class 1.  60 samples of class 0 are incorrectly predicted as class 1.  60 samples of class 1 are incorrectly predicted as class 0. Calculate the following metrics: Accuracy, Precision, Recall, and F1 Score for class 1.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A hypothetical split in a tree has resulted in two children, one with 10 observations and the other with 20 observations . What is the goodness of this hypothetical split? Use accuracy as the metric for goodness of each node",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Given a dataset with the independent variable x and the dependent variable y: ,,.After fitting the data using Ordinary Least Squares , you obtained the equation y=wx . Find the value of w?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the potential pitfalls of not addressing multicollinearity in a dataset during data preprocessing? How can multicollinearity be detected and resolved?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the trade-offs between removing outliers and transforming them during the data preprocessing stage What is the difference between multicollinearity and autocorrelation? 3+2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of normalization and its significance in the context of feature scaling ) Describe how K-Fold Cross-Validation works and why it is useful",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "You are provided with a training dataset plotted on a coordinate system. The dataset consists of the following points, where x is the feature and y is the continuous target value:Point A: Point B: Point C: Point D: Point E: Predict the value of y for the test point x=3.2 using k-NN regression with: 1. k = 2 2. k = 4 Use the Euclidean distance metric for the calculations Explain how the value of k affects the bias-variance tradeoff in k- NN 3+2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare and contrast LASSO and Ridge regression in terms of feature selection and model complexity. Explain how the kernel trick helps SVM to classify non-linear data without explicitly transforming features.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain how pruning helps to prevent overfitting in decision trees. Compare and contrast hard-margin and soft-margin SVM. With respect to the K-NN algorithm, explain what will happen over time if we choose K=N, where N is the number of observations in the dataset",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

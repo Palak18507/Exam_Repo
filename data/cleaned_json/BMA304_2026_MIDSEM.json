@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA304",
+    "subject_name": "Heat Transfer",
+    "program": "B.Tech (MAE/DMAM",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Fourier’s law of conduction. What does negative sign indicates in the formula.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Lumped heat analysis and significance of Biot number in that.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How the first law of thermodynamics applied to any Heat Exchanger? Which heat exchanger is having high irreversibility and how?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the critical thickness of insulation for cylinder and sphere and its significance.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write down the generalized conduction equation and conduction equation with steady state and no heat generation. A steel pipe 10cm inner diameter and 11 cm outer diameter is covered with an insulation having thermal conductivity of 1 watt/mK, if the convective heat transfer coefficient between the surface of insulation & surrounding air is 8 watt/m2K, calculate the critical radius of insulation.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "An iron plate of thickness L and thermal conductivity K is subjected to a constant heat flux Q w/m2. At the boundary surface at x=0 from the other boundary surface at x=L the heat is dissipated by convection into a fluid at Temperature T3 with a heat transfer coefficient h. For the following data, calculate T1 and T2. If L=2cm, K=20watt/mK, Q = 105 W/m2 T3= 50° C and h= 500Watt/m2K",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A stainless steel tube of thermal conductivity 19 W/mK of a 2cm inner diameter and 5 cm outer diameter is insulated with 3cm thick asbestos of thermal conductivity 0.2 W/mk. Calculate heat transfer rate per unit length if temperature difference of inner and outermost surface is 600° C",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A steel ball of diameter 60mm is initially in thermal equilibrium at 1030°C in a furnace. It is suddenly remove from the furnace & cooled in ambient air at 30°C with convective heat transfer coefficient of h= 20W/m2K . Thermophysical properties of steel are density= 7800kg/m3, K= 40W/mK, and Cp = 600 Joule/kg/K. Calculate time required in seconds to cool steel ball in air from 1030°C to 430°C.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "In a food processing plant, a brine solution is heated from -12°C to - 65°C in parallel flow Heat Exchanger by water entering at 35°C and leaving at 20°C at the rate of 9kg/min. Determine the heat exchanger area for an overall heat transfer coefficient of 860 W/m2K. Cp for water is 4.86 * 103 J/kgK",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the significance of fins. Discuss about the efficiency and effectiveness of fins. What are the different cases of fins that are being used for Heat Transfer purpose.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

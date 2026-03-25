@@ -1,0 +1,96 @@
+Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(B. Tech. CSEAI/ ECEAI) (Semester:  4th ) 
+(March 2025) OFFLINE mode 
+ 
+Subject Code: BAI 204 
+Subject: Optimization Techniques and Decision Making 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) 
+What does the feasible region represent in an optimization problem, and why is 
+it important? 
+CO1 
+ 
+b) 
+Explain the mathematical formulation of the problem with the help of an 
+example. 
+CO1 
+ 
+c) 
+Find the extreme points of the function f(x, y) = x³ + 3y³ + 3x² + 3y² + 24 and 
+determine their nature also. 
+ 
+CO2 
+ 
+d) 
+What is the difference between linear and nonlinear programming problems? 
+list various methods used to solve nonlinear programming problems. 
+CO2 
+ 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+1. 
+a. A juice company produces 500 ml and 250 ml bottled juice, with a profit 
+margin of Rs. 5 and Rs. 3 per unit, respectively. Both products require 
+processing through three types of machines. The following table 
+provides details on the time required per unit for each machine and the 
+available machine hours per week. 
+ 
+Formulate the optimization problem as an LPP to maximize the total profit, 
+considering the limited resources.  
+b. List the key steps in the general structure of an optimization algorithm. 
+ 
+2. 
+Explain how optimization is used in real-world engineering problems and provide 
+examples where it significantly improves efficiency or performance. 
+ 
+3. 
+What does it mean for an optimization algorithm to "converge"? How does the 
+algorithm know when to stop?  
+ 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+1. 
+There are two types of fertilisers F1 and F2. F1 consists of 12% nitrogen and 8% 
+phosphoric acid, while F2 consists of 7% nitrogen and 12% phosphoric acid. After 
+testing the soil conditions, a farmer finds that she needs at least 16 kg of nitrogen 
+and 18 kg of phosphoric acid for her crop. If F1 costs Rs 7/kg and F2 costs Rs 6/kg, 
+determine how much of each type of fertilizer should be used so that nutrient 
+requirements are met at a minimum cost. Find the minimum cost using a 
+graphical method. 
+ 
+2. 
+Solve the following LP problem using simplex methods 
+Maximize Z=20X1 +80X2 
+Subject to: 
+4X1+6X2 <= 90 
+8X1 + 6X2 <= 100 
+X1 and X2 >= 0 
+ 
+3. 
+A factory manager wants to increase production output but is limited by energy 
+consumption, machine wear and tear, and workforce limitations. How should the 
+optimization problem be structured to maximize production without violating 
+these constraints? What optimization approach (linear, nonlinear, integer 
+programming, etc.) best suits this scenario and How?

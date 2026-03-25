@@ -1,0 +1,116 @@
+{
+  "paper_id": "MMS114_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS114",
+    "subject_name": "Management Accounting",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the role of management accounting as controller.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "b",
+          "text": "Illustrate the scope of management accounting in business decision making. C) ABC Ltd. supplies you the following data: Direct material cost Rs. 48,000 Direct wages Rs. 22,000 Variable overheads factory Adm. and selling Rs. 13,000 Rs. 2,000 Fixed overheads factory Adm. and selling Rs. 20,000 Rs. 8,000 Sales Rs. 1,25,000 Prepare an income statement under absorption costing.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is Cost-Volume-Profit Analysis?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the activity-based approaches to management? Illustrate with suitable example.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is black flush costing? Explain the conditions of black flush costing?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is sunk cost?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is zero based budgeting?",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is management accounting? What are its main characteristics?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How is management accounting differing from cost accounting and financial accounting?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is marginal costing? Describe its application in business decision making. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Part A Following data is given: Selling price = Rs. 150 per unit Variable cost = Rs. 90 per unit Fixed Cost = Rs. 6,00,000 Estimate the breakeven point. Estimate selling price per unit if B.E.P. is 12,000 units. Part B The following data is given Total fixed cost = Rs. 12000 Selling price = Rs. 12 per unit Variable cost = Rs. 9 per unit What will be the amount of sales if it is desired to earn a profit of Rs. 6000 Rs. 15000",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is quality costing? What are its major components?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Define life cycle costing? What are the major types and stages of LCC?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "The expenses budgeted for production of 10,000 units in the factory are furnished below: Rs. per unit Materials 70 Labor 25 Variable overheads 20 Fixed overheads 10 Variable expanses 5 Selling expenses 13 Distribution expenses 7 Administration Expenses 5 Total 155 Prepare a budget for the production of: 8,000 units 6,000 units Assume that administrative expenses are rigid for all levels of production.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A company is planning to implement a responsibility accounting system to improve accountability and performance across departments. As a management consultant, explain how responsibility accounting can be applied in different departments.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

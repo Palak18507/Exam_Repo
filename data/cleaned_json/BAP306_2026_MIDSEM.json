@@ -1,0 +1,96 @@
+{
+  "paper_id": "BAP306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP306",
+    "subject_name": "History of Architecture- VI",
+    "program": "B.Arch",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the term Balcao?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "State the difference between a Column and Pilaster?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "“Sir JJ School of Architecture was established in 1827 and became a significant center for architectural education in India.” True or False?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "“The nationalist movement in the early 20th century spurred a quest for a unique architectural identity.” Shed light on the dilemma faced by the Indian master architects.",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Name the architect who designed Jawahar Kala Kendra, Jaipur and Bharat Bhawan, Bhopal.",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Lucknow Nawabi",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Indo-Saracenic",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Tamil-Franco Dwellings",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between the design philosophies of Le Corbusier and Louis I Kahn. How did they impact the design language of Modern Indian Architects.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "List and elaborate any five design principles of Architect Achyut P Kanvinde.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "With help of illustrations, explain any one of the important projects of Architect B.V. Doshi.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

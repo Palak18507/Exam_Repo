@@ -1,0 +1,76 @@
+{
+  "paper_id": "MCA106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA106",
+    "subject_name": "Software Engineering",
+    "program": "MCA.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The role of computer software has undergone significant change over the last half century. Enumerate the concerns that led to the adoption of software engineering practice. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Requirements elicitation process ensures the development of a system that meets user and business needs effectively. Briefly discuss the various steps of generic elicitation process. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "There is no unique, perfect and ready-to-use process model that can be adopted one and for all, in all organisations, for all kinds of products or product families. Describe some factors that play a vital role in choosing a Software Process Model. 5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "When you work to build a product or system, it is important to go through as series of predictable steps-a road map that helps you create a timely, high-quality, result. How the software process forms the basis to achieve this goal. 10",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "As the requirements are identifies and the requirements model is being created. Portray the relationship between requirements elicitation and model building. 10",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the context level Data Flow Diagram 10",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the Use Case Diagram 10",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

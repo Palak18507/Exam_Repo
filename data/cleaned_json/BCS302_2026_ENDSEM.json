@@ -1,0 +1,121 @@
+{
+  "paper_id": "BCS302_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS302",
+    "subject_name": "Wireless Networks",
+    "program": "B.Tech",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between IEEE 802.11 and IEEE 802.15 standards. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of multicast routing in ad-hoc networks, and provide one routing protocol that support multicast routing? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Provide any two issues in designing the transport layer for ad-hoc networks according to infrastructure less setup. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Provide the name of two simulators available for Mesh, adhoc and Wireless sensor networks, and a detailed comparison between them. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Opportunistic Routing with an example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How are Vehicular Mesh Networks different from traditional mesh networks? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define data dissemination and data gathering in WSNs. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "List any two energy-aware routing protocols used in ad-hoc networks. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define ad-hoc networks and mention two of their key characteristics compare to traditional networks. Also provide a diagram of layer wise architecture of adhoc networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the design goals and issues in MAC protocol design for ad- hoc networks. Elaborate on contention-based MAC protocols and their working principles.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT 2",
+      "question_text": "There are 10 end devices in adhoc network. Each node has atleast two immediate neighbors. Find and demonstrate the complete process for the route from source to destination using dynamic source routing .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT 2",
+      "question_text": "Describe hybrid routing protocols. How do they combine the benefits of both proactive and reactive approaches?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT 3",
+      "question_text": "Explain the concept of heterogeneous mesh networks and their use cases in VANETS. How heterogenous networks help in building reliable transportation system compared with traditional wireless networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT 3",
+      "question_text": "Consider a network scenario for Mesh networks that contain 20 wireless nodes connected using MESH topology. Client needs to setup a communication between X to Y . Demonstrate the results after applying the proactive, reactive, and geographic routing to the given scenario.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT 4",
+      "question_text": "Why is energy efficiency critical in WSNs? Discuss and compare different approaches to achieve energy efficiency in WSNs.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT 4",
+      "question_text": "Describe various location discovery techniques in wireless sensor networks. Consider a network scenario of sparse network with best location discovery approach to demonstrate the working with diagrammatical presentation.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

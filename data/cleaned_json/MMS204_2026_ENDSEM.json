@@ -1,0 +1,101 @@
+{
+  "paper_id": "MMS204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS204",
+    "subject_name": "ENTREPRENEURSHIP DEVELOPMENT",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define entrepreneurship. How has the concept of entrepreneurship evolved over time?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the components of a feasibility study, and why is it important before launching a business?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between corporate entrepreneurship and social entrepreneurship with relevant examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is bootstrapping? Discuss its advantages and risks for early- stage startups.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain John Kao’s model of entrepreneurship. How does it contribute to our understanding of innovation in entrepreneurship?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are the major barriers to entrepreneurship in India? Suggest possible solutions to overcome them.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the unique challenges and advantages of running a family business in the Indian context.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare and contrast the advantages and disadvantages of starting a new business versus buying an existing one or opting for franchising.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the different forms of business ownership? Discuss their advantages and disadvantages.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the importance of building a strong new venture team. What roles are crucial in the early stages?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the rules and regulations governing financial support provided by government and financial institutions to new ventures?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the role of business incubators in nurturing startups. Provide examples of incubators in India",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

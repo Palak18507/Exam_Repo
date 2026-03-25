@@ -1,0 +1,216 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name:<B.Tech.>, Semester:<2nd > 
+(May-June, 2025) 
+ 
+Subject Code: BAS 102 
+Subject: Applied Physics 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO 
+Mapping 
+ 
+(a) Determine the Brewster’s angle for a glass of refractive index 1.5 when it is 
+immersed in water of refractive index 1.33. 
+1 
+ 
+(b) What do you mean by coherence? What is the difference between Temporal 
+and Spatial Coherence? 
+1 
+ 
+(c) Calculate the skin depth for a frequency of 1024 Hz for silver ifµo= 4π 
+×10−7Weber/A-m, and σ = 3 ×107 S/m 
+2 
+ 
+(d) What is the equation of continuity?  Write its expression and significance. 
+2 
+ 
+(e) Calculate the de-Broglie wavelength associated with a proton moving with a 
+velocity equal to 1/20th the velocity of light. Given mass of proton m = 1.67 
+×10−27 kg, h = 6.62 ×10−34 J-s. 
+3 
+ 
+(f) Give normalization condition of the wave function? Why a wave function 
+should be normalized?  
+3 
+ 
+(g) Differentiate between step index and graded index fibres and also show their 
+refractive index profile diagrammatically.  
+4 
+ 
+(h) What is population inversion? Is it possible to make a two-level LASER ? 
+4 
+UNIT-I 
+CO 
+Mapping 
+Q2 
+(a) Discuss the phenomena of Fraunhoffer diffraction due to single 
+slit and find out the condition for principal maxima. 
+ 
+(b) A parallel beam of light strikes an oil film (µ = 1.4), floating on a 
+surface of water (µ = 1.33). When viewed at an angle of 30° from 
+the normal 6th dark fringe is seen. Find the thickness of the film. 
+(Given wavelength of light 589 nm). 
+(5) 
+ 
+ 
+ 
+ 
+(5) 
+ 
+1 
+ 
+ 
+1 
+Q3 
+(a) What do you understand by double refraction? Discuss the working 
+principle and construction of Nicol Prism. How it is used as 
+analyser? 
+ 
+(b) Calculate the missing orders in a double slit Fraunhofer diffraction 
+pattern, if the widths of slits are 0.08 × 10–3 m and they are 0.4 ×10–
+3 m apart. 
+(1+4) 
+ 
+ 
+ 
+ 
+(5) 
+1 
+ 
+1 
+UNIT-II 
+CO 
+Mapping 
+Q4 
+(a) Derive Maxwell 4th equation using the concept of displacement 
+current also write its physical significance. 
+  
+(b) What is poynting vector? What is its physical significance?  If 
+the magnitude of 𝐻⃗  in a plane wave is 1 A/m, find the 
+magnitude of 𝐸⃗  for plane wave in free space.  
+ 
+(4+1) 
+ 
+ 
+ 
+(2+3) 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+Q5 
+(a) Obtain the electromagnetic wave equations, using Maxwell’s 
+equation, in an isotropic dielectric medium and show that the 
+speed of wave is less than its speed in vacuum? 
+(b) What is electromagnetic wave? Show that electric field and 
+magnetic field vectors do not remain in phase when 
+electromagnetic wave propagates in a conducing medium. 
+(3+2) 
+ 
+ 
+(1+4) 
+2 
+ 
+ 
+ 
+2 
+UNIT-III 
+CO 
+Mapping 
+Q6 
+(a) Find out a relation for wave function and energy of a particle 
+moving in an infinite potential 1D box. and also draw first three 
+eigen functions together with probability densities.  
+ 
+(b) Calculate the energy difference between the ground state and the 
+first excited state for an electron in one dimensional rigid box of 
+length 10–8 cm. (Mass of electron is 9.1 × 10–31 kg and h = 6.63 ×10–
+34 J - sec). 
+ 
+(4+1) 
+ 
+ 
+ 
+ 
+(5) 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+Q7 
+(a) What is the difference between phase and group velocities? Show 
+that the de-Broglie group velocity associated with the wave packet 
+is equal to the velocity of the particle? 
+ 
+(b) What is Heisenberg uncertainty principle? Calculate the smallest 
+possible uncertainty in the position of an electron moving with a 
+velocity 3×108 m/s. 
+(2+3) 
+ 
+ 
+ 
+ 
+(2+3) 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+UNIT-IV 
+CO 
+Mapping 
+Q8 
+(a) Derive a relation between Einstein’s Coefficients A and B. What 
+conclusions do you draw from the ratio of the A and B coefficients? 
+ 
+(b) The refractive indices for core and cladding for a step index fibre are 
+1.52 and 1.41 respectively. Calculate (i) critical angle (ii) numerical 
+aperture and (iii) the maximum incidence angle. 
+ 
+(4+1) 
+ 
+ 
+ 
+(5) 
+4 
+ 
+ 
+ 
+4 
+Q9 
+(a) What is LASER? What are the components required for LASER 
+action? Explain using the example of He-Ne LASER. 
+(b) Drive a relation of numerical aperture and acceptance angle. 
+Discuss the physical significance of numerical aperture. For 
+short-distance communication which type of optical fibre is 
+used?  
+(1+4) 
+ 
+ 
+ 
+(3+1+1) 
+4 
+ 
+4

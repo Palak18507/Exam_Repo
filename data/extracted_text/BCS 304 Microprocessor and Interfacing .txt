@@ -1,0 +1,135 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech CSE>, Semester:<6th> 
+(May, 2025) 
+ 
+Subject Code: BCS 304 
+Subject:  Microprocessor and Interfacing 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+What are Coprocessors why they are needed? Give examples 
+also. 
+CO1 
+ 
+(b) 
+How the low byte flag register can be modified in 8086?  
+CO1 
+ 
+(c) 
+Distinguish between CALL and JUMP. 
+CO2 
+ 
+(d) 
+Draw timing diagram of IO write cycle in 8086. 
+CO2 
+ 
+(e) 
+Explain the significance of the use of 8259. 
+CO3 
+ 
+(f) 
+Differentiate Edge trigerred and Level triggered Interrupts with 
+examples. 
+CO3 
+ 
+(g) 
+Explain the need of Framing. How it is done? 
+CO4 
+ 
+(h) 
+Justify the need of Interfacing. 
+CO 4 
+UNIT-I 
+CO Mapping 
+Q2 
+a) What is meant by microprocessor architecture and explain its 
+operation. If a microprocessor is of 32 bit size what does it means, 
+explain in detail. 
+b) Discuss the function of Queue. How the concept of pipelining is 
+implemented in 8086. 
+(5,5) 
+CO1 
+Q3 
+a) What is Segmentation. Explain the advantage of Segmentation 
+Scheme in 8086. Write the size of physical memory and virtual 
+memory of 8086 microprocessor. 
+b) Explain the function of the following pins in 8086: 
+DT/R, DEN, ALE, TEST, READY, BHE 
+(5,5) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+a) Write short note on:  
+(i)Loop, (ii) Flag manipulation, (iii) shift& rotate . 
+b)What is physical address in 8086. Assume the following state of 
+8086 microprocessor: 
+CS = 1000H, DS = 2000H, SS - 3000H, ES = 4000H, BP = 0010H 
+BX = 0020H, SP = 0030H, SI = 0040H, DI = 0050H. 
+Calculate physical address for following instructions: 
+i) MOV CX,[BX], ii)  MOV AL,[BP+SI], iii)  MOV CS:[BX],AL, iv) MOV 
+AL.[BP]. 
+(3+7) 
+CO2 
+Q5 
+a) Write a program to add a data byte located at offset 0500H in 
+2000H segment to another data byte available at 0600H in the 
+same segment and store the result at 0700H in the same segment.  
+b) What is the purpose of the assembler in the 8086 
+microprocessor?  Differentiate between assembler directive and 
+instructions in 8086. Explain any three assembler directives. 
+(5,5) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+a) What is Multiprocessing systems? Compare Symmetrical and 
+Asymmetrical Multiprocessing systems. 
+b) Compare the features of 80386 and 80286 based on the 
+following points: registers, clock rate, number of pins, number of 
+instructions, modes of operations, memory management, and 
+protection mechanism. 
+(5,5) 
+CO3 
+Q7 
+a) What does the CPU do when it receives an interrupt? How do 
+you enable and disable interrupts in 8086? 
+b) Draw and Explain the Interfacing of 8259 with 8086. What is the 
+advantage of using 8259. 
+(5,5) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+a) Write the sequence of instructions required to initialize 8251A 
+at address 80H and 81H 
+for the configuration given below. 
+(i) character length-6 bits (iv) Baud rate 64 X 
+(it) Parity even 
+(v) DTR and RTS asserted 
+(iiz) Stop bit 1 
+(vi) Error flag reset 
+(vit) Transmitter enable 
+b) What are the functions of DMA controller? Describe the steps 
+that take place during DMA operation. 
+(5,5) 
+CO4 
+Q9 
+a) Discuss the process of interfacing with the 8255 programmable 
+peripheral interface using the 8086 microprocessor, including the 
+various modes of operation. 
+b) What is DMA,  why it is required. Explain Cycle stealing and Burst 
+mode. 
+(5,5) 
+CO4

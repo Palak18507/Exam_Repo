@@ -1,0 +1,165 @@
+1 
+ 
+Please write your enrollment number                                Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH, Semester: 5 
+(December, 2024) 
+ 
+Subject Code: BCS 301 
+Subject: Artificial Intelligence 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are Uninformed Search Strategies and Informed Search 
+Strategies in Artificial Intelligence? Provide an example of each. 
+ 
+CO1 
+ 
+b) List any 2 applications that use speech recognition. 
+ 
+CO1 
+ 
+c) What is Word2Vec, and how does it differ from GloVe in terms of 
+generating word embeddings? 
+ 
+CO2 
+ 
+d) What is an Ontology in the context of Knowledge Representation in 
+AI, and how does it differ from a taxonomy? 
+ 
+CO2 
+ 
+e) What is Fuzzy Logic and how does it differ from traditional Boolean 
+logic? 
+ 
+CO3 
+ 
+f) In a bolt factory, three machines M₁, M₂, and M₃ manufacture 2000, 
+2500, and 4000 bolts every day. Of their output 3%, 4%, and 2.5% are 
+defective bolts. One of the bolts is drawn randomly from a day’s 
+production and is found to be defective. What is the probability that it 
+was produced by machine M₂? 
+ 
+CO3 
+ 
+g) What is a heuristic function?  Define a heuristic function to travel 
+from IGDTUW to IIT Delhi? 
+ 
+CO4 
+ 
+h) How does Big Data Analytics contribute to decision-making in 
+industries such as healthcare or retail? Provide one example for each. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss how AI systems approach problem-solving, considering search 
+algorithms and heuristics. 
+An intelligent vacuum cleaner operates in a 4x4 grid. Each cell can be 
+either clean (C) or dirty (D), and the robot has the following actions: 
+1. Move Left, Right, Up, down (cost = 1). 
+2. Clean a cell (cost = 2). 
+The grid starts with the following status: 
+         C D C C 
+         D C D C 
+         C C C D 
+         D C D C 
+ 
+The robot begins at (0, 0). The goal is to clean all dirty cells while 
+minimizing the total cost. 
+a) Represent the problem as a state-space search. 
+b) Use Breadth-First Search (BFS) to find the total cost of cleaning all 
+cells. 
+(10) 
+CO1 
+2 
+ 
+Q3 
+Explain the concept of intelligent agents and their components. 
+Illustrate with examples how they function in problem-solving 
+scenarios. Discuss the Turing Test, its purpose, and how it evaluates 
+intelligence in machines. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define 
+stemming, 
+lemmatization, 
+and 
+tokenization 
+in 
+text 
+preprocessing with taking suitable example. 
+Given the following corpus of 3 documents: 
+Document 1: "AI is the future." 
+Document 2: "AI will change the future." 
+Document 3: "The future is bright for AI." 
+1. Compute the TF-IDF score for the word "future" in each 
+document. 
+2. Which document gives the highest relevance to the term 
+"future" based on TF-IDF? 
+(10) 
+CO2 
+Q5 
+Explain how WordNet and ConceptNet are used as tools for knowledge 
+representation. Highlight their structure, features, and applications 
+with examples. 
+Consider the following statement from real world: 
+1. "All students love mathematics." 
+2. "John is a student." 
+3. "If someone loves mathematics, they are intelligent." 
+(a)Represent the above statements in predicate logic. 
+(b)Prove that "John is intelligent" using logical inference. 
+ 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the basic concepts of Neural Networks and Genetic Algorithms 
+as problem-solving techniques. Discuss their similarities, differences, 
+and how they can complement each other in solving complex 
+optimization problems. 
+(10) 
+CO3 
+Q7 
+Discuss with suitable case studies the applications of uncertainty in 
+real-world systems. Explain how uncertainty is modeled and addressed 
+in various domains, including decision-making, robotics, healthcare, 
+and finance. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the architecture of an Expert System and discuss its real-world 
+applications in various fields such as Medical Sciences, Agriculture, 
+Education, and Social Network Analysis. Use case studies like MYCIN 
+to illustrate how expert systems contribute to decision-making in 
+complex domains. 
+(10) 
+CO4 
+Q9 
+Discuss the ethical challenges in Artificial Intelligence, focusing on 
+Model Transparency, Interpretability, and Explainable AI (XAI). 
+Additionally, explore the ethical concerns regarding Discrimination, 
+Fairness, and Bias in AI systems. Illustrate your discussion with 
+examples from AI applications in Social Network Analysis, Medical 
+Sciences, and Information Retrieval. 
+(10) 
+CO4

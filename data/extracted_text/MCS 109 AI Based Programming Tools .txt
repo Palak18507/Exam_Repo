@@ -1,0 +1,96 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS/Non-CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<M.Tech>, Semester:<1> 
+(Dec, 2024) 
+ 
+Subject Code: MCS 109 
+Subject: AI Based Programming Tools   
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1  
+(5*4=20) 
+CO Mapping 
+ 
+(a) Write a program to implement Boolean and relation calculator using functions of 
+any AI programing Language Prolog / LISP and justify its salient features w.r.t how it 
+is suitable for AI 
+CO1 
+ 
+(b) What are the salient features of  NumPy and Pandas for AI programming and 
+demonstrate the same with the help of any  program  
+CO2 
+ 
+(c) What is file object in Python and explain its attributes with the help of any program  
+CO3 
+ 
+(d) Differentiate Lists , Data Frames and Vectors in R language and write any  program by 
+using above data structures   
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 Write a program to demonstrate the use of logic-based programming languages  
+with suitable example for solving  AI domain problems. What are the salient 
+features of the Logic based programing languages over conventional programing 
+languages  
+(10) 
+CO1 
+Q3 (a)Differentiate Python, LISP and Prolog w.r.t  various features and AI 
+programming   
+b) Write a program to implement any 5 salient features of  LISP / Prolog 
+(5+5=
+10) 
+CO1 
+UNIT-II 
+ 
+Q4 Write a Recursive Programs to calculate a factorial of a give number and sum of 
+first n natural numbers given by the user  and demonstrate the use of  object-
+oriented   oriented programing concepts of Python 
+(10) 
+CO2 
+Q5 Write a python program to implement the functions and its different parameters 
+passing techniques by creating a one module by the name AIPT.  Use the same to 
+output the results with proper code.  
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 You need to implement OOPS concepts through a python program to store 
+patient records of hospital who are suffering from the fever. With the above 
+problem statement.  Write a method to calculate average temperature for a week 
+of each patient, rank them in terms of temperature. Use the constructor, 
+destructor and inheritance in the program.  
+(10) 
+CO3 
+Q7 You need to implement File handling in Python w.r.t above question Q6.  Write a 
+program to create source file of python by file name “Patients Text”.  Write the 
+data of any 2 patients, read the same and display, append the 2 more patients’ 
+data at the end and finally rename the file patient. Text into “Current patient. 
+Text”.   
+(10) 
+CO3 
+2 
+ 
+ 
+ 
+ 
+UNIT-IV 
+CO Mapping 
+Q8 With reference to Q6, Write a R- Program using R- functions and data structures 
+to calculate average temperature of all patents, rank of each patent w.r.t 
+temperature, arrange the patents in increasing order of their temperature.  
+(10) 
+CO4 
+Q9 
+a. With are the salient features of R-Language and demonstrate any of 
+the five feature with suitable code and explain. 
+b. Differentiate between Python and R- Programming languages w.r.t to 
+AI Applications  
+  
+(10) 
+CO4

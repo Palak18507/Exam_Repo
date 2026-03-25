@@ -1,0 +1,143 @@
+{
+  "paper_id": "PHD119_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD119",
+    "subject_name": "Cyber Security and Privacy",
+    "program": "PHD.",
+    "semester": 1,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Effective communication among stakeholders is critical to the structures and processes used in governance at every level, especially in information security governance. Why are the objectives of Information Security Governance in an organisation. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How are Policies, standards, guidelines, and procedures are related to each other with reference to Information Security. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does symmetric and asymmetric cryptographic algorithms differ in terms of security, performance, and use cases. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the following terms i). Access Control List ii). Lattice-based access control iii). Role-based access control iv). Task-based access control v). Passphrase and Password 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "How do Trap doors cause serious security breaches ? Explain 5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How does Viruses and worms use several attack vectors to spread copies of themselves to networked peer computers? Explain citing 5 examples/ case studies 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is Software Security Development Life Cycle? What are the 12 steps in Microsoft Security Development Life Cycle? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider yourself Emanuel, Team Leader for information security development. As a Team Leader you have created and ranked software vulnerability risk worksheet. You are required to select a strategy for controlling each risk that results from software vulnerabilities. Explain how the risk control strategy that you have selected will reduce the impact of an attack? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How does the Cyber Security Policies: EISP, ISSP, SYSSP differ among each other ? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Packet-Filtering Firewalls",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Application Firewall",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Hybrid Firewalls",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Unified Threat Management 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why is Information security important functions for an organization? Explain in terms of Protecting Functionality, Data, Safe Operation and safeguarding technology. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "The Payment Card Industry Security Standards Council offers a standard of performance to which participating organizations must comply. Payment Card Industry Data Security Standards , are designed to enhance the security of customers’ account data. Write any 10 requirements that PCIDSS addresses in different areas of data security. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Espionage",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Privacy vs Safety",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Data Breach 10",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

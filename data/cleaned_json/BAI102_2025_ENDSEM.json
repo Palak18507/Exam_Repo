@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI102_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI102",
+    "subject_name": "IT Workshop",
+    "program": "<B.Tech.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is R? Mention two uses of R.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain 5 mathematical functions with the help of examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain different types of vectors.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How can datasets be combined in R? Illustrate with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you mean by control statements? Explain any three.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between Discrete data and continuous data.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain Pie Chart with suitable example?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "WAP to print Fibonacci series upto 10 elements.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are R packages. How can you install and load an R package? Write a code to install and load the ggplot2 package.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What do you understand by objects in R? Describe the role of special values like Inf, NA, NaN, and NULL in R.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between matrices and data frames in R. Give Examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Create a data frame names students with the columns . Find the mean score of all the students. Extract the rows for students who scored more than 75. Add a new column Grade based on the Score .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is the difference between a T-test and ANOVA? Explain different types of T-test.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain all the terms of the code snippet: subset )",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a program to create a Boxplot for in-built dataset mtcars. Explain boxplot.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What do you understand by Data Visualization? Name some of the 2-D and 3-D plots available for data visualization.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

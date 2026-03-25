@@ -1,0 +1,185 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<5> 
+(December, 2024) 
+ 
+Subject Code: BCS 303 
+Subject: Theory of Computation 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why a* b* is regular but not an bn? 
+CO 1 
+ 
+b) Define Deterministic Finite Automata (DFA)? How is it different from Non 
+Deterministic Finite Automata (NDFA).    
+CO 1 
+ 
+c) What is Derivation Tree and its types? Discuss with an example.  
+CO 2 
+ 
+d) Define Context Free Grammar. Create a CFG for {anbn : n>o}  
+CO 3 
+ 
+e) Define the term ambiguity and explain with the help of an example grammar?  
+CO 1 
+ 
+f) Define Unrestricted Grammar (UG). Write about the machine that accepts the UG.  
+CO 2 
+ 
+g) What is halting problem, discuss about it briefly? 
+CO 3 
+ 
+h) With neat diagram discuss about Linear Bounded Automata.  
+CO 1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Design a DFA for the Language accepting strings starting with ‘aba’ and 
+ending with ‘bb’ over the alphabet Σ = {a, b}. Check whether the DFA 
+accepts the strings:  abaabb, abbbaab, ababa.   
+(10) 
+CO 2 & CO 3 
+Q3 
+Discuss the step by step procedure followed in minimization of 
+Deterministic Finite Automata and minimize the following finite 
+automata.  
+ 
+0 
+1 
+q0 
+q1     
+q4 
+q1 
+q5 
+q2 
+*q2 
+q0 
+q2 
+q3 
+q6 
+q4 
+q4 
+q2 
+q5 
+q5 
+q5 
+q3 
+q6 
+q5 
+q2 
+ 
+Find out whether the minimized DFA accepts the following strings: 
+0010, 1101, 10010. 
+(10) 
+CO 2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define a Pushdown Automata (PDA) (describe each tuple). Design a PDA 
+which accepts the Language L = {0n1n/n > 1} over Ʃ = {0, 1}. 
+(10) 
+CO 1 & CO 2 
+Q5 
+What is Chomsky Normal Form (CNF)? Convert the following Context 
+Free Grammar to CNF? (where ɛ is epsilon) 
+ 
+SABa / BBb / DB / DA 
+Aaab / bba / a 
+BAc / C /b 
+Cc / d / F / H 
+Dd / ɛ 
+(10) 
+CO 3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define pumping Lemma for Context Free Language. And check whether 
+the language L = { 0n1n2n3n/ n>1} is context free or not.  
+(10) 
+CO 1 & CO 2 
+Q7 
+Design a TM for the Language L = {anbncn / n>1}.  
+(10) 
+CO 1 & CO 3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is Finite state Transducer? Explain the step by step procedure 
+followed for converting a Mealy Machine to Moore Machine. Convert the 
+following Mealy Machine to Moore Machine.  
+Present 
+state 
+Next state 
+Input a=0 
+Input a=1 
+State  
+output 
+State  
+output 
+q1 
+q3 
+0 
+q2 
+1 
+q2 
+q1 
+0 
+q4 
+0 
+q3 
+q2 
+1 
+q1 
+1 
+q4 
+q4 
+1 
+q3 
+0 
+ 
+(10) 
+CO 1 & CO 3 
+Q9 
+Discuss about Complexity classes P and NP. Define a Moore Machine 
+(using tuples). Convert the following Moore Machine to Mealy Machine. 
+Present 
+State 
+Next state 
+Output 
+a=0 
+a=1 
+q0 
+q3 
+q1 
+0 
+q1 
+q1 
+q2 
+1 
+q2 
+q2 
+q3 
+0 
+q3 
+q3 
+q0 
+0 
+q4 
+q0 
+q4 
+1 
+(10) 
+CO 1 & CO 3

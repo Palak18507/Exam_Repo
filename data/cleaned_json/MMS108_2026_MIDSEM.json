@@ -1,0 +1,37 @@
+{
+  "paper_id": "MMS108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS108",
+    "subject_name": "Business Environment",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Describe the process of environmental scanning and the various approaches used? What is the socio - cultural and demographic aspects to be considered while doing business in India? What are the major environment issues and challenges faced by businesses? What are the types of political systems and political risks involved in doing business in India",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "CO What are the techniques used for environment analysis? Describe any two in detail. Which strategies and policies are applied by businesses and government to effectively manage cyclical fluctuations? . Describe in detail the types of business environment. .",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "CO What is the legal environment of business in India? What are the features of the Indian business environment and the constraints of doing business in India What are the advantages and disadvantages of doing business in India? Note: Q. 1 is compulsory. Subject: Business Environment Subject Code: MMS 108",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

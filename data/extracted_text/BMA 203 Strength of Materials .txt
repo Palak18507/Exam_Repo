@@ -1,0 +1,125 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<III> 
+(December, 2024) 
+ 
+Subject Code: BMA 203 
+Subject: Strength of Materials  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+Answer the following briefly: 
+(2.5*8=20) 
+ 
+a) What is complementary shear stress?  
+ 
+ 
+b) What is Poisson’s ratio? What is its significance? 
+ 
+ 
+c) What are composite beams? Give their applications. 
+ 
+ 
+d) What is point of contraflexure? 
+ 
+ 
+e) What is the advantage of fixed beam over simply supported beam? 
+ 
+ 
+f) Compare the torque transmitted by shafts connected in series to shafts 
+connected in parallel. 
+ 
+ 
+g) What is the difference between strut and column? 
+ 
+ 
+h) While designing a thin cylindrical vessel, which stress should be used for 
+calculating the thickness of the cylindrical vessel and why? 
+ 
+UNIT I 
+ 
+Q2 
+A steel wire 2 m long and 3 mm in diameter is extended by 0.75 mm when a 
+weight W is suspended from the wire. If the same weight is suspended from a 
+brass wire, 2.5 m long and 2 mm in diameter, it is elongated by 4.64 mm. 
+Determine the modulus of elasticity of brass if that of steel be 2.0 × 105 N/mm2. 
+(10) 
+Q3 
+At a point in a bracket the stresses on two mutually perpendicular planes are 400 
+MN/m2 tensile and 300 MN/m2 tensile. The shear stress across these planes is 200 
+MN/m2. Determine the magnitude and directions of principal stresses and 
+maximum shear stress. 
+(10) 
+UNIT II 
+ 
+Q4 
+Draw the shear force and bending diagrams for the beam shown loaded in Fig.1. 
+Also determine the maximum bending moment and determine its position. 
+ 
+Fig.1 
+(10) 
+Q5 
+State Castigliano’s theorem. Using Castigliano’s theorem, obtain the deflection 
+under a single concentrated load applied to a simply supported beam shown in 
+Fig.2. EI = 2.2 MNm2. 
+(10) 
+2 
+ 
+ 
+Fig. 2 
+UNIT III 
+ 
+Q6 
+Fig. 3 shows a beam simply supported at the supports A and C and is continuous 
+over the support B. Assuming EI to be constant, draw the bending moment and 
+shear force diagrams. 
+ 
+Fig.3 
+(10) 
+Q7 
+A solid cylindrical shaft is to transmit 300 kW at 100 rpm. 
+(i) 
+If the shear stress is not to exceed 80 MN/m2, find its diameter. 
+(ii) 
+What percentage saving in weight would be obtained if this shaft is 
+replaced by a hollow one whose internal diameter equals 0.6 of the 
+external diameter, the length, the material and maximum shear stress 
+being the same? 
+(10) 
+UNIT IV 
+ 
+Q8 
+For a close coiled helical spring subjected to an axial load of 300N having 12 coils of 
+wire diameter of 16mm, and made with coil diameter of 250 mm, find: 
+(i) 
+Axial deflection; 
+(ii) 
+Strain energy stored; 
+(iii) 
+Maximum torsional shear stress in the wire; 
+(iv) 
+Maximum shear stress using Wahl’s correction factor. 
+Take modulus of rigidity as 80 GN/m2. 
+(10) 
+Q9 
+Apply Lame’s theory and obtain the expressions for the radial and circumferential 
+stresses developed in a thick cylindrical pressure vessel. 
+(10) 
+ 
+A 
+B 
+C 
+3.6 m 
+2.4 m 
+1.8 m 
+1.8 m 
+2 kN 
+4 kN

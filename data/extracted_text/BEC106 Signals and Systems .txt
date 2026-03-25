@@ -1,0 +1,122 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Reappear Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech. ECE, Semester:2 
+(May, 2025) Reappear 
+ 
+Subject Code: BEC 106 
+Subject:  Signals and Systems 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define and plot Unit Step Signal. 
+ 
+CO1 
+ 
+b) Explain difference between causal and non-causal systems. 
+ 
+CO1 
+ 
+c) Define Linear Time Invariant (LTI) System. 
+ 
+CO2 
+ 
+d) Obtain Fourier Transform of Unit Impulse Function. 
+ 
+CO2 
+ 
+e) What do you understand by the term signal bandwidth? 
+ 
+CO3 
+ 
+f) Write any two properties of ROC of Laplace Transform. 
+ 
+CO3 
+ 
+g) When does aliasing occur? 
+ 
+CO4 
+ 
+h) Define one-sided and two-sided Z-Transforms. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Find the convolution of the following signals by graphical method.  
+x(t) = e -3tu(t), h(t) = u(t+3) 
+(10) 
+CO1 
+Q3 
+Define following properties of a continuous time system with simple 
+examples:- (i) Linearity and Non-linearity (ii) Time variance and Time 
+invariance.  
+Also, examine the below given systems with respect to above 
+properties.  
+(i) y(t) = sin [x(t)] 
+(ii) y(t) = sin t.x(t) 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+State and prove following properties of Fourier transform.  
+(i) 
+Convolution in time domain  
+(ii) 
+Differentiation in time domain  
+(iii) 
+Time shifting 
+(10) 
+CO2 
+Q5 
+Consider a stable LTI System characterized by the differential equation 
+dy(t)/dt + 2y(t) = x(t). Find its impulse response.  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Find the exponential Fourier Series and plot the magnitude and phase 
+spectra of the following triangular waveform:- 
+ 
+ 
+(10) 
+CO3 
+Q7 
+Derive relationship between Fourier Transform and Laplace Transform. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define Nyquist rate. Determine the Nyquist sampling rate and Nyquist 
+sampling interval for the following signals.  
+(i) 
+sinc(100πt)  
+(ii) 
+sinc2(100πt)  
+(iii) 
+sinc(100πt) + sinc(50πt)  
+(iv) 
+sinc(100πt) + 3 sinc2(60πt) 
+(10) 
+CO4 
+Q9 
+Using long division method find out the Inverse Z- Transform of 
+ 
+𝑧2+2𝑍
+𝑧3−3𝑍2+4𝑍+1   ; ROC |𝑍| > 1 
+ 
+(10) 
+CO4

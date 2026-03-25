@@ -1,0 +1,120 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name :<Environmental Sciences>, Semester:<Ist> 
+(December, 2024) 
+ 
+Subject Code: BAS 104 
+Subject:  Environmental Sciences  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Which buffer solution is used in the determination of hardness using EDTA 
+method in the water sample and what is its role?  
+ 
+ 
+b) What is the principle of determination of Chemical Oxygen Demand (COD) and 
+why is it usually higher than Biochemical oxygen Demand (BOD) in waste water. 
+ 
+ 
+c) Discuss the sources and sinks of SOx. 
+ 
+ 
+d) Discuss the concept of Atom Economy giving suitable example of green chemical 
+synthesis. 
+ 
+ 
+ 
+e) What are the common forms of chromium present in the environment? Which 
+of these is most toxic?  
+ 
+ 
+f) What are photosensitizers or promoters? Why are these added to polymers? 
+Discuss. 
+ 
+ 
+g) What are the major challenges of green Hydrogen energy generation? 
+ 
+ 
+h) Why is it necessary to have Environmental Impact Assessment (EIA) before the 
+development of any project? 
+ 
+UNIT I 
+ 
+Q2 
+(i) Discuss the chlorination of water and significance of break point chlorination. 
+(ii) 50 mL of standard hard water containing 1.5 mg of pure CaCO3 per mL 
+consumed 45 mL of EDTA. 40 mL of a water sample consumed 18 mL of the same 
+EDTA solution using Eriochrome Black T as indicator. After boiling, 40 mL of the 
+same water sample required 15 mL of the EDTA solution Calculate the temporary, 
+permanent and total hardness of water sample. 
+(5*2) 
+Q3 
+(i) Discuss the following: 
+(a) Steps involved in primary treatment of waste water 
+(b) Role of Plant-nutrients and pesticides in water pollution. 
+(ii) A 100 mL alkaline water sample required 10 mL of N/50 HCl for 
+phenolphthalein end point and 15 mL of N/50 HCl for methyl orange end point. 
+Determine the types and extent of alkalinity present in the water sample. 
+(5*2) 
+UNIT II 
+ 
+Q4 
+(i) Discuss the physical and chemical processes used for treatment of hazardous 
+waste. 
+(ii) What is the significance of ‘selection of renewable feedstock as starting 
+material’ in a process? Give atleast two examples with suitable reactions. 
+(5*2) 
+Q5 
+(i) Explain the concept of carbon dioxide sequestration. What are various ways to 
+sequester CO2 artificially? 
+(ii) Enumerate the following: 
+(a) Sanitary landfill for waste disposal and treatment. 
+(b) Green reagents used in a process. 
+(5*2) 
+ 
+2 
+ 
+UNIT III 
+ 
+Q6 
+(i) Discuss how bio-plastics are manufactured giving two examples alongwith their 
+important applications. 
+(ii) Enumerate the various forms of mercury and describe their sources and 
+biochemical effects. 
+(5*2) 
+Q7 
+(i) Write short notes on the following:                                                                                    
+(a) 
+Chemical interaction   
+(b) 
+Impact of toxic metals on the enzymes  
+(ii) Calculate the number average and weight average molecular masses of 
+polypropylene polymer with the following composition: 
+[-CH2-CH(CH3)-]100 is 25 %, [-CH2-CH(CH3)-]250 
+is 35 %, [-CH2-CH(CH3)-]300 is 40 %. {Given that atomic mass of C = 12, H = 1 
+(5*2) 
+UNIT IV 
+ 
+Q8 
+(i) What are the various ways by which ocean energy can be harnessed? Elaborate. 
+(ii) What are the important environmental Laws? Discuss the functions of Central 
+Pollution Control Board for the prevention, control and abatement of air pollution.  
+(5*2) 
+Q9 
+(i) What are the advantages and limitations of wind energy and geothermal 
+energy? 
+(ii) Write short notes on the following:                                                                                   
+(a) 
+Objectives of Environmental Management System.   
+(b) 
+Pollution management initiative by government 
+(5*2)

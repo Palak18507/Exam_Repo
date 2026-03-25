@@ -1,0 +1,142 @@
+{
+  "paper_id": "MUP109_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP109",
+    "subject_name": "Planning History and Theories",
+    "program": "< M.Plan.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Concept of Space in city",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Landmark",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Urban Structure",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Metropolitan Region",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Elements of a city",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Axis in a city",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Rank Size Rule",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Rural – Urban Migration",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is the impact of culture on physical form of a city?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How do you see “Human Settlements as an expression of Civilization”?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the impact of industrialization on urban Planning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How will you explain “City as a Living Entity”?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Concentric Zone Theory",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Sector Theory",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Multiple Nuclei Theory",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Core-Periphery Model",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Pluralism in Planning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are the Socio-Economic Impacts of growth in Urban Areas",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

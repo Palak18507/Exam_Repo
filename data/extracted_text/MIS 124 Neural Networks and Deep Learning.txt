@@ -1,0 +1,60 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech (IT)) (Semester: 2nd) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MIS 124 
+Subject: Neural Networks and Deep Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) How Multi-Layer-Perceptron enhances the capability of neural network? 
+2.5 
+ 
+b) Derive the loss function for a multiclass classifier neural network. 
+2.5 
+ 
+c) What is the neuron saturation problem in neural networks? 
+2.5 
+ 
+d) Justify the importance of Eigen Vectors and Basis Vectors. 
+2.5 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Why oscillations occurs in Momentum Based Gradient? How NAD managed 
+to limit the Oscillations?  
+(5) 
+ 
+b) Sparse and Dense features dictate the requirements for attribute specific 
+updates during Backpropagation. How Gradient Descent handles this 
+scenario? Explain with two different approaches. 
+(5) 
+ 
+c. Derive the update rule for Multi-Layer-Perceptron.   
+(5) 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+Explain the Autoencoders and mathematical relation to PCA. 
+(5) 
+ 
+Why the model generalization and model complexity are related? Derive the 
+supportive mathematical expression. 
+(5) 
+ 
+How the layer wise pre training enabled the neural networks achieve 
+convergence?  
+(5)

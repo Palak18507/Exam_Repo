@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS226_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS226",
+    "subject_name": "Interpersonal Processes and",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between constructive and destructive conflict?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the various functions of a manager?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List and explain the five stages of group development as per Tuckman’s model.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is group cohesiveness? Critically assess the reasons for group formation in organizations.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define counselling. Explain two common approaches to counselling.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "As an organizational counselor, differentiate between counselling, psychotherapy, and instruction.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss common listening barriers that may arise in counselling sessions and propose strategies to overcome them.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the core conditions of counselling according to Carl Rogers? Name any two and explain briefly.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Analyze the difference between leadership and managerial effectiveness using real-life corporate examples. Can a person be an effective leader but a poor manager? Justify with evidence.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A mid-level manager is caught between upper management’s unrealistic expectations and the ground-level team’s limited resources. Identify the type of managerial conflict here and suggest a resolution model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between influence relationships and authority relationships in the context of interpersonal behavior at work. What are the major interpersonal styles observed in teams? Briefly explain one example where a supportive style would be more effective than a controlling style.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "In an organizational setting, why is giving and receiving interpersonal feedback critical for leadership development? Mention two outcomes of poor feedback practices. List three ways informal groups can either support or disrupt formal group objectives in a workplace. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A client consistently describes feeling anxious but cannot identify the source of their discomfort. The counselor suspects irrational thought patterns are driving the emotional reaction. Using the counseling process, outline how a Rational Emotive Behaviour Therapy counselor would help the client move from identifying irrational beliefs to achieving emotional change.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Critically analyze the risks associated with an approach where the client feels dependent on the counselor’s instructions rather than building self-reliance, and propose how shifting towards a non- directive or eclectic approach could address the dependency issue.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A manager trained in counseling skills notices two employees in regular conflict. She decides to offer in-house counseling instead of escalating the issue to HR. Discuss the role of conflict in counseling and evaluate the strategies the manager-counselor can use to change the behavior of the conflicting parties effectively through action strategies and advanced skills.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "An organization hires a counselor to help employees deal with stress. The counselor notices that despite a comfortable room setup, many clients hesitate to open up. In most sessions, employees avoid eye contact and give short, defensive answers. Analyze the possible verbal and non-verbal communication barriers at play. What advanced counseling skills should the counselor apply to improve the counseling environment and enhance client openness?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

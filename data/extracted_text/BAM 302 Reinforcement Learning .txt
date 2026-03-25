@@ -1,0 +1,122 @@
+(Please write your Enrollment Number)                                           Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH   Semester: 6th Sem 
+(May, 2025) 
+ 
+Subject Code: BAM 302 
+Subject: Reinforcement Learning  
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Write the Bellman equation for a Markov Reward Process and 
+explain its significance.  
+2.5 
+CO1 
+ 
+b) Differentiate between policy iteration and value iteration. 
+2.5 
+CO1 
+ 
+c)  What are k-step estimators in Reinforcement Learning? 
+2.5 
+CO2 
+ 
+d) What is On-policy learning and Off-policy learning? Provide 
+examples of each. 
+2.5 
+CO2 
+ 
+e) How do Approximation Methods improve the efficiency of value 
+function representation? 
+2.5 
+CO3 
+ 
+f) What are Eligibility Traces, and what are their advantages? 
+2.5 
+CO3 
+ 
+g) What are Goals and Rewards in reinforcement learning? 
+2.5 
+CO4 
+ 
+h) c  
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain in detail the components of a Markov Decision Process (MDP). 
+How do MDPs model the environment in Reinforcement Learning, and 
+how do they differ from a Markov Chain?  
+(10) 
+CO1 
+Q3 
+(a) How does Dynamic Programming solve Markov Decision 
+Processes, and what are its strengths and limitations?  
+(b) What is the importance of convergence in Dynamic 
+Programming, and how is contraction mapping used to prove 
+convergence? 
+(5*2=10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss in detail the TD(0), TD(1), and TD(λ) methods, and compare 
+their performance for model-free prediction. When should each of 
+these methods be used? 
+(10)  
+CO2 
+Q5 
+Explain the Monte Carlo method, its advantages and disadvantages. 
+Differentiate between First Visit and Every Visit Monte Carlo method, 
+and describe how Monte Carlo control improves policies over time. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the Gradient MC algorithm along with its advantages and 
+disadvantages. Differentiate between Gradient MC and TD(0) methods 
+and explain how these methods approach the problem of value 
+estimation. 
+(10) 
+CO3 
+Q7 
+(a) What is Experience Replay in Deep Q-Networks? How does it 
+improve the learning process in deep reinforcement learning?  
+(b) What 
+are 
+the 
+challenges 
+associated 
+with 
+function 
+approximation in reinforcement learning, and how are they 
+addressed? 
+(5*2=10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the k-armed Bandit problem. What are the different strategies 
+to solve it and how do they compare in terms of the exploration-
+exploitation trade-off?  
+(10) 
+CO4 
+Q9 
+What is the naïve REINFORCE algorithm, how does it work, and what 
+are the challenges and limitations of using this algorithm? 
+(10) 
+CO4

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAS202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS202",
+    "subject_name": "Nano Structures & Materials in Engineering",
+    "program": "B. Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the potential applications of nanoparticle in the field of science and technology?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key physical properties that can be significantly altered at the nanoscale.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between top-down and bottom-up approaches for the synthesis of nanomaterials.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Which gas is used in sputtering process and reason behind to choose that gas?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define quantum dot, quantum wire, and quantum well with examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the advantages of electron beam evaporation technique. What are the disadvantages of DC and RF sputtering technique?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How magnetron sputtering solve the problems of DC and RF sputtering. Describe molecular beam epitaxy technique.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe ball milling method in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different ways of heating used in thermal evaporation technique and explain about e-beam thermal deposition method.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between DC and RF sputtering process.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BTECH, Semester:7 
+ (December, 2024) 
+ 
+Subject Code: BEC 401 
+Subject: MICROWAVE TECHNIQUES 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) State difference between Klystron and Magnetron. 
+ 
+ 
+ 
+ALL 4 UNITS 
+ 
+b) How can you increase the power gain of a Klystron. 
+ 
+ 
+c) Which TE mode is not possible in a circular waveguide? 
+Justify your answer. 
+ 
+ 
+d) What is the best position of a probe to generate the TE10 
+mode? 
+ 
+ 
+e) What is Richard's transformation. Explain. 
+ 
+ 
+f) Discuss on all modes in Gunn diode? 
+ 
+ 
+g) Compare between Stripline and Microstrips with a suitable 
+example. 
+ 
+ 
+h) Explain the working of a step impedance low pass filters. 
+ 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Derive relation between λg, λ, λc in a rectangular waveguide. 
+Show all steps. 
+(10) 
+ 
+UNIT 1 & 2 
+Q3 
+What are performance parameters of directional coupler with 
+equations? Show all steps. 
+ 
+(10) 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Prove mathematically with required equation that a 
+Magnetron having N resonators, with adjacent resonators 
+tightly coupled, cannot have (2N-1) possible modes of 
+resonance. 
+(10) 
+ 
+UNIT 3 & 4 
+Q5 
+A helix TWT is operated with a beam current 200mA, beam 
+voltage 4.0kV, and   
+characteristic impedance 40Ω. If a 50dB gain is required at 
+9Ghz, calculate the helix length. 
+(10) 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is the frequency band for which Microwave integrated 
+circuits are designed to work? How stripline and microstrip 
+differs from each other? 
+(10) 
+ 
+UNIT 2 & 3 
+Q7 
+Explain in detail about the microwave power measurement 
+using power meter with neat sketch. 
+(10) 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is a quarter-wave transformer? What is the main 
+disadvantage of using a quarter-wave transformer? 
+(10) 
+ 
+UNIT 3 & 4 
+Q9 
+Prove that impedance and admittance matrices are 
+symmetrical for a reciprocal junction, with suitable diagram 
+and equations. 
+(10)

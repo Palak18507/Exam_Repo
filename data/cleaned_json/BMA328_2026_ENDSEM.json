@@ -1,0 +1,78 @@
+{
+  "paper_id": "BMA328_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA328",
+    "subject_name": "Combustion Emission & Pollution Control",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is heating value of a fuel? Differentiate between lower heating value and higher heating value. b What are the harmful constituents of photochemical smog? c SI engines operate at stoichiometric air fuel ratio. Is the statement correct? Give reasons in support of your answer. d What is equivalence ratio of a fuel? What is its significance in combustion process? e How turbulence in SI engines is different from swirl in CI engines? f List some non-exhaust emissions from a vehicle. g State two advantages of Exhaust Gas Recirculation. h State two limitations of thermal converter.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss briefly different factors affecting flame speed in SI engine.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Butane enters a combustion chamber at 27°C at a rate of 0.05 kg/min where it is mixed and burned with air that enters the combustion chamber. Determine the mass flow rate of air and air-fuel ratio for: Combustion with stoichiometric air-fuel ratio Combustion with 10% less air",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss briefly different stages of combustion of CI engine.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare knocking in SI engine and CI engine. Also briefly discuss the factors affecting knocking in SI and CI engine.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss briefly different causes of unburned hydrocarbon emissions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain briefly how different types of emissions in SI and CI engines are affected by air-fuel ratio.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the working of catalytic converter with the help of a suitable diagram. Write its advantages and limitations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are the different alternative fuels used to reduce emissions. Discuss any one fuel in detail along with its advantages and limitations.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

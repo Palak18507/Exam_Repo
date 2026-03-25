@@ -1,0 +1,116 @@
+{
+  "paper_id": "BMS112_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS112",
+    "subject_name": "Management Accounting",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How management accounting differs from the cost accounting?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is activity-based costing? C) What is process costing?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "Distinguish between periodic and perpetual inventory system?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "Differentiate between fixed and flexible budgets. In what types of business scenarios is each one most useful? Support your answer with examples.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is performance budgeting? How does it differ from traditional budgeting methods?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is standard costing? What is its relevance in business decision making?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is P/V ratio. Explain with suitable example.",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is cost accounting? What are the objectives, advantages and scope of cost accounting?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A manufacturing firm is planning to invest in new machinery and wants to evaluate the total cost over its useful life. How can Life Cycle Costing assist in this decision-making process? Describe the major types and stages of LCC involved in such an evaluation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is contract costing? Describe the feature and procedure of contract costing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "From the following transactions, prepare a stores ledger account using LIFO and Weighted Average Method. Year 2024 Particulars 1 July Opening Stock 500 units @ Rs. 20 each 4 July Purchased GRN 574 400 units @ Rs. 21 each 6 July Issued SR 251 600 Units 8 July Purchased GRN 578 800 units @ Rs. 24 each 9 July Issued SR 258 500 units 13 July Issued SR 262 300 units 24 July Purchased GRN 584 500 units @ Rs. 25 each 28 July Issued SR 269 400 units GRN = Goods Received notes, SR = Store Requisition.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Management accounting is the presentation of accounting information in such a way as to assist the management in the creation of policy, and in the day-to-day operation of an undertaking. Elucidate.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is responsibility accounting? Describe the concept in detail and explain the different types of responsibility centers with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "From the following particulars, compute: Material cost variance, Material price variance, and Material usage variance. Quantity of materials purchased 3,000 units Value of materials purchased Rs. 9,000 Standard quantity of materials required per tonne of output 30 units Standard rate of material Rs. 2.50 per unit Opening stock of materials Nil Closing stock of materials 500 units Output during the period 80 tonnes",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Part A The following data is given below: Total fixed cost Rs. 12,000 Selling Price Rs. 12 per unit Variable Cost Rs. 9 per unit What will be the profit when sale is: Rs. 60,000 Rs. 1,00,000 Part B A startup is assessing whether to launch a new product and needs to determine the minimum sales volume required to avoid losses. How can break-even analysis support this decision? Explain the key assumptions of break-even analysis.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

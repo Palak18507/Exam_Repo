@@ -1,0 +1,90 @@
+{
+  "paper_id": "BCS103_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS103",
+    "subject_name": "Data Structures",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A two dimensional array M[1…50][1..20] is stored in row major order in memory. Each element in the array occupies 4 bytes. Calculate the address of the element M[15,17] if the base address is 1200",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the time complexity of the following code: for{ for{ a=a+i+j; } }",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Convert the infix expression, 4 + 3* to prefix expression using stack.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Consider the polynomial 9x6+2x4-3x2+4. Suggest a node structure for representing this polynomial as a linked list. Also show the representation of the given polynomial as a linked list using the suggested node representation.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write an algorithm to arrange an array of integers such that even numbers are followed by odd numbers. Analyse the time complexity of the algorithm Eg:- Input : 123456 Output : 246135",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "write an algorithm to replace the second smallest element in a matrix with the smallest element. Analyse the time complexity of the algorithm",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write an algorithm to delete all occurrences of a given character in a string. Analyse the time complexity of the algorithm",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider an expression containing different types of parentheses like , [ ], { } along with other characters. Write an algorithm to check whether the brackets in the expression are balanced or not using a suitable data structure. A balanced expression is one where every opening bracket has a corresponding closing bracket in the correct order.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write an algorithm to swap the first and last nodes of a doubly linked list by modifying the links",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write an algorithm to print the nth element from the end of a linked list in a single pass. What is the time complexity of the algorithm?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

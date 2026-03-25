@@ -1,0 +1,78 @@
+{
+  "paper_id": "MMS222_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS222",
+    "subject_name": "Performance Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define Performance Management and illustrate with an example how it improves employee effectiveness in a real-world organization. b List any two features of Human Resource Management in the 21st century and explain how each feature impacts daily operations in a modern company. c TechSoft Pvt. Ltd. is expanding globally and noticing varying performance levels among its multicultural workforce. Suggest two coaching or mentoring strategies the HR team can implement to improve the performance of underperforming employees from different cultural backgrounds. d Name any two new leadership skills required in today’s technology-driven workplace. Describe how a team leader can apply these skills while managing a hybrid team. e Explain how technology can be used to design a performance appraisal system. Give an example of a digital tool that can assist managers in tracking employee performance effectively. f What is the Balanced Scorecard perspective? Illustrate how an organization in the retail sector could apply the Balanced Scorecard to enhance employee productivity and customer loyalty. g How would you apply the System Alignment Map to align HR goals with organisational strategy? h What are the two dimensions of HR alignment? Briefly explain how each dimension supports achieving a company’s strategic goals.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the concept and significance of Manpower Management in the 21st century by analyzing how a growing tech startup can use it to scale its workforce. How do technological innovations like AI-based recruiting tools impact manpower planning?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the special features of new technology and explain with examples how they are reshaping traditional HR functions like recruitment and performance evaluation.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Using the example of a multinational company’s cross-cultural team management strategy, design a sample performance appraisal form that incorporates KPIs and KRAs suitable for a global workforce. In your design, explain how globalization and economic theories of choice impact the selection of KPIs and KRAs for employees operating in diverse cultural settings. 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "XYZ Ltd. is facing declining employee performance despite regular annual appraisals. As an HR consultant, design a revised performance management process for the company that focuses on continuous feedback, goal setting, and employee development. Explain the key stages you would include and how they would improve overall performance.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is benchmarking in HR evaluation? Suppose your organization is facing high attrition. How would benchmarking help? Discuss its advantages and challenges with examples from industries like IT or healthcare.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "ABC Tech Ltd., a mid-sized IT services company, has recently launched a comprehensive Employee Wellness Program to reduce stress-related absenteeism and improve overall employee satisfaction. The HR team needs to evaluate the success of this program after six months. They are debating between using only hard data like participation rates and insurance claims, versus also including employee feedback through surveys and interviews. As an HR consultant, design an evaluation framework for assessing ABC Tech Ltd.'s employee wellness program. Explain the various approaches to evaluating HR functions that you would apply, and justify why it is essential to consider both quantitative and qualitative measures in your evaluation. ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is an HR Scorecard? Imagine you are the HR Head of a retail chain; explain how you would use the HR Scorecard to align recruitment, training, and retention efforts with the company’s business goals.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the seven-step model for implementing HR’s strategic role. Apply it to a situation where a company is planning a major digital transformation. How does achieving internal and external alignment make HR a true strategic partner?",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

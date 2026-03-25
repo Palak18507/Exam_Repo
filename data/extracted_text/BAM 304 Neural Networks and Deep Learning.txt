@@ -1,0 +1,79 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAM-304 
+Subject:  Neural Networks and Deep Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a)Why is zero initialization of weight, not a good initialization 
+technique? 
+2.5 
+1 
+ 
+b) How does the learning rate affect the training of the Neural 
+Network? 
+2.5 
+1 
+ 
+c) Explain the vanishing and exploding gradient problems. 
+2.5 
+2 
+ 
+d) What are the key components of a perceptron network? 
+Illustrate with a diagram. 
+2.5 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the structure, working, and limitations of McCulloch-
+Pitts model of a neuron. 
+5 
+1 
+ 
+b) Explain the distinctions between supervised learning, 
+unsupervised learning, and reinforcement learning. Discuss the 
+advantages and challenges associated with each approach. 
+5 
+1 
+ 
+c) What role do synapses play in biological neural networks, and 
+how is this concept implemented in artificial neural networks? 
+5 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+2 
+ 
+a) Explain the error backpropagation training algorithm with 
+diagram. 
+5 
+2 
+ 
+b) Explain the concept of associative memory in NN. What is the 
+role of the Hopfield network in associative memory? 
+5 
+2 
+ 
+c) Explain the different steps used in Gradient Descent algorithm. 
+5 
+2

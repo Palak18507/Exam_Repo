@@ -1,0 +1,100 @@
+{
+  "paper_id": "BCS403_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS403",
+    "subject_name": "EVOLUTIONARY COMPUTING",
+    "program": "<B.Tech.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the main components of an Evolutionary Algorithm and their roles in the evolutionary cycle 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between binary representation and real-valued representation in the context of evolutionary algorithms. 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain how Genetic Algorithms can be applied to solve a real-world optimization problem, such as the Travelling Salesman Problem or the Knapsack Problem. 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss how Swarm Intelligence algorithms, such as Ant Colony Optimization or Particle Swarm Optimization , can be used to solve a complex optimization problem, such as the Travelling Salesman Problem or Job Scheduling. Explain how these mechanisms help to find near-optimal solutions for the problem. 5",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the origins of evolutionary computing and the main evolutionary computing metaphor. Provide a brief history of the field, highlighting key milestones. Additionally, explain how Darwinian evolution and genetic principles serve as the foundation for evolutionary algorithms, and describe the analogy between biological evolution and evolutionary computing techniques such as selection, mutation, and crossover.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the key components of an Evolutionary Algorithm and describe the steps involved in an evolutionary cycle. Provide an example application where an EA is used effectively. Explain the operation of an EA, and compare natural evolution with artificial evolution. Additionally, discuss the role of Evolutionary Computing in global optimization problems and how it contrasts with other search algorithms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of permutation representation in evolutionary algorithms. How is it used to encode solutions in Job Scheduling problem? Discuss the challenges involved in applying variation operators likecrossover and mutation to permutation-based representations. Provide examples of specific crossover and mutation techniques tailored for permutation representation and explain how they help maintain valid solutions throughout the evolutionary process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the use of binary representation and integer representation in evolutionary algorithms. Explain how solutions are encoded in each of these representations and the types of problems they are best suited for. Compare and contrast the advantages and disadvantages of binary and integer representations in terms of solution precision, computational efficiency, and applicability to different problem domains.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Learning Classifier Systems combine the principles of Genetic Algorithms and reinforcement learning to evolve a population of classifiers capable of adaptive behavior. Provide a detailed explanation of the architecture and working principles of an LCS, focusing on how genetic algorithms are used for rule evolution and how reinforcement learning is integrated for feedback-driven learning. Discuss the role of environmental feedback and the credit assignment problem in LCS, and explain how the system balances exploration and exploitation over time.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Derive the mathematical formulation of the velocity update equation in Particle Swarm Optimization. Explain the role of the cognitive component and social component in the equation. How do these components influence the exploration and exploitation balance of the algorithm?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Accelerated Particle Swarm Optimization . How does APSO differ from traditional PSO in terms of its velocity update mechanism? Discuss the introduction of an acceleration factor and its role in improving convergence speed and overall performance of the algorithm. Provide an example of a problem where APSO would be more efficient than standard PSO.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain how the Firefly Algorithm can be adapted for solving multi-objective optimization problems. How do the concepts of Pareto dominance and Pareto front apply to the algorithm? Discuss how FA can be modified to handle multiple conflicting objectives and maintain diversity in the solution set.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

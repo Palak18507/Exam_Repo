@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS104",
+    "subject_name": "Business Environment",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Distinguish between concept of economic growth and economic development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the meaning of national income?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main functions of NITI Aayog?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is inequality?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the types of environment.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is business? What are the characteristics of contemporary business?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How porter five forces model is used to understand competitive structure of industry?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe briefly about the different five year plans implemented in India since independence.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the parameters of measuring multidimensional poverty index ?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is industrial sickness? What are the main causes of industrial sickness?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS102",
+    "subject_name": "Human Resource Management",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Your organization is expanding into a new country. What factors will you consider while adapting HR practices to suit the new environment?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "As an HR executive, how would you apply job analysis data to design an effective hiring strategy?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define psychometric testing. Why is it used in recruitment?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "You have to design a recruitment plan for a remote work setup. What recruitment sources and selection tools would you use?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "A newly onboarded employee is not meeting performance expectations. As an HR professional, how would you utilize the performance appraisal system and constructive feedback mechanisms to support their improvement and enhance their productivity?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "An employee at ABC Ltd. has consistently exceeded performance targets for the past year but feels demotivated due to a lack of recognition and growth opportunities. Based on this scenario, suggest one compensation or performance management strategy the HR department could implement to retain and motivate the employee. Justify your answer briefly.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "A manufacturing unit is facing rising cases of worker unrest. How would you manage industrial relations to maintain harmony?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How can Human Resource Accounting help assess the value and preparedness of your workforce for global operations?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "You have joined as an HR Manager in a fast-growing company. Explain how you would carry out manpower planning and competency mapping to support the company’s expansion strategy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A start-up in the fintech industry has been facing challenges in attracting and retaining skilled professionals. The founders believe their informal HR practices may be limiting their growth potential. As an HR consultant, how would you apply a strategic Human Resource Management approach to help the start-up enhance its talent acquisition and gain a competitive edge?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "You are designing a training program for new recruits in a healthcare company. How would you identify training needs, and what training strategy would you implement?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "As a hiring manager, you are planning to recruit mid-level managers. Design a comprehensive recruitment and selection process including the use of psychometric tests and interviews.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "ABC Corporation, a leading technology company, has implemented a new performance management system. The system integrates regular performance appraisals, feedback, and potential evaluations. Employees are provided with bi-annual performance reviews, where managers rate them based on key performance indicators and provide feedback on areas of improvement. Despite this, many employees feel dissatisfied with the appraisal process, citing lack of clarity in feedback and a perceived bias in evaluations. Additionally, the company is struggling to align career planning and succession planning with the performance management system, leading to high turnover among senior-level staff. Question: Evaluate the performance management system at ABC Corporation. How should the company improve its performance appraisal process and integrate feedback and potential evaluation into career planning and succession planning? Discuss the principles and objectives of performance appraisal and potential evaluation in this context.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Compensation management plays a crucial role in employee motivation and retention. Discuss the key principles of compensation management, focusing on how compensation structures, transfer, promotion, and reward policies can influence employee satisfaction and retention.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A manufacturing firm is experiencing frequent labour disputes. As an HR leader, how would you approach industrial relations and maintain discipline using the red-hot stove rule?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "You have been appointed as the HR head of a medium-sized manufacturing company. Develop an actionable plan for implementing employee welfare, safety, and assistance programs to improve employee satisfaction and reduce absenteeism.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

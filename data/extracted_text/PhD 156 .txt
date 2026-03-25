@@ -1,0 +1,108 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: PhD, Semester: 1st 
+(May, 2025) 
+ 
+Subject Code: PhD 156 
+Subject: ABCs of Supply Chain 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is supply chain? 
+ 
+CO1 
+ 
+b) Discuss the goal of a supply chain and explain the impact of 
+supply chain decisions on the success of a firm. 
+ 
+CO1 
+ 
+c) Explain the role of logistics in managing the movement of 
+materials within an organization, including inbound logistics, 
+internal movement, and physical distribution of finished goods 
+ 
+CO2 
+ 
+d) What are the major types of demand forecasting methods? 
+ 
+CO2 
+ 
+e) Explain the two key factors to be considered when designing 
+a distribution network. 
+ 
+CO3 
+ 
+f) What is JIT? 
+ 
+CO3 
+ 
+g) Explain the various functions performed by a warehouse in 
+modern supply chain systems. 
+ 
+CO4 
+ 
+h) Discuss the major obstacles faced in managing supply chains. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the cycle and push/pull views along with the macro 
+processes of a supply chain. 
+(10) 
+CO1 
+Q3 
+Explain the key drivers of supply chain performance 
+effectiveness. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the role of different transportation modes in a supply 
+chain. 
+(10) 
+CO2 
+Q5 
+What are the major factors that affect the decision to 
+outsource a supply chain function? How do third parties 
+increase the Supply Chain Surplus? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the factors that influence the required level of safety 
+inventory in business organizations. 
+(10) 
+CO3 
+Q7 
+Discuss the framework for making network design decisions. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain why achieving strategic fit is critical to a company’s 
+overall success. Describe how a company achieves strategic fit 
+between its supply chain strategy and its competitive strategy. 
+(10) 
+CO4 
+Q9 
+Explain the significance of packaging in the supply chain. 
+Discuss the various functions of packaging, types of packaging 
+materials, and the emerging trends in sustainable and smart 
+packaging. 
+(10) 
+CO4

@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMS301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS301",
+    "subject_name": "Business Policy and Strategy",
+    "program": "BBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What’s the role of vision in guiding strategy roadmap of an organization",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between business strategy &amp; policy",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What’s the importance of strategic advantage in long term success- sustenance",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why’s it important to align business strategy to a region’s socio- culturally?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Why’s SWOT analysis important in business strategy formulation",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Why is an internal resources audit key for formulating business growth strategy?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How does Product Life Cycle Stage analysis help in creating the right innovations?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does the CEO leverage technology to optimize operations?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How does metrics based strategy compliance help in staying on track of growth plan?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Difference between vision &amp; mission and how are they interrelated to boost success",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What all are the external environmental factors &amp; their roles in formulating future-strategy?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How can you boost competitive advantage in tough markets to build &amp; sustain leadership?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Role of favorable government policies in helping businesses grow better --Explain",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How can a motivated workforce overcome competition with accurate audits &amp; automation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How does BCG matrix help in optimizing resource allocation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Why is employees retrenchment a bad idea – explain.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

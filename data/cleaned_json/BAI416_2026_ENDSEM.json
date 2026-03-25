@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI416_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI416",
+    "subject_name": "AI in Healthcare",
+    "program": "<B.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the differences between structured and unstructured healthcare data? Provide an example of each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is data preprocessing essential in healthcare AI applications? Mention two key steps involved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are Clinical Decision Support Systems , and how do they assist healthcare professionals?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss one ethical concern associated with AI-powered diagnostic tools in healthcare.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What role does Natural Language Processing play in Electronic Health Record analysis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe one predictive modeling technique used in healthcare for patient risk assessment.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How HIPAA compliance ensures the privacy and security of patient data in AI applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Identify one emerging trend in AI-driven healthcare and discuss its potential impact.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the importance of data preprocessing in AI-driven healthcare applications. Illustrate with an example of data cleaning and transformation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the key techniques used for extracting meaningful insights in a step-by-step hands-on analysis of a healthcare dataset.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the ethical considerations involved in AI-driven clinical decision support, including biases and patient safety concerns.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the key challenges faced when implementing AI in medical imaging? Discuss real-world limitations and possible solutions",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss various predictive modeling techniques used in healthcare. Compare their advantages and disadvantages.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the process of validating and evaluating predictive models in healthcare AI applications. Discuss key performance metrics used to evaluate the models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the ethical guidelines that govern AI applications in healthcare. How can AI-related ethical dilemmas be addressed?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the impact of AI on patient data security. What are the major privacy concerns, and how can they be mitigated?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

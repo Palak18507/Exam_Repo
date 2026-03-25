@@ -1,0 +1,91 @@
+{
+  "paper_id": "BEC104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC104",
+    "subject_name": "Network Analysis and Synthesis",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Kirchhoff’s current and voltage law.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the equivalent resistance between the terminal A and B.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define initial value and final value theorem.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define unit step, unit ramp and unit impulse signals.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive expression for conversion of resistive delta network to resistive star network.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Maximum Power transfer theorem. What value of resistance R may be connected in the below circuit so that Maximum Power transfer takes place through it? Obtain the value of maximum power transferred.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the value of current flowing in the resistance 100 Ohm ?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "For the circuit shown below the switch is at S1 and it achieved steady state. Now at t=0, the switch is moved to position S2, derive the expression of current flowing in the circuit.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "In the network shown in figure below, the switch K is moved from position ‘b’ to ‘a’ at t=0. Find the Particular solution for Current i.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "d",
+          "text": "In the circuit shown in figure below, V=10V, R=10Ω, L=1H. C=10µFand Vc=0. Find the value of 𝑖, 𝑑𝑖 𝑑𝑡 and 𝑑𝑖2 𝑑𝑡2 .",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

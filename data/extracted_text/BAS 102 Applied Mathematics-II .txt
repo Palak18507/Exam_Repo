@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+                                                 MID-TERM EXAMINATION 
+                                           (For students admitted in 2022 and 2023) 
+                                               (Course Name:  B. Tech.) (Semester: II) 
+                                                                        (March 2025)  
+ 
+Subject Code: BAS 102 
+Subject: Applied Mathematics-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Calculator is not allowed. 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Find the derivative of 𝑓(𝑥, 𝑦) = 𝑥𝑒𝑦+ cos 𝑥𝑦 at the point (2,0) in the 
+direction of 𝑣= 3𝑖−4𝑗. 
+CO1 
+ 
+b) If 𝐹= 𝑥𝑦𝑒𝑥𝑖⃗−𝑥3𝑦𝑧𝑒𝑧𝑗⃗−𝑥𝑦2𝑒𝑦𝑘⃗⃗, find curl 𝐹, div 𝐹 and div (curl 𝐹) 
+ 
+CO1 
+ 
+c) Solve (𝐷2 +  𝐷 –  2)𝑦= 𝑒𝑥 
+CO2 
+ 
+d) Solve  𝑦′′ +  𝑦 =  𝑠𝑒𝑐2𝑥,  by the method of variation of parameters. 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) State Stoke’s theorem. Use Stoke’s theorem to evaluate the line integral  
+∮(𝑥3𝑦2𝑑𝑥+ 𝑑𝑦+ 𝑧2𝑑𝑧)
+ 
+𝐶
+ 
+where 𝐶 is the circle 𝑥2 + 𝑦2 = 1 in the plane 𝑧= 1, counter clockwise when 
+viewed from the origin. 
+CO1 
+ 
+b) Show that the line integral given by 
+∫
+(2𝑦2𝑥−3)𝑑𝑥+ (2𝑦𝑥2 + 4)𝑑𝑦
+(3,6)
+(1,2)
+ 
+is independent of path. Hence, evaluate the line integral by finding the 
+potential function 𝜙. 
+CO1 
+ 
+c) Verify the divergence theorem for 𝐹= 𝑥𝑖⃗+ 𝑦𝑗⃗−(𝑧−1)𝑘⃗⃗, where D is the 
+region bounded by the hemisphere  𝑥2 + 𝑦2 + (𝑧− 1)2 = 9, 1 ≤ 𝑧 ≤4, 
+and the plane z = 1.  
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Solve (𝐷2 +  2𝐷 + 4)𝑦 =  2𝑥2 +  3𝑒−𝑥, using the method of 
+undetermined coefficient. 
+ 
+CO2 
+ 
+ 
+b) Solve 𝑑𝑥/𝑑𝑡 +  2𝑦 +  𝑥 = 𝑒𝑡, 𝑑𝑦/𝑑𝑡 +  2𝑥 +  𝑦 =  3𝑒𝑡 
+CO2 
+ 
+c) Solve (𝑥2𝐷2 –  3𝑥𝐷 +  4) 𝑦 =  2𝑥2 
+CO2

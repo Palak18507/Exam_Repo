@@ -1,0 +1,92 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+END TERM EXAMINATION 
+(CBCS)(SUBJECTIVE TYPE) 
+Course Name: MCA (IT) , Semester:2nd  
+(MAY, 2025) 
+ 
+Subject Code: MCA  102 
+Subject: Object Oriented Programming  using Java 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(5*4=20) 
+CO mapping 
+1 
+Explain how i) arrays are declared and initialized in Java ii)Reading console Input 
+CO1 
+2 
+Using program explain i) NullpointerException and NumberFormatException  
+                                       ii) variables and methods in interface 
+CO3 
+3 
+Explain: i)pure polymorphism  ii) use of super 
+CO2 
+4 
+What is i)panel and frame in AWT  ii)  Life cycle of Thread 
+CO4 
+UNIT-I 
+ 
+Q2 
+What are Java Buzzwords and explain the role of JVM in java?Create a class 
+Car with attributes like model name, brand, and daily rental rate. Add a 
+constructor to initialize the values and a method to calculate rental cost 
+for a given number of days. In main method create 5 objects of car class 
+using array of objects and display all details. 
+(10) 
+CO1 
+Q3 
+Explain class variable, reference variable, and constructor of a class. 
+Create a class Book with attributes title, author, and price. Write a 
+constructor to initialize these values and appropriate methods to set and 
+get the details of the book. Then, create at least 5 objects of the class using 
+array and display book details. 
+(10) 
+    CO1 
+UNIT-II 
+ 
+Q4 
+a)Explain: i) how to create a package and its use ii)ad hoc polymorphism 
+and its use 
+b)Create a program to explain multiple and multilevel inheritance in java 
+(5,5) 
+CO2 
+Q5 
+What is an abstract class? Create an abstract class Payment(int 
+payment_id, float payment_amount) with an abstract method void pay(). 
+Then implement subclasses CreditCardPayment, UPIPayment, and 
+NetBankingPayment.Show the use of final and dynamic method dispatch 
+and display the details. 
+(10) 
+ CO2 
+UNIT-III 
+ 
+Q6 
+What are exceptions in java? Define a class Student with attributes 
+studentId, name, and a list of courses. Implement a method register 
+Course(String courseName) that Adds a course and throw Course Limit 
+Exceeded Exception if the student tries to add more than 5 courses. Also 
+show the use of throw and throws and how to rethrow an exception. 
+(10) 
+CO3 
+Q7 
+Create program to i) read the data from user through console and write 
+the content in a file(myfile.txt)  
+ii) define an interface, extend an interface and Nested interface 
+(10) 
+CO3 
+UNIT-IV 
+ 
+Q8 
+How to achieve synchronization between multiple threads in java and  
+show how to  use is alive and sleep in multithreading. 
+(10) 
+CO4 
+Q9 
+Explain i)any 3 layouts in AWT ii) how to handling key event  
+(10) 
+CO4

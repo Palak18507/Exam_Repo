@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP210_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP210",
+    "subject_name": "Structure IV",
+    "program": "B.Arch.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain propped cantilever & fixed beams.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain area moment theorem for slope and deflection calculating of beams.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write down steps to design steel beam as per IS – 800 code.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Calculate moment of resistance of timber beam width 150 mm, depth = 200mm permissible bending stress = 12n/mm2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain continuous beam draw bending moment and shear force diagram with uniformly distributed load on beams.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw span & support moment of a fixed end beam. Having span = 6m and UDL = 20kn/m.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain analysis of flexural members. Name any two method for calculating slope & deflection of beam.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "List various standard steel structural sections normally manufactured in India. List their common applications.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Design steel beam. Loading = 52kn/m, Span = 6m. Allowable bending stress = 165N/mm2, Shear stress = 100N/mm2. Beam size ISLB 500 Zxx = 1543.2 cm3 Beam size ISWB 450 Zxx = 1558.1 cm3 Check for shear and deflection of beam. Assume web thickness 10.5mm.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are merits & demerits of steel structure compared to timber structure.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

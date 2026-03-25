@@ -1,0 +1,181 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech CSE AI, Semester: 02 
+(May, 2025) 
+ 
+Subject Code: MIS 118 
+Subject: MACHINE LEARNING IN CYBER SECURITY 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+(a) 
+Differentiate between Intrusion Detection and Anomaly 
+Detection. 
+CO1 
+ 
+(b) 
+What do you mean by mouse pattern analysis attacks?  
+CO2 
+ 
+(c) 
+Explain the Web server log analysis and its advantages.  
+       CO3 
+ 
+(d) 
+Explain the main drawback of data poisoning attacks in machine 
+learning.   
+        CO4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+a) Explain the types of intrusion detection system with diagram 
+and how it can be avoided using machine learning 
+techniques. 
+b) Imagine a situation where a network of computers suddenly 
+begins flooding a company’s server with traffic, causing it to 
+crash. The IT team suspects a botnet attack. As the lead 
+analyst, can you explain how attackers typically carry out 
+botnet attacks? Also, what steps can be taken to prevent such 
+incidents? Describe any two techniques that could be used to 
+stop these attacks before they cause damage. 
+(5) 
+ 
+ 
+(5) 
+CO1 
+ 
+ 
+CO1 
+Q3 
+a) Write five major applications of machine learning algorithms 
+in cyber security.  
+b) During a team meeting at a cybersecurity firm, your manager 
+presents a challenge the team recently faced: "Last week, our 
+system flagged a sudden spike in login attempts from an 
+unusual location — something our regular monitoring tools 
+missed. It turned out to be an attempted breach. This was 
+caught by our anomaly detection system."  
+She 
+turns 
+to 
+you 
+and 
+asks: 
+"Can you explain what anomaly detection means? Also, how 
+can machine learning algorithms help detect such anomalies 
+in real-life applications like fraud detection, network security, 
+or system monitoring?" 
+(5) 
+ 
+(5) 
+          CO1 
+      
+     CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+a) a) How machine learning algorithms helps to detect the 
+malware in the system. 
+b) Explain keyboard/ mouse pattern analysis attacks and 
+discuss it prevention approach.  
+ 
+(5) 
+ 
+(5) 
+CO2 
+ 
+CO2 
+Q5 
+a) Write a machine leaning approach for malware detection and 
+prevention. 
+b) What are the differences between the static and dynamic 
+analysis.  
+(5) 
+ 
+(5) 
+CO2 
+ 
+CO2 
+2 
+ 
+UNIT-III 
+CO Mapping 
+Q6 
+a) What are the strategies for feature selection for email spam 
+detection?  
+b)  What is email spam? How can it be detected through 
+machine learning? 
+(5) 
+ 
+(5) 
+CO3 
+ 
+CO3 
+Q7 
+a)  Explain the types of phishing attacks? 
+b) While investigating a recent phishing attack, your 
+cybersecurity team discovers that users were tricked into 
+clicking on a suspicious-looking link that led to a fake login 
+page. During the team briefing, your supervisor turns to you 
+and asks: "Can you explain what a malicious URL is? Also, how 
+can we use machine learning algorithms to detect such 
+harmful links before users fall victim to them?" 
+(5) 
+(5) 
+CO3 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+a) During a cybersecurity workshop on digital misinformation, 
+the presenter shares a viral video that looks incredibly real 
+but it's entirely fake. The audience is stunned. Turning to you, 
+the presenter asks: 
+ 
+"With the rise of deep fakes, it’s important to understand 
+how they’re made. Can you name and briefly describe any 
+two machine learning algorithms commonly used for creating 
+deep fakes?" 
+b) Explain GAN (Generative Adversarial Networks) and its role in 
+Cyber Security Applications. 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+          CO4 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     CO4 
+Q9 
+a) Write the advantages of generative adversarial networks. 
+b) Explain Model reconstruction attacks. 
+(5) 
+(5) 
+          CO4 
+          CO4

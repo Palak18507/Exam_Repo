@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech. ECE, Semester:6 
+(May, 2025) 
+ 
+Subject Code: BEC 314 
+Subject:  FPGA & Verification 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Compare CPLD and FPGA. 
+ 
+CO1 
+ 
+b) Discuss various key factors responsible for the accurate 
+power estimation in the design cycle. 
+ 
+CO1 
+ 
+c) What is meant by logic simulation? 
+ 
+CO2 
+ 
+d) What is the impact of HVLs on simulation? 
+ 
+CO2 
+ 
+e) What is RTL hardware design flow and methodology? 
+ 
+CO3 
+ 
+f) What are different benefits of using Transactional-Level 
+Models in a SoC Design Flow? 
+ 
+CO3 
+ 
+g) What is the difference between in circuit debugger and 
+in circuit emulator? 
+ 
+CO4 
+ 
+h) Among In-Circuit Emulators and JTAG Debuggers which 
+method is better suited for different scenarios? Justify 
+with examples. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the challenges that FPGAs create for Board Design. 
+(10) 
+CO1 
+Q3 
+Draw and explain the architecture of FPGA. Differentiate 
+between semicustom and full custom design 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is the primary difference between event oriented and 
+process- oriented simulation? Give Example. 
+(10) 
+CO2 
+Q5 
+Write a Verilog Program for implementation and verification of a 
+8-bit shift register Circuit. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss design flow of a TLM Modeling application. How the TLM 
+can be used to evaluate the system level design decisions. 
+(10) 
+CO3 
+Q7 
+Explain how TLMs can be automatically generated from a given 
+mapping of the application to a multimedia platform if no initial 
+mapping is available. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss how the hardware emulators are capable of exchanging 
+events 
+with 
+the 
+software 
+simulators. 
+What 
+different 
+considerations are required for successful Emulation? 
+(10) 
+CO4 
+Q9 
+Draw and explain the overview of Emulator Architecture design.  
+(10) 
+CO4

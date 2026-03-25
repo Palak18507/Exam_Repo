@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMS318_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS318",
+    "subject_name": "Supply Chain Management",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the role of intermediaries in a marketing channel.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the basic components of a distribution system?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key issues in Supply Chain Management?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does an efficient supply chain provide a competitive advantage?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the basic concept of distribution and its role in supply chain management.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different types of warehousing, and how do they impact supply chain efficiency?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Analyze the impact of the channel environment on marketing channel decisions.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the role of technology and digital transformation in optimizing Supply Chain Management.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does achieving strategic fit improve the efficiency and effectiveness of a supply chain?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the importance of supply chain agility and responsiveness in a dynamic market environment.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

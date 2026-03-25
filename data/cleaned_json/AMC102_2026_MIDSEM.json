@@ -1,0 +1,91 @@
+{
+  "paper_id": "AMC102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC102",
+    "subject_name": "Business Statistics",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Mode with an appropriate example. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Skewness and Kurtosis briefly. 5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Calculate Mean Deviation from Median for the following data on monthly income of households: Income 8520 6350 7920 8360 7500 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "If r= 0.8 between two variables X & Y. What does it imply? Give an example from everyday life for two such variables. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate median from the following data: Class Frequency 10-20 15 20-30 8 30-40 17 40-50 29 50-60 7 60-70 4 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compute arithmetic mean of the following: Class Frequency 0-10 12 10-20 18 20-30 27 30-40 20 40-50 17 50-60 6 4",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The tax authority collected the following amount of tax from different firms in a particular market. Amount of Taxes No. of firms 10 3 11 12 12 18 13 12 14 3 2 Calculate the quartile Deviation and coefficient of Quartile Deviation.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A study of 1000 companies gives the following information: Profit No. of companies 0-10 10 10-20 20 20-30 30 30-40 50 40-50 40 50-60 30 Calculate the standard deviation of the profit earned by assumed mean method. 3",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Seven students of a class secured the following marks in economics and history. Calculate the coefficient of correlation with the help of given data: Economics History 66 58 90 76 89 65 55 58 58 53 44 49 42 56 4",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Calculate the linear regression equation of advertisement cost on sales from the data given below: Advertisement Costs Sales 2 3 4 7 6 5 8 10 Also, depict the value of sales, if the advertisement costs go upto Rs. 10 crores 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

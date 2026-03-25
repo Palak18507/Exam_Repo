@@ -1,0 +1,125 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+B. Tech., V 
+(December, 2024) 
+Subject Code: BIT 303 
+Subject:  Artificial Intelligence and Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5
+*8=
+20) 
+CO 
+Mapping 
+ 
+a) How rational agent mimics human intelligence? 
+2.5 
+CO1 
+ 
+b) How Does K- cross validation and classifiers are related? 
+2.5 
+CO1 
+ 
+c) How to choose an output function of output layer in a multi-layer neural 
+network? 
+2.5 
+CO2 
+ 
+d) How TF and IDF are defined for a document? 
+ 
+2.5 
+CO2 
+ 
+e) Compare performance of BFS, DFS, IDA* and RBFS on completeness,   
+optimality, Time Complexity and Space Complexity. 
+2.5 
+CO3 
+ 
+f) Visualize AI as a search paradigm and map 8-puzzle as search problem in AI. 
+2.5 
+CO3 
+ 
+g) How does dimensionality affects the applications of AI models? 
+2.5 
+CO4 
+ 
+h) How does google search use language modeling? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+a. Derive parameter update equations for linear and logistic regression. (5) 
+b. How a Neural Network with 03 hidden layers work during back propagation, 
+given N data samples of Labelled Data Set? (5) 
+(10) 
+CO1 
+Q3 
+a. How Naïve Bayes classier works? What is 0-probability issue in Naïve 
+Classifier and how it is resolved? 
+b. Classify the following Test Sample < >. Use following Data Set for 
+calculations involved therein. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+a. How RNN works for Language Modeling using NN?  
+(10) 
+CO2 
+Q5 
+a. How Skip Gram and Bag of Words approaches works for Word Vector in 
+Wordnet? (6) 
+b. How Glove Model Differs from Word2Vec? Explain. (4) 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+a. How Genetic Algorithm solve optimality problems? Apply the GA on 
+populations <110011,100100,011011,000111,111000> to search solution 
+vector <110111>.(6) 
+b. How Annealed Healing works and which issues of Hill Climbing are solved 
+through Annealed Healing?(4) 
+(10) 
+CO3 
+Q7 
+a. Write and Explain Evaluation Parameters for Algorithms in AI. (3) 
+b. Compare the DFS, BFS, UCS and A* algorithms on these parameters. (3) 
+c. Write pseudo Code for RBFS (Recursive Best First Search). Evaluate RBFS on 
+the parameters identified in 7.a. (4) 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+a. 
+Describe architectures of Expert Systems with brief working. [5] 
+b. 
+Write a short note on ethics in AI. [5] 
+(10) 
+CO4 
+Q9 
+a. 
+Write short note on the following: 
+I. 
+Applications of AI in Medical Science  
+II. 
+Applications of AI in IoT 
+III. 
+Applications of AI in Information Retrieval from search engine 
+(10) 
+CO4

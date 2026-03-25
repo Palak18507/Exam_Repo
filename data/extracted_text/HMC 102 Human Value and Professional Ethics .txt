@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code: HMC 102 
+Subject:  Human Values And Professional Ethics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How does valuing time reflect one’s character and discipline? 
+ 
+CO1 
+ 
+b) What is the significance of empathy in maintaining peaceful 
+relationships? 
+ 
+CO1 
+ 
+c)What are the basic skill sets required for an engineering 
+professional? 
+ 
+CO2 
+ 
+d)What is the purpose of ethical codes for engineers? 
+ 
+CO2 
+ 
+e) What is risk-benefit analysis? Provide one example. 
+ 
+CO3 
+ 
+f) Define the concept of safety in engineering design. 
+ 
+CO3 
+ 
+g) Define Corporate Social Responsibility (CSR) 
+ 
+CO4 
+ 
+h) Mention one ethical challenge faced by multinational corporations. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+How does the Indian concept of Purusharth guide an individual 
+towards a balanced and meaningful life? 
+(10) 
+CO1 
+ Q3 
+What are moral dilemmas? How do ethical theories help in 
+conquering the situations of moral dilemmas? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Compare and contrast Kohlberg’s and Gilligan’s theories of moral 
+development. How are these theories relevant to understanding 
+ethical behavior in professional life? 
+(10) 
+CO2 
+Q5 
+What is the significance of ethical codes for engineers? How do such 
+codes guide engineers in handling ethical conflicts? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the case of Bhopal Gas Tragedy.  What were the major reasons 
+that it happened? What lessons do we learn from such cases?  
+(10) 
+CO3 
+Q7 
+Write about safety and engineer and risk benefit analysis. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the scope and aims of Engineering Ethics. Explain why an 
+Engineer should study ethics? 
+(10) 
+CO4 
+Q9 
+Discuss major ethical issues in computing, such as data privacy, 
+cybercrime, and intellectual property rights. 
+(10) 
+CO4

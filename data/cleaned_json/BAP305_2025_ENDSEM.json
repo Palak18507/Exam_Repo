@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP305_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP305",
+    "subject_name": "Sociology and Psychology in Architecture",
+    "program": "<B.Arch>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Globalization",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Social Communication",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Social Stratification",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Migration",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Psychology",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Maturation and Development",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Social Survey",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Social Research",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss how urbanization has impacted the families and relationships. Elaborate taking an example of real estate industry in India.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write an essay on Impact of Social Media on Relationships. Discuss in relation to the individuals, families and organizations",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is your take on India’s stance on its participation in Champions Trophy to be hosted by Pakistan in 2025?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What do you understand by the word Institutions and Network? Discuss its impact on the built environment. Include examples, wherever necessary.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Give ten pointers to establish the importance of studying user behavior in architectural design.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What psychological impact does the buildings of historical importance have on people? Explain through a suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "If you have to conduct a social audit of your University, what all factors will you consider? Explain through a proposed template.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Share your research strategy for conducting a research on “Water in Architecture”.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

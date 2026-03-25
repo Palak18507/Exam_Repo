@@ -1,0 +1,142 @@
+{
+  "paper_id": "BCS401_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS401",
+    "subject_name": "Machine Learning",
+    "program": "BTech CSE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the bias-variance tradeoff?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the vanishing and exploding gradient problems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the reason behind the curse of dimensionality?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the difference between Forward propagation and Backward Propagation in Neural Networks?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Whether decision tree or random forest is more robust to the outliers. Justify your answer",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What Is ‘naive’ in the Naive Bayes Classifier?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the difference between k-means and the KNN algorithm?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What does the quality of result of clustering depend on?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Which of the following are regression tasks? Answer with proper justification Predict the price of a house 10 years after it is constructed. Predict if a house will be standing 50 years after it is constructed. Predict the weight of food wasted in a restaurant during the next month. Predict the sales of a new Apple product",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the data split for machine learning. Why validation is required? What is Cross-Validation?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate Classification and Regression. When Will You Use Classification over Regression? Explain all metrics used to evaluate a classification model. Does the accuracy score always a good metric to measure the performance of a classification model?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by Perceptron? What are the different types of Perceptrons? What is meant by Backpropagation?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does the learning rate affect the training of the Neural Network? How to Initialize Weights and Biases in Neural Networks? 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Perform PCA for the given Data: x y 2.5 2.4 0.5 0.7 2.2 2.9 1.9 2.2 3.1 3.0 2.3 2.7 2 1.6 1 1.1 1.5 1.6 1.1 0.9",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is Naive Bayes Classifiers? Explain Bayes Theorem. Can Naive Bayes probability be greater than 1? With the help of Naïve bayes Classifier find whether the person is having Flu or not for following data: Chills Runny Nose Headache Fever Flu Y N mild Y N Y Y nil N Y Y N strong Y Y N Y mild Y Y N N no N N N Y strong Y Y N Y strong N N Y Y mild Y Y",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain Ensemble learning. Discuss various methods to implement Ensemble learning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain clustering with the help of one machine learning problem. Explain different types of clustering",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Apply K-Means algorithm over the data , , , , , up to two iterations and show the clusters. Initially choose first two objects as initial centroids.",
+      "marks": 2.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "paper_id": "BAI417_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI417",
+    "subject_name": "Multimodal Data Analysis",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Taste Data and Haptic Data.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe Multimodal Data Analysis Applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A speaker’s vocal tract lengthens from 15 cm to 18 cm. How will this change affect the first formant frequency ? Assume that the speed of sound in air is 34,000 cm/s.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Elaborate on Speech Perception in Humans.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Gamma Correction & Clipping",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain different segmentation techniques.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Elaborate on the challenges faced in implementing Co-Learning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define co-learning and its application in Multimodal Data Integration.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "In a text, the first-ranked word appears 12,000 times. Estimate the total number of words used in the text assuming that the text follows Zipf’s Law up to rank 100.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of Hipf’s law in Multi-Modal Analysis?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Give examples and applications of TFIDF.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the Heap’s law conclusion?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Coarticulation",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Word homophones and Ambiguity",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Code Switching",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Emotion & Tone Recognition",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Data scarcity & Labelling Challenges 2",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "LPC",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Short-Time Energy",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Zero-Crossing Rate",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "MFCC",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Spectral centroid",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Neighborhood Processing Techniques in Multimodal Data Analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Apply a log transformation to enhance the low-intensity values in an image. Given a pixel with an intensity of 50, Calculate the new intensity. Given c=30.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider an audio signal with the following amplitude values: Amplitudes= [5,10,15,20,15,10,5] Apply a 3-point mean filter to smooth the amplitude value at the fourth position .",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Image captioning in details.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain types, characteristics, applications and challenges of Biomedical Signals.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

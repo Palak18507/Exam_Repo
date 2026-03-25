@@ -1,0 +1,134 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:BBA, Semester: 1 
+(December, 2024) 
+ 
+Subject Code: AMC 101 
+Subject:  Business Mathematics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+a 
+How many different words can be formed using the letters M, 0, B, I, 
+L, E, taken 
+  (a) all at  time, and  
+ (b) every word begins with M? 
+ 
+CO1 
+b 
+Given A= [
+1
+2
+3
+0
+4
+5
+1
+0
+6
+] and B = [
+2
+0
+1
+1
+3
+0
+4
+5
+6
+], Find AB. 
+ 
+CO2 
+c 
+Differentiate x √ x w.r.t x 
+ 
+CO3 
+d 
+Find ∫(𝑥3 + 𝑥)𝑑𝑥
+1
+−1
+  
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Out of 4 officers and 10 clerks in an office, a committee consisting of 2 
+officers and 3 clerks is to be formed. In how many ways can this be 
+done if : 
+(a) any officer and any clerk can be included. 
+(b) one particular clerk must be on the committee. 
+(c) one particular officer cannot be on the committee 
+(10) 
+CO1 
+Q3 
+Prove by mathematical induction that for all n 𝜖 N, 32n when 
+divided by 8, the remainder is always 1. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+If A = [2
+1
+0
+3] and B = [1
+4
+2
+1] , verify if AB ≠ BA 
+ 
+(10) 
+CO2 
+Q5 
+Given A = [
+1
+2
+3
+0
+5
+6
+1
+1
+1
+] , find AT(the transpose of A). Then, verify if AT×A 
+is defined. If yes, compute it. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+The total revenue function is R (q) =200q−3q2.  
+a) Find the marginal revenue function MR (q).  
+b) Calculate MR (q) when q=20.  
+(10) 
+CO3 
+Q7 
+The demand function is q = 500e−0.01p where p is the price and q is the 
+quantity demanded.  
+a) Calculate the price elasticity of demand. 
+b) Evaluate the elasticity when p = 50 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Determine the area enclosed by the curves y = x2 and y= 4-x2 between 
+x = 1 and x = 3 
+(10) 
+CO4 
+Q9 
+The marginal cost function for producing q units is MC(q)=10+2q. Find 
+the total cost function if the fixed cost is Rs.100 
+(10) 
+CO4

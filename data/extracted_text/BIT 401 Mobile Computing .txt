@@ -1,0 +1,162 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 7th  
+(December, 2024) 
+ 
+Subject Code: BIT 401 
+Subject: MOBILE COMPUTING 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Define Mobile Computing and list any three of its characteristics. 
+ 
+CO1 
+ 
+b) Explain the concept of frequency reuse in cellular networks. 
+ 
+CO1 
+ 
+c) Define the role of PLMN in GSM architecture? 
+ 
+CO2 
+ 
+d) Briefly explain the term "Handoff" in mobile communication 
+systems. 
+ 
+CO2 
+ 
+e) Write any four key features of Mobile IP? 
+ 
+CO3 
+ 
+f) Differentiate between Direct Sequence Spread Spectrum (DSSS) and 
+Frequency Hopping Spread Spectrum (FHSS). 
+ 
+CO3 
+ 
+g) Explain the primary use of Bluetooth in mobile communication with 
+suitable example? 
+ 
+CO4 
+ 
+h) Name two features of a commercial mobile operating system like 
+Android. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Explain the evolution of mobile computing and discuss its benefits and 
+security concerns. 
+(10) 
+CO1 
+Q3 
+Describe 
+the 
+electromagnetic 
+spectrum's 
+role 
+in 
+wireless 
+communication and explain the concept of fading in the mobile 
+environment. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Illustrate the architecture of GSM and discuss how call routing is 
+managed. 
+(10) 
+CO2 
+Q5 
+Explain the functionality of GPRS and its role in enabling data services. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+A logistics company is expanding its operations to provide real-time 
+tracking of vehicles using Mobile IP. The vehicles frequently move 
+across different networks while maintaining a seamless connection. 
+ 
+Describe the key mechanisms of Mobile IP that would enable 
+such a setup. 
+ 
+Suggest how tunneling and encapsulation could be used to 
+handle packet delivery during network transitions. 
+ 
+Discuss challenges the company might face during deployment 
+and possible solutions. 
+(10) 
+CO3 
+Q7 
+Discuss the various enhancements in TCP for mobile environments 
+(e.g., Indirect TCP, Snooping TCP, and Mobile TCP). 
+(10) 
+CO3 
+2 
+ 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+A university plans to launch a mobile application for e-learning, 
+targeting students with diverse devices and operating systems such as 
+iOS, Android, and Windows Phone. The application must support live 
+video 
+streaming, 
+downloadable 
+study 
+materials, 
+real-time 
+notifications, and interactive quizzes. 
+ 
+How would you ensure compatibility across multiple mobile 
+operating systems? 
+ 
+What role would the Software Development Kit (SDK) of each 
+platform play in developing this application? 
+ 
+Identify potential constraints of mobile devices (e.g., battery 
+life, limited storage) and propose solutions to address these 
+issues. 
+(10) 
+CO4 
+Q9 
+A retail company is designing a mobile commerce application that 
+supports contactless payments, order tracking, and personalized 
+notifications. They aim to leverage Bluetooth technology and the latest 
+5G networks for enhanced user experience. 
+ 
+Propose how Bluetooth could be integrated into the payment 
+system for secure and quick transactions. 
+ 
+Explain how 5G technology would improve the application's 
+performance and user satisfaction. 
+ 
+Identify potential constraints and challenges in developing 
+such a mobile commerce platform and suggest mitigation 
+strategies. 
+(10) 
+CO4

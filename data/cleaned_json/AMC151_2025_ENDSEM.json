@@ -1,0 +1,80 @@
+{
+  "paper_id": "AMC151_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC151",
+    "subject_name": "Managerial Economics",
+    "program": "MBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a Discuss the importance of demand elasticity in managerial decision- making. b Differentiate between short-run and long-run cost function. c What are the key features of oligopoly market with example? d Differentiate between demand-pull and cost-push inflation.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the key factors affecting demand? Discuss with real-world examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "As a manager, how would you use utility analysis to predict consumer behavior in a new market?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are economies and diseconomies of scale? Provide real-world examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is the Law of Variable Proportions? Explain its three stages with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain price differentiation and limit pricing. In what situations are these strategies suitable?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Differentiate between monopoly and monopolistic competition with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define GDP, GNP, and NNP. How are they interrelated?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on any two of the following: 1. Fiscal and Monetary Policy 2. Balance of Payment 3. Inflation",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS212_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS212",
+    "subject_name": "Derivatives and Risk Management",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between futures and options with suitable examples? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Hedge and Mutual Funds. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define spot, future and strike price? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "The stock price of TCS company is currently trading in the future market at Rs. 1637, while the Nifty 50 at Rs. 25500. The standard deviation over a period of three month of TCS and Nifty 50 in future market is 35 and 50. The correlation between the TCS and Nifty 50 is given as follows:  Case 1: 1.25  Case 2: 0.80 Calculate Hedge Ratio for both the cases. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the different types of participants in the derivatives market. Support your answer with examples. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the functions/uses of derivatives. Support your answer with examples. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are derivatives? Explain the different types of derivatives with relevant examples. 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "1. Sun Pharma which is currently trading at Rs. 1618. What would be the two months future contract if the continuously compounded with annual risk free rate of Interest rate at 6.25%. 2. Maize is trading at Rs. 2260 on 01st March 2025. Risk free rate of interest is 7%. The carrying cost and storage cost of maize per quintal is Rs. 45 and 68. What should be the fair of Maize futures which is expiring on 31st August 2025. 2.5 2.5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "The HCL Technologies share is currently trading at Rs. 1,644 as of February 25, 2025. The futures price for the April 24, 2025 contract is Rs. 1,650. Given the following spot prices on the expiration date : 1,350, 1,400, 1,450, 1,500, 1,550, 1,600, 1,650, 1,700, 1,750, 1,800, 1,850, 1,900, 1,950. Construct a payoff matrix and payoff diagram for both the long and short positions in the futures contract. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the different types of hedging strategies and relate each strategy to the hedge ratio with relevant examples. 5 Calculators are allowed.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

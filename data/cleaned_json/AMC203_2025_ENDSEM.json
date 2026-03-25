@@ -1,0 +1,80 @@
+{
+  "paper_id": "AMC203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC203",
+    "subject_name": "Operations Management",
+    "program": "B.B.A",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Business cannot survive without proactive operations management. Discuss 1 How does operation strategy support manufacturing sector? 1 How corporate, business and operation strategies are linked? 2 Discuss concept of scheduling in services. 2 Discuss various flow involved in a supply chain and their importance. 3 Discuss various costs associated with inventory. 3 Explain Deming’s PDCA Model. 4 Discuss 5Cs of TQM. 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "What do you understand by operations management? Discuss various critical decisions taken by operation manager. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Discuss role of operation strategies in smooth running of a business enterprise. 1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is Business Process Modelling? Compare and contrast physical and logical databases. Discuss the importance of relational databases in business process management. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "“Scheduling is a short-term planning tool.” What is difference between loading and sequencing? 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain the phenomenon of Bullwhip Effect in supply chain management. What are the critical decision-making areas in supply chain? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Factory uses annually 24000 units of raw material which Costs Rs 1.25 per unit. Ordering cost is Rs 25 per order and carrying cost is 6% per year of unit price. Find EOQ and total inventory cost including cost of material. The factory works for 320 days a year. If the procurement time is 10 days find ROL, the maximum and average inventories. 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What is quality? How good or bad quality affects operations of a business? Discuss various costs associated with quality with suitable examples 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Write a short note on Total Productive Maintenance. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

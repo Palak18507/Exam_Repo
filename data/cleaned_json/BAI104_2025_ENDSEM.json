@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAI104_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI104",
+    "subject_name": "Programming Fundamentals",
+    "program": "B.TECH",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a Python program to define a class Car and represent the details of three cars as objects. The class should include attributes c_company and c_model. Add two methods: one for storing car information and another for displaying the details of each car.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a Python program that takes a password as input and prints \"Strong password\" if the input string is alphanumeric and has a length greater than 8. Otherwise, it should print \"Weak password.\"",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write the output of the following code snippet with proper explanation text = \"Programming\" for i in range, 3): print",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a Python program to determine the frequency of a specific number using loop.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What will be the output of code snippet. Give proper justification for your answer def inner_function: x = 10 x += 5 print def inner_function2: global y y=200 x = 20 y=50 inner_function inner_function2 print print",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the benefits of using functions and define what a default parameter is in a function.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "An e-commerce site lists the ratings for 5 different products from the same company as {2, 2.2, 2.3, 2.1, 2}. Six months later, the ratings for each product double. However, in the following six months, each product's rating decreases by 1 star due to a legal case against the company. Write a Python program using numpy to calculate the updated ratings of each product automatically. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the difference between Series and DataFrame in pandas with examples.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the advantages of Object Oriented Programming? Explain the concept of Inheritance with an example code.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss built-in data types in python. Write a python code to print Fibonacci series up to nth term using Loop, where n is a user input.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write a python program to Input a list of positive integer and sort its elements in ascending order. In a class, teacher needs to record the marks of 5 students. As a programmer, write a program to prompt the teacher to input the roll number and marks for each student, storing the data as key-value pairs in a dictionary. Then, display the roll numbers of the students with the highest and lowest marks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a python script to search an element in the list without using predefined library function. Write a python program to traverse and print all the elements greater than 10 in 2D list.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write a python program to manage the shopping cart application. The application should include the basic functionalities as functions to Add an item to the cart Remove specified item from cart View cart and exit. The View cart displays the items in the cart and the total price to be paid.",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Implement the series 1/1! +3/3! +5/5!....upto nth term using function. Explain recursion with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Create a Python program that performs the following tasks: 1. Read a text file named \"information.txt\" and count the total number of lines in the file. 2. Display the total number of lines in the console. 3. Ask user to input a line of text, then append this line to the end of \"information.txt\". 4. Ensure the file is properly closed after completing all operations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the usage of numpy and pandas library. The record of 3 Employees is given as Name: Riya, Rohan, Shreya Age: 26, 31, 28 Salary: 40000, 80000, 55000 Write a program to 1) create dictionary and convert it into data frame using pandas 2) print the record of employees whose salary is greater than 50000",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

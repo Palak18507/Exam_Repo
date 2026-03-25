@@ -1,0 +1,128 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. Semester: 6th  
+(May, 2025) 
+Subject Code: BCS 306  
+Subject: Compiler Design 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the purpose of symbol table in compilation? How is it 
+used during lexical analysis? 
+2.5 
+CO1 
+ 
+b)  Differentiate between Syntax analysis and Sematic analysis.  
+2.5 
+CO1 
+ 
+c)  Explain Predictive parsing. 
+2.5 
+CO2 
+ 
+d)  Discuss about different actions possible in Shift Reduce 
+parsing using suitable example.  
+2.5 
+CO2 
+ 
+e) What is a type system? Give two examples of static type 
+checking.  
+2.5 
+CO3 
+ 
+f) Suppose ∑={a,b}, then what type strings will appear in L(a*b*). 
+2.5 
+CO2 
+ 
+g) Explain about Abstract Syntax Tree and Directed Acyclic Graph 
+using suitable example. 
+2.5 
+CO4 
+ 
+h)  Convert the following expression in to equivalent three 
+address code. 
+(a+b*c)+d+(a+b*c)-d+e 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of "Grouping of Phases" in compiler design. 
+Discuss how front-end and back-end phases are grouped, along 
+with their significance in compiler construction. 
+(10) 
+CO1 
+Q3 
+Define regular expression. Let ∑={0,1} then what type of 
+language does regular expression (0+1) * will generate Construct 
+a deterministic finite Automate for (0+1)*. 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Given the grammar: 
+SCC 
+CcC∣d  
+Construct the Canonical LR (CLR) parsing table and parse the 
+input "ccdcd". 
+(10) 
+CO4 
+Q5 
+Given the augmented grammar: 
+S'  S 
+S  L=R | R 
+L  *R | id 
+R  L 
+a) Construct the canonical LR(1) item sets 
+b) Construct the LALR(1) parsing table  
+(10) 
+CO4 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss about different types of attributes? And compare S-
+attributed and L-attributed grammars with suitable examples. 
+(10) 
+CO3 
+Q7 
+How static storage allocation is different from stack-based 
+storage allocation explain with neat diagrams.  
+(10) 
+CO3 
+2 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the following optimizations using suitable examples: 
+ 
+Common sub expression elimination 
+ 
+Reduction in strength 
+ 
+Constant folding 
+ 
+Code motion  
+ 
+Dead code elimination 
+(10) 
+CO2 
+Q9 
+What are Lexical phase errors, syntactic errors and semantic 
+errors?  Explain with example. How these errors are detected. 
+(10) 
+CO2

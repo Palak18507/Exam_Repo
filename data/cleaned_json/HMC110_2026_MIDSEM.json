@@ -1,0 +1,90 @@
+{
+  "paper_id": "HMC110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC110",
+    "subject_name": "Communication Skills",
+    "program": "B. Tech.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "7 C’s of communication",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Characteristics of Communication",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Proxemics",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Telephonic Etiquette",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are organizational barriers to communication? Explain with the help of suitable examples",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is it important to use inclusive language that respects caste, race, and gender identities in communication?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the communication cycle? What are the main components in the communication cycle?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are some common barriers that can hinder active listening?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the basic rules of netiquette that everyone should follow while communicating online?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are paralinguistic cues and how do they impact the effectiveness of communication?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

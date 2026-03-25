@@ -1,0 +1,75 @@
+{
+  "paper_id": "BAI308_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI308",
+    "subject_name": "Cloud Computing",
+    "program": "Such as B. Tech. BBA, M. Tech etc.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key trends in computing that led to the evolution of cloud computing?",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept and evolution of the cloud computing paradigm with relevant examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare Hybrid Cloud with Community Cloud in terms of usage, advantages, and limitations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Cloud Deployment Models and explain each model with suitable examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain in detail the three major cloud service models: SaaS, PaaS, and IaaS in term of features, benefits, and business applications",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the layers of cloud architecture with a suitable diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss in detail the security, compliance, and data privacy challenges in cloud adoption.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

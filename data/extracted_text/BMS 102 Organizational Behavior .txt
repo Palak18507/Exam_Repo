@@ -1,0 +1,154 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Off Line) 
+Course Name: BBA, Semester: 2 
+(May, 2025) 
+ 
+Subject Code: BMS 102 
+Subject: Organizational Behavior 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the Mintzberg’s 10 managerial roles and which of the roles do you 
+think are difficult to perform and why? 
+CO1 
+ 
+b) Explain the Myers and Briggs Indicator test of Personality and do you believe 
+that companies should rely on it to hire employees? 
+CO1 
+ 
+c) Visualize a least effective leader you know. Identify the traits, motives, and 
+the personal characteristics that might be deficient in that person. 
+CO2 
+ 
+d) Despite good pay and flexible hours, employees at a design firm report 
+dissatisfaction and burnout. Using Herzberg’s theory, identify what might be 
+missing and recommend solutions. 
+CO2 
+ 
+e) Write a short note on transactional analysis as a tool to assess interpersonal 
+relationships. 
+CO3 
+ 
+f) List the types of conflict and identify the sources of conflict. 
+CO3 
+ 
+g) Write a short note on Kurt Lewin’s model of organizational change. 
+CO4 
+ 
+h) Explain any two interventions for organizational development. 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain how each dimension of the Big Five personality traits can 
+influence performance in a sales role. What are the ethical 
+considerations of using personality tests in recruitment? 
+(10) 
+CO1 
+Q3 
+Discuss how stereotyping, attribution, projection, the halo, false-
+consensus, primacy, and recency effects influence the perceptual 
+process. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Two team members with similar output receive different 
+recognition. One is demotivated and starts reducing effort. How 
+does Equity Theory explain this reaction, and what would you do 
+as their manager? 
+(10) 
+CO2 
+Q5 
+Compare managerial leadership with transformational leadership, 
+and describe the features of task-oriented, people-oriented, and 
+servant leadership. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Sometimes, the desire to maintain group harmony overrides the 
+importance of making sound decisions. When that occurs in a 
+team, its members are said to engage in groupthink. Here is an 
+example. 
+A civilian worker at a large air force base recalls a time when 
+groupthink overcame her team’s decision-making ability. She was 
+a member of a process-improvement team that an air force 
+general had formed to develop a better way to handle the base’s 
+mail, which included important letters from high-ranking military 
+(10) 
+CO3 
+individuals. The team was composed mostly of civilians, and it took 
+almost a month to come up with a plan. The problem: the plan was 
+not a process improvement. “I was horrified,” the civilian worker 
+remarked. “What used to be 8 steps was now 19.” 
+The team had devised a system that resulted in each piece of mail 
+being read by several middle managers before reaching its 
+intended recipient. The new plan slowed down the mail 
+considerably, with an average delay of two weeks. 
+Though the team members all knew that the new system was 
+worse than its predecessor, no one wanted to disrupt the team’s 
+solidarity. The problems lasted almost an entire year. It wasn’t 
+until the general who formed the team complained about the mail 
+that the system was changed. 
+This may seem like a trivial matter, but groupthink is found at the 
+lowest to the highest levels of organizations, governments, and 
+industries. For example, groupthink has been cited as contributing 
+to the 2008 global financial crisis, the Challenger space shuttle 
+disaster, the collapse of the Swiss airline Swissair, and the Enron 
+scandal. 
+ 
+1. What are some of the factors that led to group-think in the 
+case described here? 
+2. What can teams do to help avoid groupthink from 
+occurring? 
+3. The group in the case was composed of air force and 
+civilian personnel. Do you think there may have been a 
+perceived difference in status that could have contributed 
+to the groupthink? 
+Q7 
+1. What are the similarities and differences among the five 
+bases of power? 
+2. What power or influence tactics and their contingencies 
+are identified most often? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+1. Identify the different forms of resistance and explain the 
+reasons why individuals resist change. 
+2. Is most organization change forced on the organization by 
+external factors or fostered from within? Explain. 
+(10) 
+CO4 
+Q9 
+An IT company, Infotech Co., faced high attrition and low morale 
+after a major restructuring. Rather than focusing on problems, the 
+HR Director decided to implement Appreciative Inquiry (AI) to 
+rediscover the organization’s strengths. They conducted a series 
+of workshops where employees shared stories of peak 
+performance, collaboration, and innovation. The insights led to a 
+new vision focused on inclusivity, innovation, and agility. 
+ 
+Critically analyze the choice of Appreciative Inquiry in this 
+scenario. What are the advantages and potential limitations of 
+using AI over traditional problem-solving approaches in post-
+restructuring settings? Suggest how the "4D Model" of AI could be 
+strategically applied in this context. 
+(10) 
+CO4

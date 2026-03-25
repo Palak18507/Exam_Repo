@@ -1,0 +1,132 @@
+{
+  "paper_id": "BAI104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI104",
+    "subject_name": "Introduction to Data Science",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is the primary function of a Data Scientist? Mention three important tools they often use. 2.5 b Explain the concept of \"Data Ethics\". How is it relevant in Data Science practices? 2.5 c Write Python code using pandas to replace all NaN values in a DataFrame df with the column mean. 2.5 d Generate a 5x3 NumPy array filled with numbers from 10 to 24 and reshape it into a 3x5 array. 2.5 e Mention the difference between subplot and add_axes in Matplotlib. 2.5 f Describe how to create a figure with 3 rows and 2 columns of subplots in matplotlib with shared x-axis. 2.5 g Identify and explain any three filter types available in Tableau and their practical use cases. 2.5 h Explain the difference between Extract Filter and Data Source Filter. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the major stages in the Data Science Workflow. Give relevant examples of how each stage is applied in business or research. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a note on the future trends in Data Science. How are emerging fields like AI, IoT, and Big Data shaping the future of data-driven decision-making? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create both DataFrames",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Merge them using a common Employee ID",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Display details of employees whose salary is below ₹25,000 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Aggregate sales by region",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Filter records only for “North” region",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the average sale per product in that region 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Plot it using a line graph with triangle markers and dotted green lines",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a pie chart of department-wise expenses with custom settings like explode, shadow, and percentage labels 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Plot a histogram for daily humidity levels",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Generate a box plot and interpret its statistical features 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the collaborative features of Tableau and how it supports data sharing and informed decision-making within teams. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are Calculated Fields in Tableau? How do they differ from Parameters? Define a Tableau Set with an example. Explain the difference between Manual Sets and Computed Sets. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

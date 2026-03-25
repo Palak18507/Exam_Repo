@@ -1,0 +1,164 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< MCA >, Semester:<1st Sem.> 
+(December, 2024) 
+ 
+Subject Code: MCA 101  
+Subject: Programming with Python 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Explain the difference between mutable and immutable variables in 
+Python using suitable example. 
+ 
+CO1 
+ 
+b) What is the concept of "Stepwise Refinement" in programming, and 
+how does it help in problem-solving? 
+ 
+CO1 
+ 
+c) What is the purpose of the sys module in Python? Provide an 
+example of how it can be used to fetch command-line arguments. 
+ 
+CO2 
+ 
+d) Write a Python program to get a string from a given string where all 
+occurrences of its first char have been changed to '$', except the first 
+char itself. 
+Sample String : 'restart' 
+Expected Result : 'resta$t' 
+ 
+CO2 
+ 
+e) Check whether the given number is divisible or not by another 
+number by getting two inputs from the user using the lambda function. 
+ 
+CO3 
+ 
+f) Explain the concept of "Indexers" in Python using suitable example. 
+ 
+CO3 
+ 
+g) What are the basic functionalities of the pandas library in Python? 
+How would you read a CSV file using pandas? 
+ 
+CO4 
+ 
+h) What are widget attributes in Tkinter? Explain how to change the 
+size and color of a widget. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+(A) Write a Python program to display the current date and time. 
+(B) Write a Python program to construct the following pattern, using a 
+nested for loop. 
+*  
+* *  
+* * *  
+* * * *  
+* * * * *  
+* * * *  
+* * *  
+* *  
+* 
+(2.5+ 
+7.5= 
+10) 
+CO1 
+Q3 
+(A) What are logical operators in Python, and how are they used in 
+conditions? Give an example. 
+(B) Write a Python program to generate fibonacci series upto n. 
+ 
+(2.5+ 
+7.2= 
+10) 
+CO1 
+ 
+2 
+ 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+(A) Explain how string slicing works in Python. Give an example where 
+you slice a string to get a substring. 
+(B) Write a Python program to count the number of characters 
+(character frequency) in a string. 
+Sample String: google.com' 
+Expected Result: {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1} 
+(2.5+ 
+7.5= 
+10) 
+CO2 
+Q5 
+(A) How can you sort a list in Python? Write a small program that sorts 
+a list of numbers in ascending order. 
+(B) Write a Python function to check if a list is a palindrome or not. 
+Return true otherwise false. 
+Sample list: ['Red', 'Green', 'Red'] 
+Expected Result: True 
+ 
+(2.5+ 
+7.5= 
+10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+(A) What are the typical steps involved in debugging a Python program? 
+Describe one technique or tool used for debugging. 
+(B) Write a Python program that opens a file and handles a 
+FileNotFoundError exception if the file does not exist. 
+(5+5 = 
+10) 
+CO3 
+Q7 
+Discuss how Python allows the handling of multiple exceptions in one 
+try-except block. Explain the usage of multiple except blocks for 
+handling specific exceptions, as well as the else and finally blocks. 
+Provide an example where multiple exceptions are handled, including 
+a scenario that deals with both ValueError and IndexError. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+(A) How does numpy handle multidimensional arrays? Provide an 
+example of creating a 2D array using numpy. 
+(B) Write a Python program that uses matplotlib to create a scatter plot 
+of points with the x-coordinates as [1, 2, 3, 4, 5] and the y-
+coordinates as [5, 4, 3, 2, 1]. 
+(5+5 = 
+10) 
+CO4 
+Q9 
+Write a Python program that implements a temperature converter 
+application using Tkinter, allowing users to convert between Celsius 
+and Fahrenheit. 
+Sample Output 
+ 
+(10) 
+CO4

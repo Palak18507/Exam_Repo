@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:BBA, Semester: 6 
+(May, 2025) 
+ 
+Subject Code: BMS 344 
+Subject:  Social Media and web Analytics 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a)  Define and explain the roles of nodes and relations in a social 
+network. 
+ 
+CO1 
+ 
+b) What is link analysis, and how is it used to understand connections 
+in a network? 
+ 
+CO2 
+ 
+c) Define structural holes and brokerage. 
+ 
+CO3 
+ 
+d) Explain the concept of homophily. How does it contribute to social 
+segregation in networks? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of "formal methods" in social network analysis. 
+How do they help in seeing patterns? 
+(10) 
+CO1 
+Q3 
+Differentiate between different kinds of graphs used in social network 
+analysis. What insights can be derived from them? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the concept of random graphs and how they evolve. What is 
+their relevance in modeling online networks? 
+(10) 
+CO2 
+Q5 
+Explain clickstream analysis. What metrics are commonly used, and 
+how can these inform strategic decision-making? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the difference between group-external and group-internal 
+ties. How do they influence social structure? 
+(10) 
+CO3 
+Q7 
+Describe the different types of centrality: degree, closeness, and 
+betweenness. How do these measures reflect power in a network? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss how the formation of cliques can impact the flow of 
+information and influence within a network. 
+(10) 
+CO4 
+Q9 
+How are positions and roles within a network identified? Why are 
+they significant in social network analysis? 
+(10) 
+CO4

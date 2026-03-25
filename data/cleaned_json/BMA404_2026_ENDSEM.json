@@ -1,0 +1,79 @@
+{
+  "paper_id": "BMA404_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA404",
+    "subject_name": "Robotics",
+    "program": "<>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Define the range and proximity of a sensor. Co1 What is inverse kinematics in robotics Co2 What is a jacobian? Co2 Write generalized transformation matrix in robotics when rotation is about the x-axis followed by a translation in z direction. Co2 Write essential components of a robot control system Co1 What are singularities in robotics? Co3 Define Roll , pitch and yaw? Co3 Explain why path planning is required for a robotic system? Co1 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe various types of robotic arms. Co1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are the design considerations in the robot end effector for holding the object? Co1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What are the types of mechanical grippers? Explain with a neat sketch. Co1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain various types of non-contact sensors and their importance in a robot. Co3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Give the mathematical analysis of the forward transformation of a 2-degree of freedom robot arm Co2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What is DH presentation in robotics? Explain the procedure for obtaining the DH parameters. Co2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain the different types of Robot languages and different teaching methods of robot. Co4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is the difference between Lagrange–Euler and Newton Euler formulations? What are the various applications of these formuations in robotics ? Co3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

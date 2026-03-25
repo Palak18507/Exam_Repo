@@ -1,0 +1,120 @@
+{
+  "paper_id": "AMC107_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC107",
+    "subject_name": "Environmental Management",
+    "program": "BBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by abiotic and biotic components of ecosystem? Give examples of each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a short note on ‘Kyoto protocol’ and its major objectives.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Which are the major greenhouse gases? What are the sources of emission of each gas?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the primary and secondary air pollutants? How can they be separated on the basis of their physical states?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Describe the ‘Composting’ method along its advantages.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss advantages and problems of sanitary landfill.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the positive and negative impacts of developing a new project according to EIA ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the main measures implemented under the Air Act, 1981",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the various threats to biodiversity along with their underlying causes. What are the various approaches adapted for the conservation of biodiversity",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of sustainable development. Discuss the important goals it aims under the preservation of the environment program? Write a short note on various international protocols being followed for environment management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How does the ‘Greenhouse effect’ occur? Discuss its consequences to the environment? Discuss two major causes of acid rain and their impacts on the environment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain elaborately the consequences of the over exploitation of surface and ground water resources? Discuss some measures how the water levels can be replenished.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How are hazardous wastes classified? What are their sources and biochemical effects? Write short note on disposal methods of : Radioactive waste Biomedical waste",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the different categories on the basis of their sources in which the solid waste may be classified with examples. What are the different methods suggested for solid waste disposal. Explain each elaborately.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What do you understand by ‘Environment management system’? Discuss its basic principles and objectives involved. Write a note on various strategic measures and components of the environment management system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the various functions performed by central and state control pollution boards under the Air act, 1981. Illustrate the various suggested measures taken under: The environment protection act of 1986. The water act, 1974",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

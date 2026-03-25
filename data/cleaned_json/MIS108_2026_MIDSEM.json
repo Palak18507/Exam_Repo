@@ -1,0 +1,91 @@
+{
+  "paper_id": "MIS108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS108",
+    "subject_name": "Cyber Risk Management",
+    "program": "M. Tech.(IT",
+    "semester": 1,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between traditional IT security and modern cybersecurity approaches.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key cyber threats affecting organizations and individuals today.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the major factors in determining cyber risk within an organization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between internal and external cyber risks with examples.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Evaluate the role of zero-trust architecture in mitigating modern cyber risks.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How can cyber risk quantification improve decision-making in enterprise risk management?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does Monte Carlo simulations’ assist in quantitative risk assessment for cybersecurity?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the challenges in integrating cybersecurity risk management into enterprise risk management ?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Assess the effectiveness of SOC in identifying and mitigating cyber threats.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Compare and contrast risk appetite, risk tolerance, and risk capacity in cybersecurity risk management.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

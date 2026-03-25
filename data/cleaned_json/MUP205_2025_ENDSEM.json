@@ -1,0 +1,120 @@
+{
+  "paper_id": "MUP205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP205",
+    "subject_name": "Project Planning & Management",
+    "program": "<>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "NPV",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "IRR",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "PERT",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Breakeven Analysis",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Resource Management",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Project Reporting",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Project Cash Flows",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Financial Closure",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Citing any construction project, explain the various stages of project life cycle",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Financial and Economic Appraisals",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider an International football stadium to come up in Dwarka region of New Delhi. Draw a work break down structure which you would like to propose for successful completion of this project",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explaining the word project financing discuss how planning for project financing is done",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What do you understand by the word decision making? Explain various types of Decision Making. Use suitable example wherever necessary.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "With suitable example explain the use of Network Analysis in Project Monitoring",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Citing Chunnel Tunnel Project Case Study, explain how projects are evaluated",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain Principles of Cash Flow Estimation",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

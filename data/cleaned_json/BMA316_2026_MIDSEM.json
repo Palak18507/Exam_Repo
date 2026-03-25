@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA316_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA316",
+    "subject_name": "Quality Management & Six Sigma Applications",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the need of quality control?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "List the dimensions of product quality.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is non-conformity? Explain with the help of suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is risk priority number used in failure mode and effect analysis?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A food industry manufacturer of packaged drinking water has to meet rigid standards in the field. Product design, precision manufacturing equipment, and raw material/component quality from suppliers are all important. Product failure at the customer level is quite expensive and could cost Rs. 2,50,000 for each occurrence. Yearly expenditures for the past year are shown in Table 1. Analyze various quality cost components. What proportion are they of total quality costs? Find the total quality cost as a proportion of manufacturing costs and sales and comment on “Should senior management stress less on design issues?” TABLE 1: Quality Cost Expenditures Cost Categories Amount 1. Review and update of design 20,00,000 2. Planning for quality through quality improvement teams 5,00,000 3. Operator training 2,00,000 4. Maintenance of ISO certification 10,00,000 5. Vendor selection 2,00,000 6. Incoming raw material inspection 3,00,000 7. Calibration of test equipment 1,00,000 8. In-house product testing 4,00,000 9. Scrap costs of non-conforming product 5,00,000 10. Failure within warranty period 10,00,000 11. Manufacturing cost 7,00,00,000 12. Sales 10,00,00,000",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Quality Trilogy as proposed by Juran. Explain briefly.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly explain the framework of TQM.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is correlation matrix in QFD? Explain briefly with the help of an example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write the steps to do benchmarking. What are the applications of benchmarking?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Taguchi Quality Loss Function.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+(Please write your Enrollment Number)                                      Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BCS 302 
+Subject:  Wireless Networks 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a)  List the key characteristics of wireless channels. 
+2.5 
+CO1 
+ 
+b) Discuss IEEE 802.15 standard and its working groups. 
+2.5 
+CO1 
+ 
+c) Describe in brief the path finding process in Cluster Head 
+Gateway Switch routing protocol. 
+2.5 
+CO2 
+ 
+d) Discuss the types of routing protocols based on routing 
+information update mechanism. 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the key features of Ad-hoc networks and how they differ 
+from traditional wireless networks. 
+5 
+CO1 
+ 
+b) A university wants to implement a wireless network for its 
+campus. The network must support both indoor and outdoor 
+connectivity. Design a solution and briefly discuss the challenges. 
+5 
+CO1 
+ 
+c) Describe in detail RI-BTMA Protocol. 
+5 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How does Location-Aided Routing (LAR) improve efficiency over 
+traditional flooding? 
+5 
+CO2 
+ 
+b) Analyze the challenges in designing a routing protocol for Ad-
+hoc wireless network. 
+5 
+CO2 
+ 
+c) Describe in detail any one hybrid routing protocol. 
+5 
+CO2

@@ -1,0 +1,79 @@
+{
+  "paper_id": "BCS410_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS410",
+    "subject_name": "Quantum Computing",
+    "program": "<B.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all the questions. CO Mapping Derive the mathematical proof of No Cloning theorem. Is it a limitation or advantage? Give justification CO 1 Describe the Hermitian operators, Normal operators and Density operators. Give mathematical expressions to differentiate between the them. CO 1 Alice generates a bit string : |𝟎> |𝟎′ > |𝟎 > |𝟎> |𝟎′ > |𝟎 > |𝟎′ > |𝟎′ > . If Bob does measurement using : |𝟎′ > |𝟎′ > |𝟎′ > |𝟎> |𝟎> |𝟎> |𝟎′ > |𝟎′ > What positions does he keep, if he uses the B92 protocol? CO 2 Provide expressions for the Bell States and how they are different from the product states. CO 2 What do you understand by the term quantum interference? Derive the expression for interference on an arbitrary quantum state. CO 3 Explain the concept of Quantum Parallelism. Why is it important? CO 3 Explain the Amplitude Damping and the phase damping using appropriate mathematical formulations. CO 4 Differentiate between different quantum systems? Explain the concept of Decoherence. CO 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Define the Expectation value of an operator. A quantum system is in the state: |𝜓>= 1/ 7|0 > + 6/7|1 > Calculate the expectation value of X , Y and Z operators in this state. What do you understand by the term Quantum Supremacy? Give applications of QC and how is it different from CC. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Calculate the tensor products for the following: Suppose |𝜓>= |𝑎> +|𝑏>and 𝐴|𝑎>= 𝑎|𝑎>, 𝐵|𝑏>= 𝑏|𝑏>. What is 𝐴⊗𝐵|𝜓>. Find 𝑋⊗𝑍|𝜓>, where |𝜓>= |0>|0>−|1>|1> 2 , X and Z are the Pauli gates. CO 1 CO Mapping",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Give mathematical derivations of the applications of Entanglement. Why is this concept important? Justify. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe the role of quantum in cryptography. Explain the BB84 QKD protocol. Apply it to calculate the sifted key for the following: Alice creates an 8-bit string |−> |1 > |+> |+> |0 > |0 > |+> |−> Describe the bit string that Alice and Bob keeps if Bob randomly measures in the following order using the basis: {|0 >, |1 >}, {|0 >, |1 >}, |±>, |±>, |±>, {|0 >, |1 >}, |± >, |±> CO 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Briefly describe the Deutsch algorithm along with the circuit diagram. How is it related to the Phase-Kickback? Give a mathematical justification. Extend the Deutsch algorithm to n-qubits, DJ-Algorithm, with proper derivation. C0 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain the concept of quantum searching. Derive the expression for Grover’s search algorithm and its geometrical proof. C0 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Derive the mathematical expression for the single qubit errors. Describe various depolarization channels along with mathematical description. CO 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Assume that the first qubit in a logical state has been flipped so that the state is 𝛼|100 > +𝛽|011 >, apply the quantum error-correcting algorithm, i.e. Shor’s nine-bit code algorithm to find out the values of the ancillary bits after verifying the algorithm. CO 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

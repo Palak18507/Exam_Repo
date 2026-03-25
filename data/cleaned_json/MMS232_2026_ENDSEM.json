@@ -1,0 +1,119 @@
+{
+  "paper_id": "MMS232_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS232",
+    "subject_name": "Promotion Management and B 2 B Marketing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by B2B marketing. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between B2B and B2C marketing with examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is segmentation in B2B markets? Provide examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define “Weaving marketing into the fabric of the firm.” 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the role of sales promotion in the overall promotional mix. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the limitations of using sales promotion as a primary marketing tool? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What do you mean by integrated promotion? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "State any two online sales promotion techniques. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Critically evaluate the nature and scope of B2B marketing in today’s globalized economy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the key stages of the organizational buying process and Emerging paradigms of B2B marketing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A telecom enterprise uses trade shows, advertising, and PR to attract large corporate clients. Evaluate its IMC strategy and suggest improvements.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the key components of an integrated B2B communication strategy and their respective roles.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the significance and types of sales promotions in modern business.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "An FMCG brand frequently rotates sales promotions throughout the year. Examine the potential benefits and pitfalls of this strategy on consumer perception and profitability.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is outsourcing? Discuss the advantages and challenges of outsourcing sales promotion activities.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A national beverage company is launching a festive season promotional campaign. Create a plan involving salesmen, dealers, and online promotion.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

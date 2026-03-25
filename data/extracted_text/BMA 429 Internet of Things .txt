@@ -1,0 +1,97 @@
+(Please write your Enrollment Number)                             Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: Internet of Things, Semester: 7th 
+(December, 2024) 
+ 
+Subject Code: BMA 429 
+Subject: Internet of Things 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+Mapping 
+ 
+a) Define Internet of Things? 
+ 
+CO1 CO2 
+CO3 CO4 
+ 
+b) Differentiate between two major IoT boards in the market? 
+ 
+ 
+c) Write three properties of IoT devices? 
+ 
+ 
+d) What is 6LoWPAN? 
+ 
+ 
+e) If you have to switch on a bulb using alexa , it is a form of IoT? 
+Explain this 
+ 
+ 
+f) What is the purpose of using Gyroscopic sensor? 
+ 
+ 
+g) Discuss is a Waze sensor or not? 
+ 
+ 
+h) What is the difference between normal door bell and smart 
+door bell 
+ 
+UNIT I 
+ 
+Mapping 
+Q2 
+Explain what is the difference between AI, IoT and Embedded 
+systems? Also explain IoT ecosystem? 
+(10) 
+CO1 
+Q3 
+How does an Arduino uno works? Explain all the parts of the 
+components on Arduino uno hardware? Also draw the labelled 
+diagram? 
+(10) 
+UNIT II 
+ 
+Mapping 
+Q4 
+Explain major long range and short-range wireless communication 
+devices?  
+(10) 
+CO2 
+Q5 
+What is Communication Protocol? Also discuss the complete 
+architecture and three layers in communication? 
+(10) 
+UNIT III 
+ 
+Mapping 
+Q6 
+Define IIoT? Explain the following two alongwith their architecture 
+and practical examples? 
+i) IoT in healtcare                ii) IoT in Logistics 
+ 
+(10) 
+CO3 
+ 
+Q7 
+Tesla is a driverless car and does work with AI and IoT? Explain the 
+working of TESLA using IoT components? 
+(10) 
+UNIT IV 
+ 
+Mapping 
+Q8 
+What is the role of the sensors in IoT devices? How does position 
+sensor works in Ola for monitoring and tracking positions?  
+(10) 
+CO4 
+Q9 
+Explain the three in detail along with their different applications- 
+GPS, GLONASS, and IRNSS? 
+(10)

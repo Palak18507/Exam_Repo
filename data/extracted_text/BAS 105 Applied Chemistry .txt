@@ -1,0 +1,137 @@
+(Please write your Enrollment Number)                                 Enrollment No._________________ 
+ 
+Reappear End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech CSE/ECE/IT/MAE/DMAM,  
+Semester: I 
+(December, 2024)  
+ 
+Subject Code: BAS 105 
+Subject: Applied Chemistry 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(8*2.5=20) 
+CO Mapping 
+ 
+(a) 10,000 L of hard water was softened by zeolite process. The 
+zeolite required a total amount of 6 L of NaCl solution containing  
+150g/mL for regeneration. Calculate the hardness of water.    
+CO1 
+ 
+(b) What type of alkalinity is present in water if P>1/2M? Explain.  
+CO1  
+ 
+(c) Calculate the degree of freedom, number of phases, components for 
+an aqueous solution of NaCl and Na2SO4 
+CO2 
+ 
+(d) In the manufacture of H2SO4 by Contact process, explain the role of 
+Vanadium pentoxide and arsenic oxide. 
+CO2  
+ 
+(e) What are the properties and applications of nanometals? 
+CO3 
+ 
+(f) What are the advantages of composite materials over 
+conventional materials?   
+CO3  
+ 
+(g) A solution shows a transmittance of 20%, when taken in a cell of 
+2.5 cm thickness. Calculate its concentration, if the molar 
+absorption co-efficient is 12000 dm 3 /mol/cm.   
+CO4  
+ 
+(h) Explain the role of reference material (α-alumina) in DTA and 
+write down the major applications of DTA       
+CO4 
+UNIT-I 
+CO1 Mapping 
+Q2 
+(a) A water sample contains Ca (NO3)2 = 164 mg/L, 
+Mg (HCO3)2 = 73 mg/L, CaCl2 =222 mg/L, 
+MgSO4=120 mg/L. Calculate the amount of Lime 
+(74 % pure)and Soda (90 % pure) required for 
+softening a 5000 liters of hard water  
+(b) Define sequestration? Write a note on Calgon 
+Conditioning. 
+(5,5)  
+ 
+ Q3 
+(a) A water sample, using FeSO4 7H2O as a coagulant at the 
+rate of 139 ppm, gave the following results on analysis: 
+Ca2+=160 ppm, Mg2+=72 ppm, HCO3-=488 ppm, CO₂=88 ppm 
+Calculate the lime (90%) and soda (84%) required to soften 
+1,00,000 litres of water. 
+(b) Describe the method for determination of alkalinity of 
+water for OH-, CO32- and HCO3 – ions, discuss all possibilities. 
+ 
+(5,5)  
+ 
+UNIT-II 
+CO2 Mapping 
+Q4 
+(a) Explain the mechanism of enzyme catalysis and 
+turnover number. 
+(b) Discuss the number of components, phase and 
+degree of freedom for curves, areas for water system 
+using phase diagram. Also explain how water system 
+is similar to the metastable state of sulphur system 
+(5,5)  
+ 
+Q5 
+(a) Describe 
+the 
+Pattinson’s 
+process 
+for 
+desilverisation of argentiferrous lead.  
+(b) Define eutectic mixture and comment, why it 
+has a definite composition and a sharp melting 
+point, yet it is not a compound? 
+(5,5) 
+ 
+UNIT-III 
+CO3 Mapping 
+Q6 
+(a) Discuss the Top down and bottom up 
+approaches of nanomaterials synthesis. Which 
+one is better according to you and why? 
+(b) Write a note on Carbon Nanotubes and discuss 
+their applications. 
+(5,5) 
+ 
+Q7 
+(a) Classify the composite materials on the basis of 
+dispersed phase with suitable examples.  
+(b) Describe the constituents of composites and their 
+functions . What are the main advantages of 
+composites over metals?   
+(5,5) 
+ 
+UNIT-IV 
+CO4 Mapping 
+Q8 
+(a) Explain the working principle and instrumentation of UV-
+visible spectroscopy Also illustrate three important 
+applications of UV-visible spectroscopy in quantitative 
+analysis. 
+(b) Explain the basic principle and instrumentation 
+involved in Thermo Gravimetric Analysis (TGA). Why 
+TGA is often employed in conjugation with DTA     
+(5,5) 
+  
+Q9 
+(a) Using DTA for the decomposition of copper sulphate 
+pentahydrate, explain in which region anhydrous copper 
+sulphate is thermally stable 
+(b) A conductor cell has two parallel plates of 1.25 cm2 
+area placed at 10.50 cm apart. When filled with a 
+solution of an electrolyte, the resistance was found to 
+be 2.0 ×10 -3 ohms.  Calculate the cell constant and the 
+specific conductance of the solution.  
+(5,5)

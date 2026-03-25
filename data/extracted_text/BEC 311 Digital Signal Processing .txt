@@ -1,0 +1,127 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. ECE, Semester:6th Sem. 
+(December, 2024) 
+ 
+Subject Code: BEC 311 
+Subject: Digital Signal Processing (DSP) 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Find the twiddle factors for an eight-point DFT. 
+ 
+CO1 
+ 
+b) Write the relationship between circular correlation in time domain 
+and frequency domain. 
+ 
+CO1 
+ 
+c) How are analog poles mapped to digital poles in Impulse Invariant 
+Transformation? 
+ 
+CO2 
+ 
+d) What are the important features of IIR Filters?  
+ 
+CO2 
+ 
+e) Point out the warping effect? Explain its effect on frequency 
+response?  
+ 
+CO3 
+ 
+f) What are the possible types of impulse response for Linear phase FIR 
+filters? 
+ 
+CO3 
+ 
+g) What is the effect of quantization? 
+ 
+CO4 
+ 
+h) What do you mean by truncation and rounding errors? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Compute the DFT using DIT for the first 4 even numbers. 
+(10) 
+CO1 
+Q3 
+a) State and analyse convolution property of DFT?  
+ 
+b) Perform the Circular Convolution of the following sequence  
+             x(n) = {1,-1,2 ,-3,-4} and h(n)= {-1,1,2} 
+ 
+(5, 5) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Design a digital Chebyshev filter using bilinear transformation. The filter 
+has the following specifications.  Pass band Frequency 0.3π, Stop band 
+Frequency 0.5π, Pass band Ripples
+1
+√2 and Stop band Ripple 0.1. 
+Compare the order of filter with IIM method.   
+(10) 
+CO2 
+Q5 
+a) Convert the analog filter with system function H(s) into digital 
+IIR Filter by means of impulse invariant method  
+H(S)=1/(S+0.2)(S+0.6).  
+ 
+b) Realize the following using cascade and parallel form:  
+H(Z) = (3 + 3.6 Z-1 + 0.6 Z-2 ) / (1 + 0.1 Z-1 - 0.2 Z-2 ) 
+ 
+(5, 5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Design an FIR filter with frequency response using windowing 
+technique where the ideal frequency response is = 1 for the pass band 
+(10) 
+CO3 
+2 
+ 
+frequency from  -π/2 to < π/2  and zero otherwise, for N=5 and N=7 
+using Hanning window. Compare the results. 
+ 
+Q7 
+(a) Derive the Cascade and direct form II realization for:- 
+           Y (n) = 0.5y (n-1) -0.25y (n-2) +x(n)-2x (n-1) +x (n-2) 
+ 
+(b)  An all pole system is defined by H(z). Realize using parallel form. 
+ 
+(5, 5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is Multirate Signal Processing? Explain how decimation and 
+interpolation processes are used in Multirate systems for increased 
+computational efficiency and performance. 
+(10) 
+CO4 
+Q9 
+Give mathematical analysis of quantization noise power. How Does 
+Quantization degrade SNR? 
+(10) 
+CO4

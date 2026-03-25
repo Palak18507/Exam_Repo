@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI101",
+    "subject_name": "PROGRAMMING WITH PYTHON",
+    "program": "<BTECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a Python program to print the prime numbers of up to a given number, accept the number from the user.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a Python program that accepts a string and calculates the number of digits and letters.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write a program to check if the word 'open' is present in the \"This is open source software\".",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a program that reads in numbers separated by a space in one line and display distinct numbers. For example: Input: 1 1 1 1 1 2 2 2 Output: 1 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write a Python function to calculate the factorial of a number . The function accepts the number as an argument.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a Python program to handle the exception that occurs when accessing an index out of range in a list.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Given a numpy array, write a function to sort it in descending order.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Use regular expression to check if the string ends with “World!”. If a match is found, it prints “Match found!” otherwise, it prints “Match not found”.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the difference between break and continue with suitable examples. Write a program to print all prime numbers that fall between two numbers.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write the python program the print the given series: 53,53,40,40,27,27............... Print the following pattern using a for loop – 1 1 2 1 2 3 1 2 3 4 1 2 3 4 5 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "State the difference between lists and dictionary with examples. Write a python script to merge two python dictionaries.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define Tuple and show it is immutable with an example. Write a program to find maximum and minimum of tuple.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define scope of a variable in a function. Differentiate between local and global variable with examples. Write a Python program to reverse a string Sample String : \"1234abcd\" Expected Output : \"dcba4321\"",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write a Python function to check whether a string is a pangram or not. Write a Python function that takes a list as an argument and returns the sum of all the elements in the list.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Differentiate between class attributes and instance attributes with examples. Create a base class Animal with a method sound. Create a derived class Dog that overrides the sound method to print “BARK”.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a Python programming to create a pie chart with a title of the popularity of programming Languages. Sample data: Programming languages: Java, Python, PHP, JavaScript, C#, C++ Popularity: 22.2, 17.6, 8.8, 8, 7.7, 6.7 The code snippet gives the output shown in the following screenshot:",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

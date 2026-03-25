@@ -1,0 +1,77 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-TermExamination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.Tech.(MAE), Semester:7th  
+(December, 2024) 
+ 
+Subject Code: BMA 419 
+Subject: Hydraulic & Pneumatic Control 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+List and explain the primary function of hydraulic oils. 
+ 
+(b) 
+Explain low and high viscosity fluids and effects of temperature on viscosity 
+ 
+(c) 
+What is the function of direction control valve? Explain 3/2 and 5/2 direction control 
+valves. 
+ 
+(d) 
+Explain the single and double acting cylinder with the help of circuit. 
+ 
+(e) 
+What is cushioning effect in pneumatic actuators? Explain. 
+ 
+(f) 
+Differentiate between hydraulic and pneumatic systems. 
+ 
+(g) 
+Explain the linear flow equations of orifice and nozzle. 
+ 
+(h) 
+Discuss the role of feedback control systems in  pneumatic systems. 
+UNIT-I 
+Q2 
+Explain different types of hydraulic fluids with their merits and demerits. 
+(10) 
+Q3 
+Differentiate between positive and non-positive displacement pumps? Explain 
+the working of vane pump with the help of diagram. 
+(10) 
+UNIT-II 
+Q4 
+What are the functions of different types of valves used in hydraulic system?  
+Explain single and two stage pressure control valves with neat sketch. 
+(10) 
+Q5 
+Derive an expression for the flow-displacement relationship of a critical center 
+or open center three-way spool valve. 
+(10) 
+UNIT-III 
+Q6 
+Explain primary and secondary treatment of air in pneumatic systems in detail. 
+(10) 
+Q7 
+Describe different types of compressors used in pneumatic system. 
+(10) 
+UNIT-IV 
+Q8 
+Describe the proportional gain, derivative and integral actions in detail. 
+(10) 
+Q9 
+Write the short notes on any two. 
+(a) Pneumatic transmission lines 
+(b) Linear dynamics of a variable volume of gas 
+(c) Pneumatic pressure regulator    
+OR 
+What is role of on-off pneumatic feedback and explain PID control scheme. 
+(10)

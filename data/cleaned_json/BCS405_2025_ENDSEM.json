@@ -1,0 +1,120 @@
+{
+  "paper_id": "BCS405_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS405",
+    "subject_name": "Knowledge Engineering",
+    "program": "B.Tech CSE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the importance of machine learning in modern knowledge engineering.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "State the following as a form of explicit and implicit knowledge: i. Recipes written in a cookbook ii. Driving a car iii. A company’s documented policies iv. An employee’s decision-making ability in critical situations",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of knowledge engineering as a process and as a system for the finance industry domain",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "For the following scenario, define the appropriate term in relation to domain, application, application task, and application domain: \"Forecasting and mitigating the impact of cyclones on coastal infrastructure and communities in South India.\"",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the advantages of using a knowledge graph in knowledge engineering?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What challenges are commonly faced in the knowledge acquisition process?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the significance of inferencing in the context of building knowledge- based system",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the different types of knowledge? Explain with the help of brief example",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast Knowledge Management and Knowledge Engineering. Highlight their differences in focus, objectives, and applications with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the relationship between Knowledge Engineering and Artificial Intelligence. How do the principles of Knowledge Engineering enhance the development of intelligent systems?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider the following facts stored in the working memory:     Explain how forward chaining and backward chaining can assist a doctor in identifying whether the patient might have Influenza. Illustrate the step-by-step inferencing process for each method.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a semantic network to represent the following knowledge about animals:  A bird is an animal.  Birds have feathers and can fly.  Penguins are birds but cannot fly.  Mammals are animals.  Mammals have fur and give birth to live young.  Dogs are mammals, and they bark. Illustrate the semantic network diagram and explain how it captures the relationships between different entities.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is an Expert System? Discuss its significance in industries such as healthcare, agriculture, and finance. Provide examples of its applications in these domains.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is knowledge conversion? Explain the SECI model with examples to illustrate the process of knowledge conversion.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the features and characteristics of expert systems. Using the case study of MYCIN and DENDRAL, explain how expert systems are designed to solve complex problems in specific domains.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the Indian government-led initiatives such as ArogyaSetu and UMANG as expert systems. Discuss their objectives, key features, and the role they play in improving citizen services and healthcare.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

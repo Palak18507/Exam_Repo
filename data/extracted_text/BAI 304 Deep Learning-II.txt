@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  VI) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 304 
+Subject: Deep Learning-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain the bias-variance trade-off of the Neural?  
+ 
+CO1 
+ 
+b) Differentiate between Batch gradient descent and Stochastic 
+gradient descent. Identify the scenarios in which they are 
+applicable. 
+ 
+CO1 
+ 
+c) Explain the RMSprop algorithm in detail? 
+ 
+CO2 
+ 
+d) How to identify saddle point. Discuss this concept in detail. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Consider a single neuron that takes two inputs and weights are 
+initialized as (0.1, 0.1,0.1) with squared error as loss function and 
+learning rate as 0.01. What will be the updated values of weights 
+after single iteration of batch gradient descent algorithm for 
+following data samples: 
+Sr. No. 
+X1 
+X2 
+Label 
+1 
+3 
+6 
+N 
+2 
+9 
+4 
+P 
+3 
+2 
+7 
+P 
+4 
+7 
+2 
+N 
+5 
+1 
+7 
+P 
+6 
+8 
+2 
+N 
+ 
+ 
+CO1 
+ 
+b) Which scenario is depicted by low bias and high variance? 
+Explain the three approaches to tackle this scenario in detail.           
+ 
+CO1 
+ 
+c) Explain the different weight initialization strategies for ANN? 
+ 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the Adagrad algorithm in detail. How is it different from 
+Gradient descent with momentum? 
+ 
+CO2 
+ 
+b) A four hidden-layer neural network is used for binary 
+classification problem. There are 20 neurons in each hidden layer 
+with input layer of 10 neurons which is trained over 10 epochs. 
+The dataset consists of 30 samples wherein each sample occupies 
+the memory space of 5MB. If the computer memory has a 
+capacity of 23 MB. Which will be the optimal batch size for 
+training and how many iterations will be executed in single 
+epoch. Also, reason out the suitable optimizer for this scenario 
+and explain it in detail. 
+ 
+CO2 
+ 
+c) Explain the following concepts of ANN in detail along with their 
+advantages and disadvantages:  
+(i) Dropout,  
+(ii) Batch normalization  
+ 
+CO2

@@ -1,0 +1,125 @@
+P.T.O. 
+(Please write your Enrollment Number)                                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B. Tech, Semester: 8th    
+(May, 2025) 
+ 
+Subject Code: BAI 418 
+Subject: Recent Trends in AI 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a.  How does GPT differ from traditional encoder-decoder models? 
+2.5 
+CO1 
+b.  Explain the role of AI in enhancing data mining techniques. 
+2.5 
+CO1 
+c.  How do GANs generate realistic images? Briefly explain the generator-
+discriminator mechanism. 
+2.5 
+CO2 
+d.  What are the benefits of AI in Smart Grid Computing? 
+2.5 
+CO2 
+e.  What are some key challenges of integrating AI with virtual currencies? 
+2.5 
+CO3 
+f.  How can AI improve transparency and traceability in supply chain 
+operations? 
+2.5 
+CO3 
+g.  What is the role of AI in future communication technologies? 
+2.5 
+CO4 
+h.  Give two examples of AI applications in healthcare and explain one. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) Examine the evolution and significance of large-scale Language 
+Models (BERT, GPT) in AI. Highlight their contribution to Natural 
+Language Understanding (NLU). 
+(b) What are the ethical concerns associated with deploying such models 
+in real-world systems? Propose strategies to ensure responsible and fair 
+AI deployments. 
+(5+5) 
+CO1 
+Q3 
+(a) Describe the architectural components of a modern Artificial 
+Intelligence system, highlighting the role of data pipelines, model 
+selection, and inference engines. 
+(b) How does the architecture influence performance and scalability in 
+real-world AI applications such as recommendation systems or fraud 
+detection? 
+(5+5) 
+CO1 
+UNIT - II 
+ 
+CO Mapping 
+Q4 
+(a) Explain the working principle of Generative Adversarial Networks 
+(GANs), focusing on the interplay between the generator and 
+discriminator. 
+(b) Evaluate the role of GANs in advancing fields such as deepfake 
+technology and medical imaging. How can industries leverage GANs 
+while addressing associated ethical risks? 
+(5+5) 
+CO2 
+Q5 
+(a) Discuss how AI-powered Computer Vision systems interpret visual 
+data. Highlight key algorithms like Convolutional Neural Networks 
+(CNNs) used in object detection and recognition. 
+(b) Analyze the challenges faced when deploying AI-based vision systems 
+in dynamic environments such as autonomous driving or industrial 
+automation. 
+(5+5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Explain how AI enhances Blockchain technology in areas such as 
+secure trading, fraud detection, and smart contracts optimization. 
+(b) Discuss a real-world case where AI-Blockchain integration has 
+improved transparency or efficiency. What challenges were encountered 
+during implementation? 
+(5+5) 
+CO3 
+ 
+Q7 
+(a) Discuss how AI is being utilized in managing and predicting trends in 
+Virtual Currencies like Bitcoin and Ethereum. 
+(b) Evaluate the risks and limitations of deploying AI algorithms in 
+cryptocurrency trading, especially concerning market volatility and 
+regulatory concerns. 
+(5+5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Discuss the role of AI in enhancing Geographical Information Systems 
+(GIS) for spatial data analysis and decision support. 
+(b) Analyze how AI-powered GIS is being applied in disaster management 
+or urban planning. What are the key challenges in handling geospatial big 
+data? 
+(5+5) 
+CO4 
+Q9 
+(a) Define the concept of a Smart City. How does AI contribute to core 
+components such as traffic management, waste management, and 
+public safety? 
+(b) Evaluate the ethical, privacy, and data governance issues arising from 
+large-scale AI deployment in Smart City infrastructures. 
+(5+5) 
+CO4

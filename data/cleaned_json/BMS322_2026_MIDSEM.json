@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS322_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS322",
+    "subject_name": "International Marketing",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Concept of International Marketing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Environmental Scanning",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Three components of international economic environment",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Types of registration for a company",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate Domestic marketing VS international marketing.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Analyze the various elements of International marketing Framework",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "KFC, a fast - food operator, faced immense resistance from some politically active consumer groups when it opened its operations in India. One group proclaimed that opening KFC outlets in the country would propagate a \"junk-food\" culture. Others proclaimed that this way \" the return of imperialistic powers\" and was an attempt to \"Westernize the eating habits\" of Indians Overzealous local authorities in the city of Bangalore used a city law restricting the use of MSG over a certain amount as a pretext for temporarily closing down the outlet, despite the fact that the authorities did not even have the equipment to measure the MSG content in the proportions stated in law. In the capacity city of New Delhi a KFC outlet was temporarily closed down because the food inspector found a \"house-fly\" in the restaurant. Both of these issues got resolved through hectic consultations with these consumer groups and through legal orders issued protecting the interests of the outlets. In view of the above situation, critically examine he impact of social and political environment on a firm's operation in international markers. After completion of your MBA , suppose you have been appointed Country Manager in KFC, what steps would you take to cope up with the situation?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Outline the latest EXIM policy of India.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a detail note on export documentation process involved in exporting.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define direct exporting and mention its advantages and disadvantages.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

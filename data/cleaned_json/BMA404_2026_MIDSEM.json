@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMA404_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA404",
+    "subject_name": "Robotics",
+    "program": "B. Tech.-MAE/DMAM",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a robot’s payload and workspace?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by the term Industrial robot?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between an end effector and a robot's gripper?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the use of IR sensors in a robot?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the various classifications of robots? Explain.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the robot's anatomy. Explain the function of each part.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the different robot configurations? Explain any Two configurations with a diagram.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why different types of grippers are used? Describe various types of robotic grippers.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the need for different types of sensors used in a robot? Explain any 4 types of sensors and their functions.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the need for a robotic vision in today's world? Explain",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: Ph.D: Sem: I 
+(May, 2025) 
+ 
+Subject Code: PhD 133 
+Subject: An Introduction to Artificial Intelligence  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions                                                                         (2.5*8=20) 
+CO Mapping 
+a 
+What is Branch and Bound Search? Explain with example. 
+CO1 
+b 
+Explain Stochastic Local Search 
+CO1 
+c 
+Give some real-world applications of AI. 
+CO2 
+d 
+How is iterative deepening A* better than A*? 
+CO2 
+e 
+What is inference engine with example. 
+CO3 
+f 
+What is Hill climbing search & its limitations? 
+CO3 
+g 
+What is completeness(logic)? 
+CO4 
+h 
+What do you mean by forward & backward search. 
+CO4 
+UNIT I 
+CO Mapping 
+Q2 
+What is forward chaining and how it is different from the backward chaining 
+CO1 
+Q3 
+Write short note on Beam Stack Search? 
+CO1 
+UNIT II 
+CO Mapping 
+Q4 
+Suppose you have four cities: A, B, C, and D. You want to find the shortest route that 
+visits each city exactly once and returns to the starting city. You can create a matrix 
+to represent the distances between the cities: 
+ 
+A 
+B 
+C 
+D 
+A 
+0 
+10 
+15 
+20 
+B 
+10 
+0 
+35 
+25 
+C 
+15 
+35 
+0 
+30 
+D 
+20 
+25 
+30 
+0 
+In this matrix, the entry at row i and column j represents the distance between city i 
+and city j. Now, you can use a brute-force approach to find the shortest route by 
+generating all possible permutations of the cities and calculating the total distance for 
+each permutation. 
+CO2 
+2 
+ 
+Q5 
+What do you mean by genetic algorithm? How is it works? 
+CO2 
+UNIT III 
+CO Mapping 
+Q6 
+A map on a grid (each tile 1x1 in size) is shown below. The locations are at grid 
+points and are connected by two way edges (roads) and each edge has a cost that is 
+the same in both directions. The start node is S and the goal node is G, the MoveGen 
+function returns neighbours in alphabetical order. The RemoveSeen procedure 
+removes neighbours already present in OPEN/CLOSED lists. 
+ 
+ 
+ 
+Use Manhattan distance as the heuristic function. 
+Tie Breaker: when multiple nodes have the same cost then use alphabetical order to 
+break ties. 
+Run A* to find a path from S to G, then answer the questions. 
+A) What is the path found by Breadth First Search? 
+B) What is the path found by Depth First Search? 
+C) What is the path found by Best First Search? 
+CO3 
+Q7 
+What is minmax search for game playing? Explain min max algorithm. 
+CO3 
+UNIT IV 
+CO Mapping 
+Q8 
+Explain backtracking algorithm with example? 
+CO4 
+Q9 
+What is Hill climbing search & its limitations? 
+CO4

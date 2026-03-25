@@ -1,0 +1,120 @@
+{
+  "paper_id": "AMC103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC103",
+    "subject_name": "BUSINESS COMMUNICATION-I",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A team leader needs to communicate a sudden policy change to employees effectively. Suggest any one communication channel they should use and why. 2.5 CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Identify two barriers to communication and suggest one practical way to overcome each in a team setting. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "During a virtual meeting, a participant speaks too quickly, making it hard to understand. What paralanguage adjustment would you recommend? 2.5 CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "In a cross-cultural team, how can proxemics and body language enhance understanding? Provide an example. 2.5 CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "In a group discussion, a participant frequently interrupts others. Suggest a strategy to handle this situation professionally. 2.5 CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are two common errors in spoken communication? Suggest one way to address each. 2.5 CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "A colleague struggles with writing well-structured paragraphs. What advice would you give them about the role of the topic sentence and variety in sentences? 2.5 CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Identify two differences between formal and informal emails. 2.5 CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "As a manager, you are tasked with improving communication between your team and senior management. What steps would you take to ensure that both parties understand each other clearly and effectively? Use the 7Cs of communication to support your answer. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the characteristics of effective communication and discuss how each characteristic contributes to overcoming communication barriers. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "During a crucial client meeting, you notice that your team members are not fully listening to the client’s concerns. Identify the listening barriers present and suggest ways to improve listening skills to foster better understanding. CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the significance of body language in communication and how it can influence workplace interactions. During a team meeting, one of your colleagues often crosses their arms and avoids eye contact while CO 3 others are speaking. What might this non-verbal behavior indicate, and how can it affect the flow of communication?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the key strategies for successful participation in a Group Discussion. You are part of a team involved in a group discussion during a job interview, and you find it difficult to speak up due to nervousness. How can you overcome this fear and contribute effectively to the discussion? and CO 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the relationship between speaking skills and language efficiency. In a team meeting, you are expected to provide a quick update, but your vocabulary feels limited, and you struggle to articulate your points clearly. What steps can you take to improve your language efficiency and present your ideas logically in such situations? and CO 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the difference between formal and informal writing and discuss the scenarios where each type is appropriate. You need to write a formal email to a client to follow up on a meeting. What tone, structure, and content will you include to ensure the email is clear, professional, and effective? CO 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the essentials of paragraph writing, including the role of the topic sentence, introduction, body, and conclusion. You are writing a report summarizing the results of a team project. Use the basics of paragraph writing to structure one paragraph about the outcomes of the project. CO 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

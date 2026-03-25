@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP110",
+    "subject_name": "History of Architecture II",
+    "program": "B. Arch.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Illustrate the types of colonnade surrounding the naos of a Greek temple. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How did the Greeks accomplish optical illusion in architecture? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Through which architectural components did the Roman cities ensure water supply for its urban citizens? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe the Tuscan order as was incorporated in Roman Architecture. 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the evolution of the Greek temple 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Illustrate with the help of self-explanatory sketches, the Greek Temple architectural vocabulary through the orders. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Depict a brief explanation of the Palace of Knosos with the help of sketches. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe briefly the structural and engineering achievements of the Romans. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Briefly mention the Roman architectural typology and types of buildings with the help of sketches. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Illustrate the elements of space making and materials in Roman Architecture. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

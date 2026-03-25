@@ -1,0 +1,81 @@
+{
+  "paper_id": "AMC104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC104",
+    "subject_name": "Business Communication II",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the importance of business etiquette in building lasting impressions and professional trust? 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key challenges in online business communication? 5",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the ethical issues in business communication that most organizations can face? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the role and principles of ethics in business communication. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define plagiarism and its types in business communication. How can plagiarism be avoided? 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the different types of business etiquette for professional conduct and building lasting relationships. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is netiquette and the core netiquette rules to be followed to maintain a safe and secured environment for business communication? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key aspects of business telephone etiquette that can enhance customer satisfaction? 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

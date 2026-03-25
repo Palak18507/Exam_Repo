@@ -1,0 +1,126 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <PhD Coursework>,  
+(May, 2025) 
+ 
+Subject Code: PhD 150 
+Subject: ESSENTIALS OF DATA SCIENCE WITH R SOFTWARE-1: 
+PROBABILITY AND STATISTICAL INFERENCE 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define a discrete random variable. Write a small R code to assign 
+and print probabilities for rolling a fair die. 
+ 
+CO1 
+ 
+b) A coin is tossed three times. List the sample space and compute the 
+probability of getting exactly two heads. 
+ 
+CO1 
+ 
+c) Explain the Central Limit Theorem with a hypothetical example. 
+Why is it important? 
+ 
+CO2 
+ 
+d) Write an R code snippet to generate a sample of 10 values from a 
+normal distribution and calculate mean and standard deviation. 
+ 
+CO2 
+ 
+e) What is point estimation? Mention two common estimators used in 
+statistics. 
+ 
+CO3 
+ 
+f) Write a program to calculate a 95% confidence interval for sample 
+mean using given mean, SD, and sample size. 
+ 
+CO3 
+ 
+g) Write R code to perform a one-sample t-test with clearly labeled 
+steps (do not compute output). 
+ 
+CO4 
+ 
+h) Explain the meaning of the p-value in hypothesis testing with an 
+example scenario. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of a random variable with suitable examples. 
+Write an R script to simulate 100 values from a Binomial distribution 
+(n=10, p=0.5) and mention how the histogram would look based on 
+the distribution properties. 
+(10) 
+CO1 
+Q3 
+Define a discrete probability distribution. Consider a random variable 
+X representing the number of heads in two tosses of a fair coin. 
+ 
+Construct the probability distribution table for X. 
+ 
+Calculate the mean and variance of the distribution. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the Law of Large Numbers and its implication in sampling. 
+Write a program to simulate the rolling of a fair die 500 times, 
+calculate the running average, and explain how this demonstrates 
+convergence. 
+(10) 
+CO2 
+Q5 
+What are sampling distributions? Describe how the Central Limit 
+Theorem applies to the sampling distribution of the mean.  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define confidence intervals. Given a sample mean of 75, standard 
+deviation of 8, and sample size of 64, computes the 95% confidence 
+interval for the population mean. Clearly write the steps and formula 
+involved. 
+(10) 
+CO3 
+Q7 
+Discuss methods of point estimation for parameters. What are the 
+maximum likelihood estimation (MLE) and method of moments? 
+Explain how you would use the sample mean as an estimator for the 
+population mean and discuss its properties. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+State the steps involved in testing a statistical hypothesis. A sample of 
+size 36 has a mean weight of 58 kg. The population mean is 60 kg, and 
+the standard deviation is 6 kg. Test at 1% significance level whether 
+the sample mean differs significantly from the population mean. 
+(10) 
+CO4 
+Q9 
+Explain the concept of Type I and Type II errors in hypothesis testing. 
+What are the consequences of each type of error? 
+Provide an example of a hypothesis test with an explanation of 
+potential Type I and Type II errors. 
+(10) 
+CO4

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC401_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC401",
+    "subject_name": "MICROWAVE TECHNIQUES",
+    "program": "BTECH",
+    "semester": 7,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State difference between Klystron and Magnetron. ALL 4 UNITS",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How can you increase the power gain of a Klystron.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Which TE mode is not possible in a circular waveguide? Justify your answer.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the best position of a probe to generate the TE10 mode?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is Richard's transformation. Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss on all modes in Gunn diode?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Compare between Stripline and Microstrips with a suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the working of a step impedance low pass filters.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Derive relation between λg, λ, λc in a rectangular waveguide. Show all steps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT 1",
+      "question_text": "What are performance parameters of directional coupler with equations? Show all steps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Prove mathematically with required equation that a Magnetron having N resonators, with adjacent resonators tightly coupled, cannot have possible modes of resonance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT 3",
+      "question_text": "A helix TWT is operated with a beam current 200mA, beam voltage 4.0kV, and characteristic impedance 40Ω. If a 50dB gain is required at 9Ghz, calculate the helix length.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT 3",
+      "question_text": "Prove that impedance and admittance matrices are symmetrical for a reciprocal junction, with suitable diagram and equations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is the frequency band for which Microwave integrated circuits are designed to work? How stripline and microstrip differs from each other?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT 2",
+      "question_text": "Explain in detail about the microwave power measurement using power meter with neat sketch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is a quarter-wave transformer? What is the main disadvantage of using a quarter-wave transformer?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

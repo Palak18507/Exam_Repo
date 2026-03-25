@@ -1,0 +1,127 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. ECE-AI, Semester:1st Sem. 
+(December, 2024) 
+ 
+Subject Code: BEC 101 
+Subject: Analog Electronics (AE) 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the source of leakage current in a transistor? 
+ 
+CO1 
+ 
+b) Discuss the principle of Zener Diode. 
+ 
+CO1 
+ 
+c) What is transconductance parameter of a transistor? 
+ 
+CO2 
+ 
+d) Differentiate between cascade and cascode amplifiers. 
+ 
+CO2 
+ 
+e) Give various properties of negative feedback amplifiers. 
+ 
+CO3 
+ 
+f) How a thyristor work as a latching device? 
+ 
+CO3 
+ 
+g) Define Channel Length Modulation. 
+ 
+CO4 
+ 
+h) Why a NMOS is preferred over PMOS. Give reasons? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Determine the Q-point i.e; VCEQ and ICQ for the self-biased CE 
+amplifier shown in Figure 1 below. Assume VBE = 0.7 V and βF = 
+50. 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+CO1 
+ 
+b) Discuss DC load line concept and stability of Q-point in context 
+of different factors affecting it. 
+ 
+ 
+Q3 
+Analyze the clamping network given below in Figure 2 by step by step 
+procedure and find out output waveform of the circuit. 
+(10) 
+CO1 
+ 
+Figure 2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Give small signal equivalent circuit model of common Base (CB) 
+configuration for analysis at low frequency and find out the following 
+characterizing parameters: 
+i) Input Resistance (Rin) 
+ii) Output Resistance (Ro) 
+iii) Open Circuit Voltage Gain (Avo) 
+iv) Overall voltage gain (Gv) 
+(10) 
+CO2 
+Q5 
+Analyze the transistor amplifier shown in Figure 3 below to determine 
+its voltage gain vo/vin. Assume β = 100. 
+  
+Figure 3 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss RC coupling, transformer type coupling and Direct coupling in 
+multistage amplifiers with their advantages and disadvantages over 
+each other. Also, give applications of all these three coupling methods. 
+(10) 
+CO3 
+Q7 
+Write short note on the following: 
+i) 
+Silicon Controlled Rectifier (SCR) 
+ii)    TRIAC Thyristor 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+ 
+ 
+ 
+Q8 
+Discuss the construction and working of n-channel enhancement type 
+MOSFET. Also, draw and explain its gate and drain characteristics.  
+(10) 
+CO4 
+Q9 
+Discuss operation of complementary MOSFET with neatly labelled 
+diagram. Also, give circuit of CMOS inverter and explain its working. 
+(10) 
+CO4

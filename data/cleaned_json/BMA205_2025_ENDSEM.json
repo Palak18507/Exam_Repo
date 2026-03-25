@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA205",
+    "subject_name": "Thermal Engineering - I",
+    "program": "< B.Tech. (MAE) >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Which of the following are intensive properties of a system and why: Heat, Temperature, Work, Pressure.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write Kelvin Planck statement of second law of thermodynamics.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Air is heated from 303 K to 373 K in a constant volume process. Determine the change in entropy of air. For air, take Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K and R = 0.287 kJ/kg K.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "A gas changes its state in a closed system from state point 1 to state point 2. Write the expression for maximum useful work obtained. The surroundings are at po and To.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write the four Maxwell equations.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Draw Carnot cycle on T-s plane and list out various processes of the cycle.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Saturated water is vapourised into dry saturated steam at constant pressure. Write the expression for the change in entropy during the process of vapourization in terms of latent heat of vapourization and saturation temperature .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define adiabatic flame temperature.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Prove that internal energy is a point function or property of the system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "State and prove Clausius statement of second law of thermodynamics",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Derive the expression for the change in entropy during a constant volume process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Air expands through a turbine from 500 kPa and 520oC to 100 kPa and 300oC. During expansion 10 kJ/kg of heat is lost to the surroundings which are at 98 kPa and 20oC. Neglecting the changes in kinetic and potential energies, determine per kg of air the decrease in availability. For air take Cp = 1.005 kJ/kg- K and R = 0.287 kJ/kg-K.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Draw Otto cycle on p-V plane and list out various processes of the cycle. Derive the expression for thermal efficiency in terms of compression ratio and specific heat ratio.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Calculate the specific volume, enthalpy, internal energy and entropy of wet steam at 8 bar pressure and 0.9 dryness fraction. Use following properties of steam: 2 At 8 bar pressure, vf = 0.0011150 m3/kg, vg = 0.24026 m3/kg, hf = 720.94 kJ/kg, hg = 2767.5 kJ/kg, hfg = 2046.5 kJ/kg, sf = 2.0457 kJ/kg K, sg = 6.6596 kJ/kg K, sfg = 4.6139 kJ/kg K.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "In a Rankine cycle-based steam power plant, steam at 50 bar and 400oC enters the steam turbine and expands isentropically to a condenser pressure of 0.1 bar. Calculate thermal efficiency of the plant. Use the following properties of steam: For superheated steam: Absolu te pressur e, p Temperatu re, ts Specific enthalpy, h Specifi c entrop y, s Specific volume, v 50 400 3196.7 6.6483 0.057837 0 For saturated water and steam: Press ure Specific volume Specific enthalpy Specific entropy vf hf hfg hg sf sfg sg 0.1 0.0010102 191.8 2392.1 2583.9 0.6492 7.4996 8.1488",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Ethane is burned with 200% theoretical air. Write the combustion equation, balance it and calculate the value of air-fuel ratio on mass basis.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

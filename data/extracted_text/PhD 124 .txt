@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: PhD 
+(May, 2025) 
+ 
+Subject Code: PhD 124 
+Subject:  Foundations of R Software  
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a)  What are the key reasons for using R in data analysis and 
+statistical computing? 
+ 
+CO1 
+ 
+b) Explain the use of conditional execution structures such as if, 
+if-else, and switch in R. 
+ 
+CO2 
+ 
+c) What are lists in R, and how are they different from vectors and 
+data frames? 
+ 
+CO3 
+ 
+d) How do you create, combine, and merge data frames in R? Give 
+examples. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain how packages and libraries are used in R. How do you install 
+and load a package? 
+(10) 
+CO1 
+Q3 
+How do you install R and RStudio, and what is the difference 
+between them? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Compare the different types of loops in R i.e. for, while, and 
+repeat with examples. 
+(10) 
+CO2 
+Q5 
+Describe the role of sequences in R and how they are created using 
+the seq() function. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the use of the gsub() and sub() functions in string 
+substitution and replacement. 
+(10) 
+CO3 
+Q7 
+Define factors in R. What are class() and unclass() functions 
+used for in relation to factors? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe how to create basic plots such as scatter plots, bar plots, 
+and histograms in R. 
+(10) 
+CO4 
+Q9 
+Explain the use of statistical functions like mean, median, and 
+quantile in R. 
+(10) 
+CO4

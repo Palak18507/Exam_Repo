@@ -1,0 +1,125 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech.(ECE), Semester:1st  
+(December, 2024) 
+ 
+Subject Code: BEC 203 
+Subject: Signals & Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Define discrete time unit step & Unit impulse. 
+ 
+CO1 
+ 
+b) Find whether the signal given by x (n) = 5cos (6n) is periodic or 
+Not? 
+ 
+CO1 
+ 
+c) What are the differences between Fourier series and Fourier 
+transform? 
+ 
+CO2 
+ 
+d) Write short notes on Dirichlet’s conditions for Fourier 
+Transform. 
+ 
+CO2 
+ 
+e) Sketch the function x(t)= u(t)-2u(t-2). 
+ 
+CO3 
+ 
+f) What do you mean by Min Phase and Max Phase systems. 
+ 
+CO3 
+ 
+g) Differentiate between DTFT and Z-Transform. 
+ 
+CO4 
+ 
+h) Discuss different properties of Region of Convergence (ROC) of 
+Z-transform. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+a) Are the systems represented by the following equations LTI 
+system or not? 
+y(n) = x(n-1) + 3x(n) + nx(n) 
+ 
+b) Find the convolution of two signals x(n) = { 1, 1,0, 1, 1} and h(n) = { 1, 
+-2, -3, 4} and represent them graphically. 
+(10) 
+CO1 
+Q3 
+The input and output of a causal LTI system are related by the 
+differential equation, 
+d2y(t)/dt2+6dy(t)/dt+8y(t)=2x(t)  
+Find the impulse response of the system? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+ Find the Fourier series representation of a periodic square wave: 
+f(t) = 1 for 0<t<π 
+= -1 for π<t<2π 
+(10) 
+CO2 
+Q5 
+Find the Fourier transform of 1/(a+jt) if 
+ F.T [e-atu(t)] = 1/(a+jw) 
+(10) 
+CO2 
+2 
+ 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Draw and explain the convergence of Fourier Series of square wave by 
+illustrating the Gibbs phenomenon for different values of ‘N’ 
+(10) 
+CO3 
+Q7 
+Consider a sequence x(n) 
+ 
+Find its discrete time Fourier Transform  
+. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+What are Dirichlet’s conditions? Discuss special cases of functions 
+which violet different Dirichlet’s conditions. Explain such cases with 
+graphical representation of these functions. 
+(10) 
+CO4 
+Q9 
+Determine the z-transform and the ROC of the following signals:- 
+ 
+(10) 
+CO4

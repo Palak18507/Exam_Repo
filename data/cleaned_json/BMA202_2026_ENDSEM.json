@@ -1,0 +1,80 @@
+{
+  "paper_id": "BMA202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA202",
+    "subject_name": "Production Technology - II",
+    "program": "B. Tech (MAE",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Explain the term collet and mandrel with the help of suitable diagram. CO-1 List tool signature elements for single point cutting tool. CO-1 Explain the facing and turning operations with suitable diagram. CO-2 What is the significance of negative rake angle? Which type of materials are commonly machined with negative rack angle? CO-2 What is drill bit? Explain the various tool signature elements of drill bit with suitable diagram. CO-3 Explain the term indexing in milling operation. What is the purpose of dividing head in milling machine? CO-3 Explain the various specification of grinding wheel. CO-4 Explain the honing operation in detail with suitable diagram. CO-4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain the mechanism of chip formation during orthogonal cutting. Also, describe different type of chips formed during orthogonal cutting with the neat sketch. CO-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Differentiate between conventional lathe and CNC lathe with suitable diagram CO-1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the various operations like boring, knurling, chamfering and thread cutting performed on lathe machine with suitable diagram CO-2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain the various operations performed on drilling machine with suitable diagram. CO-2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Draw and explain the various constructional features of universal milling machine with neat sketch. CO-3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain the various operations performed on milling machine with suitable diagram. CO-3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Differentiate between Surface grinding and center-less grinding machine with suitable diagram. CO-4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain the lapping and super-finishing operations on grinding machine CO-4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

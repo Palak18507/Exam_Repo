@@ -1,0 +1,108 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< MBA>, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code:MMS-295 
+Subject: Time Series Analytics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Define a difference equation. How is it used in time series 
+modeling? 
+2.5 
+CO1 
+ 
+b) Explain the concept of lag operators with an example. 
+2.5 
+CO1 
+ 
+c) Differentiate between autocorrelation and partial autocorrelation. 
+2.5 
+CO2 
+ 
+d) What is the significance of the autocorrelation function (ACF) in 
+time series analysis? 
+2.5 
+CO2 
+ 
+e) What are the key characteristics of ARCH and GARCH models? 
+2.5 
+CO3 
+ 
+f) Explain how volatility clustering is captured in a GARCH model. 
+2.5 
+CO3 
+ 
+g) What is the difference between deterministic and stochastic 
+trends? 
+2.5 
+CO4 
+ 
+h) Define unit roots and their importance in time series analysis. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Analyze the role of undetermined coefficients in solving difference 
+equations. Illustrate with an example. 
+(10) 
+CO1 
+Q3 
+What is the cobweb model? State its importance in economic 
+modeling. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+What is parameter instability in time series models, and how does it 
+affect forecasting? 
+(10) 
+CO2 
+Q5 
+Analyze the steps involved in estimating and diagnosing an ARMA 
+model using a real-world dataset. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Provide a practical example of using GARCH models in financial risk 
+management. 
+(10) 
+CO3 
+Q7 
+Construct a hypothetical ARCH-M model, and explain its implications 
+for economic data. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Examine the methods for testing structural change in time series data. 
+(10) 
+CO4 
+Q9 
+Discuss the role of Monte Carlo methods in evaluating unit root tests. 
+(10) 
+CO4

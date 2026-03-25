@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B. Tech (MAE), Semester:4 
+(May, 2025) 
+ 
+Subject Code: BMA 202 
+Subject: Production Technology - II 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Explain the term collet and mandrel with the help of suitable 
+diagram. 
+CO-1 
+ 
+(b) 
+List tool signature elements for single point cutting tool.   
+CO-1 
+ 
+(c) 
+Explain the facing and turning operations with suitable diagram. 
+CO-2 
+ 
+(d) 
+What is the significance of negative rake angle? Which type of 
+materials are commonly machined with negative rack angle?  
+CO-2 
+ 
+(e) 
+What is drill bit? Explain the various tool signature elements of 
+drill bit with suitable diagram.  
+       CO-3 
+ 
+(f) 
+Explain the term indexing in milling operation. What is the 
+purpose of dividing head in milling machine? 
+       CO-3 
+ 
+(g) 
+Explain the various specification of grinding wheel.  
+       CO-4 
+ 
+(h) 
+Explain the honing operation in detail with suitable diagram.  
+       CO-4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Explain the mechanism of chip formation during orthogonal 
+cutting. Also, describe different type of chips formed during 
+orthogonal cutting with the neat sketch. 
+(10) 
+CO-1 
+Q3 
+Differentiate between conventional lathe and CNC lathe with 
+suitable diagram 
+(10) 
+CO-1 
+UNIT-II 
+CO Mapping 
+Q4 
+Explain the various operations like boring, knurling, chamfering 
+and thread cutting performed on lathe machine with suitable 
+diagram 
+(10) 
+CO-2 
+Q5 
+Explain the various operations performed on drilling machine with 
+suitable diagram. 
+(10) 
+CO-2 
+UNIT-III 
+CO Mapping 
+Q6 
+Draw and explain the various constructional features (parts) of 
+universal milling machine with neat sketch. 
+(10) 
+CO-3 
+Q7 
+Explain the various operations performed on milling machine with 
+suitable diagram.  
+(10) 
+CO-3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Differentiate between Surface grinding and center-less grinding 
+machine with suitable diagram. 
+(10) 
+CO-4 
+Q9 
+Explain the lapping and super-finishing operations on grinding 
+machine 
+(10) 
+CO-4

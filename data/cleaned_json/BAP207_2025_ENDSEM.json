@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP207_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP207",
+    "subject_name": "History of Architecture -III",
+    "program": "<B.ARCH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The Durga temple, Aihole",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss St. Andrea Mantua by Renaissance architect Leon Batista Alberti. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Sun Temple, Konark",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Mandapa and Ardha Mandapa CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the concept of \"Chár-Bagh\" with the help of Humayun's tomb CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the characteristics of renaissance architecture with Villa Rotunda and St. Peters as examples. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Salient features of the richness of the art and architecture of Vijaynagar dynasty with the help of an important example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "The cave temples of Badami CO",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the two phases of Buddhism? Mention their differences. Explain the major architectural features of Buddhism. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Draw and label all the significant parts of the great Stupa at Sanchi CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the architecture of the Kandaríya Mahadev temple, of Khajuraho. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Highlight all the characteristics features of the Pallavas architecture. Describe in detail the Rathas of Mahabalipuram. Draw neat sketches. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Elaborate on the emergence of Islamic Architecture in 11\" century in India. Give the general characteristics of the Indian Islamic style, taking example of the Qutub Minar at Delhi. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the principles of planning used in Fatehpur Sikri. Explain any one structure in detail with neat sketches. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Briefly describe the characteristic features observed in Gothic style with suitable examples. Draw neat sketches of a plan, elevation and section of Notre Dame, Paris describing all its aesthetic elements. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the structural system in the process of building Hagia Sophia. Draw neat sketches. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

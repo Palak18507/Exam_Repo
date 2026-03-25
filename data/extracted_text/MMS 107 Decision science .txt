@@ -1,0 +1,133 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BMA, Semester : 1 
+(December, 2024) 
+ 
+Subject Code: MMS 107 
+Subject: Decision Sciences 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the central limit theorem? 
+ 
+1 
+ 
+b) What is correlation? 
+ 
+1 
+ 
+c) What are mutually exclusive events? 
+ 
+2 
+ 
+       d)    Write two applications of the assignment method 
+ 
+2 
+ 
+        e)    Fill in the blank.  
+ The  graphical region which satisfies all constraints is called --------
+___________________________ . 
+ 
+ 
+2 
+ 
+f)   A fair six-sided die is rolled. What is the probability of rolling a 
+number greater than 4? 
+ 
+2 
+ 
+g) What is mode? 
+ 
+3 
+ 
+h)  What is a saddle point ? 
+ 
+3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is regression, and what are its application? 
+ 
+(10) 
+1 
+Q3 
+What are the measures of central tendency? Explain 
+ 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+A factory produces 60% of its products from Machine A and 40% from 
+Machine B. Machine A has a defect rate of 2%, while Machine B has a 
+defect rate of 5%. If a randomly selected product is found to be 
+defective, what is the probability that it was produced by Machine A? 
+ 
+(10) 
+2 
+Q5 
+A survey shows that 70% of people in a city own a smartphone, and 
+40% of those who own a smartphone also own a tablet. If a person is 
+chosen at random from the city, what is the probability that they own 
+a tablet, given that they own a smartphone? 
+ 
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A manufacturer of a line of patent medicines is preparing a production 
+plan on medicines A and B. There are sufficient ingredients available 
+to make 20000 bottles of medicine A and 40000 bottles of medicine B, 
+but there are only 45000 bottles into which either of the medicines 
+can be put. Furthermore, it takes 3 hours to prepare enough material 
+(10) 
+3 
+to fill 1000 bottles of A and one hour to prepare enough material to 
+fill 1000 bottles of B, and there are 66 hours available for this 
+operation. The profit is Rs. 8 per bottle of medicine A and Rs. 7 per 
+bottle of medicine B. formulate this problem as a linear programming 
+problem. 
+ 
+Q7 
+A firm can produce three types of cloth; say A, B and C. Three kinds of 
+wool are required for it: red wool, green wool, and blue wool. One-
+unit length of type A cloth needs 2 meters of red and 3 meters of blue 
+wool; one-unit length of type B cloth needs 3 meters of red wool, 2 
+meters of green wool and 2 meters of blue wool; and one-unit length 
+of type C cloth need 5 meters of green wool and 4 meters of blue 
+wool. The firm has only a stock of 8 meters of red wool, 10 meters of 
+green wool and 15 meters of blue wool. It is assumed that the income 
+obtained from one-unit length of type A cloth is Rs. 3, of type B is Rs. 5 
+and that of type C is Rs. 4. 
+ 
+Formulate this problem as a linear programming problem  
+ 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Illustrate two situations where game theory can be applied. 
+ 
+(10) 
+3, 4 
+Q9 
+Differentiate Between PERT and CPM methods for finding the critical 
+path. 
+ 
+(10) 
+3, 4

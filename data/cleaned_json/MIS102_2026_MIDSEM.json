@@ -1,0 +1,90 @@
+{
+  "paper_id": "MIS102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS102",
+    "subject_name": "Secure Coding and Security Engineering",
+    "program": "M. Tech (IT",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How core security requirements are prioritized during the design and development phases of a software project.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does threat modeling help in secure software design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Illustrate the impact of late detection of security issues in Software Development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does ² focus on education and professional certifications contribute to maintaining high standards within the information security industry?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does OWASP contribute to making software more secure, and what valuable resources does it offer to developers?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the challenges and benefits of implementing secure practices early in the software development process, with examples of the consequences of delayed security considerations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the Seven Touchpoints of Software Security and their significance in the software development lifecycle",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the SQUARE process model, and how does it integrate security requirements into the software development lifecycle?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the purpose of a Requirements Traceability Matrix. Provide an example of how RTM can assist in managing project changes effectively.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the role of \"Misuse\" and \"Abuse\" cases in identifying security requirements using suitable example.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

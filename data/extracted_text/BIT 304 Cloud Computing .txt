@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech (IT/CSE), Semester: 6th 
+(May, 2025) 
+ 
+Subject Code: BIT 304 
+Subject: Cloud Computing 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a) 
+What is meant by “Cloud as a utility”? 
+ 
+CO1 
+b) 
+What does the term 'Resource Pooling' signify in the context of cloud 
+computing? 
+ 
+CO1 
+c) 
+Differentiate between block-level and file-level storage virtualization. 
+ 
+CO2 
+d) 
+Explain the CPU Virtualization with reference to any hyperviror. 
+ 
+CO2 
+e) 
+Explain the role of CSA (Cloud Security Alliance) and its objectives. 
+ 
+CO3 
+f) 
+Explain the working of SOAP and RESTful web services in cloud 
+computing. 
+ 
+CO3 
+g) 
+Define a Service Level Agreement (SLA) in the context of Amazon EC 
+services. 
+ 
+CO4 
+h) 
+What is GoGrid known for in the cloud market? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Evaluate the significance of various computing paradigms (Grid, 
+Cluster, Distributed, Utility, Fog) in shaping cloud computing. 
+(10) 
+CO1 
+Q3 
+Discuss the role and benefits of Green Cloud Computing. Mention at 
+least three sustainable practices and real-world examples. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss different types of hypervisors with their architecture with real-
+world examples. 
+(10) 
+CO2 
+Q5 
+What is cloud optimization? Describe key strategies used in cloud 
+storage optimization. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Discuss the concept of de-perimeterization and the need for cloud 
+security models. 
+b) Explain the Cloud Cube Model proposed by the Jericho Forum with 
+all four dimensions. 
+(2.5 
++ 
+7.5= 
+10) 
+CO3 
+Q7 
+a) Explain static and dynamic load balancing in cloud computing. 
+b) Describe the evolution from Web 1.0 to Web 3.0 with their 
+characteristics and examples. 
+(2.5 
++7.5
+= 10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the role and recent developments in cloud initiatives by the 
+Government of India. How does it impact e-Governance? Mention any 
+one case study of your choice. 
+(10) 
+CO4 
+Q9 
+Compare Amazon EC2, Google App Engine, and IBM Cloud in terms of 
+services, deployment models, and use cases. 
+(10) 
+CO4

@@ -1,0 +1,200 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: Financial Reporting and Analysis, Semester: 1 
+(December, 2024) 
+ 
+Subject Code: MMS 103 
+Subject: Financial Reporting and Analysis 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Why is consistency important in financial reporting? Provide 
+examples of how inconsistent application of accounting policies could 
+affect stakeholders. 
+ 
+1 
+ 
+b) State with reasons whether the following are Capital Expenditure 
+or Revenue Expenditure:  
+(i) Expenses incurred in connection with obtaining a license for 
+starting the factory were ₹10,000.  
+(ii)  ₹1,000 paid for removal of stock to a new site.  
+(iii) Rings and Pistons of an engine were changed at a cost of ₹ 5,000 
+to get full efficiency 
+ 
+2 
+ 
+c) Explain the principle of 'Lower of Cost or Net Realizable Value 
+(NRV)' as per AS-2 
+ 
+3 
+ 
+d) Calculate the gross profit ratio from the following data: 
+Sales= ₹85000 
+Opening Stock= ₹9050 
+Closing Stock= ₹14000 
+Purchases= ₹ 54525 
+Carriage Inwards= ₹1425 
+ 
+4 
+ 
+e) Identify the different users of financial reports. How does each user 
+group utilize the information provided? 
+ 
+1 
+ 
+f) What is working capital, and why is its management important for a 
+business? 
+ 
+4 
+ 
+g) Which errors are not detected by the trial balance. Explain with 
+examples 
+ 
+2 
+ 
+h) Explain the methods of amortization for intangible assets as per AS-
+26. 
+ 
+3 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+What are International Financial Reporting Standards (IFRS), and why 
+are they important for global financial reporting? 
+(10) 
+1 
+Q3 
+Explain the significance of accounting principles in financial reporting. 
+Discuss any four fundamental accounting principles with examples. 
+(10) 
+1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+From the following particulars prepare a Balance Sheet of Mr. X, for the 
+year ended 31st March, 2013. 
+ Capital: ₹ 2,00,000: Drawings: ₹40,000; Cash in Hand: ₹20,000; Loan 
+from Bank: ₹ 40,000; Sundry Creditors: ₹ 40,000; Bills Payable: ₹20,000; 
+Bank Overdraft: ₹20,000; Goodwill: ₹60,000; Sundry Debtors: ₹80,000; 
+Land and Building: ₹50,000; Plant and Machinery: ₹ 80,000; 
+Investment: ₹20,000; Bills Receivable: ₹10,000.  
+The following adjustments are made at the time of preparing final 
+accounts: 
+ I. Outstanding Liabilities for: Salaries ₹10,000; wages ₹20,000; Interest 
+on Bank Overdraft ₹3,000; and Interest on Bank Loan ₹6,000. II. Provide 
+Interest on Capital @ 10% p.a.  
+III. Depreciation on Plant and Machinery by 10% p.a. 
+ IV. Bad Debts amounted to ₹10,000 and make a provision for Bad 
+Debts @ 10% on Sundry Debtors. 
+ V. Closing stock amounted to ₹1,20,000.  
+Net profit for the year amounted to ₹96,000 after considering all the 
+above adjustments. 
+(10) 
+2 
+Q5 
+From the following ledger account balances, prepare a Trial Balance of 
+Mr. Sen for the year ended 31st March,2013.  
+Capital ₹80,000 ; Sales ₹10,00,000; Adjusted Purchase  ₹8,00,000; 
+Current A/c (Cr) ₹10,000; Petty Cash ₹10,000; Sales Ledger Balance 
+₹1,20,000; Purchase Ledger Balance ₹60,000; Salaries ₹24,000; 
+Carriage Inwards ₹4,000; Carriage Outward ₹6,000; Discount Allowed 
+₹10,000; Building  ₹80,000; Outstanding Expenses ₹10,000; Prepaid 
+Insurance ₹2,000 ; Depreciation ₹4,000 ; Cash at Bank ₹80,000 ; Loan 
+A/c (cr) ₹66,000; Profit & Loss A/c (Cr) ₹20,000; Bad Debts Recovered 
+₹2,000 ; Stock at 31.03.2013 - ₹1,20,000; Interest Received ₹10,000; 
+Accrued Interest ₹4,000; Investment ₹20,000; Provision for Bad Debts 
+(01.04.2012)  ₹6,000 ; General Reserve ₹20,000. 
+(10) 
+2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Prepare a store ledger account on the basis of following information 
+by following the weighted average method 
+ 
+ 
+Rate per unit 
+January 1, 2017 
+January 10, 2017 
+January 15, 2017 
+January 20, 2017 
+January 25, 2017 
+Received 500 units 
+Received 300 units 
+Issued 700 units 
+Received 400 units 
+Issued 300 units 
+20 
+24 
+-- 
+28 
+-- 
+(10) 
+3 
+January 27, 2017 
+January 31, 2017 
+Received 500 units 
+Issued 200 units 
+22 
+-- 
+Q7 
+Explain AS-9 Revenue Recognition. What is the scope of AS-9, and 
+which types of revenue does it cover? 
+(10) 
+3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+From the following information, calculate the Net Cash Flow from 
+Investing Activities:  
+Particulars 
+Opening 
+₹ 
+Closing 
+₹ 
+Machinery (at cost) 
+Accumulated Depreciation 
+Patents 
+4,00,000 
+1,00,000 
+2,80,000 
+4,20,000 
+1,10,000 
+1,60,000 
+ 
+Additional information: 
+ (i) During the year, a machine costing ₹40,000 with an accumulated 
+depreciation of ₹ 24,000 was sold for ₹20,000. 
+ (ii) Patents were written off to the extent of ₹40,000 and some 
+patents were sold at a profit of ₹20,000 
+(10) 
+4 
+Q9 
+Discuss the significance of the following categories of ratios in 
+financial analysis: 
+a) Liquidity Ratios 
+b) Solvency Ratios 
+c) Leverage Ratios 
+d) Profitability Ratios 
+ 
+(10) 
+4

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS102",
+    "subject_name": "Organizational Behavior",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Mintzberg’s 10 managerial roles and which of the roles do you think are difficult to perform and why?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Myers and Briggs Indicator test of Personality and do you believe that companies should rely on it to hire employees?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Visualize a least effective leader you know. Identify the traits, motives, and the personal characteristics that might be deficient in that person.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Despite good pay and flexible hours, employees at a design firm report dissatisfaction and burnout. Using Herzberg’s theory, identify what might be missing and recommend solutions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write a short note on transactional analysis as a tool to assess interpersonal relationships.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "List the types of conflict and identify the sources of conflict.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a short note on Kurt Lewin’s model of organizational change.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain any two interventions for organizational development.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain how each dimension of the Big Five personality traits can influence performance in a sales role. What are the ethical considerations of using personality tests in recruitment?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss how stereotyping, attribution, projection, the halo, false- consensus, primacy, and recency effects influence the perceptual process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Two team members with similar output receive different recognition. One is demotivated and starts reducing effort. How does Equity Theory explain this reaction, and what would you do as their manager?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare managerial leadership with transformational leadership, and describe the features of task-oriented, people-oriented, and servant leadership.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Sometimes, the desire to maintain group harmony overrides the importance of making sound decisions. When that occurs in a team, its members are said to engage in groupthink. Here is an example. A civilian worker at a large air force base recalls a time when groupthink overcame her team’s decision-making ability. She was a member of a process-improvement team that an air force general had formed to develop a better way to handle the base’s mail, which included important letters from high-ranking military individuals. The team was composed mostly of civilians, and it took almost a month to come up with a plan. The problem: the plan was not a process improvement. “I was horrified,” the civilian worker remarked. “What used to be 8 steps was now 19.” The team had devised a system that resulted in each piece of mail being read by several middle managers before reaching its intended recipient. The new plan slowed down the mail considerably, with an average delay of two weeks. Though the team members all knew that the new system was worse than its predecessor, no one wanted to disrupt the team’s solidarity. The problems lasted almost an entire year. It wasn’t until the general who formed the team complained about the mail that the system was changed. This may seem like a trivial matter, but groupthink is found at the lowest to the highest levels of organizations, governments, and industries. For example, groupthink has been cited as contributing to the 2008 global financial crisis, the Challenger space shuttle disaster, the collapse of the Swiss airline Swissair, and the Enron scandal. 1. What are some of the factors that led to group-think in the case described here? 2. What can teams do to help avoid groupthink from occurring? 3. The group in the case was composed of air force and civilian personnel. Do you think there may have been a perceived difference in status that could have contributed to the groupthink?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "1. What are the similarities and differences among the five bases of power? 2. What power or influence tactics and their contingencies are identified most often?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "1. Identify the different forms of resistance and explain the reasons why individuals resist change. 2. Is most organization change forced on the organization by external factors or fostered from within? Explain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "An IT company, Infotech Co., faced high attrition and low morale after a major restructuring. Rather than focusing on problems, the HR Director decided to implement Appreciative Inquiry to rediscover the organization’s strengths. They conducted a series of workshops where employees shared stories of peak performance, collaboration, and innovation. The insights led to a new vision focused on inclusivity, innovation, and agility. Critically analyze the choice of Appreciative Inquiry in this scenario. What are the advantages and potential limitations of using AI over traditional problem-solving approaches in post- restructuring settings? Suggest how the \"4D Model\" of AI could be strategically applied in this context.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

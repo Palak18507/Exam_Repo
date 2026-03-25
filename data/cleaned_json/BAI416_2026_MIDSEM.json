@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAI416_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI416",
+    "subject_name": "AI in Healthcare",
+    "program": "B. Tech.ECE AI",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define AI in healthcare and discuss its historical evolution.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key milestones in AI development for healthcare applications?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the limitations and challenges faced in implementing AI in healthcare.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How do geographic and demographic variations impact AI- based healthcare solutions?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the advantages and challenges associated with observational medical data.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between time series and non-time series data in medical applications",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the process of data enrichment and its importance in healthcare AI.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a Clinical Decision Support System , and how does AI enhance its functionality?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain how disease detection is performed using tabular medical data.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the ethical considerations in AI-based clinical decision support systems?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

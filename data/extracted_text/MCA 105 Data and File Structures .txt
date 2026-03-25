@@ -1,0 +1,105 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<1st > 
+(December, 2024) 
+ 
+Subject Code: MCA  105 
+Subject: Data and File Structures 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) Calculate the Row Major and Column major address for arr[3][4] element, 
+where the array is stored at 2000 address having 20 rows and 5 columns. Size of 
+each element is 8 bytes. 
+ 
+ 
+b) Convert the expression (4+5)*(5-3)/2^3-10 to Postfix. 
+ 
+ 
+c) The following gives the preorder and inorder trasversal of the Binary Tree, 
+Preorder: ABDGCEHIF Inorder: DGBAHEICF 
+Construct the Binary tree. 
+ 
+ 
+d) Insert the following in a Binary search tree 1, 2, 3, 4, 5. What is the problem with 
+such a BST? 
+ 
+ 
+e) Find the Minimum spanning tree for the following graph using Kruskal’s 
+algorithm. (Only steps, Algorithm not required.) 
+ 
+ 
+ 
+ 
+f) Write a function for binary search and find its complexity. 
+ 
+ 
+g) What are the various modes in file handling? 
+ 
+ 
+h) What is extended binary tree? How many internal nodes are there in an 
+extended binary tree with ‘n’ external nodes? 
+ 
+UNIT I 
+ 
+Q2 
+(a) Convert the following to Prefix and evaluate the result using stacks. Infix: 
+40+2*3-60/10+2^4 
+(b) Write a function/algorithm to count the sum of odd and even-indexed 
+elements in a circular linked list. 
+(10) 
+Q3 
+(a) Write a function to calculate the sum of upper and lower triangular 
+elements of an n X n matrix. Where n and matrix elements are inputs from 
+the user. 
+(10) 
+(b) Write a program to find the intersection of 2 doubly linked lists if it exists. ( 
+eg. List 1: 10 ->20 ->30 ->40 ->50 
+List 2: 15-> 25-> 35 -> 40-> 50 
+Then 40 is the point of intersection as both remaining lists are same after 
+that ) 
+UNIT II 
+ 
+Q4 
+Write Insert() and Delete() to implement queue using arrays and linked lists. What 
+is the complexity of the approach? Why do we use circular Queue? 
+(10) 
+Q5 
+(a) Show the steps while inserting the following elements in an AVL tree: 
+H,I,J,B,A,E,C,F,D,G,K,L. 
+(b) Also perform preorder postorder and inorder traversal of the final tree 
+constructed in Q.5 (a). 
+(7,3) 
+UNIT III 
+ 
+Q6 
+Using Heap Sort, sort the following array of 12 elements. Show the steps, 
+algorithm and complexity also: 
+85, 76, 46, 92, 30, 41, 12, 19, 93, 3, 50, 11 
+(10) 
+Q7 
+(a) Traverse the following graph using Breadth first search algorithm. Also give 
+the complexity of your approach. 
+ 
+(b) Find the shortest path in the above graph using Dijkstra’s algorithm using 
+node 1 as the source. 
+(5,5) 
+UNIT IV 
+ 
+Q8 
+Write a program to merge 2 file into a 3rd file and print contents of all 3 files. 
+ 
+(5,5) 
+Q9 
+(a) Write a program to copy the contents of 1 file to another and print the 
+contents. 
+(b)  Write a program to count the number of vowels in a file. 
+(5,5)

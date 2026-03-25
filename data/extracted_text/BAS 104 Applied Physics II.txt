@@ -1,0 +1,140 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Reappear End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH : Sem: 2nd 
+(May, 2025)  
+Subject Code: BAS 104 
+                                                                        Subject: Applied Physics II 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(5*4=20) 
+CO Mapping 
+(a) 
+Determine the penetration depth of an electromagnetic wave in copper, 
+given that the resistivity of copper, 𝜌𝐶𝑈= 1.69 × 10−8 -m and 
+frequency = 104MHz. 
+ 
+CO1 
+(b) 
+For the circuit shown below calculate the current through the Zener 
+diode for the given values of load resistance in this circuit for RLoad= 
+1.5k, 1k, 910, 780. 
+ 
+ 
+CO2 
+(c) 
+A rod placed in a frame of reference is moving with a velocity 0.6c in a 
+direction parallel to its length. Calculate the percentage of contraction. 
+ 
+CO3 
+(d) 
+Define the following sensor characteristics and give one practical 
+example of each: 
+1. Sensitivity 
+2. Resolution 
+3. Selectivity 
+4. Dead band 
+ 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+(a) Describe the qualitative behavior of electromagnetic wave 
+propagation in a conducting medium. What is the role of conductivity 
+and how does it influence wave attenuation? 
+ 
+(b) Define and explain displacement current. Why was it necessary to 
+introduce it in Ampere’s law? 
+(5,5) 
+CO1 
+Q3 
+(a)  State and explain the Poynting theorem. What is the significance of 
+the Poynting vector in the context of energy transfer? 
+ 
+(b) Using Maxwell’s equations, show that electromagnetic waves are 
+transverse in free space. 
+(5,5) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+(a) With the help of energy band diagrams, distinguish between n-type 
+and p-type extrinsic semiconductors. Obtain the expression for the Fermi 
+energy level for a p-type semiconductor. 
+ 
+(b) Consider an n-type semiconductor where the Fermi level is 0.3 eV 
+below the conduction band at room temperature (300 K). If the 
+(7,3) 
+CO2 
+2 
+ 
+temperature is raised to 770 K, what is the new position of the Fermi 
+level? 
+Q5 
+(a) Discuss the Kronig-Penney model in detail. Using the model show the 
+energy spectrum of electron consisting of a number of allowed energy 
+bands separated by forbidden bands. 
+ 
+(b) Three identical particles can be in any of five states. What are the 
+number of possible ways of distributing them in various states according 
+to Bose-Einstein and Fermi-Dirac statistics? 
+(7,3) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+(a) Derive a relation for velocity transformation in relativistic Physics. 
+Show that the velocity of light is invariant under relativistic velocity 
+transformation. 
+ 
+(b) Half-life of a particle at rest is 15nanoseconds. What will be the half-
+life when its speed is 0.8c?         
+ 
+(7,3) 
+CO3 
+Q7 
+(a) State and explain the fundamental (basic) postulates of special 
+theory of relativity and derive Lorentz space time transformation 
+equations on their basis. 
+ 
+(b) In an inertial frame S, two lights (red and blue) are separated by a 
+distance ∆𝑥= 2.45 km, with the red light at the larger value of x. The 
+blue light flashes and 5.35 microsecond later the red light flashes. 
+Frame S’ is moving in a direction of increasing x with speed of 𝑣=
+0.85𝑐. What is the distance between the two flashes and the time 
+between them as measured in S’? 
+(5,5) 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+(a) Design a simple light-based sensing circuit using an LDR. Explain how 
+the resistance of the LDR varies with illumination and how that can be 
+used to trigger a switching action. 
+ 
+(b) Sketch a typical transfer function for a linear sensor and a non-linear 
+sensor. Explain how linearity affects the accuracy and calibration of 
+sensor systems. 
+(5,5) 
+CO4 
+Q9 
+(a) Derive Bragg’s law for X-ray diffraction. An X-ray of wavelength 
+1.54Å is incident on a crystal with interplanar spacing 2.82 Å. Calculate 
+the angle of first-order diffraction. 
+ 
+(b) Explain the process of X-ray production. Distinguish between 
+characteristic and continuous X-ray spectra with the help of diagrams. 
+(5,5) 
+CO4

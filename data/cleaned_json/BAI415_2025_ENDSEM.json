@@ -1,0 +1,182 @@
+{
+  "paper_id": "BAI415_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI415",
+    "subject_name": "Recent Trends in AI",
+    "program": "B. Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do AI tools enhance decision-making processes in business environments?",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Artificial Intelligence and differentiate it from natural intelligence. +",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe a real-world application that effectively integrates AI, Big Data, and Cloud Computing.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define Computer Vision in the context of AI.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a Geographical Information System and how is AI utilized?",
+          "marks": 4.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Autonomous vehicles",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Cybersecurity",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the different steps of AI in detail with flow diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare the effectiveness of AI in Cloud computing and Big data.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Outline the challenges involved in developing an AI solution for big data.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare the functionalities of AI and Deep Learning in the context of Knowledge Discovery.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Analyze the challenges of integrating machine learning with existing IT systems.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare the functionalities and applications of GAN in media versus security systems.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Propose a new model for using AI to automate and optimize public transportation in megacities. Discuss the usage of AI in public transportation in detail.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the integration of AI in Smart Grid technologies and its impact on energy management.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Evaluate the challenges of using AI in smart vehicles.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Security Systems",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Supply Chain Management",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Healthcare Diagnostics and Patient Care",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Transforming Communication and Computing Technologies",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

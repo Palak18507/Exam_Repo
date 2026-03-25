@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: M.Plan , Semester: Second 
+(April, 2025) 
+ 
+Subject Code: MUP 108 
+Subject: GIS and Remote Sensing 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Write short notes on 
+(2.5*8=20) 
+ 
+a) Coordinate System 
+ 
+ 
+b) GIS data processing 
+ 
+ 
+c) Scales and levels in GIS 
+ 
+ 
+d) Terrain modelling   
+ 
+ 
+e) Sources of Data acquisition for creation of GIS based maps 
+ 
+ 
+f) Spatial Analysis 
+ 
+ 
+g) Suitability Analysis 
+ 
+ 
+h) Land use and land cover 
+ 
+UNIT I 
+ 
+Q2 
+What is meant by a Global Positioning System? Briefly discuss the various 
+components and benefits of Global Positioning System.  
+(10) 
+Q3 
+How can GIS support decision making for various planning applications? 
+Briefly discuss Urban Information systems for various activity sectors. 
+(10) 
+UNIT II 
+ 
+Q4 
+What are the different pre-conditions for using Planning Information 
+Systems and why is it important? Explain with examples. 
+(10) 
+Q5 
+What are the various data representation techniques in GIS? Discuss how 
+GIS can be used as a modelling tool for data analysis. 
+(10) 
+UNIT III 
+ 
+Q6 
+What is Geospatial data and Temporal data? Discuss how they can be used 
+to create Base maps and Thematic maps. 
+(10) 
+Q7 
+What is meant by Topography creation using GIS? Briefly discuss the 
+process and how it can be useful for urban planning with the help of an 
+example. 
+(10) 
+UNIT IV 
+ 
+Q8 
+What is meant by Digital change detection? Briefly discuss the process and 
+how it is useful for planners. 
+(10) 
+Q9 
+What is the role of GIS in Urban and Regional planning? Discuss with the 
+help of suitable examples.  
+(10)

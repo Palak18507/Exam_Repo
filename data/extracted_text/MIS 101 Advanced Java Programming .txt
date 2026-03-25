@@ -1,0 +1,76 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <M.Tech>, Semester:<1st> 
+(December, 2024) 
+ 
+Subject Code: MIS 101 
+Subject:  Advanced Java Programming 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+4*5=20 
+ 
+a) What are abstract and final classes in Java? 
+ 
+ 
+b) Explain the life cycle of a servlet. 
+ 
+ 
+c) What do you understand by hibernate? List various principles of hibernate.  
+ 
+ 
+d) Explain Socket Programming 
+ 
+UNIT I 
+ 
+Q2 
+What are the various types of inheritance in Java? Explain each with example. 
+Why is multiple inheritance not allowed in java? Give example. How can it be 
+implemented in java?  
+(10) 
+Q3 
+a) What happens when an exception is thrown but there is no catch block 
+to handle it? Explain with example. 
+ 
+b)   WAP to calculate the average marks of a student in 5 subjects. Throw a   
+user defined exception if entered marks are nor between 0-100. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain different stages in the life cycle of a thread. WAP to compute the highest 
+of 1000 integers stored in an array using 2 thread running in parallel. Print the final 
+result. 
+(10) 
+Q5 
+What is AWT? Write program to create a frame window and add 2 Textboxes, 1 
+submit Buttons, Name and Roll No Label, and course selection RadioButton and 
+perform event handling on any three controls. 
+(10) 
+UNIT III 
+ 
+Q6 
+Write the code required to save the details of a student ( Rollno, name, age, and 
+branch) in the table ‘Stud_det’. Also display the details on Console. 
+(10) 
+Q7 
+Write a JEE code for a servlet that takes an integer(x) as input from a form 
+(prime.html) and displays whether it is prime or not, as a response to the web 
+browser. 
+(10) 
+UNIT IV 
+ 
+Q8 
+a) How to send and receive an email in java? 
+ b)   Explain the various components of JSF. 
+(10) 
+Q9 
+Write short notes on ANY TWO of the following : 
+(a) Hibernate   b) JSF 
+c) Java email   
+(10)

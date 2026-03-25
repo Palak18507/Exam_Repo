@@ -1,0 +1,120 @@
+{
+  "paper_id": "MIS116_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS116",
+    "subject_name": "Advanced Network Technology",
+    "program": "<M.Tech (IT-Cyber Security",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Information Coding",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Flow and Error Control",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Characteristics of Wireless PAN",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Unicast Routing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Centralized Controller in SDNs",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Security Considerations in WBANs",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Greedy Routing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Cognitive Radio Networks Security Goals",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Critically examine the working of User Datagram Protocol with respect to connectionless communication and minimal overhead. How does UDP support real-time applications despite lacking reliability mechanisms?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain how intra-domain and inter-domain routing coordinate to achieve end-to-end packet delivery across heterogeneous networks. Give suitable illustrations showing routing across multiple Autonomous Systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the architecture and operational workflow of Multiprotocol Label Switching in contrast to conventional destination-based IP routing. Give suitable illustrations for the same.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Quantitatively different between Remote Access and Site-to-Site Virtual Private Networks based on bandwidth, latency, scalability and throughput metrics. Give suitable illustrations for the same.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Quantitatively differentiate between Proactive Routing Protocol and Reactive Routing Protocol in Mobile Ad-hoc Networks . Give suitable illustrations for the same. State their advantages and disadvantages respectively.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Critically examine the role of message prioritization in MaxProp Routing Protocol in Delay Tolerant Networks. Give suitable illustrations explaining the working of MaxProp Routing Protocol.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Cryptographically state and explain the significance of Extended Euclidean Algorithm in RSA Cryptosystem. By choosing the smallest two mutually coprime numbers, calculate the ciphertext for the plaintext “B” using RSA Cryptosystem while considering the fact that the mapping is Set X: {“A=1”, “B=2”, “C=3”,..……, “Y=25”, “Z=26”}, and finally decrypt the same to retrieve the plaintext “B”.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short note on any two of the following:- Digital signature and digital certificates Next Generation Firewall Key distribution protocols",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

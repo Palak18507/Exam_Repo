@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS284_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS284",
+    "subject_name": "RETAIL ANALYTICS",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Creative Advertising Marketing? Give one real-world example. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the difference between POS Data and Market Basket Data. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What do you understand by the phrase \"Data is Gold\" in retail analytics? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define Market Basket Analysis with an example. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Retailer Goodwill and state its importance in building customer loyalty. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is Cross-Selling in retail and how does it improve sales? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a short note on Real Estate Site Selection Modelling. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Mention any two features of Just-in-Time in retail logistics. 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Elaborate on the importance of strategic marketing and operations marketing in the context of retail analytics. Support your answer with suitable examples. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between House Brands and Name Brands. Also, explain how Celebrity Marketing can influence brand preference using a real- life retail case. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A retailer has 5 transactions. Using the Apriori algorithm, identify all frequent 1-itemsets and 2-itemsets with a minimum support threshold of 60%. Transaction ID Items Purchased 1 Milk, Bread, Butter 2 Milk, Bread 3 Milk, Butter 4 Bread, Butter 5 Milk, Bread, Butter 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define Market Basket Analysis and describe how Market basket Analysis is used to identify product relationships. Give examples with help of real life retail enterprises 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is Trade Area Modelling? How does geography affect site selection in retail planning? A retailer is choosing between two locations. Explain using the factor rating method. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A retailer is selecting between two locations using the factor rating method. Use the table below and recommend the better location. Factor Weight Location A Location B Cost 0.4 8 7 Customer Accessibility 0.35 9 8 Competition Level 0.25 6 7 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of store design, visual merchandising, and loyalty programs in enhancing in-store customer experience. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Merchandise Mix Modelling. How does combining data from various sources improve in-store presentation and marketing? 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

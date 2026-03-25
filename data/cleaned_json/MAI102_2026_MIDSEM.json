@@ -1,0 +1,91 @@
+{
+  "paper_id": "MAI102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MAI102",
+    "subject_name": "Advanced Machine Learning",
+    "program": "M. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is machine learning algorithm. Explain its categories",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Lasso regression and Ridge regression.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain data preprocessing with the steps involved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is SVM. Describe its linear and Nonlinear case.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Principal Component Analysis. Write its advantages and disadvantages.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain different types of Ensemble learning in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain any four data augmentation techniques to deal with class imbalance.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe in detail the popular techniques of feature selection.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the characteristics of data cleaning. Explain common data cleaning task.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the ID 3 and CART algorithm in detail.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

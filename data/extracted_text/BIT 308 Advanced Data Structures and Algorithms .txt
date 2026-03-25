@@ -1,0 +1,141 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH (IT+AI/ML)               Sem : 6th  
+(May, 2025) 
+ 
+Subject Code: BIT 308 
+                   Subject: Advanced Data Structures and Algorithms  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Write a function to find the number of non-zero elements in a linked 
+list. 
+2.5 
+CO1 
+b 
+Consider a Circular queue _ , _ , A , B, C, D having size of 6 elements, 
+Front = 3, Rear = 6. Find the Queue after Adding E, delete 2 letters, 
+Add F,G, delete 1 letter. Show Steps. 
+2.5 
+CO1 
+c 
+How can n-bit integer multiplication be solved in less than n^2 
+multiplications using divide and conquer strategy. Show steps for 
+multiplying 23 * 45. What is the complexity? 
+2.5 
+CO2 
+d 
+Devise a k clustering algorithm using greedy approach. What is the 
+complexity of the algorithm? 
+2.5 
+CO2 
+e 
+Explain dijkstra’s algorithm and its complexity. 
+2.5 
+CO3 
+f 
+For a network with each node having degree k=2, and clustering 
+coefficient, c=1. How does the network look like? For the network 
+with N nodes, how many components are there? 
+2.5 
+CO3 
+g 
+ 
+Find the bipartite matching in the given graph using max flow. 
+2.5 
+CO4 
+h 
+What is an augmenting path? How can the choice of augmenting path 
+effect the MAX flow algorithm? Give example. 
+2.5 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+(a) Write a program to sort a doubly linked list. Give the best, worst 
+and average case complexities. Dry run for 3 steps. 
+(b) 
+Consider a circular queue: _, _, C, D, E, _, where size of the 
+queue is 6 units, front = 3 and rear = 5. Give the queue after the 
+following steps. 
+1. Insert F, G and H in the queue      2.  Delete 2 elements. 
+3.    Insert I, J           4.   Delete 2 elements. 
+10 
+CO1 
+Q3 
+(a) WAP to sort a linked list using Randomized Quick Sort. Find the 
+complexity of your approach. 
+(b) 
+Insert the keys 3, 10, 5, 18, 20, 11, 33, 15, 9, 25, 6 in a Binary 
+Search Tree. Delete the keys 20 and 6. What is the final tree? Show 
+steps. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Using divide and conquer approach, count the inversions in the 
+array { 12, 14, 20, 24, 28, 16}. What is the complexity of your 
+approach? 
+(b) Using Dynamic Programming approach, find a subset of the 
+given set S = {1, 3, 4, 5, 7} that equals the SUM = 8. 
+10 
+CO2 
+Q5 
+(a) 0/1 Knapsack can be solved using DP or Branch and Bound 
+approaches. Which is better for the given question. Solve. 3 
+items with prices = { 110, 215, 112} and weights = {16, 28, 13}. 
+Capacity of the Knapsack = 30. 
+(c) Align the sequences “EXAMPLE” and “EXMPL” using dynamic 
+programming, The gap penalty is 2. The cost of converting vowel to 
+vowel OR consonant to consonant is 1, while the cost of converting 
+vowel to consonant or consonant to vowel is 3. 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Assuming the graph given in Q.8 to be undirected, find the MST using 
+Kruskal’s and  Prim’s algorithm. Give algorithm, complexity and steps. 
+Which is a better approach and why? 
+10 
+CO3 
+Q7 
+Write the algorithm for Depth-First Search (DFS) to traverse a graph. 
+Apply your algorithm on the graph shown below, considering node 1 as 
+the starting point. Clearly show the order of traversal. 
+ 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Find the Min Cut in the following network using Ford Fulkerson 
+algorithm. Show all the steps. 
+10 
+CO4 
+Q9 
+Map the following flight segments to a probable solution using 
+minimum flights, flow network with ‘k’ available total flights. 
+1. Del 5.00 – to – Mum 6.30 
+2. Varanasi 6.00 – to – Kerala 8.00 
+3. Mumbai 8.00 – to – Pune 9.00 
+4. Bengaluru 14.00 – to – Chennai 17.00 
+5. Prayagraj 9.00 – to – Chennai 12.00 
+10 
+CO4 
+Assume 1 hr maintenance before a flight can take off again 
+after landing. Assume any missing data and write the 
+assumptions.

@@ -1,0 +1,130 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester: Fourth 
+(May, 2025) 
+ 
+Subject Code: BAI  202 
+Subject: Computer Networks 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) CO Mapping 
+ 
+(a) List the characteristics of broadband coaxial cable. 
+CO1 
+ 
+(b) What limitations of a bridge are overcome by a router?   
+CO1 
+ 
+(c) Define data rate and baud rate. How are they related? 
+CO1 
+ 
+(d) What are the advantages of IPV6 overIPV4? 
+CO3 
+ 
+(d) For n devices in a network, what is the number of cable links required for a 
+mesh, ring and star topology, respectively? 
+CO2 
+ 
+(e) Write the IP address 135.1.1.25 mask 255.255.248.0 in CIDR notation. 
+CO3 
+ 
+(f) What is the primary function of DNS? List different types of domains used in 
+DNS? 
+CO3 
+ 
+(g) Draw and explain different fields of UDP header. 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+Write a detailed note on optical fiber communication. How does it 
+work, and what are its advantages over electrical transmission? 
+ 
+(10) 
+CO1 
+Q3 
+Draw the OSI network architecture and explain the functionalities 
+of every layer in detail 
+(10) 
+         CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+A group of terminals are to be connected to a central site using 
+ALOHA schemes over a 9600 bps channel. Frame length is 200 bits. 
+Terminals generate on an average one frame in every two minutes. 
+For maximum throughput condition, estimate the number of 
+terminals that can be supported if the scheme used is (a) Pure 
+ALOHA (b) Slotted ALOHA.       
+(10) 
+CO2 
+Q5 
+Describe sliding window protocol using Go back n. 
+ 
+ 
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+Using Dijkstra’s algorithm find the shortest path tree for the node 
+A to all other nodes in the figure given below 
+ 
+ 
+ 
+ 
+(10) 
+CO3 
+Q7 
+(a) Subnet the IP Address 205.11.2.0 so that you have 30 subnets. 
+(b) What is the subnet mask for the maximum number of hosts?  
+ (c) How many hosts can each subnet have? 
+(d) What is the IP address of host 3 on subnet 2?  
+ 
+(10) 
+CO3 
+ 
+A 
+F 
+E 
+B 
+D 
+C 
+2
+5 
+8 
+6 
+9 
+3 
+2 
+1 
+3 
+ 
+ 
+UNIT-IV 
+CO Mapping 
+Q8 
+The UDP header in hexadecimal format is as : BC82000D002B001D 
+Obtain the following from it:  
+1. Source port number  
+2. Destination port number  
+3. Total length  
+4. Length of the data.  
+5. Name of client process. 
+ 
+(10) 
+CO4 
+Q9 
+What do you mean by congestion and how is it different from flow 
+control?  Describe the Leaky bucket algorithm for congestion 
+control. 
+ 
+(10) 
+CO4

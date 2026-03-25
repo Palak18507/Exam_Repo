@@ -1,0 +1,78 @@
+{
+  "paper_id": "BIT301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT301",
+    "subject_name": "Data Communication Computer Networ",
+    "program": "B. Tech (IT, CSE, ECE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Describe the Mesh, Bus and Ring Network Topologies with diagrams. List the merits and demerits of one over another. Change IP addresses from dotted decimal to binary notation and find the Netid and the Hostid of the following IP addresses: . 112.34.2.8 . 132.56.8.6 208.34.54.12 How congestion is controlled at the transport layer. Explain any one Congestion Control Technique. What is the concept of Security on the Internet through Firewalls? Describe Scenarios of Electronic Mail .",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe the guided and unguided media with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What is the OSI Model Layered architecture? Described the functionality of each Layer with suitable diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Compare the classful and classless addressing. In a block of addresses, the IP address of one host is given as 25.34.12.56/16. What is the subnet mask, first address and the last address in this block?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe the Distance Vector Routing and Link State Routing Protocols. List the characteristics as well for both. Draw the table for the given network in Fig. 1 using Distance Vector Routing Protocols. Fig. 1 Network with Five Nodes from A to E.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Illustrate and compare the concept of User Datagram Protocol and Transmission Control Protocol based on header format, connection setup, and termination process. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What do you mean by ARQ Technique? Explain it in detail with all the associated classifications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Describe HTTP, and DNS Protocols along with suitable diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Illustrate in depth the SSH and SSL Protocols with important steps involve in it.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

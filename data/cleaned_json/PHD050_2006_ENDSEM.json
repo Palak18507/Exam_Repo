@@ -1,0 +1,110 @@
+{
+  "paper_id": "PHD050_2006_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD050",
+    "subject_name": "Power Electronics and Distributed Generation",
+    "program": "< PhD>",
+    "academic_year": "2005-2006",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the role of reclosers and sectionalizers in radial distribution system protection. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the function of SCR-based static switches in source switching. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write short notes on the use of Per-Unit analysis in fault analysis of distribution systems. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define flicker and mention its effect on power quality in DG systems. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly explain thermal impedance and its role in damage estimation due to thermal cycles. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between passive and active methods for detecting unintentional islanding in distribution networks. 5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Briefly explain the different distributed generation technologies. Why they are called distributed generation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Perform a sequence component analysis for a faulted distribution system and explain its implications on DG operation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the impact of DG integration on loop and secondary network distribution grids.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How the upstream and downstream circuit breakers are coordinated when faults occur at different zones?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Briefly explain passive and active islanding detection techniques by explaining at least one example of each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the inverter control strategies for both grid-connected and stand-alone DG operations. Include protection schemes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the power quality implications of DG with reference to flicker, reactive power compensation, and low voltage ride through requirements.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Evaluate the different topologies of power converters used in DG applications with their merits and limitations",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS234_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS234",
+    "subject_name": "Marketing Services",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Difference between goods and services",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Characteristics of services",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain front-end planning stage in service design and development process.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Difference between penetrative pricing and price skimming",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the growing importance of service sector.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain various classification of services.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain service consumption model, with diagram.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How to build a blueprint? Explain the process.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by servicescape? What are the strategic roles of servicescape?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain various approaches to pricing of services.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

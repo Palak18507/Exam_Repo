@@ -1,0 +1,112 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OFFLINE) 
+Course Name: BBA Semester: 5th 
+(December, 2024) 
+ 
+Subject Code: BMS 331 
+Subject: Data Analytics 
+Time : 3 Hours 
+Maximum Marks: 60 
+Note: Q.1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+What is data analytics? 
+CO1 
+ 
+(b) 
+Describe the benefits of using SPSS software for Data Analysis. 
+CO1 
+ 
+(c) 
+What type of descriptive analysis can be applied to categorical 
+data? 
+CO2 
+ 
+(d) 
+How cross-tabulation is used for data analysis? 
+CO2 
+ 
+(e) 
+What is hypothesis testing? 
+CO3 
+ 
+(f) 
+What is the Chi-Square Test? 
+CO3 
+ 
+(g) 
+What is time series analysis? 
+CO4 
+ 
+(h) 
+What is factor analysis? 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+Using 
+suitable 
+examples, 
+describe 
+the 
+different 
+measurement scales used in data collection. 
+(10) 
+CO1 
+Q3 
+What is exploratory data? What are the methods to apply 
+exploratory data analysis? 
+(10) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+Is the data for any variable in categorical form? What type 
+of analysis could be run on that data? Illustrate with a 
+suitable example the usage of cross-tabulation for data 
+analysis. 
+(10) 
+CO2 
+Q5 
+Graphical analysis is a tool for presenting the data in a more 
+understandable and easy-to-interpret form. Comment on 
+this and explain the types of visual charts used for data 
+analysis.  
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+What is a t-test? What are the major types of t-tests that can 
+be applied to any data? Illustrate with a suitable example. 
+(10) 
+CO3 
+Q7 
+What is ANOVA? What is the procedure of applying the 
+ANOVA test? Illustrate with a suitable example.  
+(10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+What is regression analysis? How is the best-fit line used to 
+predict the dependent variable? 
+(10) 
+CO4 
+Q9 
+What is the correlation analysis? How is the correlation 
+coefficient calculated to show the relationship between two 
+variables? Illustrate with a suitable example.  
+(10) 
+CO4 
+2

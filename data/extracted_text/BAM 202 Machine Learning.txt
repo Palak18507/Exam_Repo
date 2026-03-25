@@ -1,0 +1,118 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech (AIML)) (Semester: IV) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAM-202 
+Subject: Machine Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Normalize the following data (age: 25, 56, 65, 32, 41, 49) using Z-
+score standardization and Min-Max normalization. 
+ 
+CO1 
+ 
+b) Given a binary classification problem with a dataset containing 
+1000 samples, where 600 samples belong to class 0 and 400 samples 
+belong to class 1, a machine learning model makes the following 
+predictions: 
+ 
+540 samples are correctly predicted as class 0. 
+ 
+340 samples are correctly predicted as class 1. 
+ 
+60 samples of class 0 are incorrectly predicted as class 1. 
+ 
+60 samples of class 1 are incorrectly predicted as class 0. 
+Calculate the following metrics: Accuracy, Precision, Recall, and F1 
+Score for class 1. 
+ 
+CO1 
+ 
+c) A hypothetical split in a tree has resulted in two children, one 
+with 10 observations (8 being “Hi Risk” and 2 being “Low Risk”) and 
+the other with 20 observations (15 being “Low Risk” and 5 being 
+“Hi Risk”). What is the goodness of this hypothetical split? Use 
+accuracy as the metric for goodness of each node 
+ 
+CO2 
+ 
+d) Given a dataset with the independent variable x and the 
+dependent variable y: (−1,1),(2,−5),(3,5).After fitting the data using 
+Ordinary Least Squares (OLS), you obtained the equation y=wx . 
+Find the value of w? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the potential pitfalls of not addressing multicollinearity 
+in a dataset during data preprocessing? How can multicollinearity 
+be detected and resolved? 
+ 
+CO1 
+ 
+b)(i) Discuss the trade-offs between removing outliers and 
+transforming them during the data preprocessing stage 
+(ii)What is the difference between multicollinearity and 
+autocorrelation? 
+3+2 
+CO1 
+ 
+c)(i) Explain the concept of normalization and its significance in the 
+context of feature scaling 
+(ii) ) Describe how K-Fold Cross-Validation works and why it is 
+useful 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) (i) You are provided with a training dataset plotted on a 
+coordinate system. The dataset consists of the following points, 
+where x is the feature and y is the continuous target value:Point A: 
+(1.0,1.5) Point B: (2.0,1.7) Point C: (3.0,3.0) 
+Point D: (4.0,3.5) Point E: (5.0,4.0) 
+Predict the value of y for the test point x=3.2 using k-NN regression 
+with: 
+1. k = 2 (2-Nearest Neighbors) 
+2. k = 4 (4-Nearest Neighbors) 
+Use the Euclidean distance metric for the calculations 
+(ii)Explain how the value of k affects the bias-variance tradeoff in k-
+NN 
+3+2 
+CO2 
+ 
+b)(i) Compare and contrast LASSO and Ridge regression in terms of 
+feature selection and model complexity. 
+(ii) Explain how the kernel trick helps SVM to classify non-linear 
+data without explicitly transforming features. 
+ 
+CO2 
+ 
+c)(i) Explain how pruning helps to prevent overfitting in decision 
+trees. 
+(ii) Compare and contrast hard-margin and soft-margin SVM. 
+(iii)  With respect to the K-NN algorithm, explain what will happen 
+over time if we choose K=N, where N is the number of observations 
+in the dataset 
+ 
+CO2

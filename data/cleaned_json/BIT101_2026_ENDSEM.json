@@ -1,0 +1,110 @@
+{
+  "paper_id": "BIT101_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT101",
+    "subject_name": "Cyber Security Awareness",
+    "program": "<B.Tech.)>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the core principles of Cyber Security? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of 'Zero-Day Vulnerability' and its impact on Cyber Security. 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "List the steps involved in exploiting a Cross-Site Scripting vulnerability. 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a 'Man-in-the-Middle' attack, and how can it be mitigated? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the role of Threat Hunting in Cyber Security? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the main objectives of the IT Act, 2000? 4",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "i) Why is Cyber Security important in today’s digital world? ii) What is the role of antivirus and anti-malware software in cyber security?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain Cyber Security Impact on National Security, Economy, and Privacy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is incident Response? Explain the phases of a Cyber Security Incident Response process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe SQL Injection attacks. How do attackers exploit input validation vulnerabilities?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is Multi-Factor Authentication and why is it considered a strong security practice?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss secure practices for safe usage of social media platforms. C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain digital forensics and its role in cybercrime investigations. Discuss the process of collecting digital evidence.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the significance of the Information Technology Act, 2000 in the Indian legal framework.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

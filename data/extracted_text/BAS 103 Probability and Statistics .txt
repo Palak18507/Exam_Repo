@@ -1,0 +1,281 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: II 
+(May, 2025) 
+ 
+Subject Code: BAS 103 
+Subject:  Probability and Statistics 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Use of 
+standard calculator is allowed. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) In a certain town, there are equal number of male and female 
+residents. It is known that 5% females and 20% males are 
+unemployed. If any unemployed person is picked up at random, 
+what is the probability that it is male? 
+ 
+CO1 
+ 
+b) The first four moments of a distribution about the value 4 of the 
+variable are:  -1.5, 17, -30 and 108. Find the value of kurtosis. 
+ 
+CO1 
+ 
+c) If a random variable X has the mgf M(t)= 3/(3-t), obtain the variance 
+of X. 
+ 
+CO2 
+ 
+d) For the discrete random variable X, P(X=1)=0.2, P(X=2)=0.5 and 
+P(X=3)=0.3. Find the standard deviation of X. 
+ 
+CO2 
+ 
+e) Find the probability of success ‘p’ for a binomial distribution if n=6 
+and  9*P(X=4) = P(X=2). 
+ 
+CO3 
+ 
+f) A part in an electronic device has an exponentially distributed 
+service life with expected value of two years. Suppose that the 
+component already functions well for 3 years, what is the 
+probability that the component has a total life span of more than 
+four years? 
+ 
+CO3 
+ 
+g) The lifetime of an electric bulb is considered as a random variable 
+with mean 1200 hr and standard deviation 250 hr. Find the 
+probability, using central limit theorem, that the average lifetime of 
+60 bulbs exceeds 1250 h. 
+[Use P(Z<1.53)=0.9369, P(Z<1.54)=0.9382, P(Z<1.55)=0.9394 ] 
+ 
+CO4 
+ 
+h) Explain Type-I and Type-II errors of the hypothesis. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+a) A random variable X has the following probability distribution  
+x 
+0 
+1 
+2 
+3 
+4 
+5 
+f(x) 
+k2 
+k/4 
+5k/2 
+k/4 
+2k2 
+k2 
+Find: 
+i. 
+ the value of k. 
+ii. 
+ P(1.5 < X < 4 | X > 2) 
+iii. 
+ the smallest value of x for which P(X  x)  1/2. 
+b) Calculate interquartile range and quartile deviation from the 
+following data: 
+x 
+0-10 
+10-20 
+20-30 
+30-40 
+40-50 
+50-60 
+f 
+9 
+15 
+29 
+24 
+3 
+20 
+ 
+(6+4) 
+CO1 
+Q3 
+a) Find the mean, median and mode of the following distribution: 
+x 
+10-25 
+25-40 
+40-55 
+55-70 
+70-85 
+85-100 
+f 
+6 
+20 
+44 
+26 
+3 
+1 
+ 
+b) The diameter, X, of an electric cable is assumed to be continuous 
+random variable with pdf f(x) = 6 x (1-x), 0  x 1 
+i. 
+Check that f(x) is a pdf. 
+ii. 
+Find the cdf of X. 
+iii. 
+Determine the value of k such that P(X < k) = P( X > k). 
+(5+5) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+a) The joint probability density function of the two-dimensional 
+variable (X,Y) is of the form: 
+                      
+ 
+i. 
+Find the marginal density functions. 
+ii. 
+Find the conditional probability density functions.  
+iii. 
+Find P(Y  3). 
+b) Find the moment generating function for a random variable X with 
+probability density function f(x)= 2 (1-x), 0  x  1. Hence, calculate 
+its mean. 
+(5+5) 
+CO2 
+Q5 
+a) In four tosses of a coin, let X be the number of heads. Derive the 
+probability distribution of X, and hence calculate the expected value 
+and variance of X. 
+b) For the random variables X and Y, the joint density function is given 
+by  
+              
+ 
+       Find its covariance. 
+(5+5) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+a) Obtain regression equation Y on X by taking deviations and       
+     estimate Y when X=55 from the following: 
+X 
+40 
+50 
+38 
+60 
+65 
+50 
+35 
+Y 
+38 
+60 
+55 
+70 
+60 
+48 
+30 
+ 
+b) Find the moment generating function of Poisson distribution and 
+hence deduce the mean and variance of this distribution. 
+(5+5) 
+CO3 
+Q7 
+a) Calculate the coefficient of rank correlation of the marks   obtained 
+by 7 students in an art competition given by two judges, X and Y. 
+X 
+15 
+12 
+20 
+16 
+18 
+20 
+26 
+Y 
+10 
+15 
+11 
+11 
+25 
+18 
+30 
+b) The diameter of the cable is X  N(0.8, 0.022). 
+i. 
+Calculate the probability of a diameter greater than 0.81. 
+ii. The cable is unstable if the diameter deviates more than 0.025 
+from the expected value. Suppose the production process can be 
+altered in such a way that the expected value remains constant 
+at 0.8, while the standard deviation becomes smaller. Calculate 
+the value of the standard deviation such that the fraction of 
+unstable cables will be reduced to 0.10. 
+       [Use  P(Z<0.51)=0.6949, P(Z<0.5)=0.6914, P(Z<0.52)=0.6984,    
+                 P(Z<1.64)=0.9495, P(Z<1.6)=0.6452, P(Z<1.65)=0.9505 ] 
+(5+5) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+a) A sample of 100 students is taken from a large population. The mean 
+height of the students in this sample is 160 cm. Can it be reasonably 
+regarded that, in the population, the mean height is 165 cm, and the 
+SD is 10 cm? (Use 1% level of significance) 
+[Use P(Z<2.57)=0.994915, P(Z<2.58)=0.995060, P(Z<2.59)= 0.995201] 
+ 
+b) Samples of two types of electric bulbs were tested for length of  
+     life and the following data were obtained. 
+ 
+Size 
+Mean 
+SD 
+Sample 1 
+8 
+1234 h 
+36 h 
+Sample 2 
+7 
+1036 h 
+40 h 
+     Is the difference in the means sufficient to warrant that type 1     
+     bulbs are superior than type 2 bulbs? (Use 10% level of    
+     significance) 
+                              
+ 
+(4+6) 
+CO4 
+Q9 
+a) 15.5% of a random sample of 1600 undergraduates (UGs) were   
+players, whereas 20% of a random sample of 900 postgraduates  
+(PGs) were players in a state. Test the hypothesis that less number 
+of UGs are players than the PGs.  (Use 5% level of significance.) 
+       [Use  P(Z<1.64)=0.9495, P(Z<1.6)=0.6452, P(Z<1.65)=0.9505] 
+ 
+b) Two independent samples of 8 and 7 items, respectively had the   
+     following values of the variable: 
+     Sample 1:  9, 11, 13, 11, 15, 9, 12, 14  
+     Sample 2:  10, 12, 10, 14, 9, 8, 10 
+     Do the two estimates of population variance differ significantly at    
+     5% Level of significance? 
+    
+ 
+ 
+(5+5) 
+CO4

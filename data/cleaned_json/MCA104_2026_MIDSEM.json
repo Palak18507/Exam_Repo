@@ -1,0 +1,90 @@
+{
+  "paper_id": "MCA104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA104",
+    "subject_name": "Machine Learning",
+    "program": "MCA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Overfitting and Underfitting.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Prospective Issues in machine learning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Neural Network.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Cost function of Linear regression.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A binary classifier model is trained to classify the test data of 150 samples into class A and class B. The test data contains 65 samples of class A and 85 samples of class B. The model could classify 40 samples of class A and 50 samples of class B correctly. Find the following: i) Confusion Matrix ii) Accuracy iii) Precision iv) Recall v) F1 score",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is dimensionality reduction? How PCA works? Explain in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is dimensionality reduction? Differentiate between PCA, LDA and ICA.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "x: {1,2,3,4,5} y: {2.3,2.8,1.4,3.2,3.6} Using the Linear Regression, predict the sales of the 8th and 12th week.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Linear regression and its Gradient Descent.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Naïve Bayes classifier.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

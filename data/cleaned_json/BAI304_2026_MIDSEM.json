@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAI304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI304",
+    "subject_name": "Deep Learning-II",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the bias-variance trade-off of the Neural?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Batch gradient descent and Stochastic gradient descent. Identify the scenarios in which they are applicable.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the RMSprop algorithm in detail?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How to identify saddle point. Discuss this concept in detail.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider a single neuron that takes two inputs and weights are initialized as with squared error as loss function and learning rate as 0.01. What will be the updated values of weights after single iteration of batch gradient descent algorithm for following data samples: Sr. No. X1 X2 Label 1 3 6 N 2 9 4 P 3 2 7 P 4 7 2 N 5 1 7 P 6 8 2 N",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Which scenario is depicted by low bias and high variance? Explain the three approaches to tackle this scenario in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the different weight initialization strategies for ANN?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Adagrad algorithm in detail. How is it different from Gradient descent with momentum?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "A four hidden-layer neural network is used for binary classification problem. There are 20 neurons in each hidden layer with input layer of 10 neurons which is trained over 10 epochs. The dataset consists of 30 samples wherein each sample occupies the memory space of 5MB. If the computer memory has a capacity of 23 MB. Which will be the optimal batch size for training and how many iterations will be executed in single epoch. Also, reason out the suitable optimizer for this scenario and explain it in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the following concepts of ANN in detail along with their advantages and disadvantages: Dropout, Batch normalization",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

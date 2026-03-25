@@ -1,0 +1,121 @@
+{
+  "paper_id": "MMS215_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS215",
+    "subject_name": "Financial Markets and Institutions",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between capital market and money market. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of financial institutions in the economy? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between commercial paper and certificates of deposit. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the role of central banks in regulating the financial system. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How do call money markets help in regulating liquidity in the financial system? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the function of a depository in the context of securities trading? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a short note on LIC. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is commercial Banking? 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the nature and components of the financial system. Discuss the roles played by financial markets, institutions, and instruments in economic development. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast the features, participants, and functions of the capital market and the money market. Highlight their roles in mobilizing funds in the economy. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Summarize the key recommendations of the Raghuram Rajan Committee on financial sector reforms. Evaluate their impact on India's financial landscape. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the structure of the depository system in India. Explain the processes of dematerialization and rematerialization and their importance in financial markets. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the features and participants of the government securities market in India. Explain its importance in raising funds for public sector projects. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the importance of Government Securities markets in the context of public sector borrowing and debt management. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of venture capital and private equity in funding startups and businesses. Highlight key investment strategies and the secrets of private equity success. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the process of issue management in merchant banking 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

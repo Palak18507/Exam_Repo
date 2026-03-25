@@ -1,0 +1,78 @@
+(Please write your Enrollment Number) 
+Enrollment No._________________ 
+ 
+End-Term Examination 
+(Reappear Exam) 
+(May, 2025) 
+ 
+Subject Code: BEC 110 
+Subject:  Basic Electrical Engineering 
+Time : 3 Hours  
+Maximum Marks : 60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV.  
+ 
+Q1. 
+Do Any Four 
+(4*5=20) 
+ 
+a. A delta load has 3 Ohms, 6 Ohms and 9 Ohms as branch resistances. Convert it into an 
+equivalent star load. 
+ 
+b. Determine the resonant frequency for  a series RLC circuit having R=100 ohm, L=100mH, 
+and C=10 micro F . 
+ 
+c. Draw the circuit representation of practical voltage and practical current source. 
+ 
+d. What kind of damping is used in PMMC and MI instruments? Why damping is one of the 
+essential requirement of measuring instruments? 
+ 
+e. Explain how range of PMMC ammeter and voltmeter can be extended? 
+ 
+f. What are the assumptions for ideal transformer? How the effect of eddy current and 
+hysteresis may be minimized ? 
+ 
+g. Derive the emf equation of DC shunt generator 
+UNIT-I 
+Q2. 
+Find the current in 2 Ohm resistor using superposition theorem. 
+ 
+ 
+(10) 
+Q3. 
+For what value of RL to be connected across the terminal a and b so that Maximum 
+power transfer will take through it. Also obtain the value of Maximum Power 
+transferred. 
+ 
+(10) 
+                                                                                         UNIT-II 
+Q4. 
+ Derive the expression of RMS and average value of a fully rectified sinusoidal varying 
+voltage. Obtain the expression of Form Factor and Peak Factor. 
+ 
+(10) 
+Q5. 
+A series circuit consists of a resistance of 10Ω, and inductance of 50mH and a variable 
+capacitance in series across a 100V, 50Hz supply. Calculate- (i) The value of capacitance 
+to produce resonance. (ii) current drawn by the circuit (iii) Voltage across the 
+capacitance and inductance at resonance. (iv) Q-factor. (v) resonance frequency 
+(10) 
+UNIT-III 
+Q6. 
+Explain the construction and working of a electrodynamometer type of instrument with 
+the help of a neat diagram. How it can be used as a wattmeter. 
+(10) 
+Q7. 
+Explain the Two Wattmeter Method to measure the power in a 3 phase, three wire star 
+or delta connected the balanced load. Derive the expression of power factor in terms of 
+wattmeter readings. 
+(10) 
+                                                                                          UNIT-IV 
+Q8. 
+Draw and explain the phasor diagram of transformer at a lagging power factor. Derive 
+the emf equation of transformer. 
+(10) 
+Q9. 
+Derive the EMF equation of D.C. Generator. An 8 pole lap wound dc generator has 450 
+armature turns. It operates at 0.02 wb flux per pole and runs at 1000 rpm at no load. 
+Find the emf induced by it. 
+(10)

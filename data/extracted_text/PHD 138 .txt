@@ -1,0 +1,123 @@
+Enrollment No._________________________ 
+ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: PHD  
+(May, 2025) 
+ 
+Subject Code: PHD 138 
+Subject: Research Methodology and Statistical Analysis 
+Time: 3 Hours                                                                                                                   Maximum Marks:60 
+Note: Q1 is compulsory. Attempt one question each from Unit I, II, III & IV. 
+ 
+Q1. 
+ 
+(2.5 *8=20) 
+CO 
+ 
+a) Explain any two criteria for selecting a good research 
+problem. 
+ 
+1 
+ 
+b) Define skewness. What does positive skewness indicate? 
+ 
+1 
+ 
+c) Give two examples each of parametric and non-parametric 
+tests. 
+ 
+2 
+ 
+d) State any two characteristics of a good research report. 
+ 
+2 
+ 
+e) Differentiate between a one-tailed and two-tailed hypothesis 
+test. 
+ 
+3 
+ 
+f) What is a multiple regression analysis? Give an example. 
+ 
+3 
+ 
+g) List any four types of probability sampling techniques 
+ 
+4 
+ 
+h) Mention any two points to be kept in mind while writing a 
+conclusion in a research report. 
+ 
+4 
+UNIT I 
+Q2. 
+Discuss the different types of research methods with suitable 
+examples. 
+(10) 
+1 
+Q3. 
+Describe the process of data collection. Highlight the factors 
+influencing the choice of data collection method. 
+(10) 
+ 
+1 
+UNIT II 
+Q4. 
+What is regression analysis? Explain the difference between simple 
+and multiple regression with examples. 
+ 
+(10) 
+2 
+Q5. 
+A researcher collected salary data from a company and found that the 
+data was highly positively skewed. 
+ 
+Mean salary = ₹70,000 
+ 
+Median salary = ₹55,000 
+ 
+Standard Deviation = ₹25,000 
+ 
+Coefficient of variation = ? 
+ 
+Pearson’s skewness coefficient = ? 
+ Calculate both the coefficient of variation and Pearson's skewness 
+coefficient, and interpret the distribution characteristics. 
+ 
+(10) 
+2 
+UNIT III 
+Q6. 
+Differentiate between Type I and Type II errors. How can researchers 
+minimize them? 
+(10) 
+3 
+Q7. 
+Suppose a company claims that its new drug is effective in 80% of 
+patients. A researcher tests the drug on a random sample of 100 
+patients and finds 75 of them were cured. 
+Perform a hypothesis test at 5% significance level. 
+ Should the researcher accept the company's claim? 
+(10) 
+3 
+ 
+ 
+UNIT IV 
+Q8. 
+What are statistical fallacies? Explain any four common statistical 
+fallacies researchers should avoid. 
+ 
+(10) 
+4 
+Q9. 
+Develop an outline of a research report on the problem of HIGH 
+DROPOUT RATE IN HIGHER EDUCATION. You may take help from the 
+following points: 
+ 
+Significance, Scope, variables, methodology and implication 
+of the study 
+ 
+(10) 
+4

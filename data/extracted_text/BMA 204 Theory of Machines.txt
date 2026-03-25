@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(B. Tech. MAE) (Semester: 4) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 204 
+Subject: Theory of Machines 
+Time : 1 ½Hours 
+Maximum Marks :30 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is meant by degree of freedom of a pair? Find degree of 
+freedom for Case: A prism on a plane. 
+ 
+CO1 
+ 
+b) With a neat figure, show following on a radial cam with a 
+reciprocating roller mechanism: (a) Base circle, (b) pitch point, 
+(c) pressure angle, (d) prime circle, (e) lift or stroke? 
+ 
+CO2 
+ 
+c) Find degree of freedom for 
+mechanism shown in figure 1. Is it 
+successfully constrained to form 
+a Kinematic Chain? Discuss.  
+ 
+CO1 
+ 
+d) Write in brief about Dynamic magnifier and its relation at 
+resonance. 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) With a neat sketch explain working of a Crank and slotted 
+lever quick return motion mechanism?   
+ 
+CO1 
+ 
+b) Locate all the instantaneous 
+centres for the four bar 
+mechanism as shown in Fig. 
+2. Mentions steps to locate 
+the instantaneous centres. 
+The lengths of various links 
+are: AD = 125 mm; AB = 62.5 
+mm; BC = CD = 75 mm. 
+ 
+CO1 
+ 
+c) What is understood by 3R-P and 2R-2P in mechanisms? With 
+a neat figure explain how to use an elliptical trammel to 
+engrave an ellipse and a circle? 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) A shaft 50 mm diameter and 3 meters long is simply 
+supported at the ends and carries three loads of 1000 N, 
+1500 N and 750 N at 1 m, 2 m and 2.5 m from the left 
+support. The Young's modulus for shaft material is 200 
+ 
+CO3 
+Figure 2 
+Figure 1. 
+GN/m2. Find the frequency of transverse vibration. Refer 
+figure 3. 
+ 
+ 
+ 
+ 
+b) What is a cycloid? Write in points with a neat sketch, how 
+displacement diagram is drawn when the follower of CAM 
+moves with Cycloidal motion. 
+ 
+CO2 
+ 
+c) Derive relation to find natural frequency for a spring mass 
+system, having K as spring constant and mass 
+m suspended as shown in figure 4 using 
+Energy Method. Assume any data if required. 
+ 
+ 
+ 
+CO3 
+ 
+ 
+ 
+Figure 4

@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                        Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name: B. Tech. 6th Semester (ECE-AI-1/ECE-AI-2) 
+(March 2025) OFFLINE mode 
+ 
+Subject Code: BAI 318 
+Subject: Semantic Web 
+Time: 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How does HTTP work when a user requests a webpage? 
+2.5 
+CO-1 
+ 
+b) Briefly explain HTML and its stages. 
+2.5 
+CO-1 
+ 
+c) What are the major limitations of Web 2.0 that led to the  
+    development of Web 3.0? 
+2.5 
+CO-2 
+ 
+d) Explain the role of RDF in the Semantic Web with an example. 
+ 
+2.5 
+CO-2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Define the OSI seven-layer model and briefly describe the  
+    function of each layer. 
+5 
+CO-1 
+ 
+b) Describe the major components of an internet service provider  
+    (ISP) and its role in web connectivity. 
+5 
+CO-1 
+ 
+c) Describe any 5 major Internet protocols and their  
+     functionalities. 
+5 
+CO-1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the contributions of Sir Tim Berners-Lee to the  
+    development of the Semantic Web. How does his vision shape  
+    the roadmap of Web 3.0? 
+5 
+CO-2 
+ 
+b) Describe the Semantic Web architecture and the role of  
+    different layers in the layered cake model. How do these layers  
+    contribute to interoperability on the web? 
+5 
+CO-2 
+ 
+c) The Semantic Web aims to enable machines to understand and  
+    process web data intelligently. Identify and discuss two real- 
+    world applications of the Semantic Web and their impact on  
+    industries. 
+5 
+CO-2

@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                       Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech.: Sem: 6 
+(May, 2025) 
+ 
+Subject Code: BMA 328 
+Subject: Combustion Emission & Pollution Control 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+What is heating value of a fuel? Differentiate between lower heating 
+value and higher heating value. 
+ 
+CO1 
+b 
+What are the harmful constituents of photochemical smog? 
+ 
+CO1 
+c 
+SI engines operate at stoichiometric air fuel ratio. Is the statement 
+correct? Give reasons in support of your answer. 
+ 
+CO2 
+d 
+What is equivalence ratio of a fuel? What is its significance in 
+combustion process? 
+ 
+CO2 
+e 
+How turbulence in SI engines is different from swirl in CI engines? 
+ 
+CO3 
+f 
+List some non-exhaust emissions from a vehicle. 
+ 
+CO3 
+g 
+State two advantages of Exhaust Gas Recirculation. 
+ 
+CO4 
+h 
+State two limitations of thermal converter. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss briefly different factors affecting flame speed in SI engine.  
+(10) 
+CO1 
+Q3 
+Butane (C4H10) enters a combustion chamber at 27°C at a rate of 0.05 
+kg/min where it is mixed and burned with air that enters the 
+combustion chamber. Determine the mass flow rate of air and air-fuel 
+ratio for: 
+(1) Combustion with stoichiometric air-fuel ratio 
+(2) Combustion with 10% less air 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss briefly different stages of combustion of CI engine.  
+(10) 
+CO2 
+Q5 
+Compare knocking in SI engine and CI engine. Also briefly discuss the 
+factors affecting knocking in SI and CI engine. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss briefly different causes of unburned hydrocarbon emissions. 
+(10) 
+CO3 
+Q7 
+Explain briefly how different types of emissions in SI and CI engines are 
+affected by air-fuel ratio. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the working of catalytic converter with the help of a suitable 
+diagram. Write its advantages and limitations.  
+(10) 
+CO4 
+Q9 
+What are the different alternative fuels used to reduce emissions. 
+Discuss any one fuel in detail along with its advantages and limitations. 
+(10) 
+CO4

@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: Such as B. Tech. BBA, M. Tech etc.) (Semester:       ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI-308 
+Subject: Cloud Computing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+(All parts are compulsory) 
+(2.5*4=10) 
+CO 
+Mapping 
+ 
+a) What are the key trends in computing that led to the evolution of 
+cloud computing? 
+Unit 1 
+ 
+ 
+b) List two major challenges of cloud computing and briefly explain 
+them. 
+Unit 1 
+ 
+ 
+c) Describe Software as a Service (SaaS) with its features and 
+advantages. Give two real-world examples. 
+Unit 2 
+ 
+ 
+d) Explain three major advantages of cloud computing with 
+practical applications. 
+Unit 2 
+ 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the concept and evolution of the cloud computing 
+paradigm with relevant examples. 
+ 
+ 
+ 
+b) Compare Hybrid Cloud with Community Cloud in terms of 
+usage, advantages, and limitations. 
+ 
+ 
+ 
+c) Define Cloud Deployment Models and explain each model 
+(Public, Private, Hybrid, and Community Cloud) with suitable 
+examples. 
+ 
+ 
+UNIT II 
+ 
+CO 
+Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain in detail the three major cloud service models: SaaS, 
+PaaS, and IaaS in term of features, benefits, and business 
+applications 
+ 
+ 
+ 
+b) Explain the layers of cloud architecture with a suitable diagram. 
+ 
+ 
+ 
+c) Discuss in detail the security, compliance, and data privacy 
+challenges in cloud adoption.

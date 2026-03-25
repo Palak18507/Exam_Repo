@@ -1,0 +1,99 @@
+{
+  "paper_id": "MIS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS104",
+    "subject_name": "Applied Cryptography",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State Shannon’s theorem. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Is AES a Feistel cipher? Why or why not? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Mention the 3 RSA requirements. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define non-repudiation and how it can be achieved. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Prove that the following definitions of perfect secrecy are equivalent: DEF 1. For all x ∈𝑃 and y ∈𝐶, Pr[𝑥|𝑦] = Pr[𝑥] DEF 2. For all x ∈𝑃 and y ∈𝐶, Pr[𝑦|𝑥] = Pr[𝑦]",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the third definition of perfect secrecy? 1",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "a",
+          "text": "List out the polynomial representation of any 10 elements of the Galois field GF . 1",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "a",
+          "text": "What is the characteristic and order of the Galois field: GF ?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Assume Multiplication in GF: Compute A ·B mod P in GF using the irreducible polynomial P = x4+x+1. A = x2+1, B = x3+x2+1 1",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Whis is discrete log problem? What is the advantage of using primitive root in Diffie Hellman Key exchange? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find Multiplicative inverse of 11 modulo 26 by applying Extended Euclidean Algorithm? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain in detail with a suitable diagram the X.509 Certificate Format 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

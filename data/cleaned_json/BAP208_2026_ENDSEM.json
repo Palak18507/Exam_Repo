@@ -1,0 +1,80 @@
+{
+  "paper_id": "BAP208_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP208",
+    "subject_name": "History of Architecture IV",
+    "program": "B.Arch",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What were the 3 main divisions of Islamic architecture styles in India? 2.5 b Name 2 mosques built under the Pronvincial Islamic architecture in India. 2.5 c Name 5 Indian cities having historically and religiously significant river ghats. 2.5 d Name 5 typology of buildings under the Mughals in India with examples 2.5 e In which city and country of Europe did Renaissance start in Europe? 2.5 f Name 2 examples of Lucknavi Nawabi architecture. 2.5 g List three character of Baroque style in architecture. 2.5 h Name 2 important architects who are considered masters of Renaissance in Europe. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Draw neat labelled sketches to explain the architectural design, of Mosque under the Mughals in India, under whom the mosque design in India had reached its most mature phase. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Taking Mosques and Temples as prototype, briefly enlist any 5 fundamental differences between the Islamic and Hindu architecture styles. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "List the chronology of sultanates in India along with any one specific architectural contribution from that dynasty. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "List the chronology of Mughal emperors in India with any one specific architectural contribution from or in the name of that emperor. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe and briefly explain any 5 examples of Lucknavi nawabi architecture. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe 5 main features of Renaissance style and name any 5 Renaissance buildings of repute surviving in Europe till the present times. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What was the influence of colonialism on the architecture of India with respect to the evolution of new building/architectural typologies and their uses? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe & Explain any 5 colonial architecture in India. OR Write a brief essay on the relevance of colonial architecture in Indian architecture paradigm with atleast 5 suitable examples. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

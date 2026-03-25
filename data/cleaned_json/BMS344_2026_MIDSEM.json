@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS344_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS344",
+    "subject_name": "Social Media and Web Analytics",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how social network data differs from traditional data used in analytics.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the role of nodes and relations in social network analysis with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between structured, semi structured and unstructured data",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How are basic statistics applied to analyze social network data?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is web analytics, and why is it important for businesses?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are formal methods in social network analysis? Explain their importance.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss different kinds of graphs used to represent social relationships.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What factors should a business consider when selecting a web analytics solution?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the major challenges in implementing web analytics for online businesses?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is clickstream analysis, and how does it help in understanding user behavior?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

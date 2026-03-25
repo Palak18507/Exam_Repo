@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+B.Tech, 6th Semester 
+ (May, 2025) 
+ 
+Subject Code: BAI 308 
+                                                                       Subject:  Cloud Computing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+2.5*8 
+CO Mapping 
+ 
+a) How does cloud computing overcome the limitations of grid  
+computing? 
+ 
+CO1 
+ 
+b) Discuss the challenges of cloud computing that are still need to be 
+addressed. 
+ 
+CO1 
+ 
+c)  List the standard protocols used in web services. 
+ 
+CO2 
+ 
+d) What is PaaS in cloud computing? Explain with example. 
+ 
+CO2 
+ 
+e) List the steps involved in the Virtual Machine provisioning process. 
+ 
+CO3 
+ 
+f)  Discuss the properties of a Type 2 hypervisor. 
+ 
+CO3 
+ 
+g) Explain the blockchain structure that makes it secure. 
+ 
+CO4 
+ 
+h) Discuss the security concerns at different levels of the cloud 
+computing environment. 
+ 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+How have computing paradigms evolved up to the point of cloud 
+computing, and what are the key milestones in this evolution?  
+(10) 
+CO1 
+Q3 
+Explain the deployment models of cloud computing in detail. 
+(10) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+What is the need for cloud migration? Discuss the steps involved in the 
+cloud migration model. 
+(3+7) 
+CO2 
+Q5 
+What is dynamic scalability? Discuss the types of dynamic scaling with 
+appropriate diagrams. 
+(4+6) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+In the context of modern programmable networks, how does Software 
+Defined Networking (SDN) redefine traditional network control and 
+forwarding mechanisms? Illustrate your explanation with a detailed 
+architectural diagram. 
+(10) 
+CO3 
+Q7 
+How does Network Function Virtualization (NFV) transform traditional 
+network architecture in modern cloud-based infrastructures? 
+(10) 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+Explain what a smart contract is and how it works. Provide a 
+demonstration with sample code. 
+(3+3+4) 
+CO4 
+Q9 
+In what ways do containers differ from traditional virtualization in 
+terms of resource isolation, management, and scalability? 
+(10) 
+CO4

@@ -1,0 +1,145 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B. Tech., Semester: 6th  
+(May, 2025) 
+ 
+Subject Code: BIT 306 
+Subject: Data Mining & Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between Qualitative vs Quantitative Data. 
+2.5 
+CO1 
+ 
+b) Define Over-fitting and Under-Fitting. 
+2.5 
+CO1 
+ 
+c) How regression handles categorical variables/attributes in input 
+and output? 
+2.5 
+CO2 
+ 
+d) How to convert data into probability values for Naïve Bayes 
+Classifier? 
+2.5 
+CO2 
+ 
+e) Define a Feature vector in ML. 
+2.5 
+CO3 
+ 
+f) Explain 02 applications which make use of Clustering? 
+2.5 
+CO3 
+ 
+g) Define the Spatial Extent of any kernel/filter in a CNN. 
+2.5 
+CO4 
+ 
+h) How an epoch is defined for vanilla gradient descent and 
+stochastic gradient descent. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What do you mean by Data Pre-processing in ML Pipeline? Explain Data 
+Transformation and Data Discretization.  
+(10) 
+CO1 
+Q3 
+Explain various data similarity measures for distinct data types. Take 
+suitable examples of your choice.  
+ 
+ 
+Nominal (f1) 
+Ordinal (f2) 
+Numerical (f3) 
+D1 
+India 
+L 
+1947 
+D2 
+China 
+XL 
+1948 
+D3 
+China 
+XL 
+          1962 
+D4 
+       SriLanka 
+S 
+1900 
+D5 
+    Pakistan 
+M 
+1971 
+ 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Write and explain the concept and operation of K Nearest 
+Neighbor Classifier.  
+b) Why one should choose boosting ensemble approach? Justify 
+through one example approach.  
+(5,5) 
+CO2 
+Q5 
+a) Explain how the bias-variance trade-offs is related to model 
+complexity/ over-fitting/under-fitting. 
+b) Explain various parameters used for evaluation of predictive 
+model. 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Write an algorithm for K-means clustering, its working and 
+limitations.  
+b) Consider that Hierarchical agglomerative clustering is used with 
+single-linkage and Average Linkage. Write the algorithm for both. 
+(4,6) 
+CO3 
+ 
+ 
+Q7 
+a) Consider that a data set is suitable for clustering. How would you 
+support this statement?  
+b) Apply any two extrinsic evaluation methods on the following 
+scenario for assessing the clustering scheme C1 and C2.  
+(5,5) 
+CO3 
+ 
+ 
+ 
+Figure for Question No. 7. 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the concept of Convolution Operation in a CNN. Demystify any 
+popular CNN Models detailing layer-wise parameters.  
+(10) 
+CO4 
+Q9 
+Write a short note on the following: 
+a) RNN                 b) LSTM 
+(5,5) 
+CO4

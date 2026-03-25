@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech. ECE, Semester:4 
+(May, 2025) 
+ 
+Subject Code: BEC 202 
+Subject:  Linear Integrated Circuits (LIC) 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) The output voltage of Op-amp is changes by 20V in 4µsec. What is the 
+slew rate of Op-amp?  
+ 
+CO1 
+ 
+b) Explain the virtual ground concept with a suitable example.  
+ 
+CO1 
+ 
+c) What is precision diode? What part it plays in a half wave rectifier? 
+ 
+CO2 
+ 
+d) Explain the basic principle of a RC Phase shift oscillator. 
+ 
+CO2 
+ 
+e) Give limitations of an Operational Transconductance Amplifier (OTA). 
+ 
+CO3 
+ 
+f) Discuss the power conversion efficiency of a Class A Amplifier. 
+ 
+CO3 
+ 
+g) For which applications active filters are preferred over passive filters 
+and why? 
+ 
+CO4 
+ 
+h) What is a phase detector? What are its types? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the meaning of open loop and closed loop operation of an op-amp. 
+Discuss different circuits and their working for both types of operation of Op-
+Amp.  
+(10) 
+CO1 
+Q3 
+Discuss about the various methods used for improving CMRR of the Op-Amp. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Draw the circuit of a Monostable Multivibrator using Op-Amp. Explain its 
+operation and find out the mathematical expression for pulse width ‘T’ for the 
+monostable multivibrator. 
+(10) 
+CO2 
+Q5 
+Design an op-amp differentiator that will differentiate an input signal with fmax 
+= 500 Hz. Draw the output waveform for a sine wave of 2V peak at 200 Hz 
+applied to the differentiator. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Find the transfer function of the circuit given in Figure below: 
+(10) 
+CO3 
+ 
+ 
+ 
+ 
+Q7 
+Explain the operation of Class A Push-Pull Amplifier. Give circuit diagram and 
+detailed working. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Design a fifth order Butterworth low-pass filter having upper cut-off 
+frequency 2kHz.   
+(10) 
+CO4 
+Q9 
+Write short notes on the following:- 
+(a) Monostable operation of 555 Timer 
+(b) Block schematic of Phase Locked Loop (PLL) 
+(10) 
+CO4

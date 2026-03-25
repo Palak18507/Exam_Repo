@@ -1,0 +1,89 @@
+{
+  "paper_id": "BAM310_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM310",
+    "subject_name": "Cyber Security & Forensics",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1.5 Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Operational Security",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Identity Access Management",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Network Intrusion Detection",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Intellectual Property Theft",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Comprehensively explain the concept of Computer Security Incident Response Strategy and give technical justification for employing computationally intensive Intrusion Detection Systems for ensuring Network Security.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Quantitatively differentiate between User Authentication and Authorization in Cyber Security giving suitable examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Categorically explain the Identity Theft and Fraud type of Cyber Crime and give suitable countermeasures for overcoming these.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Categorically explain the process of using Netcat during initial response while performing the Cyber Forensic Analysis. Give suitable illustrations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the significance of creating a reliable TCP connection between the Target System and Forensic Workstation during Cyber Forensic Analysis. Give suitable illustrations with examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Quantitatively differentiate between OSPF Unicast Routing Protocol and MOSPF Multicast Routing Protocol with suitable illustrations.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

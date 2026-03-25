@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS302_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS302",
+    "subject_name": "Business Policy and Strategy",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between long-range planning and strategic planning",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Briefly explain the evolution of business policy as a discipline.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the need for conducting an environmental analysis in business policy?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the ETOP.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the purpose of a value-chain analysis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How does a SWOT analysis help in strategy formulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "List any three approaches to strategy formation",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the purpose of the BCG Matrix in strategic planning?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the strategic management process. Explain the stages involved in both the formulation and implementation phases.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is meant by strategy evaluation and control? Discuss the importance of feedback and corrective actions in strategic management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How can organizations categorize and prioritize environmental factors? Propose a framework for classifying environmental influences as threats or opportunities.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is structural analysis of the competitive environment? Explain Porter's Five Forces Model as a tool for structural analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss Michael Porter’s Value Chain Model and its relevance in analyzing internal capabilities of a firm.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Evaluate the importance of aligning internal strengths with external opportunities for gaining competitive advantage.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the Product/Market Evolution Matrix. How does it help firms plan for product and market development?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the BCG Growth-Share Matrix. How can it guide firms in choosing strategic business units for investment or divestment?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

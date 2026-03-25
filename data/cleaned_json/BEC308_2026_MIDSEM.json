@@ -1,0 +1,119 @@
+{
+  "paper_id": "BEC308_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC308",
+    "subject_name": "Microprocessor & Microcontroller",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between 8086 and 8085. CO-1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Flag in 8086, along with its priority. CO-1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write an 8086 Assembly Language Program to add two 16 bit numbers. CO-2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "In 8086 Microprocessor, If DS=1000H, BX= 2000H and SI=3000H, What is the physical address accessed by MOV AX,5000H[BX][SI]? CO-2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the timing diagram of LDA 8000H. CO-1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the architecture of 8085 and explain in brief. CO-1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw the Pin diagram of 8086 and explain the significance of each pin. CO-1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the 8086 Microprocessor with the help of architecture diagram. CO-2",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are addressing modes? Which addressing mode 8086 below instructions belong and why? Explain the operation performed by the instructions also.",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "a",
+          "text": "MOV AX, 50H [BX]",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "b",
+          "text": "MOV BX, 0005H",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "c",
+          "text": "ADC AL, BL",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "d",
+          "text": "MOV AX, [BX]",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "e",
+          "text": "ADD 50H [BX][SI], BP OR",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "b",
+          "text": "Determine Multiprocessor? Differentiate between closely coupled and loosely coupled configurations. CO-2",
+          "marks": 1.1111111111111112
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Minimum mode operation of 8086 Microprocessor with relevant diagram. CO-2",
+          "marks": 1.1111111111111112
+        }
+      ]
+    }
+  ]
+}

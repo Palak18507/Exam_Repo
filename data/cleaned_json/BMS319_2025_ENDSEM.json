@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS319_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS319",
+    "subject_name": "HRD System &Strategies",
+    "program": "BBA",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Highlight the main components of ASTD Competency Model for HRD professionals. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Training, Education and Development. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main levels of Kirkpatrick model on the basis of which a training program is evaluated? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Identify the advantages of HRD Audit to bring about effectiveness in Human Resource development initiatives in an organization. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the components of Balance Score Card of a coffee retail chain. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Highlight the role of Employee counselling to foster a supportive work environment. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the importance of data gathering feedback and analysis in HRD. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "“There is a strong interrelationship between Industrial Relations and Human Resources Development.” Comment. 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is meant by HRD? How did it emerge as an important branch of HRM? Explain in detail. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How does HRD function as a Total System? Discuss the various activity areas of HRD. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "An ed tech organization is facing the problem that the existing training programs were inadequate. It needed training that would focus on covering various new skills. What aspects would be taken into consideration to conduct an assessment of the needs of training and development in the above? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "As a member of HRD team of an organization operating in the global scenario having a diverse workforce, explain some diversity management practices that need to be incorporated in the HR policies. Also explain the main differences between affirmative action and diversity management. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "“Competency mapping is an important tool for work force development by identifying essential competencies.” Explain. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is the role of Appreciative Enquiry in HRD? Explain the Appreciative enquiry application in HRD with relevant example. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How has the implementation of Human Resource Development practices evolved in Indian organizations and what impact have these practices had on employee performance, organizational culture, and overall business outcomes? Trace the HRD experience in Indian organizations. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "The past few years have redefined the human resource development scenario in more ways than one. Map the scenario of Human Resource Development in the next decade. Give relevant examples. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

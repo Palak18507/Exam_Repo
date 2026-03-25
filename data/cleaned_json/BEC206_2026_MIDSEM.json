@@ -1,0 +1,90 @@
+{
+  "paper_id": "BEC206_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC206",
+    "subject_name": "Electromagnetic Field Theory",
+    "program": "B. Tech. ECE/ECE AI",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you mean by gradient of a scalar? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss Stoke’s Theorem. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Derive relationship between E and V. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Derive Gauss’s law in differential form. CO 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the point transformation among cartesian, cylindrical and spherical coordinates variables with the help of suitable figures. CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "The temperature in an auditorium is given by, T = x2 + y2 – z. A mosquito at in the auditorium desires to fly in such a direction that it will get warm as soon as possible. In what direction must it fly? CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the Laplacian of the following scalar fields i) 𝑉1 = [𝑥2 + 𝑦2 + 𝑧2 ] 3 2 ⁄ ii) 𝑉2 = 5 𝑟2𝑠𝑖𝑛 θ cos φ CO 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Determine which of the following are genuine electric fields. i) 𝐸1 = 5 𝑥3 𝑎𝑥+ 15 𝑥2 𝑦 𝑎𝑦 ii) 𝐸2 = 5 𝑟𝑠𝑖𝑛 θ cos φ 𝑎𝑟 CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive law of refraction of the electric field at a boundary free of charge. CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Let D = 2xy 𝑎𝑥 + x² 𝑎𝑦 C/m² find The volume charge density 𝜌𝑣 The flux through the surface 0 < x < 1, 0 < y < 1, z = 1 CO 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

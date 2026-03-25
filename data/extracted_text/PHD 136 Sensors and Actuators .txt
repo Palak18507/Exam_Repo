@@ -1,0 +1,72 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: PHD(MAE),  
+(May, 2025) 
+ 
+Subject Code: PhD 136 
+Subject: Sensors and Actuators 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+What are the main advantages of sensors? Explain. 
+ 
+(b) 
+Explain the applications of LVDT sensors in brief. 
+ 
+(c) 
+List the advantages and disadvantages of pneumatic actuators. 
+ 
+(d) 
+Why is the thin film needed? Explain. 
+ 
+(e) 
+Differentiate between wet and dry etching techniques. 
+ 
+(f) 
+Explain the semiconductor gas sensor.  
+ 
+(g) 
+List the advantages of nano-structured based gas sensors. 
+ 
+(h) 
+Explain sensor interfacing with Microprocessor. 
+UNIT-I 
+Q2 
+What do you understand by the static characteristics of sensor? Explain any five 
+characteristics of sensor. 
+(10) 
+Q3 
+Explain the working and principle of DC motor and its type. 
+(10) 
+UNIT-II 
+Q4 
+What is the physical vapour deposition technique? Explain the various 
+techniques of physical vapour deposition for depositing thin films. 
+(10) 
+Q5 
+Explain the sputtering and its various sputtering techniques. 
+(10) 
+UNIT-III 
+Q6 
+Classify the various gas sensors and its applications.  
+(10) 
+Q7 
+Explain optical gas sensor and its working principle. Also list the applications of 
+optical gas sensors. 
+(10) 
+UNIT-IV 
+Q8 
+Explain the pressure sensor and its fabrication methods.  
+(10) 
+Q9 
+Explain the piezoelectric actuator and its working principle and operation. Also 
+list the applications of piezoelectric actuator. 
+(10)

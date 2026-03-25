@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD035_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD035",
+    "subject_name": "Characterization of materials",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a State Bragg’s law. What information is required to index an unknown XRD pattern? 2.5 b What is the function of a condenser lens in an optical microscope? 2.5 c What is the basic principle of Rutherford backscattering spectroscopy ? Which type of particles are used in RBS and why? 2.5 d What are the possible outcomes during the inelastic scattering process of an electron with an atom in a material? 2.5 e Differentiate between positive and negative magnetoresistance. 2.5 f Explain the significance of relaxation time in NMR Spectroscopy. 2.5 g How is the bandgap of a material estimated using UV-Visible Spectroscopy? 2.5 h Differentiate between Stokes and anti-Stokes lines in Raman spectra. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "An X-ray diffraction pattern of a nanomaterial with a cubic crystal structure shows a strong diffraction peak at an angle of 2θ = 36.5°, corresponding to the plane, using Cu Kα radiation . Using Bragg's Law, calculate the interplanar spacing and also determine the lattice constant of the material. If the full width at half maximum of the peak is 0.5°, calculate the crystallite size and the dislocation density of the material. 10",
+      "marks": 111.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the principle of operation of RHEED with the help of a suitable diagram. Is RHEED better than LEED? Justify. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw the schematic ray diagrams of the various imaging modes of a SEM. Differentiate between SEM and FESEM. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Using suitable schematic diagrams, explain the principle and tip nature of Scanning Probe Microscopy. Why do we use a sharp tip in SPM? What characterization techniques are based upon the SPM principle? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the principle of the Hall effect in semiconductors. Derive the expression for the Hall coefficient and discuss its significance. In a Hall effect experiment, a sample of thickness 0.5 mm carries a current of 5 mA. A magnetic field of 0.8 T is applied perpendicular to the sample surface. A Hall voltage of 3 mV is measured across the width of the sample. Calculate the Hall coefficient and the carrier concentration. Also, determine the type of charge carriers. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain Thermogravimetric analysis in terms of processes that cause weight gain in TG curves. Describe a few applications of TGA. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the basic principle of UV-Vis spectroscopy. Using suitable diagrams, describe the two basic conditions that must be satisfied for absorption to occur. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What do you mean by magnetoresistance? How is GMR different from normal MR? Diagrammatically explain the two principal geometries of the GMR effect. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

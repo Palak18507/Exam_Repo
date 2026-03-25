@@ -1,0 +1,36 @@
+{
+  "paper_id": "BAM314_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM314",
+    "subject_name": "Natural Language Processing",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "1. Explain any three challenges faced in Natural Language Processing. 2. What is Parsing in NLP? Explain any two key benefits from it for the NLPist. 3. What is Tokenisation and Stop word analysis in NLP and why do you think it is important. 4. Write short note on any one. Corpus storage Formats Significance of Corpus",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT- 1 Explain what is Top down and Bottom Up parsing with help of any one respective parser used by them. What do you understand by Semantic Analysis in NLP. Explain with suitable example. Explain with example the following 1. Hypernym & Hyponyms 2. Meronyms and Holonyms",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT- 2 Explain what do you mean by a Corpus and discuss what are its features and data attributes to qualify it as a good corpus. Explain what do you understand by BoW and TDF-IF operations on a corpus. Take suitable example to explain. Write short Note on 1. Word2Vec 2. GloVe Note: Q. 1 is compulsory. Subject: Natural Language Processing Subject Code: BAM 314",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

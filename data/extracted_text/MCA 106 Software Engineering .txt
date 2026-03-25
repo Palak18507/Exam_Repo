@@ -1,0 +1,191 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<02> 
+(May, 2025) 
+ 
+Subject Code: MCA 106 
+Subject: Software Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt any five Parts 
+20 
+ 
+ 
+a) What is the difference between a Software Process and a Software Lifecycle 
+Model? 
+4 
+CO1 
+ 
+b) A client insists on a fixed budget and timeline but has evolving requirements. 
+Which development model would you recommend and why? 
+4 
+CO2 
+ 
+c) A mobile app suffers from performance issues on older devices. How could 
+non-functional requirements have prevented this? 
+4 
+CO2 
+ 
+d) Differentiate between basics, intermediation & detailed COCOCMO Model. 
+4 
+CO2 
+ 
+e) Briefly describe Exploratory Testing. What are its benefits? 
+4 
+CO3 
+ 
+f) A software system was developed at a cost of ₹40 lakh. The software is 
+expected to remain operational for 10 years. The average Annual Change 
+Traffic (ACT) is estimated to be 20%. Estimate the total maintenance cost over 
+the software's lifetime   
+4 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+Why is the study of Software Engineering essential in modern computing? Discuss in 
+terms of complexity, scalability, and cost-effectiveness. 
+(10) 
+ 
+CO1 
+Q3 
+A large software project is expected to span 2 years, involves 15 distributed teams, 
+and has loosely defined requirements. Which process model is best suited? Justify. 
+(10) 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+Explain the steps involved in the Requirements Engineering process. How do these 
+steps contribute to the success of a software project? 
+(10) 
+ 
+CO2 
+Q5 
+Read the following case description 
+M/s Poornima Broker & Builders is a real estate company dealing with leasing the 
+houses on rent.  Their Real Estate Information System provide assistance to the   
+agents as they sell houses. Interested Sellers/owners of the property contact the 
+agency and an agent is assigned to help the seller to complete a Sales Request Form. 
+Information about the house and lot taken from that form is stored on a computer 
+file. Personal information about the sellers is copied by the agent onto a Sellers 
+Personal Info Sheet and stored in a file. When a buyer contacts the agency, he/she 
+fills out a buyer request form. On regular basis, the agency sends prospective buyers 
+a home-on-sale magazine containing the addresses. Periodically, the agent will find a 
+particular house that satisfies most or all of a specific buyer’s requirements, as 
+indicated in the buyers requirement  form distributed weekly to all agent. The agent 
+occasionally photocopy a picture of the house along with vital data and send   MLS 
+Sheet to the potential buyer. When the buyer selects a house, he or she fills out a 
+purchase agreement that is forwarded through the real estate agency to the seller, 
+who responds with an offer acceptance or gives counteroffer After a purchase 
+agreement has been accepted, the agency sends an appraisal report to an appraiser, 
+who appraises the value of the house and lot. The agency also notifies its finance 
+company with a finance request form 
+ 
+(i)  Draw the Context Level DFD 
+ 
+(ii) Draw First Level DFD 
+(4,6) 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+i).  Draw the Structured Chart for the following description. 
+The update file gets the valid transactions and update the file. Update file 
+module update the master file then Update master file calls put new master 
+(5,5) 
+CO3 
+that format the master, write to the master and checks if user wants to 
+continue.  
+ii). Consider the following code segment 
+1.  i = 0 
+2. while (i < 10): 
+3.     if (i % 2 == 0): 
+4.         print("Even") 
+5.     else: 
+6.         print("Odd") 
+7.     i += 1 
+8. print("Done") 
+a. 
+Draw the Control Flow Graph 
+b. 
+Calculate the Cyclomatic Complexity 
+c. 
+List the independent path 
+Q7 
+Explain the concept of Service-Oriented Architecture in Software Design. Discuss its 
+Key Principles, benefits and challenges. Illustrate how SOA promotes loose coupling 
+and reusability with the help of a suitable example or diagram 
+(10) 
+ 
+UNIT IV 
+ 
+ 
+Q8 
+Discuss the role of software project planning in ensuring successful software 
+development. Explain the key components of a software Project Planning. How does 
+modern estimation techniques like FPA and COCOMO improve the accuracy of 
+planning? 
+(10) 
+CO4 
+Q9 
+(i) Let's assume that a project has 100,000 lines of code. The cost drivers for the 
+project are as follows: 
+ 
+Reliability: 1.1 
+ 
+Personnel Experience: 1.2 
+ 
+Complexity: 1.3 
+Estimate the effort for this project using Intermediate COCOMO 
+ 
+(ii) Consider a project with the following parameters. 
+i) 
+External Inputs 
+ 
+a) 10 with low complexity 
+ 
+b) 15 with average complexity 
+ 
+c) 17 with high complexity 
+ii) External outputs: 
+ 
+a) 6 with low complexity 
+ 
+b) 13 with high complexity 
+iii) External inquiries: 
+ 
+a) 3 with low complexity 
+ 
+b) 4 with average complexity 
+ 
+c) 2 with high complexity 
+iv) Internal logical files: 
+ 
+a) 2 with average complexity 
+ 
+b) 1 with high complexity 
+v) External Interface files 
+ 
+a) 9 with low complexity 
+In addition to above, system required 
+• 
+Significant data communication 
+• 
+Performance is very critical 
+• 
+Designed code may be moderately reusable 
+• 
+System is not designed for multiple installations in different organizations. 
+Other complexity adjustment factors are treated as average. Compute the function 
+points for the project 
+(5,5) 
+CO4

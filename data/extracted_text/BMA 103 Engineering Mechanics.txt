@@ -1,0 +1,60 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 2 ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 103 
+Subject: Engineering Mechanics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What is moment? Explain using a neat sketch 
+ 
+ 
+b) Discuss the static equilibrium of three coplanar forces 
+ 
+ 
+c) State parallel axis theorem  
+ 
+ 
+d) What is polar moment of inertia? 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Establish a relationship of resultant force using law of parallelogram  
+ 
+ 
+b) Derive the relationship of ladder friction subject to sliding assuming W is 
+weight, L for length, Ɵ angle of ladder from horizontal floor, and µ for Co-
+efficient of friction  
+ 
+ 
+c) Write the contribution of friction for designing and manufacturing of 
+automobiles on NCT Delhi roads 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Show that the centroid of triangle lies h/3 from base. Where h height of 
+triangle 
+ 
+ 
+b) Establish relationship of area moment of inertia of ‘R’ radius circular 
+shape about diameter   
+ 
+ 
+c) Write steps for determination of polar moment of inertia of a L shape by 
+assuming own dimensions

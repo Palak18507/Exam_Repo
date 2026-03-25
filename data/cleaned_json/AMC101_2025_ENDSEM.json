@@ -1,0 +1,102 @@
+{
+  "paper_id": "AMC101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC101",
+    "subject_name": "Business Mathematics",
+    "program": "BBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a How many different words can be formed using the letters M, 0, B, I, L, E, taken all at time, and every word begins with M? b Given A= [ 1 2 3 0 4 5 1 0 6 ] and B = [ 2 0 1 1 3 0 4 5 6 ], Find AB. c Differentiate x √ x w.r.t x d Find ∫𝑑𝑥 1 −1",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Out of 4 officers and 10 clerks in an office, a committee consisting of 2 officers and 3 clerks is to be formed. In how many ways can this be done if : any officer and any clerk can be included. one particular clerk must be on the committee. one particular officer cannot be on the committee",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Prove by mathematical induction that for all n 𝜖 N, 32n when divided by 8, the remainder is always 1.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "If A = [2 1 0 3] and B = [1 4 2 1] , verify if AB ≠ BA",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Given A = [ 1 2 3 0 5 6 1 1 1 ] , find AT. Then, verify if AT×A is defined. If yes, compute it.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the marginal revenue function MR .",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Calculate MR when q=20.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the price elasticity of demand.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Evaluate the elasticity when p = 50",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Determine the area enclosed by the curves y = x2 and y= 4-x2 between x = 1 and x = 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "The marginal cost function for producing q units is MC=10+2q. Find the total cost function if the fixed cost is Rs.100",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

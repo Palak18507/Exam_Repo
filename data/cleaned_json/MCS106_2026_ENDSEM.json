@@ -1,0 +1,79 @@
+{
+  "paper_id": "MCS106_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS106",
+    "subject_name": "Cloud Computing",
+    "program": "<M.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Consider the given use case and answer the following questions by your own assumptions: You need to setup the weather monitoring system in the organization that monitors, reports, and updates the end users about the various conditions of the organization such as temperature, humidity, light, etc. CO Mapping A. The organization wishes to implement the cloud solution to the above use case, which cloud computing deployment model will you recommend and justify? B. The organization wishes to implement the edge computing, How do you implement above use case and draw its architecture C. The organization wishes to implement the virtualization in cloud solution. Which virtualization technique you recommend and Justify your answer? D. What is Docker and explain its architecture for implementing the above use case? CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain Grid computing architectures with neat diagram. Can you recommend Grid computing for implementing the above use case? Justify your answer and Provide its merits and demerits of it over Clout commuting w.r.t above user case?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are the various cloud deployment models and explain How do you choose w.r.t above use case? Provide its merits and demerits of each? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain traditional IT Model framework and What are the limitations of it and how do you overcome with the help of cloud computing? Justify your answer w.r.t Q1 use case?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Illustrate the architecture of any public cloud which is used in the organization or university? Compare its merits and dements with private cloud in detail with r.r.t AWS or Azure CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Provide the Network Virtualization techniques available for cloud computing and explain any one suitable for implementing solution to Q1? Differentiate between storage virtualization, processor virtualization?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What is Software Defined Network and explain its architecture with neat diagram and its applications CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "How do you ensure the cloud security and what are the techniques you recommend to ensure the best cloud security to implement Q1 in Cloud computing platform?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is Block chain and explain its architecture with the help of neat diagram and how it’s useful for cloud computing? What are the recent advances in cloud computing and explain any challenges with reference to any cloud service provider?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

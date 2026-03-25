@@ -1,0 +1,97 @@
+{
+  "paper_id": "BMS331_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS331",
+    "subject_name": "Data Analytics",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What is data analytics? Describe the benefits of using SPSS software for Data Analysis. What type of descriptive analysis can be applied to categorical data? How cross-tabulation is used for data analysis? What is hypothesis testing? What is the Chi-Square Test? What is time series analysis? What is factor analysis? CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Using suitable examples, describe the different measurement scales used in data collection.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What is exploratory data? What are the methods to apply exploratory data analysis? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Is the data for any variable in categorical form? What type of analysis could be run on that data? Illustrate with a suitable example the usage of cross-tabulation for data analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Graphical analysis is a tool for presenting the data in a more understandable and easy-to-interpret form. Comment on this and explain the types of visual charts used for data analysis. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What is a t-test? What are the major types of t-tests that can be applied to any data? Illustrate with a suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What is ANOVA? What is the procedure of applying the ANOVA test? Illustrate with a suitable example. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What is regression analysis? How is the best-fit line used to predict the dependent variable?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is the correlation analysis? How is the correlation coefficient calculated to show the relationship between two variables? Illustrate with a suitable example. 2",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}Totals 65 35 100 Apply the suitable statistical technique to test the given hypothesis. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are the steps in interpreting the regression model?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is the factor analysis? What are the steps in implementing a factor analysis on any research data?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

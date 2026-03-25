@@ -1,0 +1,102 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION  
+(FOR RE-APPEAR) 
+(Course Name: B. Tech. ECE) (Semester: 1st) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 106 
+Subject: Signal & Systems  
+Time: 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) 
+Define discrete time unit step & Unit impulse. 
+ 
+CO1 
+ 
+b) 
+Find whether the signal given by x (n) = 5cos (6n) is periodic or 
+not? 
+ 
+CO1 
+ 
+c) 
+Write short notes on Dirichlet’s conditions for Fourier Transform. 
+ 
+CO2 
+ 
+d) 
+Sketch the function x(t)= u(t)-2u(t-2). 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) 
+Are the systems represented by the following equations LTI 
+system or not? 
+y(n) = x(n-1) + 3x(n) + nx(n) 
+ 
+ 
+CO1 
+ 
+b) 
+Find the convolution of the following two signals and represent 
+them graphically. 
+ x(n) = { 1, 1,0, 1, 1} and h(n) = { 1, -2, -3, 4} 
+ 
+ 
+                                              
+ 
+CO1 
+ 
+c) 
+For 
+given 
+x(t). 
+Draw 
+x(-2t-
+2).
+ 
+ 
+ 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Find the Fourier transform of 1/(a+jt)  
+if F.T [e-atu(t)] = 1/(a+jw) 
+ 
+CO2 
+ 
+b) Find the Fourier series representation of a periodic square 
+wave          
+       f(t)  = 1 for 0 < t < π 
+         = -1 for π < t < 2π 
+ 
+CO2 
+ 
+c) The input and output of a causal LTI system are related by the 
+differential equation, d2y(t)/dt2+6dy(t)/dt+8y(t)=2x(t)  
+ 
+CO2 
+ 
+Find the impulse response of the system?

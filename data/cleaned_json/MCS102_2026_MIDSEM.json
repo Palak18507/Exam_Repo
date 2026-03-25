@@ -1,0 +1,91 @@
+{
+  "paper_id": "MCS102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS102",
+    "subject_name": "Deep Learning",
+    "program": "M. Tech CSE - AI",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the working of Back propagation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "A deep neural network with three hidden layers is trained on 50,000 images for 20 epochs. Each batch takes 40ms to process. Calculate total model parameters, batches per epoch, and total training time for 20 epochs.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "After training a neural network, you observe a large gap between the training accuracy and the test accuracy . Which method can be used to reduce this gap? Explain the method.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the challenges occur in neural network optimization in detail.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate Between Gradient, Stochastic and Mini Batch Gradient Descent",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is vanishing gradient? Which activation functions can lead to vanishing gradients and how?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the historical trends in deep learning.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why do we need better optimization algorithms? What is the best optimization algorithm for Deep Learning?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is regularization? How does regularization help in reducing overfitting",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Autoencoder? What is the difference between variational and standard autoencoder?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

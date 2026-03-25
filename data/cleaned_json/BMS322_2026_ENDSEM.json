@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS322_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS322",
+    "subject_name": "International Marketing",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define international marketing and explain its importance",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the EPRG framework? Explain with a brief example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is meant by market screening in the context of international marketing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define licensing and joint ventures as market entry strategies.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the International Product Life Cycle ? Give one example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the concept of product standardization vs. adaptation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are international distribution logistics?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the role of overseas agents in international distribution?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define international marketing. Discuss its nature and importance in the current global environment. Also, explain the various orientations under the EPRG framework.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the components of the international marketing environment. How do macro and micro factors influence international marketing decisions? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT I",
+      "question_text": "What is market segmentation in international marketing? Discuss the process of screening and selection of international markets.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT I",
+      "question_text": "Explain any five international market entry strategies with relevant examples. Compare them in terms of control, risk, and investment. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT I",
+      "question_text": "Discuss product planning and new product development strategies for international markets. Also, explain how the product life cycle plays a role in international marketing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT I",
+      "question_text": "What are the key pricing strategies for international markets? Explain the factors influencing international pricing decisions. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT I",
+      "question_text": "Define international distribution channels. Discuss the selection and management of overseas agents and distributors.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT I",
+      "question_text": "What are the various strategies used in international promotion? Discuss the challenges and considerations involved in designing global promotional strategies.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

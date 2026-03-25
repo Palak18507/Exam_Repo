@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name: B. Tech (AI & DS) Semester: 6 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 302 
+Subject: Natural Language Processing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain how tokenization works in NLP with an example. 
+Unit 2 
+Co2 
+ 
+b) What is the role of a lexicon in language processing? 
+Unit 1 
+Co1 
+ 
+c) What is the formula for TF-IDF? 
+Unit 2 
+Co1 
+ 
+d) How does syntactic parsing help in understanding sentence 
+structure? 
+Unit 1 
+Co2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Differentiate between phonology, morphology, syntax, and 
+semantics. 
+5 
+Co1 
+ 
+b) Identify syntactic ambiguity in the sentence "He saw the girl 
+with the telescope." What are the limitations of syntactic 
+parsing in real-world applications? 
+5 
+Co3,4 
+ 
+c) List and explain the different types of ambiguity in NLP with 
+examples 
+5 
+Co1,2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain how JSON and XML are used for storing and 
+exchanging text data. What are their key differences? 
+5 
+Co1,2 
+ 
+b) Using BoW, represent the sentences: 
+"NLP is great" 
+"NLP is fun" 
+Vocabulary: {NLP, is, great, fun} 
+5 
+Co3 
+ 
+c) Define a text corpus in NLP and list three different types of 
+corpora used in text processing. 
+5 
+Co1

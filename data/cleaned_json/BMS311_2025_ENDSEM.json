@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS311_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS311",
+    "subject_name": "Investment Analysis and Portfolio Management",
+    "program": "BBA",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "An investment has the following annual returns over three years: 8%, 12%, and 10%, measure the risk of the investment. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Beta 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Dow Theory 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "EMH 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "SIP 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Objectives of Portfolio Management 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Diagrammatically present the Security Market Line . 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "An investor's portfolio has an average return of 12% with a risk-free rate of 3%. If the standard deviation of the portfolio's returns is 15%, calculate the Sharpe Ratio. 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concepts of systematic and unsystematic risks. Discuss how beta, standard deviation, and coefficient of variation help measure risk. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the EIC framework in detail. How do macroeconomic variables influence stock prices in the Indian context? Provide real-life examples. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the assumptions and limitations of DDM. Illustrate with examples how DDM is used to value stocks of companies with stable dividend payouts. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the significance of price and volume indicators in technical analysis. Provide an overview of moving averages and their role in identifying trends. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the concept of the efficient frontier and the importance of diversification in portfolio construction. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "An investor is constructing a portfolio with two assets: Asset A and Asset B. The details of the assets are as follows:  Expected return of Asset A: 10%, Standard deviation: 8%  Expected return of Asset B: 15%, Standard deviation: 12%  Correlation coefficient between Asset A and Asset B: 0.3  Portfolio weights: 60% in Asset A and 40% in Asset B Calculate: 1. The expected return of the portfolio. 2. The risk of the portfolio. 3 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe how Sharpe, Treynor, and Jensen measures are used to evaluate mutual fund performance, with examples. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A stock has a beta of 1.2. The risk-free rate is 5%, and the expected return on the market portfolio is 12%. Calculate the expected return of the stock using the Capital Asset Pricing Model . If the actual return of the stock is 15%, determine whether the stock is overvalued or undervalued, Comment. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

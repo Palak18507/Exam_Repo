@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Off-Line) 
+Course Name:<M.Tech IT(Cyber Security)>, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code: MIS 211 
+Subject: Blockchain Fundamentals 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Briefly explain the below-mentioned concepts with suitable 
+illustrations. 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) Zero Knowledge Proof 
+ 
+CO2 
+ 
+b) Digital Signature 
+ 
+CO1 
+ 
+c) Distributed Ledger 
+ 
+CO1 
+ 
+d) Anonymity 
+ 
+CO1 
+ 
+e) Sybil Attack 
+ 
+CO2 
+ 
+f) Private Blockchain 
+ 
+CO2 
+ 
+g) Side Chain 
+ 
+CO2 
+ 
+h) Memory Hard Problem 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concept of Hash Function in cryptography with relevance 
+in Blockchain Technology citing suitable illustrations and example. 
+(10) 
+CO2 
+Q3 
+Conceptually analyze the concept of Distributed Hash Table in 
+operating systems giving suitable illustrations and example. 
+(10) 
+CO4 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Elucidate the concept of Forking in Blockchain Technology. Critically 
+differentiate between Soft and Hard Fork citing suitable examples. 
+(10) 
+CO3 
+Q5 
+Critically analyze Distributed Consensus Mechanisms in the domain of 
+Blockchain Technology citing examples with suitable illustrations. 
+(10) 
+CO4 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Conceptually differentiate between Proof of Stake and Proof of Burn 
+especially in the context of difficulty level and energy utilization.  
+(10) 
+CO2 
+Q7 
+Explain conceptually the concept and types of Smart Contracts in 
+Blockchain Technology highlighting their benefits and challenges. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Critically analyze the adaptability and applicability of Blockchain 
+Technology in the domain of Internet of Things. 
+(10) 
+CO4 
+Q9 
+How is Blockchain Technology adapted and applied in the area of 
+Domain Name Service in Web Technology? 
+(10) 
+CO1

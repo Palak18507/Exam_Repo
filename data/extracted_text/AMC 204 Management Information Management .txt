@@ -1,0 +1,105 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<BBA>, Semester:<4> 
+(MAY, 2025) 
+ 
+Subject Code: AMC 204 
+Subject: Management Information System 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions: 
+(2.5*8=20) 
+CO Mapping 
+a 
+Define Management Information System (MIS). State any two 
+objectives of MIS. 
+2.5 
+CO1 
+b 
+State two types of information used in managerial decision-making. 
+2.5 
+CO1 
+c 
+Define deterministic and probabilistic systems. 
+2.5 
+CO2 
+d 
+What is prototyping in system development? 
+2.5 
+CO2 
+e 
+State any two features of a Decision Support System (DSS). 
+2.5 
+CO3 
+f 
+What is the multimedia approach in information processing? 
+2.5 
+CO3 
+g 
+What is meant by information security? List any two challenges of 
+information security in MIS. 
+2.5 
+CO4 
+h 
+Explain any two applications of data mining in business. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Differentiate between data and information. Explain the importance 
+of relevant, accurate, and timely information in managerial decision-
+making. 
+(10) 
+CO1 
+Q3 
+Discuss the strategic business objectives of Information Systems. How 
+do they provide competitive advantage to organizations? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the System Development Life Cycle (SDLC) in detail. Illustrate 
+each stage with examples. 
+(10) 
+CO2 
+Q5 
+What is Cost-Benefit Analysis in MIS? Explain both quantitative and 
+qualitative aspects with a case example. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Differentiate between centralized and distributed processing. What 
+are their advantages and limitations? 
+(10) 
+CO3 
+Q7 
+Explain the multimedia approach to information processing. How does 
+it enhance communication in organizations? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is ERP? Explain its characteristics and role in integrating various 
+functions of a business organization. 
+(10) 
+CO4 
+Q9 
+Evaluate the strategic significance of Customer Relationship 
+Management (CRM) in enhancing business competitiveness and long-
+term customer value. 
+(10) 
+CO4

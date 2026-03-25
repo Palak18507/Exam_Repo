@@ -1,0 +1,217 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+M. Tech., 1st Semester 
+(December, 2024) 
+Subject Code: MIS 103 
+Subject:  Advances in Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+2.5*8
+=20 
+CO Mapping 
+ 
+a) Differentiate between outputs of Multilayer Perceptron and Neural 
+Networks. 
+2.5 
+CO1 
+ 
+b) How Specificity, Sensitivity and ROC/AOC are calculated from Confusion 
+Matrix? 
+2.5 
+CO1 
+ 
+c) How curse of Dimensionality affects the Learning Process in AI Models? 
+2.5 
+CO2 
+ 
+d) What are the issues in Hill Climbing? 
+2.5 
+CO2 
+ 
+e) Describe AI as searching paradigm.  
+2.5 
+CO3 
+ 
+f) How environment and problem is related in Reinforcement Learning?  
+2.5 
+CO3 
+ 
+g) How does exploration and exploitation phases are conceptually realizing a 
+trained model in Reinforced Learning? 
+2.5 
+CO4 
+ 
+h) How Operators of Genetic Algorithms allows faster convergence towards 
+optimality? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a. Derive the mathematical expression for gradients at various layer and 
+weight update functions for 03 Layer Multilayer perceptron. 
+b. Explain Feature Vectors and Feature Selection Methods in ML Models. 
+(5,5) 
+CO1 
+Q3 
+a. Demonstrate the phenomenon of over fitting and under-fitting and 
+describe the relationship dataset. (5) 
+b. Explain Factor Analysis and Independent Component Analysis.  
+(5,5) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a. Theoretically compare ID3, C4.5 and IBM CART algorithms. Apply any 
+one algorithm of your choice on the example below generate Decision 
+Tree. 
+Sr. No.  
+Age 
+Competition  
+Type 
+Profit 
+1 
+Old 
+Yes 
+Software 
+Down 
+2 
+Old 
+No 
+Software 
+Down 
+3 
+Old 
+No 
+Hardware 
+Down 
+4 
+Mid 
+Yes 
+Software 
+Down 
+5 
+Mid 
+Yes 
+Hardware 
+Down 
+(5,5) 
+CO2 
+ 
+ 
+ 
+6 
+Mid 
+No 
+Hardware 
+Up 
+7 
+Mid 
+No 
+Software 
+Up 
+8 
+New 
+Yes 
+Software 
+Up 
+9 
+New 
+No 
+Hardware 
+Up 
+10 
+New 
+No 
+Software 
+Up 
+Q5 
+a. Prove that Perceptron Converges for Linearly Separable Data Set 
+through theorem proof. (5) 
+b. Derive the weight update equations for Linear and Logistic regression. 
+(5) 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+  
+a 
+b 
+C 
+d 
+e 
+a 
+0 
+12 
+21 
+31 
+23 
+b 
+12 
+0 
+22 
+30 
+20 
+c 
+21 
+22 
+0 
+25 
+33 
+d 
+31 
+30 
+25 
+0 
+38 
+e 
+23 
+20 
+33 
+38 
+0 
+a. An example of Data Cluster Centroids is given below. Execute 
+Hierarchical 
+clustering 
+with 
+Single 
+Linkage, 
+Average Linkage works? 
+Also create dendograms 
+along with. (5) 
+b. How Fuzzy Clustering and 
+Fuzzy Clustering with Expectation Maximization work? Derive all 
+important equations thereof. 
+(5,5) 
+CO3 
+Q7 
+a. How RNN works? Take language modeling as example application for 
+explanation. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a. How Convolution Neural Network (CNN) works? Take image 
+classification as example application for explanation. 
+(10) 
+CO4 
+Q9 
+a. How K mean+ is capable of handling the outliers given K means as 
+context? (5) 
+b. How Boosting and Bagging works through sampling data samples with 
+equal or unequal probabilities of selection and realize Ensemble 
+Learning?  (5) 
+(5,5) 
+CO4

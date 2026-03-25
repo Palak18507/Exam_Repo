@@ -1,0 +1,155 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MCA, Semester: 2 
+(May, 2025) 
+Subject Code: MCA 104 
+Subject: Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define the components of Well Posed Problems. 
+2.5 
+CO1 
+ 
+b) How Unbalanced Datasets are identified? 
+2.5 
+CO1 
+ 
+c) Define Support Vectors as classifier. 
+2.5 
+CO2 
+ 
+d) How a Data is converted to Probabilities for Probabilistic 
+Learning? 
+2.5 
+CO2 
+ 
+e) Differentiate between supervised vs unsupervised Learning. 
+2.5 
+CO3 
+ 
+f) Define Reinforcement Learning by a diagram. 
+2.5 
+CO3 
+ 
+g) How zero-probability problem is handled in Bayes Theorem 
+based ML algorithms? 
+2.5 
+CO4 
+ 
+h) What is perceived from a stateless process? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) What are feature vectors and how feature selection is 
+performed? 
+b) Define evaluation metrics such as accuracy, precision, recall, 
+F1-Score, ROC, Specificity and sensitivity for classification 
+models? 
+(5,5) 
+CO1 
+Q3 
+Write short notes on any two the following: 
+a) Linear  Discriminant Analysis (LDA) 
+b) Factor Analysis 
+c) Independent Component Analysis 
+(5,5) 
+CO2,CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Derive Weight update equation for 03 Layer Multi-Layer Perceptron 
+(MLP). 
+(10) 
+CO2 
+Q5 
+a) Why Ensemble Learning is necessary? 
+b) Explain the concept behind Random Forest in Ensemble 
+Learning.  
+c) How Boosting Differs from Bagging in Ensemble Learning? 
+(3,3,4) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) How unsupervised learning is precursor of supervised 
+learning? 
+b) How K-Means Clustering works? Write an algorithm. 
+c) What are 03 main issues with K-Means Clustering? 
+(3,4,3) 
+CO3 
+ 
+ 
+ 
+ 
+Q7 
+Explain Agglomerative (such as Single Linkage, Average Linkage 
+works) and Divisive Clustering under the Discuss Hierarchical 
+clustering? Apply any one of hierarchical clustering scheme on 
+the following example or example of your choice. 
+ 
+  
+a 
+b 
+C 
+d 
+e 
+a 
+0 
+12 
+21 
+31 
+23 
+b 
+12 
+0 
+22 
+30 
+20 
+c 
+21 
+22 
+0 
+25 
+33 
+d 
+31 
+30 
+25 
+0 
+38 
+e 
+23 
+20 
+33 
+38 
+0 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+How Markov Chain Monte Carlo (MCMC) Methods are exploited in 
+Machine Learning? 
+(10) 
+CO4 
+Q9 
+a) How Hidden Markov Models (HMMS) are used in decision 
+making? List few examples. 
+b) Decipher hidden states and hidden variables?  
+(6,4) 
+CO4

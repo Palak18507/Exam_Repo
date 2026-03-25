@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (OffLine) 
+Course Name: MBA, Semester: 4th 
+(May, 2025) 
+ 
+Subject Code: MMS 290 
+Subject:  Social Media and Web Analytics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What are nodes and relations in social network data? 
+ 
+ 
+b) What do you understand by sociogram? Explain it with examples  
+ 
+ 
+c) What is web analytics?  
+ 
+ 
+d) Explain network evolution with suitable examples. 
+ 
+ 
+e) What is the difference between centrality and centralization? 
+ 
+ 
+f) Differentiate between group-externalities and group-internalities. 
+ 
+ 
+g) Define homophily in social networks. 
+ 
+ 
+h) What do you understand by the term social segregation in the context of 
+networks? 
+ 
+UNIT I 
+ 
+Q2 
+How can computers enhance the efficiency of analyzing social network data? 
+Support your answer with relevant examples. 
+(10) 
+Q3 
+What is NetDraw, and how does it help in visualizing social networks? 
+(10) 
+UNIT II 
+ 
+Q4 
+How do connection search, network collapse, and robustness impact social 
+networks? Explain each impact with relevant examples. 
+(10) 
+Q5 
+What do you understand by the term clickstream analysis? Explain its 
+important metrics and provide practical solutions for improving website 
+performance. 
+(10) 
+UNIT III 
+ 
+Q6 
+What are Krackhardt’s graph theoretical dimensions of hierarchy? Explain 
+their significance in analyzing networks. 
+(10) 
+Q7 
+Describe embedding in social networks with reference to density, 
+reciprocity, and transitivity. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain the bottom-up and top-down approaches for subgroup detection. 
+Highlight the advantages and limitations of each. 
+(10) 
+Q9 
+What is a clique in network analysis? Explain its significance in understanding 
+group behavior with relevant examples. 
+(10)

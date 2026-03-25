@@ -1,0 +1,89 @@
+{
+  "paper_id": "BEC308_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC308",
+    "subject_name": "Microprocessor and Microcontroller",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Write a short program to add two 8bit numbers of register B with 8 bit number of register L and store 8 bit result in memory location 9210 H.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT 1",
+      "question_text": "a. Write a program in 8086 assembly to reverse an array of 10 bytes stored at a particular memory location. b. How is memory interfaced to 8086? Design a memory interfacing circuit for 8 KB RAM and 8 KB ROM. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT 1",
+      "question_text": "Explain the system bus structure used in 8086. How are address, data, and control buses separated? Write a program using INT 21H to read and display a string.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT 2",
+      "question_text": "Describe the steps to interface an input port and an output port using memory-mapped I/O and write related code. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT 2",
+      "question_text": "Explain the internal structure and control word format of 8255 Programmable Peripheral Interface. How is it used for I/O interfacing?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT 3",
+      "question_text": "Explain the features and operation of the USART 8251 and how it helps in asynchronous serial communication. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT 3",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare CISC and RISC architectures in terms of instruction set complexity, execution speed, and hardware design.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss I2C interfacing with respect to PIC microcontroller.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT 4",
+      "question_text": "Compare 8085 and 8086 microprocessors with respect to architecture, data bus, instruction set, and memory addressing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT 4",
+      "question_text": "Describe the use of timers in PIC microcontrollers. What are the common timer modes and their applications?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

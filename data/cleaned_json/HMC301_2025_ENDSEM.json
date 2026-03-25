@@ -1,0 +1,116 @@
+{
+  "paper_id": "HMC301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC301",
+    "subject_name": "Professional Ethics and Human Values",
+    "program": "B.Tech",
+    "semester": 6,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between morals, values and ethics. 1",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "b",
+          "text": "How are the values from the Vedas important in terms of the subject of Professional Ethics and Human Values? 1 c ) Explain the standard Code of Ethics for Engineers and why these must be followed? 2",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a short note on Kohlberg’s Theory of ethics? 2",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "How would you use Right to form and express professional judgement freely in engineering profession? 3",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the concept of Risk benefit analysis. 3",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain in brief Caroll model in CSR. 4",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the ethical principles involved with research Ethics? 4",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "\"Professional ethics and human values are highly relevant in today’s environment of workplace conflicts and stress.\" Support this statement by citing examples of a company that actively promotes work-life balance and fosters ethical practices to create a harmonious professional environment. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Read the case carefully Shreya is a senior accountant at a mid-sized manufacturing company. She has been with the company for five years and is highly regarded for her meticulous work and dedication. Recently, she noticed some discrepancies in the financial statements that could indicate potential fraud. The irregularities involve overstating revenue in order to meet quarterly targets, which would make the company’s performance look better to investors. She faces a difficult choice. On one hand, she feels obligated to report these irregularities to higher management or external auditors, as ignoring them could lead to severe consequences for the company, employees, and shareholders. On the other hand, she fears retaliation, job loss, and damage to her career if she brings the issue to light, especially since the company’s CFO seems to be involved in the fraudulent activity. Answer the following- 1. What should Shreya do in this situation? Should she report the irregularities, and if so, to whom? 2. How can She protect herself if she decides to report the fraud? 3. What role does the company’s culture play in how She perceives her options? 4. How might this situation have been prevented with better corporate governance and internal controls? 1 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss Carol Gilligan's Theory of Moral Development. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How can engineers ensure that their professional decisions align with ethical principles and promote societal well-being? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Let us reflect on one of history's most tragic industrial events the Bhopal Gas Tragedy. This catastrophic incident, which occurred on December 3, 1984, at the Union Carbide India Limited pesticide plant What profound lessons does it offer to professionals and engineers in terms of safety standards, corporate responsibility, environmental stewardship. Responsible industrial practices and transparent communication. Kindly explain each of these aspects in detail. Discuss the ethical issues, causes and lessons learnt, considering any one of the following cases The challenger disaster or Fukushima nuclear disaster. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain in detail Intellectual Property Rights and why these need to be implemented and followed in today’s context. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "\"Corporate Social Responsibility plays a vital role in fostering integrated social growth.\" In light of this statement, critically evaluate the CSR initiatives of at least two companies in recent scenario. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "“Computer ethics is about the social impact of computer technology and the ethical use of such technology.” In the light of this statement describe the concept of Computer Ethics, its significance and its related issues in detail. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

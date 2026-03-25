@@ -1,0 +1,95 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Supplementary Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name:<MCA>, Semester:< 3rd> 
+(November, 2024) 
+ 
+Subject Code: MCA  201 
+Subject: Design and Analysis of Algorithms 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt all questions 
+(4*5=20) 
+ 
+a) Find the minimum spanning tree using Kruskal’s Algorithm. 
+ 
+(04) 
+ 
+b) Differentiate between Divide and Conquer and Dynamic Programming 
+algorithm design approaches, with suitable example. 
+(04) 
+ 
+c) How would you solve a 4 queen’s problem? 
+(04) 
+ 
+d) Find the length of Longest Common Subsequence for the texts 
+                 X = { 1,0,0,1,0 }. 
+                 Y = { 0,1,0,1,1,0 } 
+(04) 
+ 
+e) Compare and contrast the naïve,  Rabin-Karp Algorithm and Knuth-Morris 
+Pratt algorithm string matching algorithms in terms of their time 
+complexities. 
+(04) 
+UNIT I 
+ 
+Q2 
+(a) Explain the Strassen’s matrix algorithm and multiply the matrices using the 
+same. 
+A = { {1,2,}, {3,4}}  and B = {{5,6},{7,8}} 
+(b) Give the upper bound notation for the following using Master’s theorem 
+T(n) = 5T(n/3) + n^2 
+T(n) = T(n^1/2) + 1 
+(10) 
+Q3 
+(a)  Explain the Maximum sum subarray problem using divide and conquer 
+approach. 
+Find the MSS for array : 3, -2, 5, -1, -1. 
+(b) Solve the following using Recursive Tree and Master’s theorem 
+1. T(n) = log(n) + T(n-1) 
+2. T(n) = 2T(n-1) +1 
+(10) 
+UNIT II 
+ 
+Q4 
+Find a schedule for the following activities so that maximum activities can be 
+completed. 
+(5,5) 
+Start time Si= {1,2,3,4,7,8,9,9,11,12,10) and finish time 
+Fi={3,5,4,7,10,9,11,13,12,14,11}. 
+(b) Find optimal parenthesization of matrix-chain product whose sequence of 
+dimensions is (30, 1, 40, 10, 25). Also find the complexity. 
+Q5 
+(a) Find an optimal prefix code using Huffman Coding for the following 
+alphabets with given frequencies: { a: 1, b: 1, c: 2, d: 3, e: 5, f: 8, g: 13, h: 21} 
+(b) For given 4 jobs, the deadlines Di { 2, 1, 2, 1} and the profits Pi = {100, 10, 15, 
+27}. Find a schedule of jobs that yields maximum profit using Greedy approach. 
+(5,5) 
+UNIT III 
+ 
+Q6 
+Find the Dijkstra’s shortest path for the following graph, considering 1 as source. 
+                           
+ 
+Modify the algorithm to find the LONGEST path and show its working. 
+(10) 
+Q7 
+Explain the Prim’s algorithm for finding minimum cost spanning tree with a 
+suitable example and analyze its time complexity 
+ 
+(10) 
+UNIT IV 
+ 
+Q8 
+Find the pattern : IG in the text: IGDTUW using Naïve string matching and Rabin-
+karp algorithms and KMP algorithms.  
+ 
+(10) 
+Q9 
+Prove the NP-Completeness for Clique problem with the help of an example. 
+ 
+(10)

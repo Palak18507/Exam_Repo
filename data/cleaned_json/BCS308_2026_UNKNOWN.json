@@ -1,0 +1,76 @@
+{
+  "paper_id": "BCS308_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BCS308",
+    "subject_name": "Multimedia Technologies",
+    "program": "< B.Tech >",
+    "academic_year": "2025-2026",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What is the differentiate between temporal and non-temporal media? CO 1 What is hypermedia? How is it different from hypertext? CO 1 Differentiate between lossy and lossless compression. CO 2 What do you mean by compression ratio? CO 2 What is the main purpose of MPEG-7? CO 3 What OS features are necessary to support multimedia applications? CO 3 What is the role of multiple monitors in multimedia systems? CO 4 What is the need of silence compression in audio processing? CO 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe hardware and software requirements for multimedia systems. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Explain in detail the types of media used in multimedia. Discuss how they are synchronized using events and scripts. CO 1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Discuss the LZW compression techniques with a suitable example. Compare LZ77 and LZW compression techniques. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe Huffman coding and Shannon Fano algorithm in detail with an example each. CO 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What are the advantages of IEEE 1394 in multimedia applications? CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain the design and working of a video-on-demand system. CO 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Describe JPEG image compression technique in detail. CO 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain the architecture and working of a multimedia network. How is QoS managed in such networks? CO 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

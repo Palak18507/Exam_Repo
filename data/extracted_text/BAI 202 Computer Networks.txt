@@ -1,0 +1,75 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name : B.Tech. ) (Semester :  IV ) 
+(March 2025)  
+Subject Code: BAI 202 
+Subject: Computer Networks 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) List various Networking Devices and explain any two of them. 
+ 
+CO1 
+ 
+b) What is the difference between “node-to-node” delivery, “host-to 
+host” delivery and “process-to-process” delivery?   
+ 
+CO1 
+ 
+c) Consider the following message M=1010001101. Calculate the cyclic 
+redundancy check (CRC) for this message using the divisor 
+polynomial x5+x4+x2+1.  
+ 
+CO2 
+ 
+d) How does the Data link layer handles collisions in Ethernet networks? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the Types of Wireless Transmission Media? Explain it. 
+ 
+CO1 
+ 
+b) What is the difference between Port address, Logical address and 
+Physical address? Explain with an example.    
+ 
+CO1 
+ 
+c) Contrast and compare ISO-OSI and TCP/IP models. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the working of Pure and Slotted Aloha. Derive the expression for 
+maximum throughput in case of Slotted Aloha. 
+ 
+CO2 
+ 
+b) Explain the working of Selectively Repeat ARQ with the help of a 
+diagram.  
+ 
+CO2 
+ 
+c) What is the difference between IEEE 802.3, 802.4 and 802.5? 
+ 
+CO2

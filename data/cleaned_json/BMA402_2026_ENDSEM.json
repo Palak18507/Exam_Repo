@@ -1,0 +1,94 @@
+{
+  "paper_id": "BMA402_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA402",
+    "subject_name": "Computer Aided Manufacturing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is concept of Group Technology? 2.5 b Brief about coding system in CIM? 2.5 c Differentiate between CAD and CIMS with suitable example. 2.5 d Explain storage buffers in lines. 2.5 e What is difference in G & M Codes? 2.5 f Explain closed loop Systems with suitable example? 2.5 g What is DNC? 2.5 CO 3 h What is tooling systems? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is computer aided process planning? What is role of process planning in CAM? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is concept of part family? Explain the general methods used for part family. What is concept of cellular Manufacturing? Explain with suitable examples and diagrams. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw and explain rotary Indexing Machines. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Draw and explain work part transfer mechanism. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Brief about process planning and flow chart for part programming. Explain the concept for a part to be manufactured on a CNC turning machine. Make neat sketch of the chosen part. Brief about tool pre-setting and modular tooling. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is generative Process Planning? Show the modular structure of a generative CAPP System with flow diagram. Write simple G codes with explanation for given CNC Lathe Operation. 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is automated Production Lines/Transfer Lines? Where is application of Automated Production Lines? Write advantages of Automated Production Line & Disadvantages. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Line balancing",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Processing Technology",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "System Reliability-Two Cases 10",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

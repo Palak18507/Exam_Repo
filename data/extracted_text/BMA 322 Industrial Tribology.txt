@@ -1,0 +1,56 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:   6th    ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 322 
+Subject: Industrial Tribology 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any twoparts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Explain the different applications of tribology. 
+ 
+ 
+b) What are the main functions of lubricant? Explain. 
+ 
+ 
+c) Explain adhesion friction and ploughing friction. 
+ 
+ 
+d) Differentiate between corrosive and erosive wear with the help of 
+examples. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain the various lubrication supply systems. 
+ 
+ 
+b) Explain different types of lubricants. 
+ 
+ 
+c) List down the general steps of designing the journal bearings. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain the importance of friction and empirical laws of sliding friction. 
+ 
+ 
+b) Explain the Bowden and Tabor's Simple Theory for prediction of adhesion 
+friction. 
+ 
+ 
+c) What is abrasive wear mechanism? Explain abrasive wear theory.

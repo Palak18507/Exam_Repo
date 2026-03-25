@@ -1,0 +1,130 @@
+1 
+ 
+(Please write your Enrollment Number)                     Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: MBA, Semester: 1 
+(December, 2024) 
+ 
+Subject Code: MMS 109 
+ 
+Subject: Legal Aspects of Management 
+Time: 3 Hours 
+Maximum Marks: 60 marks 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Distinguish between Penalty & liquidated damages; and Novation and 
+Alteration 
+CO1 
+ 
+b) “An agreement to make an agreement in future is no contract”. Explain. 
+CO1 
+ 
+c) Who can be a ‘Director’ of a company? List the different categories of board 
+of directors under Companies Act, 2013. 
+CO2 
+ 
+d) ‘The memorandum of association is an unalterable charter of a company.’ 
+Comment, also discuss contents of memorandum. 
+CO2 
+ 
+e) Define and distinguish between ‘condition’ and ‘warranty’. 
+CO3 
+ 
+f) Elaborate on objectives and important provisions of Competition Act, 2002. 
+Also, explain the composition of Competition Commission of India. 
+CO3 
+ 
+g) Discuss the powers and functions of Central Consumer Protection Authority 
+under Consumer Protection Act, 2019. 
+CO4 
+ 
+h) Distinguish between public key and private key; digital signature and 
+electronic signature. 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Analyze the problems/cases below and provide suitable 
+explanations: 
+a) A, an associate professor, in the college applied for long leave. 
+The principal of the college proposed to sanction the leave only 
+if she promised in writing that she would not return to job and 
+take ‘VRS’. After completion of leave period A returned to job 
+and gave her joining report which was not accepted by the 
+principal. Advise A as to her rights. 
+b) ‘A’ goes to a hotel for a dinner. He finds a mobile phone near 
+his table and deposits it with ‘B’ the hotel manager. In spite of 
+vigorous efforts, the owner of the mobile phone could not be 
+traced. ‘A’ requests ‘B’ to return the mobile phone to him, but 
+B refuses to do so. Now, A files a suit against B for getting back 
+the mobile phone. Will he succeed? Give reasons 
+c) Ordinary damages are the damages, which are awarded for 
+compensating the loss that arises naturally from the breach of 
+contract. State with reasons whether the statement is true or 
+false. 
+d) A draws a cheque payable to B, the bearer. C steals the cheque. 
+Can C demand the payment from the bank or from A or B? 
+(10) 
+CO1 
+Q3 
+‘A cheque is a bill of exchange’. Comment. Also distinguish 
+between a bill of exchange and a cheque. 
+(10) 
+CO1 
+ 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define a company and discuss the characteristics features of a duly 
+incorporated company. Also, distinguish between a private 
+company and a public company. 
+(10) 
+CO2 
+Q5 
+Write a short note on the following: 
+a) Shelf prospectus 
+b) Red herring prospectus 
+c) Authorized share capital vs. called up capital 
+d) Annual General Meeting and Extraordinary General 
+Meeting 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+‘Nemo dat quod non-habet’. Explain the maxim and discuss the 
+exceptions to the rule. 
+(10) 
+CO3 
+Q7 
+Describe briefly the duties, powers, and functions of the 
+Competition Commission of India. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe the salient feature of the Consumer Protection Act, 2019. 
+Enumerate the aim and objectives of the Act. 
+(10) 
+CO4 
+Q9 
+Write a short note on Digital Signature Certificates (DSC) including 
+certifying authority to issue DSC and grounds for the suspension of 
+DSC. 
+(10) 
+CO4

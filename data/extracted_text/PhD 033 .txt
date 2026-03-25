@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: PhD. 
+(May, 2025) 
+ 
+Subject Code: PHD 033 
+Subject: Digital Image Processing 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) Write the equation for gamma correction in an image. 
+ 
+1 
+ 
+(b) Convolve and correlate the following vectors with each other. Also 
+calculate the autocorrelation of vector B  
+𝐴= [0
+0
+0
+1
+0
+0
+0
+0]  
+𝐵= [1
+2
+3
+2
+8]                                                  
+1 
+ 
+(c) Write the expression for two –dimensional Laplacian. What is its use in 
+image processing?  
+2 
+ 
+(d) What is the use of cumulative distribution function in digital image 
+processing? 
+2 
+ 
+(e) Write the expression for one dimensional Discrete Cosine Transform. 
+3 
+ 
+(f) How is it advantageous to have a transformation kernel separable 
+and symmetric?  
+3 
+ 
+(g) Explain brightness adaptation of human eye with this diagram 
+ 
+ 
+ 
+(h) What is Entropy of an image? How is related to Shannon’s first 
+theorem?  
+4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+(a) Write the following transformation equations in the 
+matrix form using homogeneous coordinates 
+𝑥′ = 𝑎𝑥+ 𝑏𝑦+ 𝑡𝑥 
+𝑦′ = 𝑐𝑥+ 𝑑𝑦+ 𝑡𝑦 
+(b) Write the expression for duality of opening and closing 
+operations in Morphological image processing.  
+(10) 
+1 
+Q3 
+Derive the expression for resolving power of a grating.  
+(10) 
+1 
+UNIT-II 
+CO Mapping 
+Q4 
+Write the expression for Fourier transform (analog). How is 
+it implemented digitally? What modifications are made to 
+make it Fast Fourier transform.  
+(10) 
+2 
+Q5 
+Describe JPEG compression in detail. 
+(10) 
+2 
+UNIT-III 
+CO Mapping 
+Q6 
+What is a diffraction limited system in imaging? Write the 
+expression for Amplitude transfer function, point spread 
+function, and optical transfer function. 
+(10) 
+3 
+Q7 
+Explain the meaning of the following expressions         
+(𝐴∙𝐵)𝑐= 𝐴𝑐∘𝐵̂ 
+(𝐴∘𝐵)𝑐= 𝐴𝑐∙𝐵̂ 
+(10) 
+3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Why do the structure elements have odd dimensions? 
+Explain the concept of binary image erosion with proper 
+mathematical equations. 
+    
+(10) 
+4 
+Q9 
+Describe hole filling algorithm with proper equations. 
+(10) 
+4

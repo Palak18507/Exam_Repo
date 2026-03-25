@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Arch.) (Semester: IV) 
+(March 2025) OFFLINE mode 
+Calculators are allowed for solving the Questions  
+ 
+Subject Code: BAP 214 
+Subject: Building Services II – Illumination & Electrical Design  
+Time : 1 ½Hours 
+Maximum Marks: 30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Answer ALL the following Questions. Answer each question in around 5 to 6 
+Points 
+(2.5*4=10) 
+ 
+a) What is Glare? Briefly note the possible reasons for the occurrence of Glare 
+and solutions to address it.  
+ 
+2.5 
+ 
+b) Explain the three types/layers of Lighting Design with Examples – (i) Ambient 
+(ii) Task and (iii) Accent Lighting 
+ 
+2.5 
+ 
+c) Differentiate Series Circuits & Parallel Circuits. Also give an example of 
+application for both circuit types  
+ 
+2.5 
+ 
+d) What is the application of “circuit breakers” and “fuses” in Electrical Services? 
+Note the differences between the two. 
+ 
+2.5 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) A work-plane of area 10m x 20m is required to be illuminated to 300 lux using 
+ceiling-mount lamps having an output of 2000 lumen each. Considering a 
+utilization factor of 0.8 and maintenance factor of 0.7, calculate the number of 
+lamps required. Recommend the lamp layout with the number of rows and 
+columns of lamps for the space. 
+ 
+5 
+ 
+b) (i) Define Daylight factor (ii) Mention the three components of daylight factor 
+(iii) A room with daylight factor of 1.5 needs a light level of 300 lux on work-
+plane. Considering an outdoor illuminance of 14000 lux, calculate the additional 
+artificial illuminance (in lux) to be met over and above the daylighting. 
+ 
+5 
+ 
+c) A room with illuminance of 500 lux is illuminated using lamps of luminous 
+efficacy of 100 lm/Watt each. Calculate the light power density for given room (in 
+Watt/sqm). 
+ 
+5 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What is a two-way switch & give an example of its application? Demonstrate 
+the wiring configuration of a two-way switch for a light fixture, with a diagram & 
+a truth table. 
+ 
+5 
+ 
+b) What is a fan regulator? Explain its functioning with the help of a diagram. 
+ 
+5 
+ 
+c) A house has 4 LED bulbs of 9 Watt each (with 10 hour of daily usage); 2 Fans of 
+60 Watt each (with 8 hour of daily usage); 1 Hot-water geyser of 1000 Watt (with 
+2 hour of daily usage); and 1 refrigerator of 200 Watt (with 6 hour of daily usage). 
+Considering a unit rate of electricity consumption as Rs. 8/unit, calculate the 
+monthly electricity bill for the house. (Consider a month of 30 Days with uniform 
+daily usage of appliances)  
+5

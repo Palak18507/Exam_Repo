@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: BBA) (Semester: 4) 
+(March 2025) OFFLINE mode 
+ 
+Subject Code: BMS 202 
+Subject: Project Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is a project? Discuss its key characteristics that distinguish it 
+from routine operations. 
+ 
+1 
+ 
+b) What are the critical factors that influence the selection of a project 
+site?  
+ 
+2 
+ 
+c) What is secondary information in the context of market analysis?  
+ 
+2 
+ 
+d) How does the discounted cash flow (DCF) method address some of 
+the limitations of the payback period in project evaluation? 
+ 
+1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Describe the different phases of a project life cycle. How do these 
+phases contribute to the successful execution of a project? 
+ 
+1 
+ 
+b) What is the significance of market analysis during project 
+formulation? How would you characterize a market, in terms of 
+demand and customer segmentation? 
+ 
+1 
+ 
+c) Conduct a discounted cash flow calculation to determine the NPV of 
+the following project, assuming a required rate of return of 0.2. The 
+project will cost $75,000 but will result in cash inflows of $20,000, 
+$25,000, $30,000, and $50,000 in each of the next four years. 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the aspects considered for technical analysis of a typical 
+project? Discuss three important issues that managers must 
+consider while conducting technical analysis. 
+ 
+2 
+ 
+b) Two new Internet site projects are proposed to a young start-up 
+company. Project A will cost $250,000 to implement and is expected 
+to have annual net cash flows of $75,000. Project B will cost 
+$150,000 to implement and should generate annual net cash flows 
+of $52,000. Considering the company's concern about cash flow, 
+determine which project is preferable using the payback period 
+method. Justify your choice. 
+ 
+2 
+ 
+c) Explain any three demand forecasting methods commonly used in 
+project management. How do these methods assist in making 
+informed project decisions? 
+ 
+2

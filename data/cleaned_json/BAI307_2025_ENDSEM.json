@@ -1,0 +1,179 @@
+{
+  "paper_id": "BAI307_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI307",
+    "subject_name": "Computer Networks",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the terms latency and capacity as applied to communication channels. Is there a strict relation between the two? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "A bit string 0111101111101111110, needs to be transmitted at the data link layer. What is the string actually transmitted after bit stuffing? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "State and explain the design issues of OSI layers. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the leaky bucket algorithm? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "4-bit data bits with binary value 1010 is to be encoded using even parity Hamming code. What is the binary value after encoding? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Compare the Network layer protocols IPv4 and IPv6. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "A network on the internet has a subnet mask of 255.255.240.0. What is the maximum number of hosts it can handle? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "DNS uses UDP instead of TCP. If a DNS packet is lost, there is no automatic recovery. Does this cause a problem, and if so, how it is solved? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "The following character encoding is used in a data link protocol: A: 01000111; B: 11100011; FLAG: 01111110; ESC: 11100000 Show the bit sequence transmitted for the four-character frame: A B ESC FLAG when each of the following framing methods are used: i. Character Count ii. Flag bytes with byte stuffing iii. Starting and ending flag bytes, with bit stuffing.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "1000 frames per second",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "500 frames per second",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain how collision handled in CSMA/CD? A 5 km long broadcast LAN uses CSMA has 107 bps bandwidth and uses CSMA/CD. The signal travels along the wire at 5 × 108 m/s. What is the minimum packet size that can be used on this network?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "First group has 3 medium size businesses, each need 16 addresses.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "The second group has 4 medium size businesses, each need 32 addresses.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The third group has 4 households, each need 4 addresses. Design the sub blocks and give slash notation for each sub-block. Find how many addresses have been left after this allocation.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the packet loss rate for each flow when using this gateway with weighted fair-queueing?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Approximately how many packets does each flow have in its queue?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Find the shortest path using Dijkstra’s Algorithm for the source node ‘A’",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the main components of a DNS system?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the differences between TCP & UDP protocols of transport layer? Why both are necessary.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "When and why are they correct? Explain your answer clearly.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "QUIC is a new transport protocol that offers many advantages over TCP, it may not solve the issues the enthusiast of the last question discusses. Prototyping new protocols to replace TCP has proven difficult in the past. Discuss the QUIC approach to this particular challenge.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

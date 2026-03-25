@@ -1,0 +1,105 @@
+{
+  "paper_id": "BAI201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI201",
+    "subject_name": "Artificial Intelligence",
+    "program": "B. Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare and contrast uninformed search strategies like BFS and DFS.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of heuristic function. How does it improve the performance of search algorithms?",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the difference between the Bag of Words model and Word Embeddings.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a Neural Network? Briefly explain its structure and working.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the ethical considerations involved in the development and deployment of AI systems?",
+          "marks": 4.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How does A* use both path cost and heuristics to find the optimal solution? Consider the following Graph: The numbers written on edges represent the distance between the nodes. The numbers written on nodes represent the heuristic value. Find the most cost-effective path to reach from start state A to final state J using A* Algorithm. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain how intelligent agents can be used to solve real-world problems. What are the different types of AI agents, and how are they applied in practical scenarios?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Compare and contrast different methods of knowledge representation in AI. Furthermore, explain ontology and how is it used in AI for knowledge representation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "Define Rule-Based Systems and discuss their role in AI. Additionally, explain the concepts of Forward Chaining and Backward Chaining in Rule-Based Systems, highlighting their differences and practical applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Compare and contrast the use of probabilistic reasoning and Fuzzy Logic in AI systems. Provide real-world examples of their applications. How does Fuzzy Logic improve decision-making in uncertain environments?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain how Genetic Algorithms work and their application in solving optimization problems in AI. Provide a detailed explanation of the GA workflow, including a flowchart, and discuss key components",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the architecture of an Expert System with an example. Explain how it can be applied in real-world decision-making processes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How are IoT applications being enhanced by AI? Provide examples of IoT systems that use AI.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

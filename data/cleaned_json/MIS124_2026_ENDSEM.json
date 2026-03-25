@@ -1,0 +1,142 @@
+{
+  "paper_id": "MIS124_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS124",
+    "subject_name": "Neural Networks and Deep Learning",
+    "program": "M. Tech. (Cyber Security",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are limitations of Perceptron? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Parameters and Hyper-Parameters of a feedforward NN? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Unsupervised Learning with two relevant example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why should you avoid neuron saturation problem in a NN? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you mean by Spatial Extent in a Convolutional Neural Networks? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How stride value is responsible for downsizing the output? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the pros of Markov Networks as a graphical learning model? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define Language Modeling in Text Processing environment. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How a backpropagation works by gradient computation w.r.t. output",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT HIDDEN",
+      "question_text": "How sparse values of attributes affects the weight updates process in a learning algorithm? Discuss one Gradient Descent Variant each for a dense and sparse attributes respectively in Neural Networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How Regularization is mandated and achieved in a Neural Networks? Explain with the help of L2 Regularization during Bias-Variance Tradeoffs.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Better Weight Initialization Methods",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Better Activation Functions",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How convolutions operation works in a CNN? Discuss the architecture of any popular CNN with parametric and hyper-parameter details.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why Backpropagation in RNN is called Back Propagation through Time ? Explain the BPTT mathematically. Why Truncated BPTT is mandated?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Why Sampling via Gibbs Sampling Method is apt for training Restrictive Boltzmann Machine? Explain Gibbs Sampling Method insights.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "RBMs",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Motivation for Sampling",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

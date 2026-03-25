@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS290_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS290",
+    "subject_name": "Social Media and Web Analytics",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are nodes and relations in social network data?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you understand by sociogram? Explain it with examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is web analytics?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain network evolution with suitable examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the difference between centrality and centralization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between group-externalities and group-internalities.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define homophily in social networks.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What do you understand by the term social segregation in the context of networks?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How can computers enhance the efficiency of analyzing social network data? Support your answer with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is NetDraw, and how does it help in visualizing social networks?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How do connection search, network collapse, and robustness impact social networks? Explain each impact with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What do you understand by the term clickstream analysis? Explain its important metrics and provide practical solutions for improving website performance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are Krackhardt’s graph theoretical dimensions of hierarchy? Explain their significance in analyzing networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe embedding in social networks with reference to density, reciprocity, and transitivity.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the bottom-up and top-down approaches for subgroup detection. Highlight the advantages and limitations of each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is a clique in network analysis? Explain its significance in understanding group behavior with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

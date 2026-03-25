@@ -1,0 +1,128 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<V> 
+(December, 2024) 
+ 
+Subject Code:BMA 303 
+Subject: Fluid Mechanics and Hydraulic Machines 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) Differentiate between kinematic viscosity and dynamic 
+viscosity. 
+ 
+CO1 
+ 
+b) What is ‘centre of pressure’? 
+ 
+CO1 
+ 
+c) Differentiate between laminar and turbulent flow. 
+ 
+CO3 
+ 
+d) What is the function of venturimeter. Why the divergent part 
+of the venturimeter made longer than the convergent part. 
+ 
+CO3 
+ 
+e) What is the function of draft tube in the case of reaction 
+turbines? 
+ 
+CO4 
+ 
+f) What is drag force and lift force in case of bluff bodies? 
+ 
+CO4 
+ 
+g) Write Euler’s equation. 
+ 
+CO2 
+ 
+h) What are the applications of differential form of equations in 
+fluid mechanics? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+A differential manometer is connected at two points A and B of two 
+pipes as shown in Fig. 1. The pipe A contains a liquid of specific gravity 
+=1.5 while pipe B contains a liquid of specific gravity =0.9. The 
+pressures at A and B are 1 kgf/cm2 and 1.80 kgf/cm2 respectively. Find 
+the difference in mercury level in the differential manometer. (1 
+kgf=9.81N) 
+ 
+Fig. 1 
+(10) 
+ 
+2 
+ 
+Q3 
+Obtain an expression for the depth of centre of pressure when (a) the 
+lamina is immersed in a liquid and is vertical (b) the lamina is 
+immersed in a liquid and is at an angle with the horizontal. 
+(10) 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Apply and explain the Momentum equation for inertial control 
+volume and for control volume with rectilinear acceleration. 
+(10) 
+ 
+Q5 
+Write the control volume formulation of conservation of mass. What 
+is its significance? 
+(10) 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) The efficiency η of a fan depends on the density ρ, the dynamic 
+viscosity µ of the fluid, the angular velocity ω, diameter D of the rotor 
+and the discharge Q. Express η in terms of dimensionless parameters. 
+ 
+(b) Explain the different types of hydraulic similarities that must exist 
+between a prototype and its model. 
+ 
+ 
+(5,5) 
+ 
+Q7 
+Two tanks whose water surface levels differ by 10m are connected by 
+three pipes of diameters 250 mm, 150 mm and 200 mm in series. 
+Their lengths are 300 m, 250 m and 150 m respectively. Their 
+coefficients of friction are 0.005, 0.006 and 0.0055 respectively. Find 
+the rate of flow through the pipeline considering all losses. Find also 
+the values of individual losses of head. 
+(10) 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain how unit quantities are useful in predicting the performance 
+of a given machine under various input output conditions.? Discuss 
+unit speed, unit power and unit discharge for Kaplan turbines. 
+(10) 
+ 
+Q9 
+Differentiate between centrifugal pumps and reciprocating pumps. 
+Explain the working of centrifugal pump with the help of neat sketch. 
+(10)

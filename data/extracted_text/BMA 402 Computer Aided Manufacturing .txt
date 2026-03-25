@@ -1,0 +1,74 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name:  B. Tech (MAE) (Semester: 8) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 402 
+Subject: Computer Aided Manufacturing (CAM) 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Short Answer Type Questions. 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Differentiate between CAD and CAM with suitable example. 
+ 
+01 
+ 
+b) What is CAPP? Enlist the logical steps in CAPP. 
+ 
+01 
+ 
+c) Differentiate between open loop and closed loop Systems? 
+ 
+02 
+ 
+d) What is importance of precision in NC positioning systems? 
+ 
+02 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Briefly explain with suitable examples point-to-point, straight-
+cut and continuous path control systems. 
+ 
+01 
+ 
+b) What do you understand by punched card and punched tape 
+machine tools? Explain briefly  
+ 
+01 
+ 
+c) Enlists Applications of NC systems. Write down limitations of NC 
+Machines. 
+ 
+02 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is Computer Numerical Control (CNC) Machine? Draw 
+and explain basic components of NC Machine. 
+ 
+02 
+ 
+b) Draw and explain NC positioning systems. 
+ 
+02 
+ 
+c) Draw and explain working principle of CNC machines. 
+ 
+02

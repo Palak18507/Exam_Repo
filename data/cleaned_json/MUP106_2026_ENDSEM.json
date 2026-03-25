@@ -1,0 +1,121 @@
+{
+  "paper_id": "MUP106_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP106",
+    "subject_name": "Sustainable Development",
+    "program": "M.Plan",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Sustainable Development 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Intergovernmental Panel on Climate Change 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Walkability 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Environmental Preservation 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Climate and Weather 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Extreme Events 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Environmental Impact Assessment 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Land Suitability Analysis 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is meant by an Eco-city? With the help of a Case Study explain the key concept of an Eco-City.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss some of the Indian and International efforts undertaken to combat Climate change.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Briefly discuss how Carrying Capacity based decision making can be used as a tool to develop an area without damaging the environment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Briefly discuss the Three pillars of sustainability and how they are inter- connected. Also discuss the implications of these principles in the planning process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is meant by Climate Change? Discuss briefly the key drivers and impacts of Climate Change.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is Urban Heat Island effect and why does it happen? Discuss briefly solutions to mitigate the same.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is meant by Urban Environmental Management and Planning? Discuss some of the long-term solutions for Urban Environmental management.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is meant by Low Carbon Development? Discuss some of the approaches and strategies for ensuring law carbon development.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "paper_id": "BAP505_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP505",
+    "subject_name": "Town Planning",
+    "program": "<B.Arch.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Local Area Plan",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Floor Area Ratio",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Urban Local Bodies",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Inclusive Planning",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Spatial Plan",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Sustainable Development",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Development “Zone”",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Transit Oriented Development",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Town Planning Concepts in Jaipur City.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Regional Plan",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Sector Plan",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Briefly write about various components of Master Plan for Delhi 2021.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "“Planning for development is an envisioning process which requires a sound assessment of the ground realities and providing options for sustainable development within the bounds of the demographic, physical, socio‐economic, jurisdictional and financial aspects.” Keeping above statement in mind, explain the role of URDPFI guidelines in Urban Development.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the broad provisions of 74th Constitutional Amendment Act ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why is Public Participation important in Town Planning? Explain",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Geddian Trio",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Smart Cities",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the Centre Place Theory by Christaller, in Town Planning",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

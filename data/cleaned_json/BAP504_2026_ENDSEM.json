@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAP504_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP504",
+    "subject_name": "Project Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions. . CO Mapping a Explain the ‘Law of Diminishing Marginal Utility’ 2.5 b Site various risks associated with the Client and Design Consultants in a typical high rise residential project 2.5 c Explain the term ‘Arbitration’ 2.5 d What is the difference between ‘General Condition of Contract’ and ‘Specific Condition of Contract’ 2.5 e Explain advantages and key limitation of Bar Charts 2.5 f What is the major difference between CPM and PERT 2.5 g List down various stakeholders of Noida International Airport 2.5 h Briefly explain the term ‘project phasing’ 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the project life cycle from Inception Phase to Post- Construction Phase through the example of New Parliament Building . 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Taking up the example of LAVASA Lake City , explain the typical functions of a Project Controls Department in a city development project. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Name two Project Scheduling Software and two Document Administration/ Management Software. Brief explain their silent features. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Briefly explain various project management tools and techniques available for the architectural design professionals. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Citing relevant example explain the difference between ‘Change’ and a ‘Rework’. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "List and explain any two common types of Public-Private Partnership contracts used in infrastructure projects in India. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "With the help of a neat diagram, explain the various Forms of International Business. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss various factors affecting the projects exports from India. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

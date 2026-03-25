@@ -1,0 +1,91 @@
+{
+  "paper_id": "HMC304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC304",
+    "subject_name": "Marketing Management",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you mean by brand Equity?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the tools to study buyer behavior?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Who constitutes an organizational Customer and What is sold to an organizational customer?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you mean by marketing Intelligence System?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are Marketing Channels and what are it’s types and explain it’s importance also.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by Marketing Environment? Explain with suitable diagram and example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the purpose of marketing?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the term Product Life Cycle with proper diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Analyze the purpose of marketing in the contemporary environment and the prerequisites for success.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the term loyalty based business model",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

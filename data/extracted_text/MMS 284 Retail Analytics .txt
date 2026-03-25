@@ -1,0 +1,148 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MBA, Semester: 4 
+(May 2025) 
+ 
+Subject Code: MMS 284 
+Subject: RETAIL ANALYTICS 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is Creative Advertising Marketing? Give one real-world 
+example.  
+ 
+1 
+ 
+b) Explain the difference between POS Data and Market Basket Data. 
+ 
+1 
+ 
+c) What do you understand by the phrase "Data is Gold" in retail 
+analytics? 
+ 
+2 
+ 
+d) Define Market Basket Analysis with an example. 
+ 
+2 
+ 
+e) Define Retailer Goodwill and state its importance in building 
+customer loyalty. 
+ 
+3 
+ 
+f) What is Cross-Selling in retail and how does it improve sales?  
+ 
+3 
+ 
+g) Write a short note on Real Estate Site Selection Modelling. 
+ 
+4 
+ 
+h) Mention any two features of Just-in-Time (JIT) in retail logistics. 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Elaborate on the importance of strategic marketing and operations 
+marketing in the context of retail analytics. Support your answer with 
+suitable examples. 
+(10) 
+1 
+Q3 
+Differentiate between House Brands and Name Brands. Also, explain 
+how Celebrity Marketing can influence brand preference using a real-
+life retail case. 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+A retailer has 5 transactions. Using the Apriori algorithm, identify all 
+frequent 1-itemsets and 2-itemsets with a minimum support threshold 
+of 60%. 
+Transaction ID 
+Items Purchased 
+1 
+Milk, Bread, Butter 
+2 
+Milk, Bread 
+3 
+Milk, Butter 
+4 
+Bread, Butter 
+5 
+Milk, Bread, Butter 
+ 
+(10) 
+2 
+Q5 
+Define Market Basket Analysis and describe how Market basket 
+Analysis is used to identify product relationships.  Give examples with 
+help of real life retail enterprises 
+(10) 
+2 
+ 
+ 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is Trade Area Modelling? How does geography affect site 
+selection in retail planning? A retailer is choosing between two 
+locations. Explain using the factor rating method. 
+(10) 
+3 
+Q7 
+A retailer is selecting between two locations using the factor rating 
+method. Use the table below and recommend the better location. 
+Factor 
+Weight 
+Location A 
+(Rating) 
+Location B 
+(Rating) 
+Cost 
+0.4 
+8 
+7 
+Customer 
+Accessibility 
+0.35 
+9 
+8 
+Competition Level 
+0.25 
+6 
+7 
+ 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the role of store design, visual merchandising, and loyalty 
+programs in enhancing in-store customer experience. 
+(10) 
+4 
+Q9 
+Explain the concept of Merchandise Mix Modelling. How does 
+combining data from various sources improve in-store presentation 
+and marketing? 
+(10) 
+4

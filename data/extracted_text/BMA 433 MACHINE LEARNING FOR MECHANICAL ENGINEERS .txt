@@ -1,0 +1,108 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.TECH>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BMA 433 
+Subject: MACHINE LEARNING FOR MECHANICAL ENGINEERS  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) What are the important objectives of machine learning? 
+ 
+CO1 
+ 
+b) Differentiate between Training data and Testing Data. 
+ 
+CO2 
+ 
+c) What is Reinforcement Learning? Explain. 
+ 
+CO1 
+ 
+d) What is Pseudo code? Explain. 
+ 
+CO4 
+ 
+e) Are Tuples a Mutable or non-Mutable. Discuss with suitable 
+example. 
+ 
+CO4 
+ 
+f) What is ROC curve? Explain. 
+ 
+CO2 
+ 
+g) What are the use of ML in mechanical engineering give 4 real life 
+examples? Explain. 
+ 
+CO3 
+ 
+h) Differentiate between supervised and unsupervised learning. 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain Keras and numpy in detail. 
+(10) 
+CO4 
+Q3 
+Demonstrate any five operations on strings with the help of examples. 
+(10) 
+CO4 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the various applications of Machine learning in mechanical 
+engineering? Explain with the help of an example  
+(10) 
+CO3 
+Q5 
+Distinguish between overfitting and underfitting. How it can affect 
+model generalization? 
+(10) 
+CO3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+How the logistic regression different from linear regression? Explain 
+the various issues in SVM. 
+(5+5) 
+CO1 
+Q7 
+Explain the following terms with respect to evaluation measure  
+I. 
+R square  
+II. 
+Precision  
+III. 
+Recall and  
+IV. 
+F score  
+(10) 
+CO2 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is clustering? Explain the different types of clustering in detail. 
+(10) 
+CO1 
+Q9 
+Explain Principal Component analysis. 
+(10) 
+CO2

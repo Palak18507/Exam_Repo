@@ -1,0 +1,104 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: B.Tech CSE) (Semester: 8TH) 
+(March, 2025) OFFLINE mode 
+ 
+Time : 1 ½ Hours 
+Maximum Marks: 30 
+ 
+ 
+Q1 
+ (Attempt all Parts )      
+(2.5*4) 
+CO 
+(a) Why is it essential to have step-wise project planning in Software Project 
+Management (SPM)? Additionally, how does this structured approach help in 
+managing uncertainties and risks? 
+ 
+CO1 
+(b) How do software projects differ from other types of projects in terms of their 
+lifecycle, planning, execution, and risk management? 
+ 
+CO1 
+(c) What are the key benefits of breaking down the project into smaller, manageable 
+tasks? Explain with reference to WBS. 
+CO2 
+(d) How can milestone charts be used to effectively represent the schedule of a 
+software project, and what advantages do they offer in terms of identifying 
+potential delays? 
+ 
+CO2 
+ 
+Q2 (Attempt any Two Parts )     UNIT-1  
+(5,5) 
+CO 
+(a) Explain the structure of a software project management plan with a suitable 
+example. 
+CO1 
+(b) How software project estimation techniques are useful in project planning step of 
+software project management? Give a brief overview of all estimation techniques 
+CO1 
+(c) How function point analysis overcomes the limitations of lines of code metric? 
+Calculate UFP and FP for the given application: 
+An application has 10 low external inputs, 12 high external outputs, 20 low logical 
+files, 15 high external interfaces and 12 average external enquiries. Assume value 
+of CAF as 1.10 
+CO1 
+ 
+Q3 
+ (Attempt any Two Parts )     UNIT-2  
+(5,5) 
+CO 
+(a) Explain the software development lifecycle with the help of water model. 
+CO2 
+(b) Identify the critical activities with the help of CPM Method for the following 
+activities: 
+ 
+ACTIVITY NAME 
+TIME 
+PRECEDENTS 
+A 
+HARDWARE SELECTION 
+6 
+- 
+B 
+SOFTWARE DESIGN 
+4 
+- 
+C 
+INSTALL HARDWARE 
+3 
+A 
+D 
+CODE & TEST SOFTWARE 
+4 
+B 
+E 
+FILE TAKE ON  
+3 
+B 
+F 
+WRITE USER MANUALS 
+10 
+- 
+G 
+USER TRAINING 
+3 
+E,F 
+H 
+INSTALL & TEST SYSTEM 
+2 
+C,D 
+ 
+CO2 
+ (c)  What are the key differences between the project life cycle and the product life cycle 
+and how do these differences impact the way project managers approach planning, 
+execution, and delivery? 
+CO2 
+ 
+Note: Q. 1 is compulsory.  
+Subject: Software Project Management
+Subject Code: BCS 408

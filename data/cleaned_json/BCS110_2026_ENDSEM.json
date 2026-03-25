@@ -1,0 +1,142 @@
+{
+  "paper_id": "BCS110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS110",
+    "subject_name": "Programming in C Language",
+    "program": "<B.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of memory, ALU, and registers in a computer system.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between bits, bytes, kilobytes, megabytes, and gigabytes? Provide conversions for 1 GB to MB and 1 MB to KB.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a data type in C? Explain the basic data types in C with examples .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a C program that uses the if-else statement to check if a given number is odd or even.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define arrays. Write a C program to find the sum of elements in a one- dimensional array.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a C program to print the first 10 natural numbers using the for loop.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are pointers in C? Explain the relationship between arrays and pointers with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Write a C program to swap two numbers using pointers.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "System software",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Logic development and flowchart for solving problems.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a C program that accepts a number as input from the user and displays its binary equivalent. Explain the output and conversion.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the different data types in C? Explain with examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a C program to check whether a given number is positive, negative, or zero using if-else statements.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the role of C expressions in program development. Explain arithmetic operations, relational operators, and logical operators in C. Write a C program that uses these operators to compare two numbers, perform arithmetic operations on them, and display the results using printf.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the difference between for, while, and do-while loops with an example for each. Write a C program to find the sum of elements in a one- dimensional array and explain how loops played a significant role here.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are multi-dimensional arrays? Explain with an example of a 2D array. Write a C program to multiply two matrices using two-dimensional arrays.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a C program to reverse a string using loops. Additionally, demonstrate the use of at least three string library functions , strcpy, strcat, strcmp) in your program. Explain the role of each string function used and provide examples of their output.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are structures and unions in C? Explain with examples. Write a C program to create a structure that stores student information . Print the details of a student using the structure.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

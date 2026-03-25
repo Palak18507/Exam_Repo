@@ -1,0 +1,106 @@
+(Please write your Enrollment Number)                       Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name:<PHD Course Work> 
+(May, 2025) 
+Subject Code: PHD 024 
+Subject: Introduction to Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+A 
+How is learning rate used in Gradient Boosting, and what is its effect on 
+model convergence? 
+ CO1 
+B 
+How is risk minimization used to derive the optimal decision rule in 
+statistical decision theory? 
+ CO1 
+C 
+How does entropy differ from Gini impurity as a splitting criterion in 
+decision trees? 
+  CO2 
+D 
+What is the impact of increasing model complexity on bias and 
+variance? 
+  CO2 
+E 
+Define bootstrapping and explain its role in estimating the sampling 
+distribution of a statistic. 
+CO3 
+F 
+How do precision and recall differ, and how are they calculated? 
+CO3 
+G 
+Describe the ROC curve and the concept of Area Under the Curve 
+(AUC). How can ROC analysis help in comparing the performance of 
+classification models? 
+CO4 
+H 
+Highlight one key similarity and one key difference between LDA and 
+logistic regression. 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+Compare and contrast Principal Component Regression 
+(PCR) and Partial Least Squares (PLS) in terms of 
+dimensionality reduction and predictive accuracy. Provide 
+examples of scenarios where each method is preferred. 
+(10) 
+CO1 
+Q3 
+Discuss the differences between linear regression and 
+multivariate regression. Provide examples to illustrate 
+when each is appropriately used. 
+(10) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+How does Principal Component Regression (PCR) select 
+components, and how does this impact model 
+interpretation? 
+(10) 
+CO2 
+ 
+ 
+Q5 
+Describe the architecture and training process of a 
+feedforward neural network. Discuss how training and 
+validation are used to avoid overfitting. 
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+Explain how ensemble methods help to improve the bias-
+variance tradeoff. Provide examples of scenarios where 
+ensemble methods outperform individual models. 
+(10) 
+CO3 
+Q7 
+Discuss the working principle of Support Vector Machines 
+(SVM) in detail. How SVM handles linear and non-linear 
+classification problems? 
+(10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Describe the perceptron learning algorithm and its 
+application in training single-layer neural networks. 
+(10) 
+CO4 
+Q9 
+Define BIRCH and CURE algorithms and compare these 
+algorithms in terms of their clustering approaches and 
+scalability. 
+(10) 
+CO4

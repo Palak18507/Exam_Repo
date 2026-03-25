@@ -1,0 +1,77 @@
+{
+  "paper_id": "BEC110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC110",
+    "subject_name": "Basic Electrical Engineering",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1.",
+      "unit": null,
+      "question_text": "Do Any Four a. A delta load has 3 Ohms, 6 Ohms and 9 Ohms as branch resistances. Convert it into an equivalent star load. b. Determine the resonant frequency for a series RLC circuit having R=100 ohm, L=100mH, and C=10 micro F . c. Draw the circuit representation of practical voltage and practical current source. d. What kind of damping is used in PMMC and MI instruments? Why damping is one of the essential requirement of measuring instruments? e. Explain how range of PMMC ammeter and voltmeter can be extended? f. What are the assumptions for ideal transformer? How the effect of eddy current and hysteresis may be minimized ? g. Derive the emf equation of DC shunt generator",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2.",
+      "unit": null,
+      "question_text": "Find the current in 2 Ohm resistor using superposition theorem.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3.",
+      "unit": null,
+      "question_text": "For what value of RL to be connected across the terminal a and b so that Maximum power transfer will take through it. Also obtain the value of Maximum Power transferred.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4.",
+      "unit": null,
+      "question_text": "Derive the expression of RMS and average value of a fully rectified sinusoidal varying voltage. Obtain the expression of Form Factor and Peak Factor.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5.",
+      "unit": null,
+      "question_text": "A series circuit consists of a resistance of 10Ω, and inductance of 50mH and a variable capacitance in series across a 100V, 50Hz supply. Calculate- The value of capacitance to produce resonance. current drawn by the circuit Voltage across the capacitance and inductance at resonance. Q-factor. resonance frequency",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6.",
+      "unit": null,
+      "question_text": "Explain the construction and working of a electrodynamometer type of instrument with the help of a neat diagram. How it can be used as a wattmeter.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7.",
+      "unit": null,
+      "question_text": "Explain the Two Wattmeter Method to measure the power in a 3 phase, three wire star or delta connected the balanced load. Derive the expression of power factor in terms of wattmeter readings.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8.",
+      "unit": null,
+      "question_text": "Draw and explain the phasor diagram of transformer at a lagging power factor. Derive the emf equation of transformer.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9.",
+      "unit": null,
+      "question_text": "Derive the EMF equation of D.C. Generator. An 8 pole lap wound dc generator has 450 armature turns. It operates at 0.02 wb flux per pole and runs at 1000 rpm at no load. Find the emf induced by it.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

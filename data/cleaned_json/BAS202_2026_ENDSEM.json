@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAS202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS202",
+    "subject_name": "NANO STRUCTURES AND MATERIALS IN ENGINEERING",
+    "program": "B.Tech- OEC",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain in detail why band gap of nanomaterials increases with size reduction. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain 0D, 1D, 2D and 3D nanomaterials? Give examples of the different Dimensional structures. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the top down and bottom up approaches of nanomaterials synthesis. Which one is better according to you and why? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why was UV lithography replaced by e-beam or X-ray lithographies with the advancement in technology. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What applications arise as a result of the following properties of graphene? High conductivity, optical transparency, mechanical strength and flexibility. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you understand by the term SPR? Explain How you will synthesize gold nanoparticles in the laboratory. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Why only n π ̽ and π π ̽ transitions are useful in interpretation of UV spectra CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "In SEM, how secondary and backscattered electrons are generated? Explain EDX. CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is quantum size effect? Describe the effect of decreasing particle size on the density of states of the nanomaterials. Compare the quantum confinement and resulting structures like Quantum dots, quantum wells and their physical significance. CO 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write in detail the special magnetic properties of nanomaterials with special reference to Superparamagnetism CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain mechanical ball milling method. What are the limitations of ball milling method for preparation of nanoparticles? CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is Sol-Gel method of synthesis of metal oxide nanoparticles? Explain the role of calcination in sol-gel synthesis. CO 2 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain controlled release of drug. Explain nano drug delivery system with reference to pore and other special structures. CO 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is the difference between Single-walled carbon nanotubes and multi-walled carbon nanotubes . Discuss CVD technique for preparation of Carbon Nano Tubes CO 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "In an X-ray diffraction experiment, the peak width at half maxima is 0.60 and its corresponding Bragg angle is 240. Calculate the crystallite size using the Scherrer equation. Given wavelength is 0.54 A0. Briefly explain the basic principle behind atomic force microscopy ? What is the difference between AFM and STM ? Why AFM is so popular in the research community? CO 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A solution containing 36.5 gm of K2Cr207 per 500 cm3 was taken in a cuvette having a path length of 2 cm and its transmittance was measured at 455 nm. If the percentage transmittance is found to be 12, calculate the moalr absorptivity of K2Cr207. Why IR spectrum of a molecule is said to be the molecular finger print of the compound. Explain? Describe instrumentation of IR spectroscopy. CO 4",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

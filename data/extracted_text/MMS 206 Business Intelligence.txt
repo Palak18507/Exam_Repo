@@ -1,0 +1,57 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name:  MBA (Semester:  IV ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MMS 206 
+Subject: Business Intelligence 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Differentiate between structured, semi structured and unstructured data 
+ 
+ 
+b) Explain the data transformation process to intelligence 
+ 
+ 
+c) Define Data Science and explain its significance in business intelligence. 
+ 
+ 
+d)What is the role of data warehouse in BI? 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain the difference between BI and BA 
+ 
+ 
+b) Explain the importance of handling missing values in a data set and describe 
+two techniques used for it. 
+ 
+ 
+c) Explain the 5 Vs of Big Data and how they impact business intelligence. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What are the key steps involved in data pre-processing? Explain any two in 
+detail. 
+ 
+ 
+b) What is Data Mining? Explain its importance in decision-making. 
+ 
+ 
+c) Explain the concept of association rule mining and its application in market 
+basket analysis.

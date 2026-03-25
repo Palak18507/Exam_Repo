@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech) (Semester: 2nd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 103 
+                                                 Subject:  Introduction to Data Science  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define Data Science and describe its key components. 
+ 
+CO1 
+ 
+b) Explain the importance of diversity and inclusion in Data 
+Science teams. 
+ 
+CO1 
+ 
+c) Explain are NumPy arrays, and how do they differ from 
+Python lists in terms of performance and functionality? 
+ 
+CO2 
+ 
+d) Explain the purpose of data wrangling in Pandas and 
+mention one common technique used for cleaning data. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the evolution of Data Science and how its roles 
+and tools have developed over time. 
+ 
+CO1 
+ 
+b) Describe the Data Science process, highlighting the 
+stages of data preparation, data exploration, and data 
+modeling. How do these stages contribute to the success 
+of a Data Science project? 
+ 
+CO1 
+ 
+c) Explain the ethical considerations in Data Science, 
+focusing on data ownership, privacy, and informed 
+consent. How do these factors impact the credibility of a 
+Data Science project? 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Write a Python program using NumPy to create a 1D 
+array with values from 1 to 10. Then, write a function 
+that computes the square of each element in the array. 
+ 
+CO2 
+ 
+b) Describe the process of creating and indexing NumPy 
+arrays. Provide examples of array creation and how 
+indexing and slicing work on these arrays. 
+ 
+CO2 
+ 
+c) Discuss data exploration and cleaning techniques in 
+Pandas. How do filtering and reshaping help in preparing 
+data for analysis? 
+ 
+CO2

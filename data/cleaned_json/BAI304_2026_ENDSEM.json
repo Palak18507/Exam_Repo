@@ -1,0 +1,89 @@
+{
+  "paper_id": "BAI304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI304",
+    "subject_name": "Deep Learning-II",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is a perceptron and how is it used for binary classification? How does the thresholding logic effect the preceptron’s output? 5 b Discuss the working of Feed-Forward and Bakpropagation. 5 c A deep neural network consisting of dense layers, wherein three hidden layers and input layer of 16 neurons, is trained on 50,000 images for 20 epochs. Each batch takes 40ms to process, then calculate total model parameters as given information; batches per epoch, and total training time for 20 epochs. 5 d Explain the concept of Autoencoders. Discuss the different categories of Autoencoders. 5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define the concept of activation function in neural networks. How does it influence the output of a neural network? Differentiate between thresholding and sigmoid function. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the structure of a multilayer perceptron . How does it differ from single-layer perceptron and what are its advantages? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the Adam optimizer in detail. How does it differ from RMSprop and Gradient with momentum? Explain its role in optimizing neural network. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "After training a neural network, it is observed that a large gap exists between the training accuracy and test accuracy . Explain different strategies in detail which can be used to reduce this gap? Also which technique can be used to detect such gap beforehand? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How do we tune the number of neurons in the input layer? Which hyperparameter tuning method do we follow for this? Differentiate between Grid and Random hyperparameter tuning. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Consider the following values of confusion matrix: TP = 10, FP=90, FN=10, and TN=30. How many there are total positive and negative samples in the dataset. Also, calculate Accuracy, Precision, Recall, and F1-score for this. 10 ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the GAN with the architecture. Discuss the behavior of generative model in comparison to discriminator model. Discuss the loss functions of GAN architecture. How these loss functions lead to better training. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of transfer learning through diagram. Discuss the advantages of transfer learning in deep neural network?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the undercomplete autoencoder through diagram. What are the benefits of a regularized autoencoder over an undercomplete autoencoder? 5,5",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

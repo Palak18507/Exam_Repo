@@ -1,0 +1,209 @@
+{
+  "paper_id": "BAS103_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS103",
+    "subject_name": "Probability and Statistics",
+    "program": "B.Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "In a certain town, there are equal number of male and female residents. It is known that 5% females and 20% males are unemployed. If any unemployed person is picked up at random, what is the probability that it is male?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "The first four moments of a distribution about the value 4 of the variable are: -1.5, 17, -30 and 108. Find the value of kurtosis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "If a random variable X has the mgf M= 3/, obtain the variance of X.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "For the discrete random variable X, P=0.2, P=0.5 and P=0.3. Find the standard deviation of X.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Find the probability of success ‘p’ for a binomial distribution if n=6 and 9*P = P.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "A part in an electronic device has an exponentially distributed service life with expected value of two years. Suppose that the component already functions well for 3 years, what is the probability that the component has a total life span of more than four years?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "The lifetime of an electric bulb is considered as a random variable with mean 1200 hr and standard deviation 250 hr. Find the probability, using central limit theorem, that the average lifetime of 60 bulbs exceeds 1250 h. [Use P=0.9369, P=0.9382, P=0.9394 ]",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain Type-I and Type-II errors of the hypothesis.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A random variable X has the following probability distribution x 0 1 2 3 4 5 f k2 k/4 5k/2 k/4 2k2 k2 Find: i. the value of k. ii. P iii. the smallest value of x for which P  1/2.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Calculate interquartile range and quartile deviation from the following data: x 0-10 10-20 20-30 30-40 40-50 50-60 f 9 15 29 24 3 20",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the mean, median and mode of the following distribution: x 10-25 25-40 40-55 55-70 70-85 85-100 f 6 20 44 26 3 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The diameter, X, of an electric cable is assumed to be continuous random variable with pdf f = 6 x , 0  x 1 i. Check that f is a pdf. ii. Find the cdf of X. iii. Determine the value of k such that P = P.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The joint probability density function of the two-dimensional variable is of the form: i. Find the marginal density functions. ii. Find the conditional probability density functions. iii. Find P.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the moment generating function for a random variable X with probability density function f= 2 , 0  x  1. Hence, calculate its mean.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "In four tosses of a coin, let X be the number of heads. Derive the probability distribution of X, and hence calculate the expected value and variance of X.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "For the random variables X and Y, the joint density function is given by Find its covariance.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Obtain regression equation Y on X by taking deviations and estimate Y when X=55 from the following: X 40 50 38 60 65 50 35 Y 38 60 55 70 60 48 30",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the moment generating function of Poisson distribution and hence deduce the mean and variance of this distribution.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the coefficient of rank correlation of the marks obtained by 7 students in an art competition given by two judges, X and Y. X 15 12 20 16 18 20 26 Y 10 15 11 11 25 18 30",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The diameter of the cable is X  N. i. Calculate the probability of a diameter greater than 0.81. ii. The cable is unstable if the diameter deviates more than 0.025 from the expected value. Suppose the production process can be altered in such a way that the expected value remains constant at 0.8, while the standard deviation becomes smaller. Calculate the value of the standard deviation such that the fraction of unstable cables will be reduced to 0.10. [Use P=0.6949, P=0.6914, P=0.6984, P=0.9495, P=0.6452, P=0.9505 ]",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A sample of 100 students is taken from a large population. The mean height of the students in this sample is 160 cm. Can it be reasonably regarded that, in the population, the mean height is 165 cm, and the SD is 10 cm? [Use P=0.994915, P=0.995060, P= 0.995201]",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Samples of two types of electric bulbs were tested for length of life and the following data were obtained. Size Mean SD Sample 1 8 1234 h 36 h Sample 2 7 1036 h 40 h Is the difference in the means sufficient to warrant that type 1 bulbs are superior than type 2 bulbs?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "15.5% of a random sample of 1600 undergraduates were players, whereas 20% of a random sample of 900 postgraduates were players in a state. Test the hypothesis that less number of UGs are players than the PGs. [Use P=0.9495, P=0.6452, P=0.9505]",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Two independent samples of 8 and 7 items, respectively had the following values of the variable: Sample 1: 9, 11, 13, 11, 15, 9, 12, 14 Sample 2: 10, 12, 10, 14, 9, 8, 10 Do the two estimates of population variance differ significantly at 5% Level of significance?",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

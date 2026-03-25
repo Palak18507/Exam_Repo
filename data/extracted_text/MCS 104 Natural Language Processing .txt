@@ -1,0 +1,147 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+CBCS SUBJECTIVE TYPE Offline 
+Course Name: M.Tech, Semester : II 
+May, 2025 
+ 
+Subject Code: MCS 104 
+                                              Subject: Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following 
+(5*4=20) 
+CO Mapping 
+ 
+a) Define Natural Language Processing and explain its significance in the 
+context of modern technology. 
+ 
+1 
+ 
+b) What is tokenization? Describe its role in the preprocessing phase of 
+NLP. 
+ 
+2 
+ 
+c) Explain the concept of Part of Speech (POS) tagging. Discuss its 
+importance and some challenges associated with it. 
+ 
+3 
+ 
+d) What are Named Entities? Discuss the different types of named 
+entities and their relevance in Natural Language Processing. 
+ 
+4 
+UNIT I 
+ 
+ 
+Q2 
+Discuss the various phases of Natural Language Processing (NLP) with 
+examples. 
+You are working with the following sentence: 
+"Dr. Smith isn't going to the U.K. on Jan. 5th, 2023." 
+ Using NLTK's word tokenizer, list the word tokens generated from 
+the sentence. 
+ How many tokens are there in total? Explain how NLTK handles 
+abbreviations. 
+(10) 
+1 
+Q3 
+a) What are the challenges faced in processing Indian languages 
+compared to English? Provide examples. 
+b) What is Zipf's Law? Explain its significance in linguistics and natural 
+language processing. Illustrate your answer with an example 
+(10) 
+1 
+UNIT II 
+ 
+ 
+Q4 
+a)What is WordNet? Describe its different types based on language, 
+structure, and domain-specific applications. (5 marks) 
+b) Distinguish and Explain types of Relation Wordnet used: 
+Whisper – speak 
+Wheel- car  
+Hot- cold 
+Size- Big 
+Temperature –cold  (5 marks) 
+(10) 
+2 
+Q5 
+a) What is Part-of-Speech (POS) tagging? Explain its significance in 
+natural language processing. (4 marks) 
+b) Describe different parts of speech commonly used in POS tagging, 
+with examples. (4 marks) 
+c) Discuss the types of ambiguities  faced in POS tagging. (2marks) 
+(10) 
+2 
+ 
+ 
+ 
+ 
+UNIT III 
+ 
+ 
+Q6 
+a) What is Word Sense Disambiguation (WSD)? Why is it important in 
+natural 
+language 
+processing? 
+(2 
+marks) 
+b) Explain dictionary-based disambiguation. Describe how it works with 
+a 
+suitable 
+example. 
+(2 
+marks) 
+c) Differentiate between supervised and unsupervised approaches to 
+WSD. Explain how each method works with examples. (6 marks). 
+(10) 
+3 
+Q7 
+a)What are the applications of Word Sense Disambiguation in NLP? 
+b) How can graph-based methods be utilized in Word Sense 
+Disambiguation, and what are the advantages of using graph structures 
+over traditional approaches? 
+(10) 
+3 
+UNIT IV 
+ 
+ 
+Q8 
+a) What is Named Entity Recognition (NER)? Explain its role in natural 
+language 
+processing. 
+(2 
+marks) 
+b) Describe the major techniques used for performing NER, both 
+traditional 
+and 
+modern. 
+(4 
+marks) 
+c) Discuss the current types of named entities commonly recognized in 
+NER systems, with examples. (4 marks) 
+(10) 
+4 
+Q9 
+a)Explain the Hidden Markov Model and its role in NLP tasks. (5 marks) 
+b) A text corpus contains the following sentence: 
+"Natural language processing is fun and exciting." 
+(i) Generate the list of all possible bigrams from the given sentence. 
+(ii)Calculate 
+the 
+frequency 
+of 
+each 
+bigram. 
+(iii) If the corpus consists of 100 sentences and the bigram ("language", 
+"processing") appears 15 times, calculate the probability of this bigram 
+occurring in the corpus. 
+(10) 
+4

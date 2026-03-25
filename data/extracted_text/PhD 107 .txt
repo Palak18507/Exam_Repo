@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: PhD 
+(May, 2025) 
+ 
+Subject Code: PHD 107 
+Subject: Applied Optics 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+What are zone plates? Where are they used? 
+1 
+ 
+(b) 
+What is the use of double refraction? 
+1 
+ 
+(c) 
+How does the first minima for diffraction from circular aperture 
+differ from rectangular aperture. 
+2 
+ 
+(d) 
+What are Fresnel half-period zones?  
+2 
+ 
+(e) 
+State Malus’s law. 
+3 
+ 
+(f) 
+What conditions are necessary to produce a laser?  
+3 
+ 
+(g) 
+What is Fermat’s principle?  
+4 
+ 
+(h) 
+What are the uses of the Quarter and Half wave plate?  
+4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+What all different ways are there to produce polarized light? 
+How it detected.  
+(10) 
+1 
+Q3 
+Derive the expression for resolving power of a grating.  
+(10) 
+1 
+UNIT-II 
+CO Mapping 
+Q4 
+What is Conu’s spiral. Derive its conditions using Fresnel 
+integrals.  
+(10) 
+2 
+Q5 
+Derive the expression for diffraction at a straight edge. 
+(10) 
+2 
+UNIT-III 
+CO Mapping 
+Q6 
+Derive the expression for diffraction through a circular 
+aperture. Explain the term 1.22
+𝜆
+𝑑. 
+(10) 
+3 
+Q7 
+Derive the expression for multiple slit diffraction.   
+State the concept of anti-reflection coatings.  
+(10) 
+3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Explain how a holographic image is produced with the help of 
+equations.  
+(10) 
+4 
+Q9 
+What all constraints are there to produce a Holographic 
+image? Give five uses of Holography.  
+(10) 
+4

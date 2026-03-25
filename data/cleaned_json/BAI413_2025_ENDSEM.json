@@ -1,0 +1,100 @@
+{
+  "paper_id": "BAI413_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI413",
+    "subject_name": "Deep Learning",
+    "program": "B.Tech.",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Is a neural network comprising a single hidden layer capable of effectively representing and solving all possible Boolean functions where number of Boolean inputs are quite high? Justify your answer with appropriate reason",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "How do we tune the hyperparameters of the input layer? Which factors effect the hyperparameters of input layer.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why is logistic function not appropriate for hidden layers of CNN? Explain the problems in details.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Can we use Autoencoders for dimensionality reduction? Justify this statement with suitable example.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Consider a three-input perceptron with weight vector a [0.1,0.3,0.4] and bias of 0. For the input vector of [0.1, -0.4, -0.5] and output label as 1 and cost function as sum of squared error, what will be the updated weights values after two iterations of gradient descent algorithm ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between Overfitting vs Underfitting. Explain the different techniques to handle overfitting in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "“ReLU is suitable for CNN while TanH is suitable for RNN”. Justify this statement with appropriate reason. Also discuss the other activation functions available for deep learning models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the LSTM and GRU unit along with architectural difference.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "“Transfer Learning is better for Image Classification”. Identify the scenarios wherein the above statement holds true. Justify with appropriate reason.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the VGG16, ResNet, and InceptionNet along with their architecture. Identify the advantages of each model",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the loss functions of GAN architecture along with its complete working. How these loss functions lead to better training.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the advantages of regularized autoencoders over under- complete autoencoders along with their architectural difference.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

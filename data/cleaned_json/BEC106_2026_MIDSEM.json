@@ -1,0 +1,90 @@
+{
+  "paper_id": "BEC106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC106",
+    "subject_name": "Signal & Systems",
+    "program": "B. Tech. ECE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define discrete time unit step & Unit impulse.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find whether the signal given by x = 5cos is periodic or not?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write short notes on Dirichlet’s conditions for Fourier Transform.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Sketch the function x= u-2u.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Are the systems represented by the following equations LTI system or not? y = x + 3x + nx",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the convolution of the following two signals and represent them graphically. x = { 1, 1,0, 1, 1} and h = { 1, -2, -3, 4}",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "For given x. Draw x.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the Fourier transform of 1/ if F.T [e-atu] = 1/",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the Fourier series representation of a periodic square wave f = 1 for 0 < t < π = -1 for π < t < 2π",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The input and output of a causal LTI system are related by the differential equation, d2y/dt2+6dy/dt+8y=2x Find the impulse response of the system?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

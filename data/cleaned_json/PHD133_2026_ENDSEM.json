@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD133_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD133",
+    "subject_name": "An Introduction to Artificial Intelligence",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is Branch and Bound Search? Explain with example. b Explain Stochastic Local Search c Give some real-world applications of AI. d How is iterative deepening A* better than A*? e What is inference engine with example. f What is Hill climbing search & its limitations? g What is completeness? h What do you mean by forward & backward search.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is forward chaining and how it is different from the backward chaining",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write short note on Beam Stack Search?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Suppose you have four cities: A, B, C, and D. You want to find the shortest route that visits each city exactly once and returns to the starting city. You can create a matrix to represent the distances between the cities: A B C D A 0 10 15 20 B 10 0 35 25 C 15 35 0 30 D 20 25 30 0 In this matrix, the entry at row i and column j represents the distance between city i and city j. Now, you can use a brute-force approach to find the shortest route by generating all possible permutations of the cities and calculating the total distance for each permutation. 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What do you mean by genetic algorithm? How is it works?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A map on a grid is shown below. The locations are at grid points and are connected by two way edges and each edge has a cost that is the same in both directions. The start node is S and the goal node is G, the MoveGen function returns neighbours in alphabetical order. The RemoveSeen procedure removes neighbours already present in OPEN/CLOSED lists. Use Manhattan distance as the heuristic function. Tie Breaker: when multiple nodes have the same cost then use alphabetical order to break ties. Run A* to find a path from S to G, then answer the questions. A) What is the path found by Breadth First Search? B) What is the path found by Depth First Search? C) What is the path found by Best First Search?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is minmax search for game playing? Explain min max algorithm.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain backtracking algorithm with example?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is Hill climbing search & its limitations?",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

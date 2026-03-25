@@ -1,0 +1,120 @@
+{
+  "paper_id": "MUP111_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP111",
+    "subject_name": "Women and Habitat",
+    "program": "M. Plan",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of habitat.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the importance of gender-sensitive urban planning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Gender mainstreaming in urban planning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain Gender Auditing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the challenges faced by Women in accessing urban spaces.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How does climate change disproportionately impact women in urban areas?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the key provisions of the 74th Constitutional Amendment Act for enhancing women’s participation in local governance?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the recommendations of the Draft National Policy for Women for institutionalizing gender-sensitive urban planning?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Inclusive Planning and its importance in achieving gender- sensitive urban development. Provide examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss women's roles in society and how urban planning can address their unique needs effectively.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Evaluate how SDG 5 and SDG 11 can be integrated into urban planning to empower women and promote sustainability.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the tools of Gender Budgeting and Gender Impact Assessment in urban planning. How do they contribute to women's empowerment?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Analyze the impact of climate change on women in urban areas, considering their socio-economic conditions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Identify and discuss barriers to women’s access to urban spaces and suggest planning solutions to address these challenges.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How can women’s participation in local governance under the 74th CAA be strengthened to ensure gender-sensitive urban planning?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the institutional mechanisms needed to achieve gender equality in urban planning. Discuss concerning the Draft National Policy for Women .",
+      "marks": 2016.0,
+      "subparts": []
+    }
+  ]
+}

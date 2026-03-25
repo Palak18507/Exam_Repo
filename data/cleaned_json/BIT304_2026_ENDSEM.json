@@ -1,0 +1,142 @@
+{
+  "paper_id": "BIT304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT304",
+    "subject_name": "Cloud Computing",
+    "program": "B.Tech (IT/CSE",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by “Cloud as a utility”?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What does the term 'Resource Pooling' signify in the context of cloud computing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between block-level and file-level storage virtualization.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the CPU Virtualization with reference to any hyperviror.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the role of CSA and its objectives.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the working of SOAP and RESTful web services in cloud computing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define a Service Level Agreement in the context of Amazon EC services.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is GoGrid known for in the cloud market?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Evaluate the significance of various computing paradigms in shaping cloud computing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role and benefits of Green Cloud Computing. Mention at least three sustainable practices and real-world examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss different types of hypervisors with their architecture with real- world examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is cloud optimization? Describe key strategies used in cloud storage optimization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the concept of de-perimeterization and the need for cloud security models.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Cloud Cube Model proposed by the Jericho Forum with all four dimensions.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain static and dynamic load balancing in cloud computing.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the evolution from Web 1.0 to Web 3.0 with their characteristics and examples.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role and recent developments in cloud initiatives by the Government of India. How does it impact e-Governance? Mention any one case study of your choice.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Compare Amazon EC2, Google App Engine, and IBM Cloud in terms of services, deployment models, and use cases.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

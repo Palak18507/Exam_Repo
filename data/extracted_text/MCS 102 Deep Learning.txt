@@ -1,0 +1,63 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech CSE - AI) (Semester:  2 ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MCS 102 
+Subject: Deep Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts each from Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Discuss the working of Back propagation. 
+ 
+ 
+b) A deep neural network with three hidden layers (128, 64, 32 neurons) is 
+trained on 50,000 images (batch size: 100) for 20 epochs. Each batch takes 
+40ms to process. Calculate (1) total model parameters, (2) batches per epoch, 
+and (3) total training time for 20 epochs. 
+ 
+ 
+c) After training a neural network, you observe a large gap between the 
+training accuracy (100%) and the test accuracy (42%). Which method can be 
+used to reduce this gap? Explain the method. 
+ 
+ 
+d) Explain the challenges occur in neural network optimization in detail. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Differentiate Between Gradient, Stochastic and Mini Batch Gradient 
+Descent 
+ 
+ 
+b) What is vanishing gradient? Which activation functions can lead to 
+vanishing gradients and how? 
+ 
+ 
+c) Explain the historical trends in deep learning. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Why do we need better optimization algorithms? What is the best 
+optimization algorithm for Deep Learning? 
+ 
+ 
+b) What is regularization? How does regularization help in reducing overfitting 
+ 
+ 
+c) What is Autoencoder? What is the difference between variational and 
+standard autoencoder?

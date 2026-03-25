@@ -1,0 +1,120 @@
+{
+  "paper_id": "BEC204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC204",
+    "subject_name": "Digital System Design",
+    "program": "B.Tech ECE",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate FPGA and CPLD programmable logic devices.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain various operation modes of FSM.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the difference between the Sensitivity list and WAIT statement.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between stable and unstable states in asynchronous circuits.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is RTL synthesis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is controllability and observability of a circuit under test?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the difference between time driven and event-driven simulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are Benefits of FSM Decomposition?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "For each of the following expressions, indicate whether they are syntactically correct, and if so, determine the resulting value 1. 2*3+6/4 2. mod3 3. _A0 4. B “100010” sra 2 & X “2C” 5. x_1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Design and write VHDL code for a decade counter which counts from 0 to 9 and then back from 9 to 0.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A sequential circuit has one flip-flop Q, two inputs x and y, and one output S. It consists of a full adder circuit connected to a D flip-flop, as shown in above Fig. Derive the state table and state diagram of the sequential circuit. C D flip- flop Full adder Q CK x y S D",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design state machine that meets the following three specifications: The circuit has one input, w and one output, z. All changes in the circuit occur on the positive edge of a clock signal. The output z is equal to 1 if during two immediately preceding clock cycles the input w was equal to 1. Otherwise, the value of z is equal to 0.",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Differentiate Mealy and Moore FSM",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "An asynchronous sequential circuit has two internal states and one output. The two excitation functions and one output function describing the circuit are, respectively, 𝑌1 = 𝑥1𝑥2 + 𝑥1𝑦2 ′ + 𝑥2 ′𝑦1 𝑌2 = 𝑥2 + 𝑥1𝑦1 ′𝑦2 + 𝑥1 ′𝑦1 𝑧= 𝑥2 + 𝑦1 Draw the logic diagram of the circuit. Derive the transition table and output map. Obtain a flow table for the circuit.",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the advantages of using programmable logic over discrete digital logic ICs? Give two examples of where it would be more beneficial to use a PLD?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is difference between verification and testing of a designed circuit?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

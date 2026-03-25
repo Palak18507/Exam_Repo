@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ECE) (Semester:  6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 302 
+Subject: Digital Signal Processing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Find the N point DFT for x(n)=an  for 0<a<1 
+ 
+CO1 
+ 
+b) Given x(n)={0,1,2,3},Find X(k) using DIT-FFT 
+ 
+CO1 
+ 
+c) Obtain the Direct Form-II structure of the system  
+   y(n)=-0.1y(n-1)+0.72y(n-2)+0.7x(n)-0.252x(n-1) 
+ 
+CO2 
+ 
+d) An analog filter has the following transfer function H(s)=1/s 
+Using Bilinear transform technique, determine the transfer 
+function of the digital filter H(z) 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Find the response of FIR filter with impulse response 
+h(n)={1,2,4} to the input sequence x(n)={1,2} using circular 
+convolution. 
+ 
+CO1 
+ 
+b) Find linear convolution using overlap and add method of the 
+following sequence x[n]={3,0,-2,0,2,1,0,-2,-1,0} h[n]={2,2,1} using 
+overlap and add method. 
+ 
+CO1 
+ 
+c) Find the inverse DFT of the sequence X(k)={6,-2+2j,-2,-2-2j} 
+using efficient computation algorithm. 
+ 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Convert an analog filter with system function H(s) into digital 
+IIR filter using impulse invariance method H(s)= 
+𝟏𝟎
+𝒔 𝟐    +𝟕𝒔+𝟏𝟎 
+ 
+CO2 
+ 
+b) Realise the discrete system  
+y(n) =-0.1y(n-1)+0.2y(n-2)+3x(n)+3.6x(n-1)+0.6x(n-2) 
+using (a) Cascade forms (b) Parallel forms. 
+ 
+CO2 
+ 
+c) A certain discrete time LTI filter has the following data 
+    Poles are at 0.2 and 0.6 
+    Zeros are at -0.4 and origin 
+    Gain of the filter is 5 
+    Show direct form-II and cascade form realization. 
+ 
+CO2

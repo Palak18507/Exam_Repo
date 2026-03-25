@@ -1,0 +1,116 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+CBCS SUBJECTIVE TYPE Offline 
+Course Name: B.Tech, Semester: VIII 
+May, 2025 
+ 
+Subject Code: BCS 406 
+                                             Subject:  Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following 
+(5*4=20) 
+CO Mapping 
+ 
+a) Define Natural Language Processing and explain its significance in the 
+field of Artificial Intelligence. 
+ 
+1 
+ 
+b) Describe the phases of natural language processing and the key 
+analyses involved in each phase. 
+ 
+2 
+ 
+c) Discuss the types of ambiguities in NLP With example. 
+ 
+3 
+ 
+d) Explain the role of algorithms and data structures in syntactic and 
+semantic analysis in NLP. 
+ 
+4 
+UNIT I 
+ 
+ 
+Q2 
+What are the basic concepts and challenges in Natural Language 
+Processing? Discuss the evolution of NLP. Write activities performed in 
+pragmatic analysis. 
+(10) 
+1 
+Q3 
+Explain morphological analysis and its role in NLP. Explain tools and 
+Techniques that are used for Morphological analysis, Semantic analysis, 
+Syntactic analysis, Pragmatic analysis. 
+(10) 
+1 
+UNIT II 
+ 
+ 
+Q4 
+Describe Chomsky's hierarchy of grammar. How does it relate to 
+syntactic analysis in NLP? 
+Classify the following grammars into Chomsky’s hierarchy. Justify your 
+answer for each. 
+Given Grammars: 
+A → aB | B → b 
+S → aSb | S → ab 
+A → aA | Aa → aA 
+XY → YX 
+(10) 
+2 
+Q5 
+Explain concept of Top Down Parsing, Bottom Up parsing and 
+bidirectional parsing in detail. 
+Consider the grammar  
+   
+ 
+ 
+ 
+ 
+ 
+Generate leftmost derivation and rightmost derivation and parse tree 
+for language aabbcc. 
+(10) 
+2 
+UNIT III 
+ 
+ 
+Q6 
+Define semantic analysis. Discuss the use of CASE grammars in 
+understanding meaning within NLP. Also explain how to Resolve 
+ambiguities to generate correct meaning, 
+(10) 
+3 
+Q7 
+What is Word Sense Disambiguation (WSD)? Describe a case study of its 
+application using the WORDNET toolkit. 
+(10) 
+3 
+UNIT IV 
+ 
+ 
+Q8 
+Discuss the components of English WORDNET and its significance in 
+understanding natural languages. Discuss in detail  components of 
+WorldNet understanding NLTK tool . 
+(10) 
+4 
+Q9 
+a) What is Hindi WordNet? Explain its structure and significance in 
+natural language processing. 
+b) Distinguish and Explain types of Relation Wordnet used for following 
+cases: 
+rose - flower 
+Leaf -Tree 
+Chair-furniture 
+Size- small 
+Near -far 
+(5+5) 
+4

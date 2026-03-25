@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+END TERM EXAMINATION 
+(CBCS)(SUBJECTIVE TYPE) 
+Course Name: B. Tech, Semester: 6th  
+(May, 2025) 
+ 
+Subject Code: BEC 308 
+Subject: Microprocessor and Microcontroller 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Write a short program to add two 8bit numbers of register B with 
+8 bit number of register L and store 8 bit result in memory 
+location 9210 H. 
+Unit 1 
+ 
+(b) 
+What is the function of the Stack Pointer and Program Counter in 
+8085? 
+Unit 1 
+ 
+(c) 
+Differentiate between closely coupled and loosely coupled 
+multiprocessing systems? 
+Unit 2 
+ 
+(d) 
+Write a program to arrange an array of data in descending order. 
+Unit 2 
+ 
+(e) 
+Compare direct and indirect addressing modes in 8051 
+microcontrollers. 
+Unit 3 
+ 
+(f) 
+How is Timer 0 configured in Mode 2 in 8051? Briefly explain its 
+application. 
+Unit 3 
+ 
+(g) 
+Define the function of the WDT (Watchdog Timer) in PIC 
+microcontrollers. 
+Unit 4 
+ 
+(h) 
+Discuss the role of high-performance microcontrollers in 
+embedded applications like automotive systems, robotics, or IoT. 
+Unit 4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Compare 8085 and 8086 microprocessors with respect to 
+architecture, data bus, instruction set, and memory addressing. 
+(10) 
+Unit 1 
+Q3 
+a. Write a program in 8086 assembly to reverse an array of 
+10 bytes stored at a particular memory location. 
+b. How is memory interfaced to 8086? Design a memory 
+interfacing circuit for 8 KB RAM and 8 KB ROM. 
+(10) 
+Unit 1 
+UNIT-II 
+CO Mapping 
+Q4 
+Explain the system bus structure used in 8086. How are address, 
+data, and control buses separated? Write a program using INT 21H 
+to read and display a string. 
+(10) 
+Unit 2 
+Q5 
+Describe the steps to interface an input port and an output port 
+using memory-mapped I/O and write related code. 
+(10) 
+Unit 2 
+UNIT-III 
+CO Mapping 
+Q6 
+Explain the internal structure and control word format of 8255 
+Programmable Peripheral Interface. How is it used for I/O 
+interfacing? 
+(10) 
+Unit 3 
+Q7 
+Explain the features and operation of the USART 8251 and how it 
+helps in asynchronous serial communication. 
+(10) 
+Unit 3 
+UNIT-IV 
+CO Mapping 
+Q8 
+a) Compare CISC and RISC architectures in terms of 
+instruction set complexity, execution speed, and hardware 
+design. 
+b) Discuss I2C interfacing with respect to PIC microcontroller. 
+(10) 
+Unit 4 
+Q9 
+Describe the use of timers in PIC microcontrollers. What are the 
+common timer modes and their applications? 
+(10) 
+Unit 4

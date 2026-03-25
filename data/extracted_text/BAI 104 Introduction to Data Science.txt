@@ -1,0 +1,118 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH : Sem: 2 (Reappear) 
+(May, 2025) 
+ 
+Subject Code: BAI 104 
+                              Subject: Introduction to Data Science 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+What is the primary function of a Data Scientist? Mention three important tools 
+they often use. 
+2.5 
+CO1 
+b 
+Explain the concept of "Data Ethics". How is it relevant in Data Science 
+practices? 
+2.5 
+CO1 
+c 
+Write Python code using pandas to replace all NaN values in a DataFrame df 
+with the column mean. 
+2.5 
+CO2 
+d 
+Generate a 5x3 NumPy array filled with numbers from 10 to 24 and reshape it 
+into a 3x5 array. 
+2.5 
+CO2 
+e 
+Mention the difference between subplot() and add_axes() in Matplotlib. 
+2.5 
+CO3 
+f 
+Describe how to create a figure with 3 rows and 2 columns of subplots in 
+matplotlib with shared x-axis. 
+2.5 
+CO3 
+g 
+Identify and explain any three filter types available in Tableau and their 
+practical use cases. 
+2.5 
+CO4 
+h 
+Explain the difference between Extract Filter and Data Source Filter. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the major stages in the Data Science Workflow. Give relevant 
+examples of how each stage is applied in business or research. 
+10 
+CO1 
+Q3 
+Write a note on the future trends in Data Science. How are emerging fields like 
+AI, IoT, and Big Data shaping the future of data-driven decision-making? 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Given two datasets—employee records and salary data—write Python code 
+to: 
+a) Create both DataFrames 
+b) Merge them using a common Employee ID 
+c) Display details of employees whose salary is below ₹25,000 
+10 
+CO2 
+Q5 
+Create a mock dataset for product sales across different regions. Use 
+groupby() to: 
+a) Aggregate sales by region 
+b) Filter records only for “North” region 
+c) Find the average sale per product in that region 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Given quarterly revenue data for a company in 2024: 
+a) Plot it using a line graph with triangle markers and dotted green lines 
+b) Create a pie chart of department-wise expenses with custom settings 
+like explode, shadow, and percentage labels 
+10 
+CO3 
+Q7 
+You have 50 days of humidity data for a coastal city: 
+a) Plot a histogram for daily humidity levels 
+b) Generate a box plot and interpret its statistical features 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the collaborative features of Tableau and how it supports data sharing 
+and informed decision-making within teams. 
+10 
+CO4 
+Q9 
+What are Calculated Fields in Tableau? How do they differ from Parameters? 
+Define a Tableau Set with an example. Explain the difference between Manual 
+Sets and Computed Sets. 
+10 
+CO4

@@ -1,0 +1,117 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: B.Tech (MAE), Semester: I 
+(December, 2024) 
+ 
+Subject Code: BMA-101 
+Subject: Elements of Mechanical Engineering and Workshop  
+Time : 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1. 
+Short Answer Types questions. 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are the primary differences between Cast Iron and Steel in 
+terms of compositing and properties? 
+(2.5) 
+CO1 
+ 
+b) What is the deference between Arc Welding& Gas Welding? 
+(2.5) 
+CO1 
+ 
+c) State the first law of Thermodynamic and provide an example? 
+(2.5) 
+CO2 
+ 
+d) Brief about simple vapor compression Refrigeration cycle. 
+(2.5) 
+CO2 
+ 
+e) What is COP and list of Refrigerator? 
+(2.5) 
+CO3 
+ 
+f) Which is more environment friendly & efficient 2 stroke engine and 
+4 stroke engine.  
+(2.5) 
+CO3 
+ 
+g) Define and explain the Poisson’s Ratio. 
+(2.5) 
+CO4 
+ 
+h) What do you understand by True Stress and True Strain? 
+(2.5) 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is casting defect? Explain the various types of casting defects 
+with suitable diagrams and examples. 
+(10) 
+CO1 
+Q3 
+(a) Draw and explain various types of patterns. 
+(b) Discuss the electric Arc Welding suitable diagram. 
+ 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Briefly explain Vapour Compression Refrigeration System with 
+suitable examples. 
+(b)    Draw and explain basic Structure of I.C. Engines. 
+(c)     Draw and explain Four-stroke Spark Ignition Engine 
+(10) 
+CO2 
+Q5 
+(a)  Write the Comparison between Four Strokes and Two Strokes 
+Engines 
+(b)  Write the Comparison Between S.I. and C.I. Engines 
+(c)  Write Comparison Between Otto Cycle and Diesel Cycle with 
+suitable diagrams. 
+(10) 
+CO2 
+ 
+2 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Draw and explain Steam Engines. 
+b) Draw and explain Rankine Cycle used in steam power plant. 
+(10) 
+CO3 
+Q7 
+a) What is Gas Turbine? Write Classification of Gas Turbine. 
+b) Draw and explain Joule or Brayton Cycle used in Gas Power Plant. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define the following terms 
+(i) Elasticity & Plasticity (ii) Hooke’s law & factor of safety (iii) Lateral & 
+longitudinal Strains 
+(10) 
+CO4 
+Q9 
+(a) Brief about work in a Carnot Engine and Network done by the 
+Carnot Engine? 
+(b) Brief about mechanical properties of materials?  
+(10) 
+CO4

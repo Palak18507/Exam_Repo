@@ -1,0 +1,113 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+B.Tech:<>, III Semester:<> 
+(December, 2024) 
+ 
+Subject Code: BEC 205 
+Subject: Network Analysis and Synthesis 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a)  What is source transformation technique? Explain by transforming a 
+voltage source to a current source and vice versa. 
+ 
+CO1 
+ 
+b) Explain KCL and KVL. 
+ 
+CO1 
+ 
+c) In the circuit shown in Figure, the switch s is closed at t=0 then determine 
+the steady state value of the current. 
+ 
+ 
+CO2 
+ 
+d) What do you understand by time constant of a circuit? 
+ 
+CO1 
+ 
+e) If Z= (4+j6) Ohm then find the value of Conductance G and Susceptance 
+B? 
+ 
+CO2 
+ 
+f) Derive the condition of symmetry in terms of Z -parameters 
+ 
+CO2 
+ 
+g) What do you understand by positive real function? 
+ 
+CO1 
+ 
+h) What are the necessary conditions for driving point functions? 
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Prove that maximum power is delivered from a source having internal 
+impedance Zs, to a connected load impedance ZL, when ZL=Zs*. 
+(10) 
+CO2 
+Q3 
+Using nodal analysis, find the power dissipated in the 4 ohm resistor of the 
+network shown in Figure. 
+ 
+(10) 
+CO3 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+The switch K, as shown in the Fig.4 is in steady state position ‘a’ for t<0. At 
+t=0, it is shifted to    position ‘b’. Find iL(t), for t≥0. 
+ 
+(10) 
+CO3 
+Q5 
+What is graph theory?  Explain its applications with one example. 
+(10) 
+CO3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Find T parameters of the circuit shown in figure below: 
+ 
+(10) 
+CO4 
+Q7 
+What do you understand by h-parameters? Derive h-parameters for a two 
+port network and clearly explain the procedure. Draw the equivalent circuit 
+model. 
+(10) 
+CO2 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain concept of poles & zeroes.  Discuss restrictions on pole and zero 
+locations for driving point functions. 
+(10) 
+CO2 
+Q9 
+Synthesize a network using Foster-I and Foster -II forms for the 
+impedance function: 
+𝑍(𝑠) =
+𝑠(𝑠2 + 9)
+(𝑠2 + 5)(𝑠2 + 13) 
+(10) 
+CO4

@@ -1,0 +1,78 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech (MAE)>, Semester:<5> 
+(December, 2024) 
+ 
+Subject Code: BMA 305 
+Subject: Automobile Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Describe the importance of electric vehicle. 
+ 
+ 
+b) Differentiate between camshaft and crankshaft. 
+ 
+ 
+c) Describe air suspension system. 
+ 
+ 
+d) Discuss the cooling system in an automobile. 
+ 
+ 
+e) Explain braking system in an Automobile. 
+ 
+ 
+f) Write a short note on Automatic Transmission System. 
+ 
+ 
+g) Describe the function and benefits of overdrive in a vehicle's transmission. 
+ 
+ 
+h) Differentiate between mechanical and hydraulic brake. 
+ 
+UNIT I 
+ 
+Q2 
+How do manifold systems help in distributing air and fuel to the engine? 
+(10) 
+Q3 
+Explain how electric vehicle differs from traditional internal combustion engine 
+vehicles in detail. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the role of a clutch, gearbox, and rear axle in the power transmission 
+system of a vehicle. 
+(10) 
+Q5 
+Describe the working principle of a centrifugal clutch with its advantages and 
+disadvantages and where it is typically used. 
+(10) 
+UNIT III 
+ 
+Q6 
+Explain the advantages and disadvantages of using a sliding mesh gearbox and 
+modern gearboxes. 
+(10) 
+Q7 
+Explain semi-automatic transmission. How does it combine features of both 
+manual and automatic transmissions? 
+(10) 
+UNIT IV 
+ 
+Q8 
+How does the suspension system affect ride comfort, handling, and stability of a 
+vehicle? Explain it in detail. 
+(10) 
+Q9 
+Explain the key difference between mechanical and hydraulic brake systems. 
+(10)

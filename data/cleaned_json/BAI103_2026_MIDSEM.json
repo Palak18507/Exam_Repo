@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAI103_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI103",
+    "subject_name": "Introduction to Data Science",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Data Science and describe its key components.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the importance of diversity and inclusion in Data Science teams.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain are NumPy arrays, and how do they differ from Python lists in terms of performance and functionality?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the purpose of data wrangling in Pandas and mention one common technique used for cleaning data.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the evolution of Data Science and how its roles and tools have developed over time.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the Data Science process, highlighting the stages of data preparation, data exploration, and data modeling. How do these stages contribute to the success of a Data Science project?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the ethical considerations in Data Science, focusing on data ownership, privacy, and informed consent. How do these factors impact the credibility of a Data Science project?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a Python program using NumPy to create a 1D array with values from 1 to 10. Then, write a function that computes the square of each element in the array.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the process of creating and indexing NumPy arrays. Provide examples of array creation and how indexing and slicing work on these arrays.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss data exploration and cleaning techniques in Pandas. How do filtering and reshaping help in preparing data for analysis?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

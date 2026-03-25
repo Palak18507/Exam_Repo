@@ -1,0 +1,111 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<PHD>, Semester:<1st> 
+(May, 2025) 
+ 
+ 
+Subject Code: PHD 099 
+                                     Subject:  Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+(a) 
+Explain tokenization and its importance in text processing. 
+2.5 
+CO1 
+(b) 
+ Define the edit distance and mention one application in NLP 
+2.5 
+CO1 
+(c) 
+Differentiate between MaxEnt and CRF in sequential tagging. 
+2.5 
+CO2 
+(d) 
+What is the difference between constituency and dependency 
+parsing? 
+2.5 
+CO2 
+(e) 
+Define distributional semantics with an example. 
+2.5 
+CO3 
+(f) 
+ How is WordNet used in lexical semantics? 
+2.5 
+CO3 
+(g) 
+What is the goal of topic modeling? 
+2.5 
+CO4 
+(h) 
+Define sentiment analysis and mention one real-world application. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the steps in basic text processing, including tokenization, 
+stopword removal, and lemmatization. Provide examples to illustrate 
+each step. 
+(10) 
+CO1 
+Q3 
+Compare and contrast different smoothing techniques used in N-
+gram language models. Why are they necessary? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are word embeddings? Discuss and compare Word2Vec, GloVe, 
+and FastText in terms of their architecture and use cases. 
+(10) 
+CO2 
+Q5 
+Compare 
+transition-based 
+and 
+graph-based 
+approaches 
+to 
+dependency parsing. Highlight the advantages and limitations of each. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the architecture and working of an RNN and LSTM network. 
+How does LSTM solve the vanishing gradient problem in RNNs? 
+(10) 
+CO3 
+Q7 
+ Discuss the process and challenges involved in Named Entity 
+Recognition (NER). How do deep learning models improve NER 
+performance? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain Latent Dirichlet Allocation (LDA) for topic modeling. How does 
+it differ from NMF? 
+(10) 
+CO4 
+Q9 
+What is entity linking in NLP? Describe a method to perform it and the 
+common challenges involved. 
+(10) 
+CO4

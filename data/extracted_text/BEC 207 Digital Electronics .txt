@@ -1,0 +1,124 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech-BEC-207, 3rd Sem 
+(April, 2025) 
+ 
+Subject Code: BEC 207 
+Subject:  Digital Electronics (Reappear) 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Implement in NAND logic:   F = ABC + DE + 𝐹̅ 
+ 
+Unit I 
+ 
+b) Convert the following expression to canonical SOP form. 
+Y= (A+B) (𝐵̅+C) 
+ 
+Unit I 
+ 
+c) What is Race Around Condition in f/f. How can it be resolved. 
+ 
+Unit II 
+ 
+d) State the Excitation Table for SR Flip Flop and T Flip flop. 
+ 
+Unit II 
+ 
+e) Find the percentage resolution of D/A converter having 9 bits. 
+ 
+Unit III 
+ 
+f) On what factor does the percentage resolution of D/A converter depend. 
+What is the advantage of low resolution. 
+ 
+Unit III 
+ 
+g) Differentiate between PLA and PAL. 
+ 
+Unit IV 
+ 
+h) What is CAM? 
+ 
+Unit IV 
+UNIT I 
+ 
+CO Mappig 
+Q2 
+The 74154 is an active low decoder. Implement the following min-term 
+expressions using 74154. Use a block diagram for the decoder. Minimize the 
+no. of inputs in the external gates. 
+Y1 = Σm (0,2,3,6,8,10) 
+Y2 = Σm (4,5,6,8) 
+               Y3 = Σm (10,11,13) 
+(10) 
+Unit I 
+Q3 
+Draw a K-Map for the following function of four variables and use it to 
+reduce the function. Realize the reduced function using only NAND gates 
+Y=F (A B C D) =∑ m (0, 2, 5, 6, 7, 8, 10) 
+(10) 
+Unit I 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+For Active low input SR latch 
+1. Draw the internal diagram 
+2. Truth Table and Block diagram. 
+3. Extend this active low SR latch further by adding combinational circuitry, 
+to work as SR flip flop. State the truth table of SR F/F 
+(10) 
+Unit II 
+Q5 
+(a) Design a Synchronous MOD 5 counter using JK f/f. 
+(b) Design a 3-bit DOWN Ripple Counter using positive edge triggered 
+Toggle f/fs. Draw the timing diagrams. 
+(10) 
+Unit II 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) An 8 bit D/A converter has a step size of 6 mV. Find full scale output 
+voltage and percentage resolution. 
+(b) A 5 bit digital to analog converter has a current output. When the 
+digital input is 10000, the output current is 8 mA. Find the output 
+current if digital input is 11111. 
+(10) 
+Unit III 
+Q7 
+Write short note on R-2R Ladder type network and Dual-slope ADC. 
+(10) 
+Unit III 
+ 
+ 
+ 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Implement the PLA programme table for the generation of following 
+Boolean expressions in SOP form. The PLA must have 3 inputs, 4 product 
+terms and two outputs. 
+  
+F1 (ABC) = ∑m (3, 5, 6, 7) 
+  
+F2 (ABC) = ∑m (0, 2, 4, 7) 
+(10) 
+Unit IV 
+Q9 
+(a) Realize a full subtractor circuit using ROM. 
+(b) Write a short Note on Successive-Approximation ADC 
+(10) 
+Unit IV & Unit 
+III

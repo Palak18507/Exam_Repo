@@ -1,0 +1,100 @@
+{
+  "paper_id": "BIT402_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT402",
+    "subject_name": "Information and Network Security",
+    "program": "<B.Tech.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the differential and linear cryptanalysis attacks on DES. How effective are these methods in breaking the encryption?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the concept of a digital signature. How does it ensure authentication, integrity, and non-repudiation?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the role of cryptographic hash functions in authentication. How do they ensure data integrity? Explain the working of MD5 and its vulnerabilities.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe how HTTPS secures web traffic. What are the advantages of HTTPS over HTTP in ensuring data security? What is a VPN ? Explain how VPN provides secure communication over public networks.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between Active and Passive Attacks. Provide examples and discuss how modern security mechanisms counter these threats.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the structure and working of the Data Encryption Standard . What are its vulnerabilities, and how have they been mitigated in modern encryption techniques?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the fundamental differences between symmetric and public key cryptography. What are the advantages and limitations of each? Discuss the key requirements of public key cryptosystems. How do they ensure security in cryptographic applications?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the El Gamal cryptosystem and analyze its security compared to RSA.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Compare password-based, certificate-based, and biometric authentication. What are the advantages and disadvantages of each method? Discuss the example use cases as well.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the requirements of authentication in security systems. How does authentication help in preventing unauthorized access? What is Kerberos authentication? Explain its working principle with a step-by- step flow of authentication messages.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the architecture of IP Security . How does it provide confidentiality, integrity, and authentication in network communications? Compare transport mode and tunnel mode in IPSec.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Differentiate between Intrusion Detection System and Intrusion Prevention System . Explain their types, working mechanisms, and use cases in network security. Also, discuss the advantages and limitations of each with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

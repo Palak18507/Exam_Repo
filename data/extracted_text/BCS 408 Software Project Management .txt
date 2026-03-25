@@ -1,0 +1,116 @@
+(Please write your Enrollment Number)                                           Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH   Semester: 8th Sem 
+(May, 2025) 
+ 
+Subject Code: BCS 408 
+Subject: Software Project Management  
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the need for Software Project Management in today’s IT 
+industry? List its key objectives. 
+2.5 
+CO1 
+ 
+b) Describe any two types of software project plans. 
+2.5 
+CO1 
+ 
+c)  List the key components of Work Breakdown Structure (WBS) and 
+why is it crucial in project planning? 
+2.5 
+CO2 
+ 
+d) Differentiate between the Project Life Cycle and Product Life Cycle. 
+2.5 
+CO2 
+ 
+e) What is resource scheduling and explain why it is critical in project 
+management? 
+2.5 
+CO3 
+ 
+f) Differentiate between Schedule Variance and Cost Variance. 
+2.5 
+CO3 
+ 
+g) Differentiate between verification and validation in software 
+testing. 
+2.5 
+CO4 
+ 
+h) What are CASE tools? Give examples and their relevance in software 
+project management.  
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the Software Project Management Cycle with a suitable 
+diagram. Explain each phase briefly with their significance and 
+highlight how they connect to project success.  
+(10) 
+CO1 
+Q3 
+What challenges are faced in software estimation? Discuss the 
+interrelation between Software Project Planning and the Software 
+Project Estimation with the help of a suitable example. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the objectives of project scheduling and outline the process of 
+building a project schedule. Briefly describe various key terminology 
+and techniques used in scheduling. 
+(10)  
+CO2 
+Q5 
+Describe the process of converting a WBS into a network diagram. 
+Compare and contrast PERT, CPM, and Monte Carlo techniques in 
+terms of complexity, assumptions, and accuracy. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the different types of software reviews. Analyze the 
+significance of these reviews in detecting errors early, improving 
+collaboration, and enhancing the overall software development 
+process.  
+(10) 
+CO3 
+Q7 
+Discuss about the key earned value indicators: Cost Variance, Schedule 
+Variance, Cost Performance Index, and Schedule Performance Index. 
+How are these indicators calculated and interpreted in the context of 
+project performance? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the objectives and principles of software testing. Describe the 
+roles of test plans and test cases, and discuss the different types and 
+levels of testing. 
+(10) 
+CO4 
+Q9 
+What is difference between Software Metric and Indicator?  Discuss 
+the Capability Maturity Model in detail. 
+(10) 
+CO4

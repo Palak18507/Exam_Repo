@@ -1,0 +1,120 @@
+{
+  "paper_id": "MCA101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA101",
+    "subject_name": "Programming with Python",
+    "program": "< MCA >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between mutable and immutable variables in Python using suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the concept of \"Stepwise Refinement\" in programming, and how does it help in problem-solving?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the purpose of the sys module in Python? Provide an example of how it can be used to fetch command-line arguments.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself. Sample String : 'restart' Expected Result : 'resta$t'",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Check whether the given number is divisible or not by another number by getting two inputs from the user using the lambda function.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the concept of \"Indexers\" in Python using suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the basic functionalities of the pandas library in Python? How would you read a CSV file using pandas?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are widget attributes in Tkinter? Explain how to change the size and color of a widget.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Write a Python program to display the current date and time. Write a Python program to construct the following pattern, using a nested for loop. * * * * * * * * * * * * * * * * * * * * * * * * *",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are logical operators in Python, and how are they used in conditions? Give an example. Write a Python program to generate fibonacci series upto n. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain how string slicing works in Python. Give an example where you slice a string to get a substring. Write a Python program to count the number of characters in a string. Sample String: google.com' Expected Result: {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1}",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How can you sort a list in Python? Write a small program that sorts a list of numbers in ascending order. Write a Python function to check if a list is a palindrome or not. Return true otherwise false. Sample list: ['Red', 'Green', 'Red'] Expected Result: True",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the typical steps involved in debugging a Python program? Describe one technique or tool used for debugging. Write a Python program that opens a file and handles a FileNotFoundError exception if the file does not exist.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss how Python allows the handling of multiple exceptions in one try-except block. Explain the usage of multiple except blocks for handling specific exceptions, as well as the else and finally blocks. Provide an example where multiple exceptions are handled, including a scenario that deals with both ValueError and IndexError.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How does numpy handle multidimensional arrays? Provide an example of creating a 2D array using numpy. Write a Python program that uses matplotlib to create a scatter plot of points with the x-coordinates as [1, 2, 3, 4, 5] and the y- coordinates as [5, 4, 3, 2, 1].",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a Python program that implements a temperature converter application using Tkinter, allowing users to convert between Celsius and Fahrenheit. Sample Output",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

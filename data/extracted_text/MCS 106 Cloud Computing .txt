@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<M.Tech>, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code: MCS 106 
+Subject: Cloud Computing  
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+Consider the given use case and answer the following questions by your own 
+assumptions: You need to setup the weather monitoring system in the 
+organization that monitors, reports, and updates the end users about the 
+various conditions of the organization such as temperature, humidity, light,CO2 
+etc.  
+(5*4
+=20) 
+CO 
+Mapping 
+ 
+A. The organization wishes to implement the cloud solution to the above use 
+case, which cloud computing deployment model will you recommend and 
+justify? 
+CO1 
+ 
+B. The organization wishes to implement the edge computing,  How do  you 
+implement above  use case and  draw its architecture  
+CO2 
+ 
+C. The organization wishes to implement the virtualization in cloud solution. 
+Which virtualization technique you recommend and Justify your answer?  
+CO3 
+ 
+D. What is Docker and explain its architecture for implementing the above use 
+case? 
+      CO4 
+UNIT-I 
+CO 
+Mapping 
+Q2 
+Explain Grid computing architectures with neat diagram. Can you recommend 
+Grid computing for implementing the above use case? Justify your answer and 
+Provide its merits and demerits of it over Clout commuting w.r.t above user 
+case?  
+(5+5
+=10) 
+CO1 
+Q3 
+What are the various cloud deployment models and explain How do you 
+choose w.r.t above use case?  Provide its merits and demerits of each? 
+(5+5
+=10) 
+CO1 
+UNIT-II 
+CO 
+Mapping 
+Q4 
+ Explain traditional IT Model framework and What are the limitations of it and 
+how do you overcome with the help of cloud computing? Justify your answer 
+w.r.t Q1 use case?  
+(5+5
+=10) 
+CO2 
+Q5 
+Illustrate the architecture of any public cloud which is used in the organization 
+or university?  Compare its merits and dements with private cloud in detail 
+with r.r.t AWS or Azure  
+ 
+(5+5
+=10) 
+CO2 
+UNIT-III 
+CO 
+Mapping 
+Q6 
+ Provide the Network Virtualization techniques available for cloud computing 
+and explain any one suitable for implementing solution to  Q1?  
+ 
+Differentiate between storage virtualization, processor virtualization?    
+ 
+(5+5
+=10) 
+CO3 
+Q7 
+What is Software Defined Network and explain its architecture with neat 
+diagram and its applications   
+(10) 
+CO3 
+UNIT-IV 
+CO 
+Mapping 
+Q8 
+How do you ensure the cloud security and what are the techniques you 
+recommend to ensure the best cloud security to implement Q1 in Cloud 
+computing platform? 
+(10) 
+CO4 
+Q9 
+What is Block chain and explain its architecture with the help of neat diagram 
+and how   it’s useful for cloud computing? 
+What are the recent advances in cloud computing and explain any challenges 
+with reference to any cloud service provider?  
+(10) 
+CO4

@@ -1,0 +1,68 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech ) (Semester: II ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MVD 104 
+Subject: Advances in Emerging VLSI 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any one part of Q2 and Q3  
+ 
+Q1 
+ 
+(10) 
+CO Mapping 
+ 
+a) What are the MOS Scaling trends and state its effect on deep 
+submicron region of operation. 
+2.5 
+Unit I 
+ 
+b) Differentiate between Stuck at Fault and Bridging Fault 
+5 
+Unit II 
+ 
+c) What is the cause for Reverse Short-Channel Effect? 
+2.5 
+Unit I 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any one part 
+(10) 
+ 
+ 
+(a) Explain how does surface BTBT causes the GIDL. Explain with the 
+energy band diagram. 
+ 
+Unit I 
+ 
+b) How can the gate oxide leakage be reduced? What are the 
+specifications of such materials? Name such materials which the 
+researchers are exploring/suggesting could help in reducing the gate 
+oxide leakage. 
+ 
+Unit I 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any one part 
+(10) 
+ 
+(a) 
+i. 
+Differentiate between Defects, Errors and Faults. Discuss about 
+any one digital fault or analog fault with a diagram. (7) 
+ii. 
+Write a short note on: Deep Submicron IC Reliability (3) 
+ 
+Unit II 
+(b) 
+What are the various steps involved in VLSI Testing? Discuss about the 
+Test generation for combinational circuits 
+ 
+Unit II

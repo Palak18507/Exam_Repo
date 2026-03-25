@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <B.Tech (AI&ML)>, Semester:<3rd> 
+(December, 2024) 
+ 
+Subject Code: BAM 201 
+Subject: Database Management Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4 = 20) 
+ 
+a) What is the difference between logical and physical data independence? 
+ 
+ 
+b) Differentiate between Hierarchical data model and Network data model. 
+ 
+ 
+c) Explain the roles and responsibilities of Database Administrator. 
+ 
+ 
+d) What do you mean by dependency preserving decomposition and lossless join 
+property? Explain with relevant examples. 
+ 
+UNIT I 
+ 
+Q2 
+Draw an ER diagram to model the Hospital Management System. Identify the 
+primary key and foreign key in the design. Clearly indicate the entities, attributes, 
+relationships & key constraints. 
+(10) 
+Q3 
+Describe the three schema architecture with the help of a diagram. Why do we 
+need mapping between schema levels? 
+(10) 
+UNIT II 
+ 
+Q4 
+Write SQL query for the following: 
+USER_SCHEME( Card_No,B_Name, B_Addr) 
+      SUPPLIER_SCHEME(Acc_No.,S_Name,Price,DOS) 
+      BORROWER( Acc_No., Card_No., DOI) 
+i) 
+Find out the name and address of borrowers who have issued a book on 
+14/4/15. 
+ii) 
+Find the name of the suppliers with maximum price.      
+iii) 
+Find all the books with supplier ‘NAROSA’. 
+iv) 
+Find all the books issued by ‘Rashi’. 
+v) 
+Find the book with the maximum price. 
+(10) 
+Q5 
+What are the different integrity constraints in a database model? Explain each with 
+examples. 
+(10) 
+UNIT III 
+ 
+Q6 
+Consider the relation R = {A, B, C, D, E, F, G, H, I, J} and the set of functional 
+dependencies 
+F = {AB->C,  A->DE, B->F, F->GH, D->IJ}. 
+Decompose R into 1NF, 2NF & 3NF relations. 
+(10) 
+Q7 
+Decompose the following relation into 1NF, 2NF and 3NF 
+R= (A, B, C, D, E) with a set of functional dependencies F as follows: 
+F= {A→ABC, CD→CDE, B→BD, E→EA} 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain the concept of concurrency control using time-stamp based protocols. 
+(10) 
+Q9 
+What do you understand by ACID properties of transactions and how do we address 
+the issues arising during simultaneous execution of transactions. 
+(10)

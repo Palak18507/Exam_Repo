@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA429_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA429",
+    "subject_name": "Internet of Things",
+    "program": "Internet of Things",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Internet of Things?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between two major IoT boards in the market?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write three properties of IoT devices?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is 6LoWPAN?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "If you have to switch on a bulb using alexa , it is a form of IoT? Explain this",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the purpose of using Gyroscopic sensor?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss is a Waze sensor or not?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the difference between normal door bell and smart door bell",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain what is the difference between AI, IoT and Embedded systems? Also explain IoT ecosystem?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How does an Arduino uno works? Explain all the parts of the components on Arduino uno hardware? Also draw the labelled diagram?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain major long range and short-range wireless communication devices?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is Communication Protocol? Also discuss the complete architecture and three layers in communication?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define IIoT? Explain the following two alongwith their architecture and practical examples? i) IoT in healtcare ii) IoT in Logistics",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Tesla is a driverless car and does work with AI and IoT? Explain the working of TESLA using IoT components?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is the role of the sensors in IoT devices? How does position sensor works in Ola for monitoring and tracking positions?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the three in detail along with their different applications- GPS, GLONASS, and IRNSS?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

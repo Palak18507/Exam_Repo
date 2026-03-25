@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAS205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS205",
+    "subject_name": "Numerical Techniques for Engineers",
+    "program": "B.TECH",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Perform three iterations of Newton’s Raphson method with initial iteration 𝑥0 = 2.1 to obtain the approximate root of the equation 𝑒𝑥−4𝑥= 0. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the absolute error of the number 𝑋= 0.00545828 when Truncated to three decimal digits Rounded off to three decimal digits 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the condition number of the system [2.1 1.8 6.2 5.3] [𝑥1 𝑥2] = [2.1 6.2] Using the Spectral norm. , 𝜌 denotes spectral radius and 𝐴∗ denotes conjugate transpose of 𝐴). 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Obtain the LU decomposition of the matrix [ 3 2 1 1 2 3 3 2 1 ] 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Find the Newton’s divided difference interpolating polynomial of degree atmost 2 such that 𝑓 = 1, 𝑓 = 3, 𝑓 = 55. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Obtain the forward difference interpolation polynomial for the following data: 𝑥 0 1 2 3 𝑓 1 2 1 10 Hence find 𝑓. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Obtain the approximate value of 𝑦 for the IVP 𝑦′ = −2𝑥𝑦2, 𝑦 = 1 Using Euler’s method with step size ℎ= 0.1 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Solve the IVP 𝑦′ = 𝑥, 𝑦 = 3 in the interval [2,2.4] using Runge-Kutta fourth order method with the step size ℎ= 0.2 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define order of convergence. Derive the order of convergence of Secant method. Perform four iterations of the secant method to obtain the smallest positive root of 𝑓 = 𝑥3 −5𝑥+ 1 = 0. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "The equation 𝑓 = 𝑥3 −𝑥2 + 16𝑥−12 = 0 has a double root at 𝑥= 2. Starting with the initial approximation 𝑥0 = 1, find the root correct to 3 decimal places using the General Newton-Raphson method with multiplicity 2. Conclude that the Generalized newton method converges more rapidly than the Newton Method. 1 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider the following system of linear equations 𝑥1 −3𝑥2 + 𝑥3 = 5 𝑥1 + 2𝑥2 + 4𝑥3 = 7 3𝑥1 −𝑥2 + 𝑥3 = 5 Perform 5 iterations of the Gauss Seidel iterative method with initial approximation [0, 0, 0], show that the method is diverging for the given system. State the sufficient convergence condition for the Gauss Seidel iterative method. Rearrange the equations such that the system satisfies the convergence condition. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Find the largest eigenvalue in modulus and the corresponding eigenvector of the matrix [ −15 4 3 10 −12 6 20 −4 2 ] Using Power method with initial vector [1, 1, 1]𝑇. Round off the largest eigenvalue in modulus to 3 digits. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "From an equally spaced table of the function sin with spacing h = 0.1, we have following data set 𝑥 0.1 0.2 0.3 sin 𝑥 0.0998334 0.198669 0.295520 Compute the value of sin at x = 0.123 using Lagrange interpolating method. Also, compute the error bound. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Evaluate the approximate value of the integral 𝐼= ∫ 1 1+𝑥 1 0 𝑑𝑥 using Trapezoidal rule Simpson’s 1/3rd rule Gauss-Legendre 3-point quadrature rule. Compare with the exact solution 𝐼= 𝑙𝑛 = 0.693147 3",
+      "marks": 2.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Perform four iterations of Picard method to solve the following IVP 𝑑𝑦 𝑑𝑥= 𝑥+ 𝑦, 𝑦 = 1. Hence compute the value of 𝑦. 4",
+      "marks": 0.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Use fourth Runge–Kutta method to find the values of y and z for the following system of first order ODEs. Use step size h = 0.1. 𝑑𝑦 𝑑𝑥= 𝑧+ 𝑥 𝑑𝑧 𝑑𝑥= 𝑦2 + 𝑥+ 𝑧 With initial conditions 𝑦 = 0, 𝑧 = 0. 4",
+      "marks": 0.0,
+      "subparts": []
+    }
+  ]
+}

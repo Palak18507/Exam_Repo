@@ -1,0 +1,242 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(NEP)(SUBJECTIVE TYPE)(Offline) 
+Course Name:<B.Tech. - > 
+ Semester:<1st> 2024-25 
+ 
+Subject Code: BAS 101 
+Subject: Applied Mathematics  
+Time :3 Hours 
+Maximum Marks : 60 
+Note : Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) Verify if the following matrix is orthogonal and hence, find its inverse: 
+ 𝐴= [
+cos∅
+−sin ∅
+0
+sin∅
+cos ∅
+0
+0
+0
+1
+]  
+ 
+ 
+CO1 
+ 
+(b) Determine the value(s) of 𝛼 so that rank of A is 3, where 
+ 𝐴= [
+1
+1
+−1
+0
+4
+4
+−3
+1
+𝛼
+2
+2
+2
+9
+9
+𝛼
+3
+] 
+ 
+CO1 
+ 
+(c) Find the 𝑛𝑡ℎ derivative of 𝑒−3𝑥𝑐𝑜𝑠3𝑥.                         
+CO2 
+ 
+(d) Prove that the function √|𝑥𝑦| is continuous at origin. 
+CO2 
+ 
+(e) Evaluate ∫
+∫𝑥𝑒
+−𝑥2
+𝑦
+𝑥
+0
+𝑑𝑦 𝑑𝑥
+∞
+0
+ by changing the order of integration. 
+        CO3 
+ 
+(f) Evaluate ∫∫
+∫
+𝑟 𝑑𝑧 𝑑𝑟 𝑑𝜃.
+(𝑎2−𝑟2)
+𝑎
+0
+𝑎sin𝜃
+0
+𝜋
+2
+0
+ 
+ 
+        CO3 
+ 
+(g) Prove that ∇𝑟𝑛= 𝑛𝑟𝑛−2𝑟̅, where 𝑟̅ = 𝑥𝑖̂ + 𝑦𝑗̂ + 𝑧𝑘̂, 𝑟= |𝑟̅|  
+ 
+        CO4 
+ 
+(h)  Find the equation of tangent plane and normal vector to the level 
+surface 𝑓(𝑥, 𝑦, 𝑧) = 𝑥2 + 𝑦2 + 𝑧−9 = 0 at the point 𝑃0(1,2,4). 
+  
+        CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+(a) Check whether the matrix  𝐴= [
+2
+1
+1
+2
+3
+2
+3
+3
+4
+]  
+ is diagonalizable. If yes, then find out the modal    matrix P. 
+If not, then give reasons.   
+(b) Show that the vectors 𝑥1 = (1,2,4), 𝑥2 = (2, −1,3),  
+𝑥3 = (0,1,2),   𝑥4 = (−3,7,2),  are linearly dependent and 
+find the relation between them. 
+ 
+ (5*2=10) 
+CO1 
+Q3 
+(a) Find the non-singular matrices 𝑃 and 𝑄 such that 𝑃𝐴𝑄 is 
+in the normal form and hence, find the rank of the 
+matrix 𝐴, where  
+𝐴= [
+1
+1
+1
+1
+−1
+−1
+3
+1
+1
+] 
+ 
+(b) Determine the values for 𝑎 and 𝑏 for which the system  
+𝑥+ 2𝑦+ 3𝑧= 6 
+𝑥+ 3𝑦+ 5𝑧= 9 
+2𝑥+ 5𝑦+ 𝑎𝑧= 𝑏 
+(5*2=10) 
+        CO1 
+has (i) no solution (ii) unique solution (iii) infinite number of 
+solutions.   
+UNIT-II 
+CO Mapping 
+Q4 
+(a) If y = 𝑒tan−1 𝑥, prove that  
+(1 + 𝑥2)𝑦𝑛+2 + [2(𝑛+ 1)𝑥−1]𝑦𝑛+1 + 𝑛(𝑛+ 1)𝑦𝑛= 0. 
+ 
+(b) Expand 𝑒𝑥log (1 + 𝑦) in powers of x and y up to terms of 
+third degree. 
+ 
+(5*2=10) 
+CO2 
+Q5 
+(a) Find the extreme values of  
+                          𝑓(𝑥, 𝑦) = 3𝑦2 −2𝑦3 −3𝑥2 + 6𝑥𝑦.  
+ 
+(b) Apply Taylor’s series to calculate the value of 𝑓(
+11
+10), 
+where 𝑓(𝑥) = 𝑥3 + 3𝑥2 + 15𝑥−10. 
+ 
+(5*2=10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+(a) Trace the curve 𝑟= 𝑎cos 2𝜃.  
+ 
+(b) Compute ∬
+(
+𝑥−𝑦
+𝑥+𝑦)
+4
+𝑑𝑦 𝑑𝑥,
+𝐷
+ where 𝐷 is the region 
+bounded by the lines 𝑥+ 𝑦= 1 and the coordinate axes 
+by taking the transformation 𝑢= 𝑥−𝑦, 
+ 𝑣= 𝑥+ 𝑦.  
+ 
+(5*2=10) 
+CO3 
+Q7 
+(a) Find the volume of the tetrahedron bounded by the 
+planes 2𝑥+ 𝑦+ 3𝑧= 6,  𝑥= 0, 𝑦= 0 𝑎𝑛𝑑 𝑧= 0. 
+ 
+(b) Trace the curve 𝑥
+2
+3 + 𝑦
+2
+3 = 𝑎
+2
+3. 
+(5*2=10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+(a) Determine whether 
+ 𝐹⃗= (𝑦2 cos 𝑥+ 𝑧3)𝑖̂ + (2𝑦sin 𝑥−4)𝑗̂ + (3𝑥𝑧2 + 2)𝑘̂ 
+Is a conservative vector field. If so, find the scalar 
+potential. Also, compute the work done in moving the 
+particle from (0,1,-1) to (
+𝜋
+2 , −1,2).  
+ 
+(b) Verify Gauss’s Divergence theorem for the vector  
+𝐹⃗= 𝑦𝑖̂ + 𝑥𝑗̂ + 𝑧3𝑘̂ taken over the cylindrical region 
+ 𝑥2 + 𝑦2 = 9; 𝑧= 0, 𝑧= 6. 
+ 
+(5*2=10) 
+         CO4 
+Q9 
+(a) Verify the Green’s theorem for 
+ ∫
+𝑒−𝑥𝑠𝑖𝑛𝑦 𝑑𝑥+ 𝑒−𝑥cos 𝑦 𝑑𝑦 
+𝐶
+ 
+     where 
+𝐶 
+is 
+the 
+rectangle 
+with 
+the 
+vertices 
+        (0,0), (𝜋, 0), (𝜋,
+𝜋
+2) , (0,
+𝜋
+2)  
+  
+(b) Verify Stokes theorem for 𝐹̅ = 𝑥𝑧𝑖̂ + 𝑦𝑗̂ + 𝑥𝑦2𝑘̂  where 
+S is the surface of the region bounded by 
+ 𝑦= 0, 𝑧= 0, and 4𝑥+ 𝑦+ 2𝑧= 4 which is not 
+included in the 𝑦𝑧-plane. 
+ 
+(5*2=10) 
+         CO4

@@ -1,0 +1,79 @@
+{
+  "paper_id": "HMC101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC101",
+    "subject_name": "Professional Skills",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write notes on the following: Effective measures to develop a Professional Personality Impact of appropriate Eye Contact & Facial Expressions on Communication Importance of Telephonic Etiquette Statement of Purpose",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain the concept of Johari Window. How can it be applied in a team setting to improve communication and self-awareness? Give suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Reflect on a challenging work or academic project you were involved in. How did each of the Big 5 personality traits influence your approach and performance? Provide specific examples of how each trait either facilitated or impeded your progress and affected the overall outcome of the project.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Imagine that you have to be interviewed for the position of an AI specialist. What techniques will you use to ensure that you communicate your skills and experience effectively to meet the employer’s expectations? How will you handle any challenging situations during the interview?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Discuss the essential non-verbal cues that boost communication. How do people communicate through their use of space and time? Give examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What do you believe is the primary purpose of a group discussion, and how does it differ from a debate or a simple conversation? Provide examples of techniques or strategies that can help maintain focus and coherence in a discussion.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "“Tailoring your message according to the needs and expectations of your audience is crucial for an impactful presentation.” In the light of the above statement, discuss the importance of audience awareness. How would you handle a situation of disengagement during a presentation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Write four paragraphs of five sentences each on the topic; Women in Technology. Underline the topic sentences and concluding sentences",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Google is urgently hiring experienced web developers. Interested candidates should apply through the Email ID applyforwebgoogle@gmail.com. Draft a job application to be mailed to the company. Write the complete Resume also in the answer.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP210_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP210",
+    "subject_name": "Structure IV",
+    "program": "<B.Arch.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Explain propped cantilever and fixed beams. 1 What is moment of resistance of timber beams? 2 Explain merits & demerits of timber structures. 2 Determine fixed end moment of a beam having span 8M and loading U.D.L = 20 Kn/m. 1 List some useful IS Codes for design of timber frames. 3 Define Arch and Dome. 4 Explain analysis of a beam by Area moment theorem. 1 Explain design procedure of steel beam having UDL on a simply supported beam. 2 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Define end beam. Explain analysis methods for fixed end beam. Show B.M & S.F diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Draw B.M Diagram for a fixed beam AB of span 6m and loading U.D.L of 30Kn/m. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Calculate moment of resistance of timber beam section having width = 150mm and depth d= 250mm. Assume allowable stress in timber is 12N/mm2.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe the steps to calculate the foundation width for a two-storey residential brick structure. Include a neat plan and section of the brick wall foundation. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Name the modern methods of analysis to determine bending moment & shear force for designing the beams and columns in frame.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Write down names of different method of analysis of frames. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain different types of forces acting on shell structure.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "List and describe the types of forces acting on an arches & vaults.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

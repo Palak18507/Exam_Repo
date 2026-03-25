@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP214_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP214",
+    "subject_name": "Building Services II – Illumination & Electrical Design",
+    "program": "B. Arch.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Glare? Briefly note the possible reasons for the occurrence of Glare and solutions to address it. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the three types/layers of Lighting Design with Examples – Ambient Task and Accent Lighting 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate Series Circuits & Parallel Circuits. Also give an example of application for both circuit types 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the application of “circuit breakers” and “fuses” in Electrical Services? Note the differences between the two. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A work-plane of area 10m x 20m is required to be illuminated to 300 lux using ceiling-mount lamps having an output of 2000 lumen each. Considering a utilization factor of 0.8 and maintenance factor of 0.7, calculate the number of lamps required. Recommend the lamp layout with the number of rows and columns of lamps for the space. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Daylight factor Mention the three components of daylight factor A room with daylight factor of 1.5 needs a light level of 300 lux on work- plane. Considering an outdoor illuminance of 14000 lux, calculate the additional artificial illuminance to be met over and above the daylighting. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A room with illuminance of 500 lux is illuminated using lamps of luminous efficacy of 100 lm/Watt each. Calculate the light power density for given room . 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a two-way switch & give an example of its application? Demonstrate the wiring configuration of a two-way switch for a light fixture, with a diagram & a truth table. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a fan regulator? Explain its functioning with the help of a diagram. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A house has 4 LED bulbs of 9 Watt each ; 2 Fans of 60 Watt each ; 1 Hot-water geyser of 1000 Watt ; and 1 refrigerator of 200 Watt . Considering a unit rate of electricity consumption as Rs. 8/unit, calculate the monthly electricity bill for the house. 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

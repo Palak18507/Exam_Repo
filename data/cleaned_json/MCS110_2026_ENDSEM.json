@@ -1,0 +1,100 @@
+{
+  "paper_id": "MCS110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS110",
+    "subject_name": "Big Data Analytics",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Outline three historical milestones that led to the development of Apache Hadoop. 2.5 b Briefly explain Hadoop’s two‑layer architecture and how it supports scalable data analytics. 2.5 c Explain the role of Flume in data ingestion and contrast it with Sqoop. 2.5 d What is block size in HDFS, and why is setting an appropriate block size important for performance? 2.5 e How does job scheduling in Hadoop ensure cluster resource utilisation? Give one example of a scheduler. 2.5 f Distinguish between key‑value pair formats used in MapReduce jobs. 2.5 g Compare HiveQL tables with traditional RDBMS tables in terms of schema enforcement and query latency. 2.5 h Describe the execution modes of Pig and state one use‑case where each mode is preferable. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How does Hadoop achieve data locality, and why is it critical for performance? Contrast Hadoop Echo System components with the Hadoop core. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the role of YARN in resource management within a Hadoop cluster. Identify two limitations of early Hadoop versions and how modern releases resolve them. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how HDFS handles data integrity using checksums.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain how Avro supports schema evolution in big-data workflows. 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Illustrate the write-path in HDFS, covering block replication sequencing.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is serialization, and why is it important for Hadoop I/O performance? 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the purpose of the Combiner and its effect on network traffic. Explain speculative execution and when it may backfire. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss how partitioners influence load balancing across reducers. Give two reasons to implement a custom WritableComparable and summarize how to do it. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Compare Grunt shell and Hive shell for interactive query prototyping. Describe how user-defined functions extend Pig Latin or HiveQL capabilities. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "List key differences between HBase and HDFS regarding data access patterns. Explain HBase’s column‑oriented design and architect a write‑heavy, low‑latency time‑series app. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

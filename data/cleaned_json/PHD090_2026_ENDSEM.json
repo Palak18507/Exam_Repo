@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD090_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD090",
+    "subject_name": "Applied Natural Language Processing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Explain the process of converting words to vectors using one-hot encoding and analyze its limitations. 5 b What are the main components of a Statistical Machine Translation system? 5 c Explain how RNNs handle sequential data compared to traditional feedforward networks 5 d Given a small corpus of text, demonstrate how a basic bigram language model would assign probabilities to a sentence. Use hypothetical data and calculations. 5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the evolution of word representation in Natural Language Processing. Starting from symbolic representations and one-hot encoding, explain how the limitations of these methods led to the development of distributed word vectors like Word2Vec. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of a language model in the context of NLP. Describe the role of n-gram models in estimating the probability of word sequences and how this supports tasks like text generation and spell correction. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the Skip-gram and CBOW models used in Word2Vec for generating distributed word vectors. Compare their architectures, training objectives, and typical use cases. Use diagrams where appropriate. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the architecture of a Recurrent Neural Network and its relevance to modeling sequential data in NLP tasks such as language modeling. Discuss the problem of vanishing gradients in RNNs and how it impacts learning long-range dependencies. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the architecture of a Statistical Machine Translation system. Explain the roles of the translation model, language model, and decoder in the SMT pipeline. Using an example , illustrate how phrase-based translation works and how alignment is established. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the architecture of a basic Neural Machine Translation system using the encoder–decoder framework. Discuss how the use of Recurrent Neural Networks in both encoder and decoder helps in modeling the source and target sequences. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Critically explain the architecture and components of a task-oriented dialogue system. Compare rule-based and neural-based approaches to building chatbots, highlighting their differences in design, flexibility, and scalability. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain how neural networks are applied in information retrieval tasks such as 'Learn to Rank'. Describe how these models learn from user click data or relevance judgments. Additionally, discuss how word analogies and phrase embeddings help improve IR systems. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

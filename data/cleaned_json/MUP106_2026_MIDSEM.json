@@ -1,0 +1,91 @@
+{
+  "paper_id": "MUP106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP106",
+    "subject_name": "Sustainable Development",
+    "program": "M. Plan",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Sustainable Development",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Kyoto Protocol",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Environmental sustainability",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Social sustainability",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Briefly discuss the different parameters of Sustainable Development",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by Eco-City Approach? Briefly discuss the different principles of Eco-City design.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the Sustainable Development Goals and how they relevant for Urban Planning?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the three pillars of sustainability. Also explain the inter- relationships between the three pillars.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by Carrying capacity? Discuss how it is beneficial to urban planning process.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss briefly the application of Ecological principles in sustainability.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

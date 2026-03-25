@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MBA) (Semester: 4) 
+(March 2025) OFFLINE mode 
+Subject Code: MMS 202 
+Subject: Project Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) A project is different from routine and regular activities. Draw a list of 
+characteristics that distinguish the projects from other activities. 
+ 
+1 
+ 
+b) What does it mean when a project’s priorities are set as follows: Time - 
+constrain, Scope - accept, and Cost- enhance? How do these priorities 
+influence decision-making during project execution? 
+ 
+2 
+ 
+c) Define Project Scope and explain its key elements. How does effective scope 
+management contribute to project success? 
+ 
+2 
+ 
+d) How does the discounted cash flow (DCF) method address some of the 
+limitations of the payback period in project evaluation? 
+ 
+1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Describe the different phases of a project life cycle. How do these phases 
+contribute to the successful execution of a project? 
+ 
+1 
+ 
+b) What are the key elements of Project Communication Management? How 
+do effective communication strategies impact project outcomes? 
+ 
+1 
+ 
+c) Conduct a discounted cash flow calculation to determine the NPV of the 
+following project, assuming a required rate of return of 14%. The project 
+will cost $100,000 but will result in cash inflows of $10,000, $20,000, 
+$30,000, $60,000, and $30,000 in the next five years. 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) 
+Your Company is considering two new projects proposed for improving 
+operational efficiency. Project A will cost $240,000 to implement and is 
+expected to have annual net cash flows of $75,000. Project B will cost 
+$180,000 to implement and should generate annual net cash flows of 
+$62,000. Given that the company prioritizes cash flow, determine which 
+project is preferable using the payback period method. Justify your choice. 
+ 
+2 
+ 
+b) Briefly describe three different cost estimation approaches used in project 
+management. Under what conditions would you prefer the top-down 
+cost-estimating approach over others? 
+ 
+2 
+ 
+c) 
+Develop a WBS for organizing a health camp in your college. Try to identify 
+all of the major components and provide two levels of detail. 
+ 
+2

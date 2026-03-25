@@ -1,0 +1,90 @@
+{
+  "paper_id": "BEC412_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC412",
+    "subject_name": "Non-Conventional Energy Resources",
+    "program": "B. Tech (ECE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Name any five fundamental sources of energy? How do you classify the energy sources into conventional and non-conventional sources of energy? ,",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a brief note on renewable energy scenario in India.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Name the reactions in the biomass gasification process?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write the properties of Bio gas.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How concentrating collector is different from flat plate collector? List advantages and disadvantages of both.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are Extraterrestrial Radiation and Terrestrial Radiation?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define solar zenith angle, Azimuth angle, hour angle and declination angle.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Classify the Biomass energy conversion systems and explain them in brief.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How Solar PV system works. What type of material is used in Solar PV? List out the applications of solar PV cell.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the function of Deenbandhu biogas digester with a neat sketch and also mention its merits and demerits.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP309_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP309",
+    "subject_name": "Structure V",
+    "program": "<B.Arch>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "What are the grade of R.C.C mostly used in these days? Explain difference between overall depth & effective depth. What are the merits and demerits of providing Doubly reinforced beams in place of singly reinforced Beams? What are the basic assumptions of bending of beam? Define singly & doubly reinforcement beam. Why the effective depth is adopted in design of beam/slab? Define the term moment of resistance of a RCC beam section? Show reinforcement detail in staircase with neat sketches.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain stress strain relation for concrete & reinforcement steel.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are basic assumptions made in working stress design method of RCC.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain design of singly reinforcement R.C.C beam by SP-16.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Draw deflected shape of singly RCC beam. Explain the following terms Neutral axis Tension Zone Compression Zone",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain working stress method and limit state method of RCC beam?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Write down the steps for design of doubly reinforcement beam.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are the types of Slabs and explain the procedure of design of slab in RCC using IS codes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain design procedure of RCC staircase as per IS codes.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "PHD155_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD155",
+    "subject_name": "Financial Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Distinguish between diversifiable risk and non-diversifiable risk.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the relevance of the time value of money in financial decision-making.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How pay back period method is used to select a project?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is profitability index method of evaluating a capital project?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the roles and functions of financial markets?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain how asset securitization is considered as a source of finance?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Risk increases proportionately with financial leverage. Refute this statement with reason.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "It is Myopic to disinvest the share of the Government in PSUs. Argue.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "It is not profit maximization but maximization of corporate wealth that is the ultimate objective of financial decisions. Comment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Assume that an investor pays Rs. 400 for a 15 percent fully secured nonconvertible debenture with a face value of Rs. 500. The debenture is due to be repaid five years from now. Compute the yield-to-maturity .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Quality products is a consumer products company with well- established brand names. The cost of capital of quality products is estimated at the end of 2020 for use in evaluating investment proposals in 2021. The data for Quality Products Ltd. are as follows: Financial data for Quality Products Ltd. Source Book Value Rs. Market Value Rs. Interest Rate Debentures 170 149 13.2 Other debts 210 192 13.2 Preference shares 20 10 14 Equity shares 720 824 16 Total 1120 1175 Assume the tax rate of 46%. Calculate the WACC using both book value and market value methods.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "The cash flows of the ABC company are given below: Years Cash Flow 1 13,000 2 11,000 3 9,000 4 6,400 5 6,000 The total investment is Rs. 30,000. Assuming depreciation with straight line method and interest of Rs. 400 per year, calculate the accounting rate of return.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the determinants of capital structure?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the concept of working capital. What factors a financial manager would ordinarily take into consideration while estimating working capital needs of a firm?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "From the following details, calculate the market value of equity share of a company by using Walter’s model: Earnings per share = Rs.5 Dividend per share = Rs.3 Rate of return on Investment = 15% Cost of capital = 10% Will there be any change in the value, if 100% dividends are paid instead of present 60%?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the major biases that influence investment decisions of investors.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

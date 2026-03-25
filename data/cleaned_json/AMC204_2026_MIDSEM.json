@@ -1,0 +1,35 @@
+{
+  "paper_id": "AMC204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC204",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Compare data and information? Explain the categories of information? Explain business processes and their relationship with information systems? Explain Feasibility Study and types of feasibility study with examples? Explain the Prototyping method for building information systems?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 Explain Information System and the different types of information systems with examples for each type? Explain the various components of information system? Use diagrams to answer each of these questions. Discuss how information systems impact organizations and business firms? Elaborate on the Economic impacts, organizational and behavioral impacts, impact of Internet on information systems? Differentiate between DSS, MIS and EIS in a tabular form. Why are these important tools used by strategic users in businesses? Also give suitable examples where each of these tools is used for decision-making?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 Explain Cost-Feasibility Analysis in information systems? A company plans to invest in a new Customer Relationship Management system to improve customer engagement and sales. The financial details are as follows: Initial Investment : $600,000 Annual Operational & Maintenance Costs: $70,000 per year Expected Annual Benefits : $250,000 per year Project Lifespan: 5 years Discount Rate: 9% Calculate Net Present Value and Internal Rate of Return of the investment? Explain each stage of the System Development Life Cycle in detail and the Life cycle of System Analysis & Design with the aid of relevant diagrams and illustrations? Explain system, its characteristics and types of systems giving examples for each type. Explain role of the System Analyst and elaborate what skills he/she must possess?",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

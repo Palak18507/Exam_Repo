@@ -1,0 +1,119 @@
+{
+  "paper_id": "PHD100_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD100",
+    "subject_name": "Joy of Computing using Python",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a Python function that takes two numbers and an operation symbol as input and returns the result. Handle divide-by- zero.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a loop-based program to display the first 10 even numbers using a while loop. Add a conditional to skip number 6.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Simulate the Monty Hall game for 5 rounds and display how many times the user would win if they switched the door.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a function to encode a message using a substitution cipher with a shift of 3. Input: \"hello\", Output: \"khoor\".",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Create a menu-driven console app with three questions that help guess an object . Use if-elif structures.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Given a word, write code to generate all its permutations using itertools.permutations. Display only the first 5.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a recursive function to solve Tower of Hanoi for 3 disks. Print the moves.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Create a Python dictionary representing page links . Simulate one iteration of PageRank value update based on incoming links.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Write a program that takes a list of integers as input and returns a new list with only the prime numbers. Explain the logic for checking prime.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Create a Python program using a list of temperatures over a week. Find the average temperature and the days that were above average.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Create a Python program that uses binary search to find a target number in a sorted list. Also, mention when binary search cannot be used.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a Python function to simulate the Birthday Paradox: For a group of 30 people, simulate and check if any two have the same birthday using the random module.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write a Python program to play Rock, Paper, Scissors with the user. Use random module to pick computer’s choice and decide the winner.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write a program to create a list of five strings and find the number of strings that contain a specific substring entered by the user.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a program to simulate a single-player Snakes and Ladders game on a 1–30 board using dice rolls. Use a dictionary for snake/ladder positions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Create a Python program to play Tic Tac Toe for two players. Print the board after each move and check for a winner or a draw.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

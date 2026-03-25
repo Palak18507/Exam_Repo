@@ -1,0 +1,163 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Off Line) 
+Course Name: MBA, Semester: 2 
+(May, 2025) 
+ 
+Subject Code: MMS 110 
+Subject: Knowledge and Intellectual Capital Management 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How do the terms data and knowledge differ? Describe each term with the 
+help of a similar example, elucidating the difference between the two. 
+CO1 
+ 
+b) Discuss the forces driving knowledge management. 
+CO1 
+ 
+c) Write a short note on explicit and tacit knowledge. 
+CO2 
+ 
+d) Explain the Knowledge Management System Life Cycle (KMSLC) (5 marks) 
+CO3 
+ 
+e) Take an example of any organization and explain the step-by-step process 
+of integrating Knowledge Management in the organization. 
+CO3 
+ 
+f) Explain why knowledge management is first and foremost about managing 
+and increasing intellectual capital, and how it serves as the basis for all 
+knowledge management tools. 
+CO4 
+ 
+g) Differentiate between Relational and Structural Capital with suitable 
+examples. 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+A healthcare startup uses wearable devices to collect real-time patient 
+vitals (heart rate, temperature, sleep cycle). The company stores this 
+data in its central server and uses AI to generate personalized health 
+reports for patients. 
+Question: 
+Differentiate between data, information, and knowledge using the above 
+case. (5 marks) 
+Analyze how converting data into actionable knowledge adds value to 
+both the organization and the user. (5 mark) 
+(10) 
+CO1 
+Q3 
+Knowledge Capture at Viant  
+The Boston-based company Viant uses a variety of means to capture 
+knowledge. It employs a number of simple but unavoidable forms. 
+Before every project, consultants are required to complete a quicksheet 
+describing the knowledge they will need, what aspects of knowledge can 
+be leveraged from prior projects, and what they will need to create along 
+with the lessons they hope to learn that they can share with others later. 
+A longer report, a sunset review, is produced at a team meeting to 
+document what worked and what did not work well. Forgetting these 
+reports is hard due to several reasons (Stewart 2000, p. 278):  
+First, almost every document ends up on Viant’s internal Web site, hot-
+linked every which way. Second, sunset reviews are done with a facilitator 
+who wasn’t on the team, which helps keep them honest. Third, every six 
+weeks Newell’s knowledge management group prepares, posts, and 
+pushes a summary of what’s been learned. 
+Answer the following questions: 
+a) What is the purpose of the “quicksheet” used by Viant before 
+every period? 
+(10) 
+CO1 
+2 
+ 
+b) How do sunset reviews contribute to Viant’s knowledge 
+management process? 
+c) Identify and briefly explain two ways Viant ensures knowledge is 
+not lost or forgotten. 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Toyota encourages engineers to learn on the shop floor, document best 
+practices, share them in teams, and continuously update manuals and 
+training. 
+ 
+Question: 
+Apply Nonaka and Takeuchi’s SECI Model to this case. Identify real 
+examples 
+of 
+Socialization, 
+Externalization, 
+Combination, 
+and 
+Internalization and discuss how they enable continuous improvement. 
+(10) 
+CO2 
+Q5 
+A retail chain uses real-time analytics on customer footfall, purchase 
+patterns, and social media sentiment to adapt its marketing strategy 
+weekly. 
+ 
+Question: 
+Define actionable intelligence and explain its role in KM. (5 marks) 
+How does the organization convert raw data into actionable insights, and 
+what KM tools support this? (5 marks) 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+LEGO, the Danish toy company known for its interlocking plastic bricks, 
+has long been an innovator in engaging with its customer base. One of 
+its most impactful knowledge management strategies involves LEGO 
+Ideas—a crowdsourcing platform where fans can submit designs for new 
+LEGO sets. If a submission garners 10,000 votes from the community, 
+LEGO reviews it for potential production as an official set, with the 
+original creator earning royalties and recognition. LEGO Ideas captures 
+knowledge from users through creative submissions, community voting, 
+and comments. 
+ 
+Question: 
+Critically evaluate crowdsourcing as a knowledge management tool. 
+What are its advantages and limitations based on the LEGO case? (5 
+marks) 
+What precautions should organizations take when managing knowledge 
+from the crowd? (5 marks) 
+(10) 
+CO3 
+Q7 
+Compare and contrast codification and personalization strategies in 
+Knowledge Management. Based on your understanding, which strategy 
+would best suit an advertising agency and why? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+With reference to companies like Apple or Samsung, describe how 
+relational capital with customers, partners, and the ecosystem can be 
+cultivated and sustained. How does it reflect in brand value and market 
+position? 
+(10) 
+CO4 
+Q9 
+Examine the role of intellectual property rights (copyrights, patents, 
+trademarks) in monetizing knowledge assets. Provide examples of two 
+companies that have successfully leveraged IP for competitive 
+advantage. 
+(10) 
+CO4

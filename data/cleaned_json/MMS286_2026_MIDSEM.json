@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS286_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS286",
+    "subject_name": "Digital Marketing Analytics",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain microanimations and microinteractions in DCX management with the help of an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the three stages of search engine search process.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a dynamically rendered webpage? Give an example",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is keyword density and keyword stuffing? Discuss an alternative to avoid keyword stuffing.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between paid, owned, and earned media. How can each be leveraged for maximum brand visibility? Give examples",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Digital Customer Experience Management? Discuss some principles associated with it.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Analyse how e-CRM data can lead to more personalised marketing strategies. Suggest atleast five use cases.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the three stages in a search analytics process? Discuss some of the measured to be taken for “on page optimization”",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Google Search Console and how is it different from Google Analytics? List 5 benefits of using Google Search Console",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss sentiment analysis, topics and trend mining, intention mining, & concept mining with examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

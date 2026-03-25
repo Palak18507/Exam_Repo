@@ -1,0 +1,80 @@
+{
+  "paper_id": "BAS105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS105",
+    "subject_name": "Applied Chemistry",
+    "program": "B.Tech CSE/ECE/IT/MAE/DMAM",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping 10,000 L of hard water was softened by zeolite process. The zeolite required a total amount of 6 L of NaCl solution containing 150g/mL for regeneration. Calculate the hardness of water. What type of alkalinity is present in water if P>1/2M? Explain. Calculate the degree of freedom, number of phases, components for an aqueous solution of NaCl and Na2SO4 In the manufacture of H2SO4 by Contact process, explain the role of Vanadium pentoxide and arsenic oxide. What are the properties and applications of nanometals? What are the advantages of composite materials over conventional materials? A solution shows a transmittance of 20%, when taken in a cell of 2.5 cm thickness. Calculate its concentration, if the molar absorption co-efficient is 12000 dm 3 /mol/cm. Explain the role of reference material in DTA and write down the major applications of DTA Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "A water sample contains Ca 2 = 164 mg/L, Mg 2 = 73 mg/L, CaCl2 =222 mg/L, MgSO4=120 mg/L. Calculate the amount of Lime and Soda required for softening a 5000 liters of hard water Define sequestration? Write a note on Calgon Conditioning.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "A water sample, using FeSO4 7H2O as a coagulant at the rate of 139 ppm, gave the following results on analysis: Ca2+=160 ppm, Mg2+=72 ppm, H-=488 ppm, CO₂=88 ppm Calculate the lime and soda required to soften 1,00,000 litres of water. Describe the method for determination of alkalinity of water for OH-, - and H – ions, discuss all possibilities. Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the mechanism of enzyme catalysis and turnover number. Discuss the number of components, phase and degree of freedom for curves, areas for water system using phase diagram. Also explain how water system is similar to the metastable state of sulphur system",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe the Pattinson’s process for desilverisation of argentiferrous lead. Define eutectic mixture and comment, why it has a definite composition and a sharp melting point, yet it is not a compound? Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Discuss the Top down and bottom up approaches of nanomaterials synthesis. Which one is better according to you and why? Write a note on Carbon Nanotubes and discuss their applications.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Classify the composite materials on the basis of dispersed phase with suitable examples. Describe the constituents of composites and their functions . What are the main advantages of composites over metals? Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain the working principle and instrumentation of UV- visible spectroscopy Also illustrate three important applications of UV-visible spectroscopy in quantitative analysis. Explain the basic principle and instrumentation involved in Thermo Gravimetric Analysis . Why TGA is often employed in conjugation with DTA",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Using DTA for the decomposition of copper sulphate pentahydrate, explain in which region anhydrous copper sulphate is thermally stable A conductor cell has two parallel plates of 1.25 cm2 area placed at 10.50 cm apart. When filled with a solution of an electrolyte, the resistance was found to be 2.0 ×10 -3 ohms. Calculate the cell constant and the specific conductance of the solution.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

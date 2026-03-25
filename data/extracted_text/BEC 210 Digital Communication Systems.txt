@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ECE AI) (Semester: 4) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code:  BEC 210 
+Subject: Digital Communication Systems  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is the importance of Companding in signal processing? 
+ 
+C01 
+ 
+b) What do you understand by 2 bit PCM coder.        
+ 
+C02 
+ 
+c) What is an Eye Diagram? How study of inter symbol interference 
+can be useful with an Eye Diagram ? 
+ 
+C01 
+ 
+d) State and explain QPSK transmitter with neat and clean 
+connection diagram.  
+ 
+C02 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Use the Gram-Schmidt process to construct an 
+orthonormal basis from the following basis vectors: 
+ 
+ 
+C01 
+ 
+b) State and explain the generation of pulse position 
+modulation using neat and clean block diagram. 
+ 
+C02 
+ 
+c) 2-bit PCM modulator is used with a 0-1 V signal. What is 
+the binary digital value that will occur for the following 
+inputs: 0.4 V, 0.78 V. What is the quantization error for 
+these two samples? 
+ 
+C03 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Define the role of constellation diagrams in digital receiver 
+design. How do they help in analyzing modulation schemes like 
+BPSK and QPSK? 
+ 
+C01 
+ 
+b) Compare coherent and non-coherent detection techniques 
+with an example. How do they impact the performance of BFSK 
+receivers? 
+ 
+C02 
+ 
+c) Describe Adaptive Delta Modulation (ADM). How does it 
+overcome the limitations of standard Delta Modulation? 
+ 
+C03

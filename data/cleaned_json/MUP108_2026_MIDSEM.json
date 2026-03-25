@@ -1,0 +1,90 @@
+{
+  "paper_id": "MUP108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP108",
+    "subject_name": "GIS and Remote Sensing",
+    "program": "M. Plan",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the main components of the Global Positioning System and its benefits.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is geo-referencing in GIS, and why is it important?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between raster data capture and spatial data generalization in GIS.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Briefly describe how GIS supports decision-making through buffer and overlay analysis.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the process of spatial data entry into GIS and explain how attribute data is linked to spatial data.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concepts of coordinate systems and geo-coding in GIS. How do they contribute to accurate mapping and spatial analysis?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the various GIS data processing techniques, including digitization, topology building, and metadata creation, highlighting their significance in GIS applications.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the different scales and levels of information needs in planning information systems?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the process of terrain modelling and its applications in information systems.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the role of summary statistics and inference in data analysis within information systems.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

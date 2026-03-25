@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS289_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS289",
+    "subject_name": "FINANCIAL ANALYTICS",
+    "program": "MBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the internal rate of return in financial analysis with an example CO -1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the weighted Average Cost of Capital . Name two components used to calculate WACC? CO – 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the purpose of the consolidated statement of cash flows in business valuation? CO – 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why is Sensitivity analysis important in financial modelling? CO – 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the Capital Asset Pricing Model briefly. CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is a variance – Co- Variance matrix and how is it useful in portfolio management? CO – 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the purpose of an Immunization strategy in bond investing? CO – 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does duration affect a bond’s price when interest rates changes? CO - 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Net Present Value and its importance in financial decision making? CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is the Internal Rate of Return ? Discuss its significance and how it is used to evaluate investment projects. Calculate the IRR for the following cash flow series Initial Investment = Rs. 6,00,000 Cash flow: Year 1 = Rs. 1,50,000 Year 2 = Rs. 2,00,000 Year 3 = Rs. 2,50,000 Year 4 = Rs. 3,00,000 CO - 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is Sensitivity analysis in financial modeling? How does it help business understand the impact of changes in key assumptions on their financial results? CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A Company has the following projections for its next 3 years: Year 1 Revenue = Rs. 20,00,000 Operating Expenses = Rs. 10,00,000 Depreciation = Rs. 1,00,000 Year 2 Revenue = Rs. 2,50,000 Operating Expenses = Rs. 12,00,000 CO - 1 2 Depreciation = Rs. 1,20,000 Year 3 Revenue = Rs. 30,00,000 Operating Expenses = Rs. 15,00,000 Depreciation = Rs. 1,50,000 Calculate the free cash flow for each year.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A portfolio consists of two assets, A & B with the following information: Expected Return of Asset A = 9% Expected Return of Asset = 8% Standard Deviation of Asset A = 5% Standard Deviation of Asset B = 10% Correlation Coefficient between Asset A & Asset B = 0.4 Calculate the expected return and standard deviation of a portfolio with 40% weight in Asset A and 60% weight in Asset B. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Why is diversification important in a portfolio? What are the benefits of adding more assets with low correlation to a portfolio? CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are Treasury Notes? How are they used to reflect the term structure of interest rates? CO – 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A Bond pays a fixed coupon of Rs.3500 every year and has a face value of Rs.70,000. The bond matures in 5 years, the current market interest rate is 6%. What is the price of the bond? What would happen to the bond price if the interest rate increased to 8%? CO - 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

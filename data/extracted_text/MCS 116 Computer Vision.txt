@@ -1,0 +1,102 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech AI &DS) (Semester:  II) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MCS 116 
+Subject: Computer Vision 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Discuss the properties of Bidirectional Reflection Distribution 
+Function (BRDF). 
+ 
+Unit-1 
+ 
+b) Explain how Bayesian formulation reflects the inverse 
+relationship between computer vision and computer graphics. 
+ 
+Unit-1 
+ 
+c) Why is image preprocessing an essential step in computer 
+vision applications? 
+ 
+UNIT-2 
+ 
+d) A calibrated stereo camera system is being used to estimate 
+the position of a point in a 3D scene. The camera has a focal 
+length of 800 pixels along the x-axis. When observing a 
+particular point, the disparity is measured to be 40 pixels, and 
+the depth (Z) of this point from the camera system along the 
+Z-axis is 4 meters. Calculate the baseline distance between the 
+two cameras. Additionally, if the depth increases to 6 meters, 
+what will happen to the disparity? Explain. 
+ 
+ 
+Unit -2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Consider a computer vision system in an autonomous vehicle. 
+Describe how the system processes the visual information step 
+by step, from analyzing the image to making a driving decision. 
+ 
+ 
+ 
+b) Derive an expression for the relationship between the radiance 
+emitted or reflected from the scene and the irradiance 
+measured at the camera sensor. 
+ 
+ 
+ 
+c) Write short notes on any two application of computer vision. 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the difference between continuous images and 
+discrete images. Discuss the roles of sampling and quantization 
+in this process. 
+ 
+ 
+ 
+b) (i) Discuss the significance of gradient computation and non-
+maximum suppression in detecting edges. 
+(ii) Suppose you apply the Sobel operator to a point in an 
+image, and the gradient values in the x and y directions are 
+Gx=3 and Gy=4. Calculate the magnitude and direction of the 
+gradient at this point. 
+ 
+ 
+ 
+c) (i) Explain the concept of optical flow in computer vision. How 
+does it represent motion in a video sequence? 
+(ii) In a video sequence, a small object moves across the image 
+plane. At a particular pixel location (x, y) the image intensity 
+gradients are given by 
+𝜕𝐼
+𝜕𝑦= 7,
+𝜕𝐼
+𝜕𝑥= 3 𝑎𝑛𝑑 
+𝜕𝐼
+𝜕𝑡= −1.Determine 
+the relationship between velocity components of the pixel in 
+the x and y directions at this point.

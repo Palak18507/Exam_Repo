@@ -1,0 +1,79 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name:  B. Tech.) (Semester:  EIGHTH) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 406 
+Subject:  Information Retrieval  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all parts of Q1 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain the concept of indexing and Matching with the help  
+     of example. 
+2.5 
+I 
+ 
+b) Explain the role of IR in natural language processing. 
+2.5 
+I 
+ 
+c) How does LSI improve upon the traditional Vector Space  
+    Model? 
+2.5 
+II 
+ 
+d) What are the key challenges in updating an IR index? 
+2.5 
+II 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a)  What is the Vector Space Model in Information Retrieval and  
+     How does the Vector Space Model represent documents and    
+     queries? 
+5 
+I 
+ 
+b) What is query expansion in information retrieval and How  
+     does query expansion improve retrieval performance? 
+5 
+I 
+ 
+c) What do you mean by document normalization and also  
+    describe its impacts 
+5 
+I 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the concept of rank reduction in LSI. Why is it  
+     necessary? 
+5 
+II 
+ 
+b) What is the role of SVD in Latent Semantic Analysis (LSA) in  
+      Information Retrieval? 
+5 
+II 
+ 
+c) How does LSI improve chatbot and conversational AI  
+   responses by capturing semantic meaning?(any five) 
+5 
+II

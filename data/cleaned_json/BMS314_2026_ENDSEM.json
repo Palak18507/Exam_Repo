@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS314_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS314",
+    "subject_name": "Strategic Corporate Finance",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Briefly explain any two types of financial strategies. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the significance of strategic cost management in a competitive environment? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What does \"BIMBO\" stand for in strategic finance? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does capital budgeting assist in strategic decision-making? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is reorganization in case of a distressed firm? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define financial due diligence in case of takeover decisions. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain briefly any two financial factors affecting a company's value. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does operational hedging differ from financial hedging? 4 CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Differentiate between Overall Corporate Value Addition and Shareholders’ Wealth Maximization. 10 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "How would you advise a new startup to plan its financial strategy to maximize corporate value? 10 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What are real assets? Explain different approaches to real asset valuation. 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Assume you are advising a vendor considering a buy-out of a division. What factors would you emphasize in your feasibility report? 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain in detail the key steps involved in the reorganization of a distressed firm? 10 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What are the various types of company disposals? Explain with examples. 10 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are the major value enhancement tools available to management? 10 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "A company has a low credit rating. As a financial consultant, suggest steps to enhance its rating and overall value. 10 4",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

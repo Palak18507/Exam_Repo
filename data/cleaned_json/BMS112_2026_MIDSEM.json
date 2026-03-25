@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMS112_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS112",
+    "subject_name": "Management Accounting",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a short notes on - 1) Cost Unit 2)- Cost centers",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distinguish between 1)- Direct cost and indirect cost 2)- Expired cost and unexpired cost",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Periodic inventory system and Perpetual inventory System with relevant example",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain characterstics of process Costing and suggest example where it can be apply.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the elements of cost justify with relevant examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distinguish between financial, cost and management accounting.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Classify the following items into factory overhead, Administrative overheads, and selling and distribution overheads and items excluded from cost. Unproductive wages 4,850 Advertisement cost 3,000 Cost of gas and water 2,200 Grease and oil for machines 800 Dividend paid 7,800 Bad debts 700 Provision for bad debts 1,600 Factory repairs and renewals 2,400 Wages of foreman 1,350 Carriage inwards 670 Upkeep of delivery vans 2,700 Sales branches office expenses 3,800 Transfer to general reserve 2,600 Collection charges 1,300 Mobile phone charges of salesman 2,100 Travelling charges of salesmen 1,900 Stationery — Office 450 — Showroom 340 Income tax paid 1,250 Legal charges 400 Preliminary expenses written off 850 Labour welfare expenses 2,600 Warehouse rent 750 Electricity — Office Factory Showroom 700 1600 800",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The Following transactions occurs in the purchase and issue of a material : Date Particulars Jan 2 Purchased 4000 Units @4 per Unit Jan 20 Purchased 500 Units @5 per Unit Feb 5 Issued 2000 Units Feb 10 Purchased 6000 Units @6 per Unit Feb 12 Issued 4000 Units March 2 Issued 1000 Units March 5 Issued 2000 Units March 15 Purchased 4500 Units @ 5.50 per Unit March 20 Issued 3000 Units From the above, prepare the stores ledger Account using the weighted Average Price.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "The Product passes through three distinct processes to completion. These Processes are numbered respectively 1,2 and 3 . During the week ended 31st January, 1000 units are produced . The following information is obtained. Particulars Process 1 Process 2 Process 3 Materials 6000 3000 2000 Labour 5000 4000 5000 Direct Labour 1000 200 1000 The Indirect Expenses for the period were Rs. 4200, Apportioned to the processes on the basis of labour cost. Prepare process accounts showing total cost and cost per unit.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "From the Following transactions, Prepare a Store ledger Account using LIFO method. Date Particulars 1 July Opening stock 500 Units @ 20 each 4 July Purchased GRN 574 400 Units @ 21 each 6 July Issued SR 251 600 Units 8 July Purchased GRN 578 800 Units @ 24 each 9 July Issued SR 258 500 Units 13 July Issued SR 262 300 Units 24 July Purchased GRN 584 500 Units @ 25 each 28 July Issued S R 269 400 Units",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

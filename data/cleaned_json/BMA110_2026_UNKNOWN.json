@@ -1,0 +1,76 @@
+{
+  "paper_id": "BMA110_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BMA110",
+    "subject_name": "Engineering Mechanics",
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Explain the Cone of Friction with a neat sketch. 2.5 b State Parallel Axis Theorem 2.5 c How method of joint differs from the method of the section in the analysis of trusses? 2.5 d Explain the types of friction with examples. 2.5 e What are the normal and tangential components of acceleration? 2.5 Co3 f Define the coefficient of restitution 2.5 Co3 g What is the Instantaneous center of rotation? 2.5 Co4 h What is the moment of momentum? 2.5 Co4",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Find the resultant of the system of forces shown below. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A roller of weight 800N rests on a smooth inclined plane and is kept free from rolling down by a string as shown in the Figure 4. Work out tension in the string and reaction at the point of contact. 10 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Determine the centroid of the area shown in Fig. below with respect to the axis shown 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Find the forces in the members of a truss as shown in fig below 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A car starts from rest on a curved road of radius 250 m and attains a speed of 18kmph at the end of 60 sec while traveling with uniform acceleration. Find the tangential and normal accelerations of the car 30 sec and 45 sec after it started. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A wheel, rotating about a fixed axis at 20 r.p.m., is uniformly accelerated for 70 seconds, during which time it makes 50 revolutions. Find : Angular velocity at the end of this interval, and Time required for the speed to reach 100 revolutions per minute. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define the work-energy principle. Also, derive the equation for work energy. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A link AB is moving in a vertical plane. At a certain instant, when the link is inclined at 45° to the horizontal, point A is moving horizontally at 4 m/s, while B is moving vertically upwards. Find the velocity of B. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

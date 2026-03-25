@@ -1,0 +1,142 @@
+{
+  "paper_id": "BEC311_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC311",
+    "subject_name": "Digital Signal Processing (DSP",
+    "program": "B.Tech. ECE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the twiddle factors for an eight-point DFT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write the relationship between circular correlation in time domain and frequency domain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How are analog poles mapped to digital poles in Impulse Invariant Transformation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the important features of IIR Filters?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Point out the warping effect? Explain its effect on frequency response?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the possible types of impulse response for Linear phase FIR filters?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the effect of quantization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What do you mean by truncation and rounding errors?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Compute the DFT using DIT for the first 4 even numbers.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State and analyse convolution property of DFT?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Perform the Circular Convolution of the following sequence x = {1,-1,2 ,-3,-4} and h= {-1,1,2}",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Design a digital Chebyshev filter using bilinear transformation. The filter has the following specifications. Pass band Frequency 0.3π, Stop band Frequency 0.5π, Pass band Ripples 1 √2 and Stop band Ripple 0.1. Compare the order of filter with IIM method.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Convert the analog filter with system function H into digital IIR Filter by means of impulse invariant method H=1/.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Realize the following using cascade and parallel form: H = /",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Design an FIR filter with frequency response using windowing technique where the ideal frequency response is = 1 for the pass band 2 frequency from -π/2 to < π/2 and zero otherwise, for N=5 and N=7 using Hanning window. Compare the results.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Derive the Cascade and direct form II realization for:- Y = 0.5y -0.25y +x-2x +x An all pole system is defined by H. Realize using parallel form.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is Multirate Signal Processing? Explain how decimation and interpolation processes are used in Multirate systems for increased computational efficiency and performance.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Give mathematical analysis of quantization noise power. How Does Quantization degrade SNR?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

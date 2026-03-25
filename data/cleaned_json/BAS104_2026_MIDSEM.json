@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS104",
+    "subject_name": "Environmental Sciences",
+    "program": "B. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the principle for determination of dissolved oxygen with suitable reactions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How are nutrients removed during treatment of waste water?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the % atom economy for the formation of aniline in the reaction?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How can carbon dioxide be sequestered artificially?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the treatment process for disinfection of water for domestic purpose. Also define the term “break point chlorination”",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "100 mL of water sample required 20 mL of N/50 H2SO4 for neutralization to phenolphthalein end-point. After methyl orange addition to this, further acid required was 5 mL. Calculate the alkalinity of water in terms of Ca equivalent. Also mention the type of alkalinity.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "0.50 gm of Ca was dissolved in HCl and the solution was made to one litre with distilled water. 100 ml of the above solution required 28 ml of EDTA solution on titration. 100 ml of the hard water sample required 33 ml of the same EDTA solution on titration. After boiling, 100 ml of this water, cooling, filtering and then titrating required 10 ml of EDTA solution. Calculate the temporary and permanent hardness of water",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is photochemical smog? Describe the chemistry involved in its formation.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of green starting materials in a process with suitable example. Discuss the use of renewable feedstock as a starting material in a process with suitable example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss various chemical methods for treatment of hazardous waste",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

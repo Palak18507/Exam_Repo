@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech (MAE), Semester: 3rd  
+(December, 2024) 
+ 
+Subject Code: BMA 201 
+Subject: Production Technology 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What is foundry mechanization? 
+ 
+ 
+b) Explain the purpose of cores and chaplets?  
+ 
+ 
+c) What is the difference between conventional and non-conventional welding? 
+ 
+ 
+d) Define cold working and hot working? Give two examples which are carried 
+by cold working? 
+ 
+ 
+e) In what cases Investment casting is being used? Also explain in short. 
+ 
+ 
+f) Explain sintering process? 
+ 
+ 
+g) How is additive manufacturing different from subtractive manufacturing? 
+ 
+ 
+h) What are advantages of manufacturing using Powder metallurgy  
+ 
+UNIT I 
+ 
+Q2(a) Explain Casting Process? Also explain Centrifugal Casting along with diagrams? 
+(7) 
+     (b) Discuss any three casting defects? 
+(3) 
+Q3 
+Explain the Gating system in any Casting process? Discuss all components and 
+their functions along with the diagram 
+(10) 
+UNIT II 
+ 
+Q4(a) What is submerged welding process? Explain the principle and its working in 
+detail? 
+(7) 
+ (b) 
+Explain different types of joints along with their shapes? 
+(3) 
+Q5 
+Discuss Solid state welding. Explain in detail EBW and LBW along with their 
+advantages? 
+(10) 
+UNIT III 
+ 
+Q6 
+What is forging? Explain the principle of forging as a manufacturing method. 
+Also discuss about Drop forging and press forging? 
+(10) 
+Q7(a) Discuss Two high rolling. Three high rolling and four high rolling along with the 
+diagram? 
+(7) 
+    (b) 
+What is extrusion process?  
+       (3) 
+UNIT IV 
+ 
+Q8(a) What is powder metallurgy? Explain the detail processing of powder metallurgy 
+alongwith diagrams if any? 
+(7) 
+     (b) Explain Atomization process used to produce powder in powder metallurgy? 
+       (3) 
+Q9 
+Differentiate among various additive manufacturing techniques on the basis of 
+the printing materials like powder, liquid resin and polymers 
+(10)

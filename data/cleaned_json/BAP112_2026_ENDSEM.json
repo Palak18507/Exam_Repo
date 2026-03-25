@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP112_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP112",
+    "subject_name": "Structure II",
+    "program": "<B.Arch>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Explain Following CO Mapping What are steel tables? What information is available in steel tables ? Define hollow tubes? What are the types of hollow tubes ? Different type of wood in hilly areas of india. Classification of brick in masonary construction. What are timber structures. Explain their applications ? What are the 3 types of column timber? Explain with neat sketches. Define Lateral loadings on building. Explain Ecentric loading of foundation. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain advantage and disadvantage of timber construction over steel structures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Write short note on brick masonary walls and piers. Also draw sketches. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Sketch 230 mm brick wall foundation plan and section having loading 90 KN/m and SBC = 100 Kn/m sq. Assume suitable data.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain design procedure of timber columns. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Draw neat sketch of brick foundation for three storey building ?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Write down steps of design of steel column as per IS codes. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Write short note on Grillage foundation. Explain different types of grillage foundation with neat sketches.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Write short note on Grillage foundation.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

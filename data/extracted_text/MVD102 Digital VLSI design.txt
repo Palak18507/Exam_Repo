@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech) (Semester:   2    ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MVD 102 
+Subject: Digital VLSI design 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How do you define Threshold voltage? Explain all the 
+components of Threshold voltage of MOS transistor 
+ 
+Unit1 
+ 
+b) How NMOS transistor is fabricated? Explain all the steps 
+ 
+Unit1 
+ 
+c) What are parasitice resistance and capacitances in CMOS 
+inverter? Are they useful or harmful for the transistor? justify 
+ 
+Unit2 
+ 
+d) Why you need CMOS inverter when NMOS inverter has less no 
+of transistors? 
+ 
+Unit2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How do you invert the surface of MOS transistor? What is 
+surface inversion? Why surface inversion is essential in NMOS 
+transistor functioning? Explain with detail diagrams 
+ 
+Unit1 
+ 
+b) How the channel of NMOS transistor looks in Linear and 
+Pinchoff mode? What are the name of current in these two 
+condition? 
+ 
+Unit1 
+ 
+c)Derive linear and saturation current of MOS transistor 
+ 
+Unit2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How Static CMOS inverter is called static? What is static in it? 
+Explain its VI characteristic 
+ 
+Unit2 
+ 
+b)  Can we have depletion mode transistor, enhancement mode 
+transistor, only resistor as LOAD in inverter? How these are 
+different from CMOS inverter? 
+ 
+Unit2 
+ 
+c)  Explain propogation delay and power dissipation of  CMOS 
+with suitable waveforms  
+ 
+Unit2

@@ -1,0 +1,130 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code: MCA  207 
+Subject: Cyber Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO 
+Mapping 
+ 
+a) How do anonymity networks like Tor facilitate both cybersecurity 
+and illegal activities? Provide examples for each. 
+ 
+CO1 
+ 
+b) Distinguish between the surface web, deep web, and dark web, 
+highlighting their legitimate and illegitimate uses. 
+ 
+CO1 
+ 
+c) Analyze the methodology of a cyber-attack by outlining the steps 
+typically involved. 
+ 
+CO2 
+ 
+d) Explain the concept of cyberstalking and provide one real-world 
+example of its occurrence. 
+ 
+CO2 
+ 
+e) Briefly describe two key practices to ensure Wi-Fi security at home 
+or in small offices. 
+ 
+CO3 
+ 
+f) Explain the significance of digital signatures in ensuring the 
+authenticity of online transactions. 
+ 
+CO3 
+ 
+g) Discuss the significance of security awareness and training programs 
+in mitigating human-factor risks in cybersecurity. 
+ 
+CO4 
+ 
+h) Explain the importance of log files in identifying and mitigating 
+security incidents. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+What are anonymity networks and proxy servers? Discuss how these 
+tools contribute to privacy and security while also being used for illicit 
+purposes. 
+(10) 
+CO1 
+Q3 
+Discuss why social engineering is considered one of the most effective 
+methods for breaching security. Discuss how organizations can develop 
+strategies to prevent, detect, and mitigate cyber-attacks. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Explain the various types of cybercrimes, providing examples for each 
+category. Discuss the impact of these crimes on individuals and 
+organizations. 
+(10) 
+CO2 
+Q5 
+(a) What is software piracy? Discuss its economic and legal 
+implications globally and suggest strategies to reduce its 
+prevalence.  
+(b) Discuss the techniques used in credit card fraud, such as 
+phishing, skimming, and online hacking. Suggest measures that 
+individuals and financial institutions can adopt to mitigate 
+these risks. 
+(5+5=10) 
+CO2 
+2 
+ 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Compare symmetric and asymmetric cryptography in terms of their 
+efficiency, use cases, and key management requirements. Provide 
+examples of real-world applications for each type.  
+(10) 
+CO3 
+Q7 
+Explain the importance of hash functions in cryptography. Discuss the 
+properties that make a hash function secure and provide examples of 
+their application in data integrity verification. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Write short notes on: 
+(a) Lollipop and Onion Model 
+(b) Access Control 
+(5+5=10) 
+CO4 
+Q9 
+Write short notes on: 
+(a) Intellectual Property Rights (IPR) 
+(b) Firewalls and Intrusion Detection Systems (IDS) 
+(5+5=10) 
+CO4

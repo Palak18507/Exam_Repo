@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMA204_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA204",
+    "subject_name": "Theory of Machines",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by degree of freedom of a pair? Find degree of freedom for Case: A prism on a plane.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "With a neat figure, show following on a radial cam with a reciprocating roller mechanism: Base circle, pitch point, pressure angle, prime circle, lift or stroke?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find degree of freedom for mechanism shown in figure 1. Is it successfully constrained to form a Kinematic Chain? Discuss.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write in brief about Dynamic magnifier and its relation at resonance.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "With a neat sketch explain working of a Crank and slotted lever quick return motion mechanism?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Locate all the instantaneous centres for the four bar mechanism as shown in Fig. 2. Mentions steps to locate the instantaneous centres. The lengths of various links are: AD = 125 mm; AB = 62.5 mm; BC = CD = 75 mm.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is understood by 3R-P and 2R-2P in mechanisms? With a neat figure explain how to use an elliptical trammel to engrave an ellipse and a circle?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A shaft 50 mm diameter and 3 meters long is simply supported at the ends and carries three loads of 1000 N, 1500 N and 750 N at 1 m, 2 m and 2.5 m from the left support. The Young's modulus for shaft material is 200 Figure 2 Figure 1. GN/m2. Find the frequency of transverse vibration. Refer figure 3.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a cycloid? Write in points with a neat sketch, how displacement diagram is drawn when the follower of CAM moves with Cycloidal motion.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Derive relation to find natural frequency for a spring mass system, having K as spring constant and mass m suspended as shown in figure 4 using Energy Method. Assume any data if required. Figure 4",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

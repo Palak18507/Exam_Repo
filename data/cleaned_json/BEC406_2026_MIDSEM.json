@@ -1,0 +1,91 @@
+{
+  "paper_id": "BEC406_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC406",
+    "subject_name": "Information Retrieval",
+    "program": "B. Tech.",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of indexing and Matching with the help of example. 2.5 I",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the role of IR in natural language processing. 2.5 I",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does LSI improve upon the traditional Vector Space Model? 2.5 II",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the key challenges in updating an IR index? 2.5 II",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the Vector Space Model in Information Retrieval and How does the Vector Space Model represent documents and queries? 5 I",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is query expansion in information retrieval and How does query expansion improve retrieval performance? 5 I",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What do you mean by document normalization and also describe its impacts 5 I",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of rank reduction in LSI. Why is it necessary? 5 II",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of SVD in Latent Semantic Analysis in Information Retrieval? 5 II",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does LSI improve chatbot and conversational AI responses by capturing semantic meaning? 5 II",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

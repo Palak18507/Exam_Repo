@@ -1,0 +1,101 @@
+{
+  "paper_id": "MMS221_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS221",
+    "subject_name": "Compensation Management",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Enterprise incentive plans 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Elements of Compensation 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Base Pay vs. Incentive Pay 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Managing Employee Benefits 5",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define compensation management and its objectives. Discuss the significance of wages, including minimum wage, fair wage, and real wage in the context of compensation management in India. 10 C1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the different compensation philosophies and approaches. How do these influence compensation decisions in an organization. 10 C1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the process of strategic compensation planning. What are the key factors involved in developing a base pay system? 10 C2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the various components of a job evaluation system and how it helps in determining appropriate compensation. 10 C2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the strategic reasons for implementing incentive plans and how different types of incentive plans impact employee motivation and organizational success. 10 C3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the role of Executive Compensation. How do executive compensation strategies differ from regular employee compensation? 10 C3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of employee benefits in enhancing job satisfaction and retention 10 C04",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the importance of creating a work-life balance program as part of managing employee benefits. How does it affect employee performance and satisfaction? 10 C04",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

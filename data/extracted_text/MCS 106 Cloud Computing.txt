@@ -1,0 +1,57 @@
+(Please write your Enrollment Number) 
+Enrollment No._________________ 
+ 
+Mid- Term EXAMINATION 
+Course: M.Tech, Semester: 2 
+March 2025, OFF LINE MODE 
+ 
+ 
+Subject Code: MCS 106  
+Subject: Cloud Computing  
+Time : 1 Hours 
+Maximum Marks : 30 
+ 
+Note: Q. 1 is compulsory. Attempt any two questions from the rest.  
+ 
+Q1 
+Consider the Use Case: An Institution is willing to deploy an  ERP to monitor all the 
+academic activities of the students and faculty  and wish to provide the alerts and 
+updates to the end users about the attendance, marks, fee etc., dynamically. Make 
+your own assumptions and answer the following questions 
+ 
+(5*2=10) 
+ 
+(a) 
+To implement the above use case, which computing methodology will you suggest, draw 
+its architecture and explain its salient features over any other?  
+ 
+(b) 
+What is the criteria to select the Cloud Computing Deployment model and explain the 
+significance of each parameters? 
+ 
+UNIT - 1 
+Q2 
+ 
+(5, 5) 
+ 
+(a) Explain in detail the suitability of PaaS service model for the Q1 application with neat 
+diagram and justify your answer. 
+ 
+(b) Recommend the suitable cloud deployment model for Q1 use case and justify your answer?   
+Q3 
+a. You been asked to use the Cloud Computing for Q1 use case and explain the layered 
+architecture of it  with neat diagram and what are the different challenges needs to be taken 
+into account while deployment of the cloud. 
+ 
+b. Compare any three cloud computing service providers w.e.t service model, security, 
+management, services etc  and which one you suggest for above use case  
+UNIT - 2 
+Q4 
+ 
+(5, 5) 
+ 
+(a) Which cloud service provides you recommend for deployment of the Q1   in IGDTUW, explain 
+its architecture and what are merits and demerits of the same? 
+ 
+(b) What are merits and demerits of the Amazon cloud services over Azure cloud services and 
+explain w.r.t  security, management, services etc.

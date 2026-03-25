@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+B. Tech. Semester: 6th (ECE/ECE-AI-1/ECE-AI-2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 308 
+                                                   Subject: Microprocessor & Microcontroller 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all parts: 
+(2.5*4=10) 
+CO 
+Mapping 
+ 
+a) Differentiate between 8086 and 8085. 
+ 
+   CO-1 
+ 
+b) Explain the Flag in 8086, along with its priority. 
+ 
+   CO-1 
+ 
+c)  Write an 8086 Assembly Language Program to add two 16  
+     bit numbers.      
+ 
+   CO-2 
+ 
+d) In 8086 Microprocessor, If DS=1000H, BX= 2000H and SI=3000H,  
+     What is the physical address accessed by MOV AX,5000H[BX][SI]? 
+ 
+    CO-2 
+            UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Attempt any two parts: 
+(5*2=10) 
+ 
+ 
+a) Draw the timing diagram of LDA 8000H. 
+ 
+CO-1 
+ 
+b) Draw the architecture of 8085 and explain in brief. 
+ 
+CO-1 
+ 
+c) Draw the Pin diagram of 8086 and explain the significance of  
+    each pin. 
+ 
+CO-1 
+               UNIT II 
+ 
+CO 
+Mapping 
+Q3 
+Attempt any two parts: 
+(5*2=10) 
+ 
+ 
+a) Explain the 8086 Microprocessor with the help of architecture     
+    diagram. 
+ 
+      CO-2 
+ 
+b) What are addressing modes? Which addressing mode 8086  
+     below instructions belong and why? Explain the operation     
+     performed by the instructions also. 
+a) MOV AX, 50H [BX] 
+b) MOV BX, 0005H 
+c) ADC AL, BL 
+d) MOV AX, [BX] 
+e) ADD 50H [BX][SI], BP 
+OR 
+ b) Determine Multiprocessor? Differentiate between closely coupled  
+      and loosely coupled configurations. 
+ 
+      CO-2 
+ 
+c) Explain the Minimum mode operation of 8086 Microprocessor with  
+    relevant diagram. 
+ 
+      CO-2

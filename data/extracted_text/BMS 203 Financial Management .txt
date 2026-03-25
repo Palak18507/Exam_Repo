@@ -1,0 +1,149 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: Financial Management, Semester: 3 
+(December, 2024) 
+ 
+Subject Code: BMS 203 
+                                                              Subject: Financial Management  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) What is wealth maximization? How is it superior to profit 
+maximization? 
+ 
+1 
+ 
+b) Is there a similarity between the MM hypothesis and the net 
+operating income approach? 
+ 
+2 
+ 
+c) An investment would cost `100,000 and provide annual cash inflow 
+of 21,150 for 6 years. If the opportunity cost of capital is 10 per cent, 
+what is the investment’s NPV? 
+ 
+3 
+ 
+d) ‘Debt is the cheapest source of funds.’ Explain 
+ 
+2 
+ 
+e) What are the reasons for holding inventory? 
+ 
+4 
+ 
+f) What is meant by time value of money? What are the reasons for 
+TVM? 
+ 
+1 
+ 
+g) Define payout ratio, retention ratio and dividend yield 
+ 
+3 
+ 
+h) Explain the concept of working capital. Are gross and net concepts 
+of working capital exclusive? Discuss 
+ 
+4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Investment, Financing and Dividend decision are all interrelated. 
+Comment 
+(10) 
+1 
+Q3 
+i) Calculate the present value of ₹ 600 (a) received one year from now; 
+(b) received at the end of five years; (c) received at the end of fifteen 
+years. Assume a 5 per cent time preference rate. 
+(ii) Determine the present value of ₹700 each paid at the end of each 
+of the next six years. Assume an 8 per cent of interest. 
+(iii) Assuming a 10 per cent discount rate, compute the present value 
+of ₹1,100; ₹900; ₹1,500 and ₹700 received at the end of one through 
+four years. For calculations, use the tables given at the end of the 
+book 
+(10) 
+1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Assuming that a firm pays tax at a 50 per cent rate, compute the after-
+tax cost of capital in the following cases: 
+(10) 
+2 
+2 
+ 
+(i) A 8.5 per cent preference share sold at par. 
+(ii) A perpetual bond sold at par, coupon rate of interest being 7 per 
+cent 
+iii) A ten-year, 8 per cent, ₹1000 par bond sold at ₹950 less 4 per cent 
+underwriting commission. 
+(iv) An ordinary share selling at a current market price of ₹120, and 
+paying a current dividend of`₹9 per share, which is expected to grow 
+at a rate 
+of 8 per cent. 
+(v) An ordinary share of a company, which engages no external 
+financing, is selling for ₹50. The earnings per share are ₹7.50 of which 
+sixty percent is paid in dividends. The company reinvests retained 
+earnings at a rate of 10 per cent 
+Q5 
+Describe the traditional view on the optimum capital structure. 
+Compare and contrast this view with the NOI approach and the NI 
+approach. 
+(10) 
+2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+What are the assumptions which underlie Gordon’s model of dividend 
+effect? Does dividend policy affect the value of the firm under 
+Gordon’s model? Explain with example 
+(10) 
+3 
+Q7 
+Equipment A has a cost of ₹75,000 and net cash flow of ₹20,000 per 
+year, for six years. A substitute equipment B would cost ₹50,000 and 
+generate net cash flow of ₹14,000 per year for six years. The required 
+rate of return of both equipments is 11 per cent. Calculate the IRR and 
+NPV for the equipments. Which equipment should be accepted and 
+why? 
+(10) 
+3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Briefly explain factors that determine the working capital needs of a 
+firm 
+(10) 
+4 
+Q9 
+(a) Explain the three principal motives for holding cash 
+(b) A manufacturing company has an expected usage of 50,000 units 
+of certain product during the next year. The cost of processing an 
+order is ₹20 and the carrying cost per unit is ₹0.50 for one year. Lead 
+time on an order is five days and the company will keep a reserve 
+supply of two days’ usage. You are required to 
+calculate (a) the economic order quantity and (b) the reorder point. 
+(Assume 250-day year). 
+(10) 
+4

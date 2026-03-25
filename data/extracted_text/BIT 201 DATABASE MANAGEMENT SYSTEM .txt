@@ -1,0 +1,132 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) 
+Course Name : B. Tech, Semester : 3 
+(December, 2024) 
+ 
+Subject Code: BIT 201 
+Subject: DATABASE MANAGEMENT SYSTEM 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(4*5=20) 
+ 
+a) What is the purpose of the GROUP BY clause in a SQL query? Explain with an 
+example. 
+ 
+ 
+b) Discuss the significance of integrity constraints in DBMS with practical examples. 
+ 
+ 
+(c ) Consider the table Emp. Write the SQL Commands to: 
+ Double the salary of all the employees. 
+ Add the Primary Key constraint to the Id Column of the Table 
+       Emp 
+Id           Name            Salary 
+1              Ravi             20000 
+2            Abdul            10000 
+3            Sonal             25000 
+ 
+ 
+d) If there exists a transitive functional dependency in a Relation, which normal form 
+is violated? How, you can make this relation normal? Explain with the help of an 
+example. 
+ 
+ 
+e) Distinguish the Relational and Object Oriented Data Models. 
+ 
+UNIT I 
+ 
+Q2 
+(a) Discuss the candidate key, primary key, super key, composite key, and alternate 
+key with the help of suitable examples. 
+(b) Distinguish between a file processing system and a database management 
+system in brief. 
+(5,5) 
+Q3 
+You have to develop a system to automate academic system of our University. The 
+following information is provided to you: 
+IGDTUW is running various UG/PG and PhD programs under different departments. 
+Like, Department of IT is running BTech – IT (duration 4 years), AIML (4 years), 
+MTech – IT (2 years), MCA (2 years) and PhD (3 years) programs with an approved 
+intake for each of the Program. Every department is having full time and visiting 
+faculty members for teaching different subjects in these programs. All the programs 
+are having a fixed teaching scheme which has subject code, subject name and 
+Lectures per Week for every subject. Every year, students are enrolled in these 
+programs and are identified by their Enrolment Number. 
+Design an ER Diagram for the above situation by clearly depicting Cardinality, 
+Optionality, appropriate attribute categories, and extended ER features 
+(specialization/generalization). 
+Document all these points separately also for getting clear picture. 
+(10) 
+ 
+ 
+ 
+2 
+ 
+ 
+UNIT II 
+ 
+Q4 
+(a) Consider the following relations: 
+CUSTOMER (cid, cname, caddress) 
+VEHICLE (v_no, vname, make, manuf_year, type) 
+RENTAL(cid, v_no, from_address, to_address, tot_km, charges, date_journey) 
+Write SQL Commands to: 
+(i) Create the above mentioned three tables by applying appropriate constraints 
+(Primary/Foreign Key). 
+(ii) Delete Address column from CUSTOMER table. 
+(iii) Display all customer names, who have not rented any vehicle so far. 
+(iv) Display all those customer names who travelled from IGDTUW on 18th June, 
+2024. 
+(v) Display customer names, the vehicle names which they hired along with date of 
+journey for all the customers in the year 2024. 
+(10) 
+Q5 
+Consider the Tables given in the Question 4 and write the Relational Algebraic 
+Expression for the following queries: 
+(i) Display all vehicle numbers, which have not been rented so far. 
+(ii) Display all those customer names who travelled in MARUTI SWIFT on 18th June, 
+2024. 
+(iii) Display all vehicle names and year of manufacturing which have travelled more 
+than 1000 km. 
+(iv) Display the customer names who are staying in Noida. 
+(v) Display all the vehicle names which have been hired by Mr Ramesh. 
+(10) 
+UNIT III 
+ 
+Q6 
+(a) Why normalization is required in database design? Discuss the 3rd Normal 
+Form with the help of a suitable example.  
+(b) Consider a relation scheme R = (A, B, C, D, E, H) on which the following functional 
+dependencies hold: {A–>B, BC–>D, E–>C,  
+D–>A}. 
+Write the candidate keys and possible primary Key of R? 
+(5,5) 
+Q7 
+Draw the State Diagram of the Transaction Management and explain it. Discuss the 
+Serializability concept with the help of example. Comment on Isolation property of 
+Transaction with reference to serialibility. 
+(10) 
+UNIT IV 
+ 
+Q8 
+(a) Discuss Two Phase Locking protocol. What benefits does strict two-phase locking 
+protocol provides? Discuss its disadvantages. 
+(b) Depict one hypothetical situation which causes Deadlock in database by 
+considering three transactions. Draw an appropriate diagram showing deadlock. 
+Discuss one algorithm for prevention from deadlock. 
+(4,6) 
+Q9 
+(a) Suppose you have to store the personal details of the customers along with their 
+audio clip. Which database system you will prefer and why? 
+(b) Discuss the salient features of Distributed Database Management System.  
+Discuss the concept of fragmentation. 
+(5,5)

@@ -1,0 +1,142 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech (IT) , Semester : 2 
+(May, 2025) 
+ 
+Subject Code: MIS 104 
+Subject: Applied Cryptography 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define perfect secrecy with suitable equations. 
+ 
+1 
+ 
+b) Define one time pad with suitable equations. 
+ 
+1 
+ 
+c) Do you feel RSA cryptosystem is secure? Justify your answer. 
+ 
+2 
+ 
+d) Do you feel El Gamal cryptosystem is secure? Justify your 
+answer. 
+ 
+2 
+ 
+e) What is the difference between Authentication and Non- 
+Repudiation, please justify your answer by giving example? 
+ 
+3 
+ 
+f) Why MAC (Message Authentication Code) does not provide 
+non-repudiation? 
+ 
+3 
+ 
+g) Discuss the importance of password hashing. 
+ 
+4 
+ 
+h) Differentiate between Transport Model and Tunnel Model in IP 
+Security Modes? 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) 
+In the given network, how many keys do we have to generate 
+such that nodes can communicate over the given links in a bi-
+directional secure way with node A included and without node 
+A included using i) DES cryptosystem; ii) ElGamal cryptosystem. 
+Justify your answer. 
+ 
+(b) Explain CBC (cipher block chaining) mode of encryption and 
+decryption with suitable examples. 
+(6,4) 
+1 
+Q3 
+(a) Explain the 4 steps of AES-128 encryption with suitable 
+diagrams. 
+(b) For (OFB, CFB) block cipher modes of operation, what is the 
+effect of decryption on remaining blocks if for the sequence of 
+ciphertext blocks c1, c2, c3, c4 - ciphertext block c2 is 
+erroneous. Specify which plaintext blocks are decrypted 
+correctly and which are not with suitable justification. 
+(5,5) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Consider an Elgamal scheme with a common prime q = 71 and 
+a primitive root g = 7. 
+1)   If B has public key YB =3 and A choose the random integer 
+k=2, what is the ciphertext of M = 30? 
+2)  If A now chooses a different value of k so that the encoding 
+of M = 30 is C = (59, C2), what is the integer C2?  
+b) Whis is discrete log problem? What is the advantage of using 
+primitive root in Diffie Hellman Key exchange?       
+(6,4) 
+2 
+Q5 
+a) Explain the working of ElGamal Cryptosystem (both 
+encryption and decryption) through equations. Justify the 
+security of this cryptosystem.  
+(a) Consider RSA cryptosystem with public parameter n = 55. 
+Users A and B have public keys 3 and 7, respectively. 
+i) 
+Calculate private keys of A and B using Extended 
+Euclidean algorithm. Show the calculations. 
+ii) 
+User C encrypts a message M = 13 for A and B. 
+Calculate the corresponding ciphertexts.                           
+(5,5) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(b)  Consider a LFSR with coefficient vector (P0, P1, P2, P3) = 
+(1001). Draw the corresponding LFSR.  When the seed is 0101 
+(Leftmost register first), what is the output sequence of the 
+shift register? What is the period of this shift register and 
+why? 
+(c) What is a pseudorandom number generator (PRNG) and what 
+are its properties? 
+(7,3) 
+3 
+Q7 
+a) Let A(x) be a cryptographic hash function. Let B(x) be another 
+hash function which randomly outputs: 000|| A(x) or 111|| x. 
+Is B(x) a cryptographic hash function? Why or why not? 
+b) What is MAC? What are its properties? Explain any one MAC 
+algorithm with suitable diagram. 
+(5,5) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain: PGP private key ring, pubic key ring and PGP certificate with 
+suitable diagrams. 
+(10) 
+4 
+Q9 
+a) Explain SSL with SSL Protocol Stack diagram? 
+b) What is the difference between an SSL connection and an SSL 
+session?  
+c) What services are provided by the SSL Record Protocol?  
+(4,3,3) 
+4

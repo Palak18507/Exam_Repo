@@ -1,0 +1,225 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.TECH>, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code: BIT 102 
+Subject: Object Oriented Programming 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+What are the four pillars of Object-Oriented Programming? Explain 
+any one of them with example. 
+CO1 
+ 
+(b) 
+Consider the following program: 
+#include <iostream> 
+using namespace std; 
+int main() { 
+    int i, j; 
+    for(i = 1, j = 0; i <= 5, j < 3; i++, j++) 
+    { 
+        cout<<i<<j<<endl; 
+    } 
+    return 0; 
+} 
+What is the output of the above program? 
+CO1 
+ 
+(c) 
+Explain how friend functions can access private members of a class 
+with suitable example. 
+CO2 
+ 
+(d) 
+Which constructor is invoked when the object obj2 is created in the 
+following C++ program? 
+class A{ 
+             int i; 
+             A(){ 
+                           i=0; 
+             } 
+             A(int x){ 
+                           i=x+1; 
+             } 
+             A(int y, int x){ 
+                           i=x+y;  
+             } 
+}; 
+main(){ 
+             A obj1(10); 
+             A obj2(10,20); 
+             A obj3; 
+}   
+CO2 
+ 
+(e) 
+Can we create objects of an abstract class? Justify your answer 
+with example. 
+CO3 
+ 
+(f) 
+What is the purpose of seekg() and tellg() functions in file handling? 
+CO3 
+ 
+(g) 
+What happens if an exception is not caught in C++? Write a simple 
+C++ code snippet that uses try-catch blocks. 
+CO4 
+ 
+(h) 
+Write a code snippet demonstrating a template with multiple 
+parameters. 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+a) Explain the need for Object-Oriented Programming in 
+modern software development. How does it improve upon 
+procedural programming?  
+(5) 
+ 
+ 
+ 
+CO1 
+ 
+ 
+ 
+b) Write a C++ program to print Right-Angled Triangle of Stars. 
+Assume number of rows as 5. 
+(5) 
+CO1 
+Q3 
+a) Write a program to create a function to increment a number 
+by 5: 
+1) Using call by reference 
+2) Using call by pointers 
+b) Write a C++ program to print Number Pyramid Pattern. 
+Assume number of rows as 5. 
+(6) 
+ 
+ 
+ 
+(4) 
+CO1 
+ 
+ 
+ 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+What is operator overloading? Create a class ComplexNumber with 
+real and imaginary parts. 
+Overload the following operator using member function/friend 
+function: == to compare equality of two complex numbers 
+(10) 
+CO2 
+Q5 
+Define a class Employee in C++ with the following specifications: 
+ 
+Data Members: 
+o int empID 
+o string name 
+o double basicSalary 
+o double grossSalary 
+ 
+Member Functions: 
+o void inputDetails() – To accept employee 
+ID, name, and basic salary. 
+o void calculateGrossSalary() – To calculate 
+gross salary as: 
+grossSalary = basicSalary + (0.20 * 
+basicSalary) + (0.10 * basicSalary) 
+o void displayDetails() – To display all details 
+of the employee. 
+              In the main() function: 
+ 
+Create an array of n employees (use dynamic 
+memory allocation). 
+ 
+Accept and display details for all employees. 
+(10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+a) 
+Create two base classes: 
+Employee with member function getDetails() 
+Person with member function getDetails() 
+Now create a derived class Manager that inherits from both 
+and resolves ambiguity using scope resolution. Also, 
+demonstrate constructor inheritance and show how 
+constructors are invoked in this program. 
+(10) 
+CO3 
+Q7 
+a) 
+Create a base class Shape with a virtual function draw(). 
+Create derived classes Circle, Rectangle, and Triangle, each 
+overriding draw() method. Demonstrate polymorphism 
+using base class pointers calling draw(). 
+b) Describe the process of opening, writing, and closing a file in 
+C++ with programming code. Which are the different file 
+opening modes? 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+CO3 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Develop a class Array that stores n integers. Write a function to 
+access 
+elements 
+by 
+index. 
+Throw 
+and 
+handle 
+an out_of_range exception if the index is invalid. Demonstrate the 
+program with proper input and output. 
+(10) 
+ 
+CO4 
+Q9 
+a) 
+Discuss the possible ambiguities that can arise when using 
+multiple namespaces and how they can be resolved. 
+b) 
+Write a class template for a simple calculator that can work 
+with int, float, and double. 
+(5) 
+ 
+ 
+ 
+(5) 
+CO4 
+ 
+ 
+ 
+CO4

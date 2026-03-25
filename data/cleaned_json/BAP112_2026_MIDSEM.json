@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAP112_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP112",
+    "subject_name": "Structure II",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is steel table? What information is available in steel tables as per SP 6.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are hollow tubes? What are different shapes of hollow tubes? Explain with neat sketches.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is slenderness ratio? How does stress vary as per slenderness ratio of steel column?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the safe compression load of a steel structure. Describe with neat sketches.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are merits & demerits of a steel structure compared to timber structure?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain three types of rolled steel sections and their used in steel structure.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define masonry building. What is the maximum height used for a masonry building.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain brick masonry foundation for residential building.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain walls and piers of masonry building.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the safe column load of a steel column. ISMB = 300 Effective length = 3.45m, Area= 56.26 cm², RXX =12.37cm, RYY = 2.65cm. SR Permissible compressive stress 130 57 140 51",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

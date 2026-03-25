@@ -1,22 +1,56 @@
+"""
+AI enrichment for exam questions using local Ollama LLM.
+
+Requires:
+    ollama pull mistral
+    ollama serve
+
+Adds to each question/subpart:
+    - ai_tags: ["Deadlock", "Concurrency", ...]
+    - ai_confidence: {"Deadlock": 1.0, "Concurrency": 0.95}
+    - syllabus_topics: ["Operating Systems", "Concurrency Control"]
+"""
+
 import requests
 import hashlib
 import json
 import re
-
-# CONFIG
+import os
+import time
+import copy
+import logging
+from typing import List, Dict, Tuple
+from pathlib import Path
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "mistral"
 
-# HELPING FUNCTIONS
+CACHE_DIR = Path(__file__).resolve().parent.parent.parent / "cache"
+CACHE_DIR.mkdir(exist_ok=True)
+CACHE_FILE = str(CACHE_DIR / "ai_cache.json")
+
+MAX_SUBPARTS_PER_BATCH = 4
+
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+
+
+# ── Cache ──
+
+def load_cache():
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, "r") as f:
+            return json.load(f)
+    return {}
+
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+# ── Helpers ──
 
 def normalize_text(text: str) -> str:
-    """
-    Normalize text for hashing:
-    - lowercase
-    - remove punctuation
-    - collapse whitespace
-    """
     text = text.lower()
     text = re.sub(r"[^\w\s]", "", text)
     text = re.sub(r"\s+", " ", text)
@@ -24,154 +58,205 @@ def normalize_text(text: str) -> str:
 
 
 def sha256_hash(text: str) -> str:
-    """
-    Generate SHA-256 hash of normalized text
-    """
-    normalized = normalize_text(text)
-    return hashlib.sha256(normalized.encode("utf-8")).hexdigest()
+    return hashlib.sha256(normalize_text(text).encode()).hexdigest()
 
 
-# Calling OLLAMA
-
-def ollama_generate(prompt: str) -> str:
-    response = requests.post(
-        OLLAMA_URL,
-        timeout=None,
-        json={
-            "model": MODEL,
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-    response.raise_for_status()
-    return response.json()["response"].strip()
+def clean_json_output(raw_text: str) -> str:
+    text = raw_text.strip()
+    if text.startswith("```json"):
+        text = text[7:]
+    elif text.startswith("```"):
+        text = text[3:]
+    if text.endswith("```"):
+        text = text[:-3]
+    return text.strip()
 
 
-# Adding AI tags with confidence scores
+def is_valid_llm_output(data: dict) -> bool:
+    return bool(data.get("tags") or data.get("syllabus_topics"))
 
-def generate_tags_with_confidence(text: str):
-    """
-    Returns:
-    - ai_tags: list[str]
-    - ai_confidence: dict[tag -> confidence]
-    """
 
-    prompt = f"""
-Extract 3–5 concise technical keywords from the following exam question.
-Assign a confidence score between 0 and 1 for each keyword.
+# ── LLM Call ──
 
-Return ONLY valid JSON in the following format:
+def ollama_generate_with_retry(prompt: str, max_retries: int = 3) -> Tuple[dict, float]:
+    total_latency = 0.0
+
+    for attempt in range(1, max_retries + 1):
+        start = time.time()
+        try:
+            response = requests.post(
+                OLLAMA_URL,
+                json={
+                    "model": MODEL,
+                    "prompt": prompt,
+                    "stream": False,
+                    "options": {"temperature": 0.1},
+                },
+                timeout=30,
+            )
+            response.raise_for_status()
+
+            latency = time.time() - start
+            total_latency += latency
+
+            raw_output = response.json().get("response", "")
+            cleaned = clean_json_output(raw_output)
+            parsed = json.loads(cleaned)
+            return parsed, total_latency
+
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Attempt {attempt}: Network error: {e}")
+        except json.JSONDecodeError:
+            logging.warning(f"Attempt {attempt}: Invalid JSON. Retrying...")
+
+        time.sleep(attempt)
+
+    logging.error("LLM failed after retries")
+    return {}, total_latency
+
+
+def is_ollama_available() -> bool:
+    """Check if Ollama server is running."""
+    try:
+        r = requests.get("http://localhost:11434/api/tags", timeout=3)
+        return r.status_code == 200
+    except Exception:
+        return False
+
+
+# ── Prompts ──
+
+def build_question_prompt(question_text: str) -> str:
+    return f"""Extract:
+- 3-5 technical keywords
+- confidence per keyword
+- 1-3 syllabus topics
+
+Return JSON only:
+
 {{
-  "tags": ["tag1", "tag2"],
-  "confidence": {{
-    "tag1": 0.95,
-    "tag2": 0.87
+  "question": {{
+    "tags": [],
+    "confidence": {{}},
+    "syllabus_topics": []
   }}
 }}
 
 Question:
-{text}
+{question_text}"""
+
+
+def build_subpart_prompt(question_text: str, subparts: List[Dict]) -> str:
+    prompt = f"""Analyze subparts.
+
+Return JSON:
+
+{{
+  "subparts": {{
+    "a": {{
+      "tags": [],
+      "confidence": {{}},
+      "syllabus_topics": []
+    }}
+  }}
+}}
+
+Context:
+{question_text}
+
 """
+    for sp in subparts:
+        prompt += f"{sp['subpart_id']}) {sp['text']}\n"
 
-    raw_output = ollama_generate(prompt)
+    return prompt
 
-    try:
-        parsed = json.loads(raw_output)
-        ai_tags = parsed.get("tags", [])
-        ai_confidence = parsed.get("confidence", {})
-    except json.JSONDecodeError:
-        # Fallback safety
-        ai_tags = []
-        ai_confidence = {}
 
-    return ai_tags, ai_confidence
+# ── Main ──
 
-# Adding AI-assisted mapping with syllabus topic
-def generate_syllabus_topics(text: str):
+def enrich_exam_json(exam_json: dict) -> Tuple[dict, dict]:
+    """Enrich all questions and subparts in an exam JSON with AI tags.
+
+    Returns: (enriched_json, metrics_dict)
     """
-    AI-assisted semantic topic mapping (NOT matched with actual syllabus handed out by the University)
-    """
+    cache = load_cache()
+    enriched = copy.deepcopy(exam_json)
 
-    prompt = f"""
-Identify 1–3 high-level academic subject areas this exam question belongs to.
-These should be broad concepts (e.g., Operating Systems, Data Structures).
-
-Return ONLY a comma-separated list.
-
-Question:
-{text}
-"""
-
-    output = ollama_generate(prompt)
-    topics = [t.strip() for t in output.split(",") if t.strip()]
-    return topics
-
-
-# Adding the fields of ai_tags, hash, ai_confidence and syllabus_topics to question and subpart
-
-def enrich_text(text: str, level: str = "question"):
-    """
-    Enrich question or subpart text with:
-    - hash
-    - ai_tags
-    - ai_confidence
-    - syllabus_topics
-
-    level: "question" | "subpart"
-    """
-
-    metadata = {}
-
-    # Hashing
-    hash_value = sha256_hash(text)
-    if level == "question":
-        metadata["question_hash"] = hash_value
-    else:
-        metadata["subquestion_hash"] = hash_value
-
-    # AI tags + confidence
-    ai_tags, ai_confidence = generate_tags_with_confidence(text)
-    metadata["ai_tags"] = ai_tags
-    metadata["ai_confidence"] = ai_confidence
-
-    # Syllabus / concept topics
-    metadata["syllabus_topics"] = generate_syllabus_topics(text)
-
-    return metadata
-
-def enrich_exam_json(exam_json: dict) -> dict:
-    """
-    End-to-end enrichment pipeline.
-    Takes a raw exam JSON and returns an enriched exam JSON.
-    """
-
-    enriched = exam_json.copy()
+    total_llm_calls = 0
+    total_llm_time = 0.0
 
     for question in enriched.get("questions", []):
-
-        # Question-level enrichment
         q_text = question.get("question_text", "")
-        q_meta = enrich_text(q_text, level="question")
+        q_hash = sha256_hash(q_text)
+        question["question_hash"] = q_hash
+        subparts = question.get("subparts", [])
 
-        question.update(q_meta)
+        # ── Question ──
+        if q_hash in cache:
+            question.update(cache[q_hash])
+        else:
+            prompt = build_question_prompt(q_text)
+            result_dict, latency = ollama_generate_with_retry(prompt)
+            total_llm_calls += 1
+            total_llm_time += latency
 
-        # Subpart-level enrichment
-        for subpart in question.get("subparts", []):
-            sp_text = subpart.get("text", "")
-            sp_meta = enrich_text(sp_text, level="subpart")
+            q_data = result_dict.get("question", {})
+            if not is_valid_llm_output(q_data):
+                q_data = {}
 
-            subpart.update(sp_meta)
+            meta = {
+                "ai_tags": q_data.get("tags", []),
+                "ai_confidence": q_data.get("confidence", {}),
+                "syllabus_topics": q_data.get("syllabus_topics", []),
+            }
+            question.update(meta)
 
-    return enriched
+            if meta["ai_tags"] or meta["syllabus_topics"]:
+                cache[q_hash] = meta
 
-# DEMO
+        # ── Subparts ──
+        uncached = []
+        for sp in subparts:
+            sp_text = sp.get("text", "")
+            sp_hash = sha256_hash(sp_text)
+            sp["subquestion_hash"] = sp_hash
 
-if __name__ == "__main__":
-    question_text = "What is a deadlock? Explain its necessary conditions."
+            if sp_hash in cache:
+                sp.update(cache[sp_hash])
+            else:
+                uncached.append(sp)
 
-    enriched_question = enrich_text(question_text, level="question")
+        for i in range(0, len(uncached), MAX_SUBPARTS_PER_BATCH):
+            batch = uncached[i : i + MAX_SUBPARTS_PER_BATCH]
+            prompt = build_subpart_prompt(q_text, batch)
+            result_dict, latency = ollama_generate_with_retry(prompt)
+            total_llm_calls += 1
+            total_llm_time += latency
 
-    print("Input text:")
-    print(question_text)
-    print("\nAI metadata:")
-    print(json.dumps(enriched_question, indent=2))
+            sub_res = result_dict.get("subparts", {})
+            for sp in batch:
+                sp_id = sp.get("subpart_id")
+                sp_hash = sp.get("subquestion_hash")
+                data = sub_res.get(sp_id, {})
+
+                if not is_valid_llm_output(data):
+                    data = {}
+
+                meta = {
+                    "ai_tags": data.get("tags", []),
+                    "ai_confidence": data.get("confidence", {}),
+                    "syllabus_topics": data.get("syllabus_topics", []),
+                }
+                sp.update(meta)
+
+                if meta["ai_tags"] or meta["syllabus_topics"]:
+                    cache[sp_hash] = meta
+
+    save_cache(cache)
+
+    metrics = {
+        "llm_calls": total_llm_calls,
+        "total_time": round(total_llm_time, 3),
+        "avg_latency": round(total_llm_time / total_llm_calls, 3) if total_llm_calls else 0,
+    }
+
+    return enriched, metrics

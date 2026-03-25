@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech ECE , Semester:6th 
+(May, 2025) 
+ 
+Subject Code: BEC 306 
+Subject: VLSI Design 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why drain current is zero in absence of gate voltage even if drain 
+voltage is applied in NMOS enhancement transistor. 
+ 
+CO1 
+ 
+b) Differentiate between constant field scaling and constant voltage 
+scaling. 
+ 
+CO1 
+ 
+c) What is the “active area” in fabrication process. 
+ 
+CO2 
+ 
+d) Why CMOS logic is ratioless logic. 
+ 
+CO2 
+ 
+e) What are advantages and drawbacks of BiCMOS circuits. 
+ 
+CO3 
+ 
+f) What is LOCOS in CMOS fabrication. 
+ 
+CO3 
+ 
+g) What is difference between transmission gate and pass transistor. 
+ 
+CO4 
+ 
+h) Explain channel length modulation. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain operation regions of MOS transistor using Energy band 
+diagram. 
+(10) 
+CO1 
+Q3 
+Draw and explain various capacitance in MOS model. 
+(10) 
+CO1 
+ 
+ 
+CO Mapping 
+Q4 
+Implement the function 𝑍= (𝐷+ 𝐸+ 𝐴)(𝐵+ 𝐶)
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ using CMOS logic 
+and NMOS logic. How many transistors are required for each type of 
+implementation. 
+(10) 
+CO2 
+Q5 
+Give implementation of edge triggered D flip flop and explain its 
+working. 
+(10) 
+CO2 
+ 
+ 
+CO Mapping 
+Q6 
+Explain the working principle of dynamic CMOS logic. 
+(10) 
+CO3 
+Q7 
+Draw and explain NORA CMOS logic. 
+(10) 
+CO3 
+ 
+ 
+CO Mapping 
+Q8 
+How programmable logic devices are useful in chip design. Explain 
+with examples. 
+(10) 
+CO4 
+Q9 
+Draw and compare the basic BiCMOS inverter and the conventional 
+CMOS inverter. Specifically, address voltage swing and propagation 
+delay. 
+(10) 
+CO4

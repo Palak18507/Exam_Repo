@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+                                (Course Name: B. Tech.) (Semester: 8) 
+                    (March 2025) OFF LINE mode 
+ 
+Subject Code: BEC-402 
+Subject: Embedded Systems 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Give examples of embedded system processor chip or 
+core? What are the important considerations for selecting 
+a processor? 
+ 
+Unit I 
+ 
+b) Explain the difference between Embedded Systems and 
+General Purpose Computing Systems. 
+ 
+Unit I 
+ 
+c) What are the various forms of system memory? Explain 
+their functioning. 
+ 
+Unit II 
+ 
+d) What are PLDs? Explain the different types of PLDs. 
+ 
+Unit II 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is an embedded system? What are the components 
+of embedded system hardware? Give some examples of 
+embedded systems. 
+ 
+Unit I 
+ 
+b) Explain the steps involved in the design process of an 
+embedded system. 
+ 
+Unit I 
+ 
+c) How are embedded systems classified? Explain in detail. 
+ 
+Unit I 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is Memory Shadowing? What are the basic 
+principles behind the shadowing mechanism? 
+ 
+Unit II 
+ 
+b) Draw and explain the architectural difference between 
+general-purpose and domain-specific processors. 
+ 
+Unit II 
+ 
+c) Explain the difference between: 
+(i) 
+Microprocessor and Microcontroller 
+(ii) 
+RISC and CISC processors 
+ 
+Unit II

@@ -1,0 +1,74 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-TermExamination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: PHD Course Work 
+(May, 2025) 
+ 
+Subject Code: PhD 134 
+Subject: Introduction to Robotics 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+What are the main applications of Robotics? Explain. 
+ 
+(b) 
+Explain the laws of Robotics. 
+ 
+(c) 
+What is role of sensors in Robotics? Explain. 
+ 
+(d) 
+Differentiate between forward and inverse kinematics. 
+ 
+(e) 
+Differentiate between DC and AC motors. 
+ 
+(f) 
+Explain the Jacobian matrix of 2-DOF robotic arm. 
+ 
+(g) 
+What is mapping in robotics? Explain. 
+(h) 
+Explain A-star and Voronoi diagram. 
+UNIT-I 
+Q2 
+Explain the various components of robotics system 
+(10) 
+Q3 
+Explain the DH parameter of 2-DOF robotic arm. 
+OR 
+What is kinematic tranformation? Explain the representations of various 
+transformations. 
+(10) 
+UNIT-II 
+Q4 
+Explain the working of DC motor and its classification. 
+(10) 
+Q5 
+What do you understand by actuation? Explain the BLDC servomotor and AC 
+induction motor. 
+(10) 
+UNIT-III 
+Q6 
+Describe the role of control system in robotics with detailed explanation of 
+joint motion control, feedback control and computed torque control. 
+(10) 
+Q7 
+Discuss the significance of perception, localization and mapping in 
+autonomous robotic system. 
+(10) 
+UNIT-IV 
+Q8 
+Explain simultaneous localization and mapping with its advantages and 
+applications. 
+(10) 
+Q9 
+Explain path planning. Also define DFS and D- star. 
+(10)

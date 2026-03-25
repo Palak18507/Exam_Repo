@@ -1,0 +1,119 @@
+{
+  "paper_id": "AMC208_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "AMC208",
+    "subject_name": "Disaster Management",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define risk in the context of disaster. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the phases of rehabilitation and reconstruction? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main causes of forest fires? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the impact of high-rise constructions on vulnerability? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the role of GPS in disaster response? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is an early warning system? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define the Disaster Management Cycle. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the purpose of a CPR drill? 4 CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Reflect on how pre-disaster planning can reduce the impact of natural and man-made disasters. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Propose a strategy to enhance public awareness and education on basic disaster concepts. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Examine the effects of climate change on the pattern and severity of natural disasters. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "How can disaster risk be minimized in infrastructure development and urban planning? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Propose an integrated disaster communication system for a coastal city vulnerable to cyclones. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain how Remote Sensing, GIS, and GPS can be integrated for effective disaster management. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Reflect on the challenges faced in implementing national disaster management policies at the grassroots level. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain how the Disaster Management Act of 2005 has transformed disaster governance in India. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

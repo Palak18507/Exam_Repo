@@ -1,0 +1,157 @@
+1 
+ 
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (OffLine) 
+Course Name: BBA, Semester: 6th 
+(May, 2025) 
+ 
+Subject Code: BMS 312 
+Subject:  Financial Modelling and Derivatives 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What do you understand goal seek. Explain it with examples 
+ 
+ 
+b) Explain Pivot Table and Charts. 
+ 
+ 
+c) What is free cash flow? Explain it suitable examples 
+ 
+ 
+d) Explain the concept of Terminal value, how it is calculated.  
+ 
+ 
+e) What do you understand by moneyness of the option, explain this with relevant 
+examples 
+ 
+ 
+f) Calculate future price using cost of carry model for three month contract with the 
+following details 
+Titan company share price is currently trading in the market on 15th April 2025, 
+1450. The Risk free rate is 6% as per current repo rate. 
+ 
+ 
+g) Explain Swaps with suitable examples 
+ 
+ 
+h) What are different types of options based on styles, explain it suitable examples 
+ 
+UNIT I 
+ 
+Q2 
+What do you understand by financial modeling? Discuss the different methods 
+available to perform financial modeling, and explain how investors and companies 
+can leverage the benefits of financial modeling. 
+ 
+(10) 
+Q3 
+Define sensitivity analysis. Explain how different techniques of sensitivity analysis 
+can be used to analyze financial statements through financial modeling. 
+ 
+(10) 
+UNIT II 
+ 
+Q4 
+What do you understand by common size and comparative statements for both the 
+profit and loss account and balance sheet? Explain each with the format and 
+relevant examples. 
+ 
+Calculate Enterprise Value from the following information given below 
+Cash 
+1,12,000 
+Marketable Securities 
+76,000 
+Bank 
+66,000 
+Short Term Debt 
+1,58,000 
+Long Term Debt 
+2,38,000 
+Preference Share 
+2,17,000 
+Equity 
+5,48,000 
+(7) 
+ 
+ 
+ 
+ 
+(3) 
+ 
+2 
+ 
+Q5 
+Calculate the Terminal value, Enterprise Value, and intrinsic price of the share using 
+DCF model based on the information given below: 
+WACC: 12% 
+Growth: 4% 
+(In Thousands) 
+Year 
+0 
+1 
+2 
+3 
+4 
+5 
+FCF 
+  
+100 
+110 
+140 
+120 
+150 
+ 
+Cash: 10,00,000 
+Bank: 5,00,000 
+Short Term Debt: 7,00,000 
+Long Term Debt: 8,00,000 
+Share outstanding: 15,000 shares 
+Compare the Intrinsic price calculated based on DCF model with following prices and 
+comment whether it stock price is undervalued or overvalued 
+a) 80 b) 150 c) 110 
+(10) 
+UNIT III 
+ 
+Q6 
+What are derivatives? What are the different types of derivatives? Explain each in 
+detail with relevant examples.  
+ 
+(10) 
+Q7 
+Prepare a payoff matrix and payoff diagram for both the holder and writer of an 
+Adani call and put option based on the following information: 
+ 
+Option Price: 80 
+Current Spot Price: 2350 
+Strike Price: 2400 
+The above prices are as on 15th April 2025 
+Spot prices on the expiration of the contract as on 29th May 2025: 1800, 1900, 2000, 
+2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain Black Scholes Model for determining options pricing for both call and put 
+option with relevant examples.  
+(10) 
+Q9 
+A. What are the factors affecting option pricing, commonly referred to as the 
+"Greeks"? Explain each Greek in detail with relevant examples. 
+B. Calculate option price for a strike price of Rs. 1490 based on binomial model for 
+the period of 1 year with following details given below: 
+The current market spot price of SBI life insurance is Rs. 1500 as on 15th April 2025. 
+The volatility of up move of the stock is 1.25 and down move is 0.8. The probability 
+of up move is 0.6 and down move is 0.4. The risk free rate of interest based on repo 
+rate is 6%.  
+(5) 
+ 
+ 
+        (5)

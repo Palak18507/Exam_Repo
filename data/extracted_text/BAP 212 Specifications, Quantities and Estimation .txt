@@ -1,0 +1,84 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Arch : Sem: 4 
+(May, 2025) 
+ 
+Subject Code: BAP 212 
+                              Subject: Specifications, Quantities and Estimation 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Write short notes on: 
+(2.5*8=20) 
+a 
+Request for Proposal (RFP) 
+(2.5) 
+b 
+PAR-2023 
+(2.5) 
+c 
+Deviated item(s) w.r.t a BOQ. 
+(2.5) 
+d 
+Non Schedule Item 
+(2.5) 
+e 
+Defect Liability Period (DLP) in a contracting contract 
+(2.5) 
+f 
+Earnest Money Deposit (EMD) 
+(2.5) 
+g 
+Performance Bank Guarantee (PBG) 
+(2.5) 
+h 
+Liquidated Damage(LD) 
+(2.5) 
+UNIT I 
+ 
+Q2 
+Explain in detail the importance and use of “Material Specifications” in 
+Architectural practice. 
+(10) 
+Q3 
+Explain the use of material specifications connected to livelihood generation 
+and the promotion of indigenous and appropriate construction materials? 
+(10) 
+UNIT II 
+ 
+Q4 
+Draw a sketch of a 2bhk plan of a residence and calculate all types of Areas. 
+ 
+(10) 
+Q5 
+Prepare a rough cost estimate for constructing a Nine-storey high School 
+building with a total built-up area of 12000 sq.m, using PAR 2023 (assuming rate 
+of construction as INR 24,730 per Sq.m, also make assumption(s) for required 
+data, if any) 
+(10) 
+UNIT III 
+ 
+Q6 
+Explain the standard deductions considered in quantity estimation for 12mm 
+thick cement-sand plaster. Additionally, compute the dry volume of materials 
+required to plaster a 25m × 3m wall without any openings. 
+(10) 
+Q7 
+What is BOQ? Create the Format of a BOQ for civil works of a commercial 
+building project. 
+(10) 
+UNIT IV 
+ 
+Q8 
+What are the main types of architectural design competitions held in India? 
+Also, using the 80:20 QCBS system, determine the winner among five 
+participants based on assumed technical and financial scores. 
+(10) 
+Q9 
+What is Tendering process?  Explain with a suitable example how bid are 
+regulated? 
+(10)

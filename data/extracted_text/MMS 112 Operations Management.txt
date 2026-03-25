@@ -1,0 +1,96 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MBA) (Semester: II) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MMS 112 
+Subject: Operations Management 
+Time: 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Assume any missing data 
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Discuss various flows involved in a supply chain. 
+ 
+CO1 
+ 
+b) Compare and contrast characteristics of good and services. 
+ 
+CO1 
+ 
+c) Explain difference between insourcing and outsourcing. 
+ 
+CO2 
+ 
+d) What do understand by form and functional designs? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Monthly demand data over 6 months for a fast-selling model 
+of a TV is as under.     
+Determine the forecast for 7th months using 3 months moving 
+average and weighted moving average methods. 
+Weights give for demand for 6th, 5th and 4th months are 0.5,0.3 
+and 0.2 respectively.   
+Month              1 
+2 
+3 
+4 
+5 
+6 
+Demand 
+(Units)          130 
+120 
+140 
+110 
+125 
+130 
+Comment on weight selection for weighted moving method. 
+ 
+CO1 
+ 
+b) Discuss transformation approach to explain operations 
+management. Explain various types of transformations with 
+suitable examples. 
+ 
+CO1 
+ 
+c) Discuss continuous and intermittent production systems with 
+suitable examples.    
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Elucidate concept of inventory in functioning of an 
+organization.  What do you understand by EOQ?  Discuss simple 
+EOQ model of inventory management. 
+ 
+CO2 
+ 
+b) What do you mean by product design?  What are features of a 
+good design? 
+ 
+CO2 
+ 
+c) What is a process? Discuss very briefly various factors 
+considered to select an appropriate process. 
+ 
+CO2

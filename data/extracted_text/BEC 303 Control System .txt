@@ -1,0 +1,139 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course B. Tech (ECE/ECE-AI), Semester:5th 
+(November-December, 2024) 
+ 
+Subject Code: BEC 303 
+Subject: Control Systems 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(8*2.5=20) 
+CO 
+Mapping 
+ 
+(a) What is the effect of positive and negative feedback on overall gain of the control system? 
+CO1 
+ 
+(b) What is D’Alembert’s Principle? How it is applicable to mechanical systems? 
+CO1 
+ 
+(c) Define Static Error Coefficients? 
+CO2 
+ 
+(d) Define the damping ratio and explain how it affects the response of a standard second order 
+system? 
+CO2 
+ 
+(e) Define Gain Crossover Frequency, Phase Crossover Frequency, Gain Margin and Phase Margin?  
+CO3 
+ 
+(f) Draw the polar plot of 𝐺(𝑠) =
+𝐾
+𝑠(𝑠+1) 
+CO3 
+ 
+(g) Explain how to obtain the adjoint of 3x3 matrix? 
+CO4 
+ 
+(h) List the properties of a State Transition Matrix. 
+CO4 
+UNIT-I 
+CO 
+Mapping 
+Q2 
+For the given electrical network, find the transfer function Vo(s)/Vi(s). 
+ 
+ 
+(10) 
+CO1 
+Q3 
+Reduce the block diagram using block diagram reduction techniques and obtain the 
+overall transfer function. 
+(10) 
+CO1 
+ 
+ 
+ 
+ 
+UNIT-II 
+CO 
+Mapping 
+Q4 
+Draw the signal flow graph of the block diagram and obtain the overall transfer 
+function of the control system.  
+ 
+ 
+(10) 
+CO2 
+Q5 
+A unity feedback system is characterized by an open loop transfer function, 𝐺(𝑠) =
+𝐾
+𝑆(𝑠+10). Determine the gain ‘K’ so that the system will have a damping ratio of 0.5. For 
+this value of K, determine delay time, rise time, peak overshoot, settling time and peak 
+time for unit step input. 
+(10) 
+CO2 
+UNIT-III 
+CO 
+Mapping 
+Q6 
+Investigate the stability of a system having following characteristics equation using 
+Routh-Hurwitz Criterion 
+𝑠6 + 2𝑠5 + 8𝑠4 + 12𝑠3 + 20𝑠2 + 16𝑠1 + 16 = 0 
+ 
+(10) 
+CO3 
+Q7 
+Sketch the root locus for the open loop transfer function of unity feedback control 
+system is given by   
+𝐺(𝑠) =
+𝐾
+𝑠(𝑠2 + 4𝑠+ 13) 
+(10) 
+CO3 
+UNIT-IV 
+CO 
+Mapping 
+Q8 
+A system is represented by the state equation  
+𝑋̇ = 𝐴𝑋+ 𝐵𝑈, 
+𝑌= 𝐶𝑋, Where 
+𝐴= [
+0
+1
+0
+0
+−1
+1
+0
+−1
+−10
+],𝐵= [
+0
+0
+10
+] 
+and 
+𝐶=
+[1
+0
+0]. Determine the transfer function of the system. 
+(10) 
+CO4 
+Q9 
+Write a short note on (any two) 
+(a) 
+Transducer 
+(b) 
+Stepper Motor 
+(c) 
+Magnetic Amplifier 
+(10) 
+CO4

@@ -1,0 +1,120 @@
+{
+  "paper_id": "BIT407_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT407",
+    "subject_name": "Big Data Analytics",
+    "program": "B. Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Does WWW fit Distributed Database Paradigm? Submit 03 supportive factors. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the concept of ID in an unstructured data bases such as MongoDB? Justify why MongoDB a NoSQL or not with supportive reasons. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How can an operator optimize the organization of the data in a data warehouse of telecom operator serving Call Detail Records requests from Government agencies while using an ETL tools? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Can you put forward on computing resources for big data storage? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How can a novice understand the difference between data lake and data warehouse? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Do you think that volume of data derives the computational architectures? Exemplify. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How Data policy and regulation in Indian subcontinent affects the decision of multinational corporates such as Google, Facebook etc. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How HIVE architecture resembles a database? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "a. Differentiate Data Stream Management Systems and Data Base Management System. b. What for and types windowing concept is harnessed in Data Streams Processing?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "a. In what way Decaying Windowing is conceptualized and exploited in Data Analytics? b. Which specific features distinguish Big Data Analysis algorithms from that of any data analysis algorithm?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Is this necessary that Data warehouse should be organized in a specific way? Explain Hub and Spoke architecture and functioning with special reference to ETL function and stages such as staging and reporting etc.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How ETL for real-time databases works in tandem with data warehouse for optimal performance parameters? Define performance parameters for an ETL in real-time databases. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Distinguish between Batch, Speed and Serving layers in Labmda and Kappa Architectures. Draw schematics for both architectures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How virtualization is conceptualized/abstracted in a distributed environment? What are the involved design principles?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How Map-reduce architecture does affect the applications in distributed environment? List important aspects of Distributed File Systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "With reference to Big Data and Involved Data Analytics explain any two of the following: a. Data and Ethics b. Data and Communication c. Data Types and Queries in HIVE",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

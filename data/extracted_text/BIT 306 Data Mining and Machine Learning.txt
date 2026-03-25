@@ -1,0 +1,186 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. IT) (Semester: VI) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BIT 306 
+Subject: Data Mining and Machine Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Differentiate between Ordinal and Nominal Attributes. 
+2.5 
+CO 1 
+ 
+b) What is curse of dimensionality? 
+2.5 
+CO 1 
+ 
+c) What do you mean by Unbalanced Datasets and MCC 
+parameter? 
+2.5 
+CO 2 
+ 
+d) How Regression, Sampling and clustering is useful in Data 
+Preprocessing? Explain? 
+2.5 
+CO 2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain following terms w.r.t. Data Preprocessing:  
+i. 
+Data Integration 
+ii. 
+Data Discretization 
+2*2.5= 5 
+CO 1 
+ 
+b) Why Similarity/Dissimilarity measures are important during 
+data pre-processing? Compute the dissimilarity matrix for the 
+following data tables with distinct type of attributes. (Consider 
+Symmetric Binary) 
+ 
+Nominal 
+(f1) 
+Ordinal 
+(f2) 
+Numerical 
+(f3) 
+Binary 
+(f4) 
+O1 
+CODE-A 
+Poor 
+100 
+1 
+O2 
+CODE-B 
+Excellent 
+023 
+0 
+O3 
+CODE-D 
+Good 
+035 
+1 
+O4 
+CODE-E 
+Good 
+067 
+1 
+O5 
+CODE-A 
+Fair 
+112 
+0 
+ 
+5 
+CO 1 
+ 
+c) Give an insight about  
+(i) 
+handing the outliers 
+(ii) 
+usage of scatter plots (in terms of Quantative-
+Quantative Analysis) 
+5 
+CO 1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Drive Loss Functions and parameter update rule for 
+Logistic Regression and Linear Regression. 
+(5) 
+2 
+ 
+b) Explain the usage of Principal Component Analysis (PCA) in 
+resolving High Dimensionality in Datasets?  
+Write a short note on Evaluation Parameters for 
+Regression/Predictive Analysis.  
+(2.5+2.5=5) 
+2 
+ 
+c) Classify the sample (Cow, Medium, Black) using Naïve 
+Bayes Classifier w.r.t. table given below.  
+Animals 
+Size of 
+Animals 
+Body Color 
+Can we 
+Pet them 
+Dog 
+Medium 
+Black 
+Yes 
+Dog 
+Big 
+White 
+No 
+Rat 
+Small 
+White 
+Yes 
+Cow 
+Big 
+White 
+Yes 
+Cow 
+Small 
+Brown 
+No 
+Cow 
+Big 
+Black 
+Yes 
+Rat 
+Big 
+Brown 
+No 
+Dog 
+Small 
+Brown 
+Yes 
+Dog 
+Medium 
+Brown 
+Yes 
+Cow 
+Medium 
+White 
+No 
+Dog 
+Small 
+Black 
+Yes 
+Rat 
+Medium 
+Black 
+No 
+Rat 
+Small 
+Brown 
+No 
+Cow 
+Big 
+White 
+Yes 
+(5) 
+2

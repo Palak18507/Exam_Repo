@@ -1,0 +1,76 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End - Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Arch>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BAP 309 
+Subject: Structure V 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+What are the grade of R.C.C mostly used in these days?  
+ 
+(b) 
+Explain difference between overall depth & effective depth.  
+ 
+(c) 
+What are the merits and demerits of providing Doubly reinforced beams in 
+place of singly reinforced Beams? 
+ 
+(d) 
+What are the basic assumptions of bending of beam? 
+ 
+(e) 
+Define singly & doubly reinforcement beam. 
+ 
+(f) 
+Why the effective depth is adopted in design of beam/slab? 
+ 
+(g) 
+Define the term moment of resistance of a RCC beam section? 
+ 
+(h) 
+Show reinforcement detail in staircase with neat sketches.  
+ 
+ 
+UNIT-I 
+Q2 
+Explain stress strain relation for concrete & reinforcement steel.   
+(10) 
+Q3 
+What are basic assumptions made in working stress design method of 
+RCC. 
+(10) 
+UNIT-II 
+Q4 
+Explain design of singly reinforcement R.C.C beam by SP-16.  
+(10) 
+Q5 
+ Draw deflected shape of singly RCC beam. Explain the following terms  
+(1) Neutral axis  
+(2) Tension Zone  
+(3) Compression Zone  
+(10) 
+UNIT-III 
+Q6 
+Explain working stress method and limit state method of RCC beam? 
+(10) 
+Q7 
+Write down the steps for design of doubly reinforcement beam. 
+(10) 
+UNIT-IV 
+Q8 
+What are the types of Slabs and explain the procedure of design of slab 
+in RCC using IS codes. 
+(10) 
+Q9 
+Explain design procedure of RCC staircase as per IS codes. 
+(10)

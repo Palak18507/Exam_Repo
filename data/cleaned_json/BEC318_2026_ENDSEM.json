@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC318_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC318",
+    "subject_name": "Digital Image Processing",
+    "program": "B.Tech",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is image restoration? How is it different from image enhancement?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by image sampling and quantization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the principal sources of noise in digital images?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Is the Rayleigh distribution symmetric? How is the PDF of Rayleigh noise represented?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is chromaticity and trichromatic coefficients?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is color transformation? Give the expression for color transformation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the concept of string matching in structural methods.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the terms patterns, pattern classes, and pattern vectors.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Draw and explain the block diagram of the components of a general- purpose image processing system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the power law transformation and the piecewise-linear transformation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What do you mean by image sharpening? How is it carried out using frequency domain filters?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain Wiener filtering. How is the constrained least squares filter advantageous as compared to the Wiener filter? On what basis is the optimality criterion for restoration using the Wiener filter determined?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is spatial redundancy? Give examples of compression techniques that explore spatial redundancy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is image segmentation? Why is it required? What are the general approaches to image segmentation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is Morphology? What is a structuring element? Explain the steps involved in Morphological Image Processing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of object recognition based on Decision-Theoretic Methods.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

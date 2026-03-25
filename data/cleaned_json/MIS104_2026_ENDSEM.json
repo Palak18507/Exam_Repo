@@ -1,0 +1,165 @@
+{
+  "paper_id": "MIS104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS104",
+    "subject_name": "Applied Cryptography",
+    "program": "M.Tech (IT",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define perfect secrecy with suitable equations. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define one time pad with suitable equations. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Do you feel RSA cryptosystem is secure? Justify your answer. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Do you feel El Gamal cryptosystem is secure? Justify your answer. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the difference between Authentication and Non- Repudiation, please justify your answer by giving example? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Why MAC does not provide non-repudiation? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss the importance of password hashing. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Differentiate between Transport Model and Tunnel Model in IP Security Modes? 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "In the given network, how many keys do we have to generate such that nodes can communicate over the given links in a bi- directional secure way with node A included and without node A included using i) DES cryptosystem; ii) ElGamal cryptosystem. Justify your answer. Explain CBC mode of encryption and decryption with suitable examples. 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the 4 steps of AES-128 encryption with suitable diagrams. For block cipher modes of operation, what is the effect of decryption on remaining blocks if for the sequence of ciphertext blocks c1, c2, c3, c4 - ciphertext block c2 is erroneous. Specify which plaintext blocks are decrypted correctly and which are not with suitable justification. 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider an Elgamal scheme with a common prime q = 71 and a primitive root g = 7. 1) If B has public key YB =3 and A choose the random integer k=2, what is the ciphertext of M = 30? 2) If A now chooses a different value of k so that the encoding of M = 30 is C = , what is the integer C2?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Whis is discrete log problem? What is the advantage of using primitive root in Diffie Hellman Key exchange? 2",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the working of ElGamal Cryptosystem through equations. Justify the security of this cryptosystem. Consider RSA cryptosystem with public parameter n = 55. Users A and B have public keys 3 and 7, respectively. i) Calculate private keys of A and B using Extended Euclidean algorithm. Show the calculations. ii) User C encrypts a message M = 13 for A and B. Calculate the corresponding ciphertexts. 2",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Consider a LFSR with coefficient vector = . Draw the corresponding LFSR. When the seed is 0101 , what is the output sequence of the shift register? What is the period of this shift register and why? What is a pseudorandom number generator and what are its properties? 3",
+      "marks": 1001.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Let A be a cryptographic hash function. Let B be another hash function which randomly outputs: 000|| A or 111|| x. Is B a cryptographic hash function? Why or why not?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is MAC? What are its properties? Explain any one MAC algorithm with suitable diagram. 3",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain: PGP private key ring, pubic key ring and PGP certificate with suitable diagrams. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain SSL with SSL Protocol Stack diagram?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between an SSL connection and an SSL session?",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "What services are provided by the SSL Record Protocol? 4",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

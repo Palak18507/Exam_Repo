@@ -1,0 +1,111 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<8> 
+(May, 2025) 
+ 
+Subject Code: BAI 416 
+Subject: AI in Healthcare 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a)  What are the differences between structured and unstructured 
+healthcare data? Provide an example of each. 
+ 
+CO1 
+ 
+b) Why is data preprocessing essential in healthcare AI applications? 
+Mention two key steps involved. 
+ 
+CO1 
+ 
+c) What are Clinical Decision Support Systems (CDSS), and how do 
+they assist healthcare professionals? 
+ 
+CO2 
+ 
+d)  Discuss one ethical concern associated with AI-powered 
+diagnostic tools in healthcare.   
+ 
+CO2 
+ 
+e) What role does Natural Language Processing (NLP) play in 
+Electronic Health Record (EHR) analysis? 
+ 
+CO1 
+ 
+f) Describe one predictive modeling technique used in healthcare for 
+patient risk assessment. 
+ 
+CO3 
+ 
+g) How HIPAA compliance ensures the privacy and security of patient 
+data in AI applications. 
+ 
+CO4 
+ 
+h) Identify one emerging trend in AI-driven healthcare and discuss its 
+potential impact. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the importance of data preprocessing in AI-driven healthcare 
+applications. Illustrate with an example of data cleaning and 
+transformation. 
+(10) 
+CO1 
+Q3 
+Explain the key techniques used for extracting meaningful insights in a 
+step-by-step hands-on analysis of a healthcare dataset.  
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the ethical considerations involved in AI-driven clinical 
+decision support, including biases and patient safety concerns. 
+(10) 
+CO2 
+Q5 
+What are the key challenges faced when implementing AI in medical 
+imaging? Discuss real-world limitations and possible solutions 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss various predictive modeling techniques used in healthcare. 
+Compare their advantages and disadvantages. 
+(10) 
+CO3 
+Q7 
+Explain the process of validating and evaluating predictive models in 
+healthcare AI applications. Discuss key performance metrics used to 
+evaluate the models.  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the ethical guidelines that govern AI applications in 
+healthcare. How can AI-related ethical dilemmas be addressed? 
+(10) 
+CO4 
+Q9 
+Analyze the impact of AI on patient data security. What are the major 
+privacy concerns, and how can they be mitigated? 
+(10) 
+CO4

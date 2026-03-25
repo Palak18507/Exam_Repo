@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+ 
+End-Term Examination (OffLine) 
+Course Name: PHD 
+(May, 2025) 
+ 
+Subject Code: PHD 140 
+Subject: Behavioral Finance 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Define Behavioral Finance in your own words. 
+2.5 
+CO1 
+b 
+Explain any two foundational concepts of Behavioral Finance. 
+2.5 
+CO1 
+c 
+Define overconfidence bias in investors. 
+2.5 
+CO2 
+d 
+What is meant by loss aversion? 
+2.5 
+CO2 
+e 
+What are market anomalies? Give one example 
+2.5 
+CO3 
+f 
+How does rational finance explain investor behavior? 
+2.5 
+CO3 
+g 
+Explain the effect of heuristic in financial behavior. 
+2.5 
+CO4 
+h 
+Define representativeness heuristic with an example. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the scope and applications of Behavioral Finance in real-world 
+investment and financial planning. 
+10 
+CO1 
+Q3 
+Critically evaluate the Efficient Market Hypothesis (EMH) in light of 
+behavioral perspectives. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss various cognitive and emotional biases that impact 
+investment decisions. Use real-world or hypothetical examples. 
+10 
+CO2 
+Q5 
+How does framing affect investment decisions? Illustrate with suitable 
+scenarios. 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the concept of calendar anomalies. How do they challenge the 
+assumptions of market efficiency? 
+10 
+CO3 
+Q7 
+Explain Expected Utility Theory and its role in rational financial 
+decision-making. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+How do behavioral biases impact portfolio management and risk 
+assessment? Provide practical examples 
+10 
+CO4 
+Q9 
+Analyze the role of emotional biases in major financial crises. Use the 
+case of the Silicon Valley Bank crash to support your argument. 
+10 
+CO4

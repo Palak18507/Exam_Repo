@@ -1,0 +1,208 @@
+{
+  "paper_id": "BAS109_2024_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS109",
+    "subject_name": "Applied Mathematics",
+    "program": "<B.Tech>",
+    "academic_year": "2023-2024",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "If the Eigen values of 𝐴= [4 0 5 7] are 4 and 7 then find the eigen values of A2, 5A and A2+ 5A+I CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the rank of the matrix [ 1 2 −1 3 2 4 1 6 3 6 −3 9 ] by elementary row transformation. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find Laplace Transformation of t𝑒2𝑡 cos5t CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Find fourier coefficient ao , bn where f= x+x2, , - 𝜋 ≤x ≤ 𝜋 CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "If V = −1 2 ⁄ , then show that x ∂V ∂x + y ∂V ∂y + z ∂V ∂z = −V. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Show that the function 𝑓 = 𝑥3 + 𝑦3 −63 + 12𝑥𝑦 is maximum at and minimum at . CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Evaluate ∫∫∫𝑥𝑦𝑧 𝑑𝑥 𝑑𝑦 𝑑𝑧 3 2 2 1 1 0 CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Find grad where 𝜑 is given by 𝜑= 3𝑥2𝑦−𝑦3𝑧2 at the point and Show that if 𝑟= 𝑥𝑖̂ + 𝑦𝑗̂ + 𝑧𝑘̂, 𝑑𝑖𝑣 = 3. CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". Using elementary row transformation, find the inverse of the matrix [ 0 1 2 1 2 3 3 1 1 ]",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Investigate the values of λ and μ so that the equation 2x + 3y + 5z = 9,7x +3y -2z =8,2x +3y + λ z =µ have No solution A unique Sol Inf. sol. CO 1 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Verify Cayley- Hamilton Theorem. & also Find A-1 𝑜𝑓 [ 1 2 0 2 −1 0 0 0 −1 ]",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find Eigen values and Eigenvectors of matrix [ 3 1 4 0 2 6 0 0 5 ] CO 1",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the Inverse Laplace Transform of F by convolution theorem where F = 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "If T:V2->V3 defined by T= is a Linear Transformation then Find rank and nullity of T CO 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "If T: V2-> V2 defined by T = is a Linear Transformation?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find Half range fourier cosine series of f = /2, , 0 ≤x ≤ 𝜋 CO 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". If u = sin−1 + tan−1 , prove that x ∂u ∂x + y ∂u ∂y = 0",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "State Leibnitz theorem and prove that y2 − xy1 −a2y = 0, If y = e asin−1x CO 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". Expand x2y + 3y −2 in powers of and up to second degree terms.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". Find the extreme value of the function𝑓 = 𝑥3 + 𝑦3 −3𝑎𝑥𝑦. a >0. CO 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". Solve by changing the order of integration ∫∫ 𝑥𝑦 𝑑𝑥 𝑑𝑦 2−𝑥 𝑥2 1 0",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". Find the directional derivative of the following function 𝑓= 2𝑥2 + 3𝑦2 + 𝑧2 at the point 𝑃 in the direction of the vector 𝑎= 𝑖̂ −2𝑘̂. CO 4",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". Show that the vector field 𝑓= 𝑟 𝑟3 is irrotational as well as solenoldal.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". Evaluate ∭𝑑𝑥 𝑑𝑦 𝑑𝑧, 𝑅 where 𝑅: 0 ≤𝑥≤1, 0 ≤𝑦≤ 𝑥2, 0 ≤𝑧≤. CO 4",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

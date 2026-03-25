@@ -1,0 +1,100 @@
+{
+  "paper_id": "BIT201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT201",
+    "subject_name": "DATABASE MANAGEMENT SYSTEM",
+    "program": "B. Tech",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the purpose of the GROUP BY clause in a SQL query? Explain with an example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the significance of integrity constraints in DBMS with practical examples. Consider the table Emp. Write the SQL Commands to:  Double the salary of all the employees.  Add the Primary Key constraint to the Id Column of the Table Emp Id Name Salary 1 Ravi 20000 2 Abdul 10000 3 Sonal 25000",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "If there exists a transitive functional dependency in a Relation, which normal form is violated? How, you can make this relation normal? Explain with the help of an example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Distinguish the Relational and Object Oriented Data Models.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the candidate key, primary key, super key, composite key, and alternate key with the help of suitable examples. Distinguish between a file processing system and a database management system in brief.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "You have to develop a system to automate academic system of our University. The following information is provided to you: IGDTUW is running various UG/PG and PhD programs under different departments. Like, Department of IT is running BTech – IT , AIML , MTech – IT , MCA and PhD programs with an approved intake for each of the Program. Every department is having full time and visiting faculty members for teaching different subjects in these programs. All the programs are having a fixed teaching scheme which has subject code, subject name and Lectures per Week for every subject. Every year, students are enrolled in these programs and are identified by their Enrolment Number. Design an ER Diagram for the above situation by clearly depicting Cardinality, Optionality, appropriate attribute categories, and extended ER features . Document all these points separately also for getting clear picture. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider the following relations: CUSTOMER VEHICLE RENTAL Write SQL Commands to: Create the above mentioned three tables by applying appropriate constraints . Delete Address column from CUSTOMER table. Display all customer names, who have not rented any vehicle so far. Display all those customer names who travelled from IGDTUW on 18th June, 2024. Display customer names, the vehicle names which they hired along with date of journey for all the customers in the year 2024.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Consider the Tables given in the Question 4 and write the Relational Algebraic Expression for the following queries: Display all vehicle numbers, which have not been rented so far. Display all those customer names who travelled in MARUTI SWIFT on 18th June, 2024. Display all vehicle names and year of manufacturing which have travelled more than 1000 km. Display the customer names who are staying in Noida. Display all the vehicle names which have been hired by Mr Ramesh.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Why normalization is required in database design? Discuss the 3rd Normal Form with the help of a suitable example. Consider a relation scheme R = on which the following functional dependencies hold: {A–>B, BC–>D, E–>C, D–>A}. Write the candidate keys and possible primary Key of R?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Draw the State Diagram of the Transaction Management and explain it. Discuss the Serializability concept with the help of example. Comment on Isolation property of Transaction with reference to serialibility.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss Two Phase Locking protocol. What benefits does strict two-phase locking protocol provides? Discuss its disadvantages. Depict one hypothetical situation which causes Deadlock in database by considering three transactions. Draw an appropriate diagram showing deadlock. Discuss one algorithm for prevention from deadlock.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Suppose you have to store the personal details of the customers along with their audio clip. Which database system you will prefer and why? Discuss the salient features of Distributed Database Management System. Discuss the concept of fragmentation.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                                        Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: M.B.A, Semester: III 
+(November-December, 2024) 
+ 
+Subject Code: MMS-201 
+Subject: Business Analytics 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q.1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Define business Analytics  
+1 
+ 
+(b) 
+What is data visualization? 
+1 
+ 
+(c) 
+What is data cleansing? 
+2 
+ 
+(d) 
+List data collection methods. 
+2 
+ 
+(e) 
+How you recognize a problem as business analytics? 
+3 
+ 
+(f) 
+What are according to you core competencies of a business 
+analytics? 
+3 
+ 
+(g) 
+What is difference between data and information? 
+4 
+ 
+(h) 
+What are common challenges of business analytics? 
+4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Discuss importance of reports in business analytics.  Elucidate 
+various types of reports used.  Explain key elements of 
+custom reports. 
+(10) 
+1 
+Q3 
+Data planning is an important aspect of business analytics. 
+Discuss. Explain various types of data used in business 
+analytics with real life examples.  What are popular data 
+quality dimensions 
+(10) 
+1 
+UNIT-II 
+CO Mapping 
+Q4 
+ How can analytics be used in the following situations? 
+Support your answers with suitable examples. 
+     (i) Exploring market opportunities 
+     (ii) Understanding customer service 
+(10) 
+2 
+Q5 
+What do you understand by the term “Big Data”? Discuss 
+reliability and validity characteristics of data with suitable 
+examples. Explain various variations in found in big data and 
+how are they managed? 
+(10) 
+2 
+UNIT-III 
+CO Mapping 
+Q6 
+What do you understand by a model? Discuss nature of a 
+typical decision model.  Explain three forms of decision 
+models. 
+(10) 
+3 
+Q7 
+Write a technical note on data mining. 
+(10) 
+3 
+UNIT-IV 
+CO Mapping 
+Q8 
+What do you understand by descriptive analytics Explain its 
+use.  Discuss an appropriate descriptive model you have come 
+across. 
+(10) 
+4 
+Q9 
+“Business analytics provides opportunities for career 
+planning and nation building.” Discuss in detail. 
+(10) 
+4

@@ -1,0 +1,98 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech (IT)>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BIT 409 
+Subject: Distributed System 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+All Questions are Compulsory 
+(2.5*8=20) 
+ 
+a) Compare Network Operating Systems with Distributed Systems? 
+ 
+ 
+b) Explain the layered architecture style in Distributed Systems? 
+ 
+ 
+c) Describe Lamport's algorithm for logical clocks? 
+ 
+ 
+d) Outline the Bully algorithm for leader election. 
+ 
+ 
+e) Discuss ACID and BASE properties in the context of distributed systems. 
+ 
+ 
+f)    Describe the concept of eventual consistency and give an example of a 
+distributed system where it might be preferable over other consistency 
+models. 
+ 
+ 
+g) Explain the CAP theorem and its implications for Distributed Databases 
+ 
+ 
+h) What is proxy caching in distributed web systems? Explain its benefits. 
+ 
+UNIT I 
+ 
+Q2 
+Discuss in detail the architectural styles of Distributed Systems, focusing on their 
+advantages, disadvantages, and real-world examples. Compare centralized client-
+server architecture with edge server systems in terms of scalability, fault tolerance, and 
+performance? 
+(10) 
+Q3 
+Design a hypothetical distributed system for a ride-sharing application. Describe how 
+you would incorporate scalability, transparency, and fault tolerance in the architecture 
+to handle millions of users across the globe. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the concept of mutual exclusion in Distributed Systems. Discuss the 
+implementation of mutual exclusion using Lamport’s algorithm and a logical token ring, 
+including their strengths, weaknesses, and suitability for different scenarios? 
+(10) 
+Q5 
+Assume a distributed banking system where multiple branches interact. Develop an 
+algorithm to ensure consistency in account balances when transactions are performed 
+across branches. Discuss how mutual exclusion and coordination would be achieved. 
+(10) 
+UNIT III 
+ 
+Q6 
+Design a model for a distributed system that ensures causal consistency while 
+minimizing network bandwidth. Include: 
+o An outline of how causality is maintained. 
+o Methods to reduce communica6on overhead. 
+o An evaluation of the pros and cons of this model. 
+(10) 
+Q7 
+Propose an approach for managing replication in a geographically distributed system, 
+such as a content delivery network (CDN). Consider factors like latency, data 
+consistency, and update propagation. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Propose an architecture for a peer-to-peer distributed database that addresses the 
+challenges of data consistency, security, and fault tolerance. Describe the mechanisms 
+you would use to address these challenges. 
+(10) 
+Q9 
+Design a secure and scalable distributed web system that can handle high volumes of 
+client requests. Include the following: 
+ 
+An approach for load balancing. 
+ 
+Methods to ensure data replica6on and security. 
+ 
+Explanation of the trade-oﬀs between security and performance 
+(10)

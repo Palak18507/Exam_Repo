@@ -1,0 +1,154 @@
+{
+  "paper_id": "PHD148_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD148",
+    "subject_name": "Introduction to Large Language Models",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO mapping 1 What is Natural Language Processing and explain its real-world applications. 2 How does a GRU differ from LSTM ? 3 What are the main differences between few-shot learning and zero-shot learning? 4 What is a Knowledge Graph, and how is it typically structured?",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a Multilayer Perceptron ? What are the key components of an MLP architecture?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the role of stemming and lemmatization in the NLP preprocessing pipeline?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are word embeddings, and how do they capture semantic relationships between words? Compare different word embedding techniques.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the architecture and working of an RNN and its main limitations.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a unigram language model, and how does it estimate the probability of a sentence?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the roles of the encoder and decoder in a Sequence-to-Sequence model architecture.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How is the chain rule of probability used to compute sentence probabilities in SLMs ?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the two main pretraining tasks used in BERT?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the application and limitations of ELMo.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is sequence classification in NLP? Explain with examples",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What type of neural network architecture does ELMo use to generate embeddings? Explain in detail.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the role of context searching in Retrieval-Augmented Generation systems?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What distinguishes white-box knowledge distillation from traditional approaches? Explain.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does prompt tuning differ from prefix tuning in its implementation?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the structured difference of Graph Neural Networks and Neural Knowledge Graph Inference.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "BEC206_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC206",
+    "subject_name": "Electromagnetic Field Theory",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you mean by Electric Flux density. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by displacement current? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define transverse electromagnetic wave. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define skin depth. Derive its relation with attenuation constant. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss magnetic and scalar potential. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "State stokes theorem along with its mathematical expression. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "A lossy material has μ = 5μ₀, ε = 2ε₀. If at 5 MHz, the phase constant is 10 rad/m, calculate the loss tangent. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Give Maxwell’s equations in differential and integral form. 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "State Divergence Theorem. Verify the divergence theorem for the function A = r2 ar + r sin θ cosφ aθ over the surface of a quarter of a hemisphere defined by 0 < r < 3, 0 < φ <π/2, 0 < θ < π/2 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Given point P and vector A=y ax+ ay express P and A in cylindrical and spherical coordinates. Evaluate A at P in the Cartesian, cylindrical, and spherical systems. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define electric flux density D and its relationship with the electric field intensity E and permittivity ϵ. State the differential form of Gauss's Law in terms of electric flux density. Explain its significance. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Derive the relationship between E and V. Also prove that tangential component of electric field undergoes no change on the boundary between two media. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Derive Ampere’s law. What are the characteristics of a static magnetic field? Discuss law of conservation of magnetic flux. Explain why magnetic monopole does not exist. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss Biot Savart’s law. From it, derive magnetic field intensity H due to line, surface and volume current distributions. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss any two applications of transmission lines. An air line has characteristic impedance of 70 Ω and phase constant of 3 rad/m at 100 MHz. Calculate the inductance per meter and the capacitance per meter of the line. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "State Poynting theorem. Derive the mathematical expression for Poynting theorem. 2",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

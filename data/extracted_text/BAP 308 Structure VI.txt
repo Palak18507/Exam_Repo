@@ -1,0 +1,60 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Arch (Semester: 6) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAP 308 
+Subject: Structure VI  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Explain different shapes of columns. Show main bars and lateral ties in each 
+type. 
+ 
+ 
+b) Write general requirements in the design of columns.  
+ 
+ 
+c) Explain shear wall in a high rise building. 
+ 
+ 
+d) Define short axial column & minimum eccentricity. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Design a column with following data with limit state method factored load = 
+3000Kn, Concrete M20, Steel Fe 415, Assume suitable data. Show R/F detail 
+with neat sketches.  
+ 
+ 
+b) Show typical tie arrangement of square, rectangle,L,T, circular shape of 
+column with neat sketchs.  
+ 
+ 
+c) Calculate factored column load with following date column size 400 X 
+400mm R/F 8-20 mm dia bars. Mix M25, Fe 500 R/F. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain different types of foundations. 
+ 
+ 
+b) Write down the steps to calculate foundation size, column load  = 400Kn and 
+Safe bearing capacity = 150 Kn/m2. Column size 500 x 500 mm. 
+ 
+ 
+c) Show R/F detail of square footing.

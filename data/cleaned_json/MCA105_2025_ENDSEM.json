@@ -1,0 +1,120 @@
+{
+  "paper_id": "MCA105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA105",
+    "subject_name": "Data and File Structures",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the Row Major and Column major address for arr[3][4] element, where the array is stored at 2000 address having 20 rows and 5 columns. Size of each element is 8 bytes.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Convert the expression */2^3-10 to Postfix.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "The following gives the preorder and inorder trasversal of the Binary Tree, Preorder: ABDGCEHIF Inorder: DGBAHEICF Construct the Binary tree.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Insert the following in a Binary search tree 1, 2, 3, 4, 5. What is the problem with such a BST?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Find the Minimum spanning tree for the following graph using Kruskal’s algorithm.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a function for binary search and find its complexity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the various modes in file handling?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is extended binary tree? How many internal nodes are there in an extended binary tree with ‘n’ external nodes?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Convert the following to Prefix and evaluate the result using stacks. Infix: 40+2*3-60/10+2^4 Write a function/algorithm to count the sum of odd and even-indexed elements in a circular linked list.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a function to calculate the sum of upper and lower triangular elements of an n X n matrix. Where n and matrix elements are inputs from the user. Write a program to find the intersection of 2 doubly linked lists if it exists.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write Insert and Delete to implement queue using arrays and linked lists. What is the complexity of the approach? Why do we use circular Queue?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Show the steps while inserting the following elements in an AVL tree: H,I,J,B,A,E,C,F,D,G,K,L. Also perform preorder postorder and inorder traversal of the final tree constructed in Q.5 .",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Using Heap Sort, sort the following array of 12 elements. Show the steps, algorithm and complexity also: 85, 76, 46, 92, 30, 41, 12, 19, 93, 3, 50, 11",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Traverse the following graph using Breadth first search algorithm. Also give the complexity of your approach. Find the shortest path in the above graph using Dijkstra’s algorithm using node 1 as the source.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a program to merge 2 file into a 3rd file and print contents of all 3 files.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a program to copy the contents of 1 file to another and print the contents. Write a program to count the number of vowels in a file.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

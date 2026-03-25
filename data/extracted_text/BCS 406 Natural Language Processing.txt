@@ -1,0 +1,90 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name:  B. Tech, Semester:   VIII 
+March 2025 OFF LINE mode 
+Subject Code:  BCS 406 
+                                                  Subject:  Natural Language Processing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any one parts of Q2 and Q3  
+ 
+Q1 
+Answer the following 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define Natural Language Processing and explain its significance 
+in analysis of Data. Can NLP handle Structured Data? Why/Why 
+not? 
+ 
+CO1 
+ 
+b) 
+What 
+is 
+the 
+difference 
+between 
+“stemming” 
+and 
+“Lemmatization? Explain using example.  
+ 
+CO1 
+ 
+c) What are the common challenges faced in NLP? Discuss briefly 
+using examples. 
+ 
+CO1 
+ 
+d) What is parsing? Is it always possible to remove the ambiguity 
+of the grammar? Discuss. 
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+ 
+(2x5) 
+ 
+ 
+a) What is a phrase? Discuss various types of phrases with 
+examples, occurring in English Language. What is a Phrase structed 
+Grammar? 
+ 
+CO1 
+ 
+(b)  
+ 
+Generate a leftmost derivation and rightmost derivation and parse 
+tree for the language “abbbb” 
+ 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+ 
+(2x5) 
+ 
+ 
+a) What is ability link, functional link and capability link in 
+Wordnet? Give examples of each? 
+ 
+CO2 
+ 
+(b) Identify the types of  Wordnet relations 
+(i) 
+Fruit- Apple 
+(ii) 
+Computer- Keyboard 
+(iii) 
+Shouting – speaking 
+(iv) 
+Cobbler- shoe repairing 
+(v) 
+Infancy-young age -old age 
+ 
+CO2

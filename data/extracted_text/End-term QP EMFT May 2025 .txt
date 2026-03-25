@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+B.Tech ECE, IVth Sem  
+(May, 2025) 
+ 
+Subject Code: BEC 206       
+Subject: Electromagnetic Field Theory 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What do you mean by Electric Flux density. 
+ 
+1 
+ 
+b) What do you mean by displacement current? 
+ 
+1 
+ 
+c) Define transverse electromagnetic wave. 
+ 
+1 
+ 
+d) Define skin depth. Derive its relation with attenuation constant. 
+ 
+2 
+ 
+e) Discuss magnetic and scalar potential. 
+ 
+1 
+ 
+f) State stokes theorem along with its mathematical expression. 
+ 
+1 
+ 
+g) A lossy material has μ = 5μ₀, ε = 2ε₀. If at 5 MHz, the phase constant 
+is 10 rad/m, calculate the loss tangent. 
+ 
+2 
+ 
+h) Give Maxwell’s equations in differential and integral form. 
+ 
+1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+State Divergence Theorem. Verify the divergence theorem for the 
+function A = r2 ar + r sin θ cosφ aθ over the surface of a quarter of a 
+hemisphere defined by 0 < r < 3, 0 < φ <π/2, 0 < θ < π/2 
+(10) 
+3 
+Q3 
+Given point P (−2,6,3) and vector A=y ax+(x+z) ay express P and A in 
+cylindrical and spherical coordinates. Evaluate A at P in the Cartesian, 
+cylindrical, and spherical systems. 
+(10) 
+2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define electric flux density D and its relationship with the electric field 
+intensity E and permittivity ϵ. State the differential form of Gauss's Law 
+in terms of electric flux density. Explain its significance. 
+(10) 
+3 
+Q5 
+Derive the relationship between E and V. Also prove that tangential 
+component of electric field undergoes no change on the boundary 
+between two media. 
+(10) 
+3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Derive Ampere’s law. What are the characteristics of a static 
+magnetic field?  
+(b) Discuss law of conservation of magnetic flux. Explain why magnetic 
+monopole does not exist. 
+(10) 
+3 
+Q7 
+Discuss Biot Savart’s law. From it, derive magnetic field intensity H due 
+to line, surface and volume current distributions. 
+(10) 
+2 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Discuss any two applications of transmission lines. 
+(b) An air line (loss less) has characteristic impedance of 70 Ω and phase 
+constant of 3 rad/m at 100 MHz. Calculate the inductance per meter 
+and the capacitance per meter of the line. 
+(10) 
+4 
+Q9 
+State Poynting theorem. Derive the mathematical expression for 
+Poynting theorem. 
+(10) 
+2

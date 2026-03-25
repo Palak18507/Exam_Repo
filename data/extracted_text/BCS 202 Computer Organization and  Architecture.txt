@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 4) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code:  BCS 202 
+Subject: Computer Organization and  Architecture 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Differentiate between CISC and RISC processors. 
+ 
+CO2 
+ 
+b) Convert the following binary number into decimal & octal 
+number: 
+ i) (00010.110)      
+ii) (000.10110) 
+ 
+CO1 
+ 
+c) Write functionality of   computer instructions, CLA, LDA, OUT, 
+INC, HLT. 
+ 
+CO1 
+ 
+d) Illustrate the phases of Interrupt Cycle with a neat flowchart. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Reduce following Boolean MIN-term and MAX term expression 
+and implement their logic circuit in SOP and POS form. 
+(i) 
+F1 = ∑( 0,4,6,8)   + d( 3,9) 
+(ii) 
+Y1 = 𝜋  ( 5,7,12,13)  d(  6,7) 
+ 
+CO1 
+ 
+b) Classify different Types of Instructions used in Computer 
+Organization with an example. Write the micro operation required 
+for  instruction ADD to AC,  
+ 
+CO1 
+ 
+c. write the functionality of following micro operations:   
+shl   R,   shr R,    cil R,    cir R, ,     R3<---R1+ R2 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the three method of signed number representation?  
+Represent decimal numbers 564.40 and 368.75 in 10’s and 9’s 
+complement representation. 
+ 
+CO2 
+ 
+b)   Make flow chart of instruction cycle and explain it.  
+ 
+CO2 
+ 
+c)  Why addressing modes are required. Differentiate between 
+direct and indirect addressing modes with the help of suitable 
+example. 
+ 
+CO2

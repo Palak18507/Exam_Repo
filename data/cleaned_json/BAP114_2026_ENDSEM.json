@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP114_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP114",
+    "subject_name": "Climatology and Environmental Studies -II",
+    "program": "<B.Arch.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does a courtyard bring about thermal comfort?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define SHGC. What are its units?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Distinguish between solar altitude angle and solar azimuth angle with a neat sketch only.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is conductivity? Name a material with low thermal conductivity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a wind tower? Where it is used.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe evaporative cooling.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Name a country where mud is used as a traditional building material and explain why.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How is earth air tunnel used for Passive Cooling?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is a solar chimney? Explain its working in detail with sketches.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define Insulation. Differentiate between traditional and man- made insulation materials using examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the difference between summer solstice and winter solstice? Explain with the help of a neatly labelled diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is the width of the vertical shading device of a south facing window on 30th July at 1pm at 28 degrees N latitude, if the window width is 1.2m, solar altitude angle is 72 degrees, wall azimuth angle is 180 degrees and solar azimuth angle is 240 degrees? Use the given values: sin cos tan sec 60° 0.87 0.5 1.73 2 72° 0.95 0.31 3.08 3.23 240° -0.87 -0.5 1.73 -2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is the “U” value of a composite west wall, consisting of this construction: 12mm inside thick gypsum plaster , 230mm engineering brickwork , 50mm cavity with aluminum foil , 100mm concrete clinker aggregate block and 15mm outside limestone cladding ? Take outer surface resistance 1/fo=0.076 m2deg C/W and inner surface resistance 1/fi= 0.123 m2deg C/W.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How does the sun’s angle of incidence affect solar heat gain? If the angle of incidence is 90 degrees, and the SHGC is 0, what does it mean?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How can we use plants to prevent heat gain through radiation in a building? Explain with neat sketches.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe 1 vernacular architecture case study to showcase passive cooling or passive heating techniques, with sketches.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

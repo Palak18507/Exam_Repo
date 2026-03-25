@@ -1,0 +1,78 @@
+{
+  "paper_id": "AMC104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC104",
+    "subject_name": "Business Communication II",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write short notes on the following CO Mapping a State two challenges of online communication. 5 b Mention two netiquette rules for email communication 5 c Describe the structure of a cover letter. 5 d What are the characteristics of a formal report 5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "You are working on a multicultural team. How would you ensure ethical and culturally sensitive communication? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Your classmate has copy-pasted content from a website for a presentation. How would you guide them regarding plagiarism 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "You are asked to train interns on email etiquette. Create a brief training outline. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A customer calls your office with a complaint. Simulate the conversation showing how you would handle the call. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Draft a resume and cover letter for the position of a Marketing Executive in a startup. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "You have to give a classroom presentation on climate change. How would you structure your content and use visual aids? 10 ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Your team is planning a monthly meeting. Draft a notice, agenda, and a sample set of minutes. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a workplace letter informing an employee about a department transfer. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

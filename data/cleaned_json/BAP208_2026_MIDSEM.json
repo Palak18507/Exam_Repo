@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP208_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP208",
+    "subject_name": "History of Architecture IV",
+    "program": "as B. Arch.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Name the chronology of Sultanates in Delhi.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Name the chronology of emperors during the Mughal period in India.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Name 2 regions which were under the influence of Islamic provincial architecture in India.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Name 2 architectural projects of reckoning undertaken under Akbar.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the architectural evolution of Quwait-ul-Islam mosque under Qutbuddin Aibak and Iltutmish and Alauddin Khalji.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the architecture of any one mosque of your choice of provincial architecture category.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the architecture of Alai Darwaza in Quwait-ul-Islam mosque complex and its contribution to the then future of Islamic architecture in India.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Name 2 religious and 3 civic typology of buildings under Islamic rulers in India.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the architecture of any one architectural project under the Tughlaqs during the Sultanate period.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the architecture of Ghiasuddin Tughlaq’s tomb.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

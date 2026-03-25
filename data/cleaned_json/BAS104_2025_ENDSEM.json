@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAS104_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS104",
+    "subject_name": "Environmental Sciences",
+    "program": "<Environmental Sciences>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Which buffer solution is used in the determination of hardness using EDTA method in the water sample and what is its role?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the principle of determination of Chemical Oxygen Demand and why is it usually higher than Biochemical oxygen Demand in waste water.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the sources and sinks of SOx.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the concept of Atom Economy giving suitable example of green chemical synthesis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the common forms of chromium present in the environment? Which of these is most toxic?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are photosensitizers or promoters? Why are these added to polymers? Discuss.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the major challenges of green Hydrogen energy generation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Why is it necessary to have Environmental Impact Assessment before the development of any project?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the chlorination of water and significance of break point chlorination. 50 mL of standard hard water containing 1.5 mg of pure Ca per mL consumed 45 mL of EDTA. 40 mL of a water sample consumed 18 mL of the same EDTA solution using Eriochrome Black T as indicator. After boiling, 40 mL of the same water sample required 15 mL of the EDTA solution Calculate the temporary, permanent and total hardness of water sample.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the following: Steps involved in primary treatment of waste water Role of Plant-nutrients and pesticides in water pollution. A 100 mL alkaline water sample required 10 mL of N/50 HCl for phenolphthalein end point and 15 mL of N/50 HCl for methyl orange end point. Determine the types and extent of alkalinity present in the water sample.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the physical and chemical processes used for treatment of hazardous waste. What is the significance of ‘selection of renewable feedstock as starting material’ in a process? Give atleast two examples with suitable reactions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of carbon dioxide sequestration. What are various ways to sequester artificially? Enumerate the following: Sanitary landfill for waste disposal and treatment. Green reagents used in a process. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss how bio-plastics are manufactured giving two examples alongwith their important applications. Enumerate the various forms of mercury and describe their sources and biochemical effects.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write short notes on the following: Chemical interaction Impact of toxic metals on the enzymes Calculate the number average and weight average molecular masses of polypropylene polymer with the following composition: [-CH2-CH-]100 is 25 %, [-CH2-CH-]250 is 35 %, [-CH2-CH-]300 is 40 %. {Given that atomic mass of C = 12, H = 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the various ways by which ocean energy can be harnessed? Elaborate. What are the important environmental Laws? Discuss the functions of Central Pollution Control Board for the prevention, control and abatement of air pollution.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are the advantages and limitations of wind energy and geothermal energy? Write short notes on the following: Objectives of Environmental Management System. Pollution management initiative by government",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

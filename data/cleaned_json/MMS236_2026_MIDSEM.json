@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS236_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS236",
+    "subject_name": "Digital Marketing",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "List five differences between traditional and digital marketing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the evolution of digital marketing through different stages of web development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List some social media management platforms and their key features.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the different allocation criteria’s used for conversion attribution models.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the online marketing mix? Analyse its components and discuss how each is adapted in the digital context.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key characteristics of online consumers? Analyse how these characteristics affect digital marketing strategies and the development of online customer experience",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss customer relationship management . How does eCRM support businesses in building long-term relationships with customers in the digital era? Explain with reference to Hubspot CRM.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss how content management plays a crucial role in online marketing strategies. Analyse the challenges and best practices in managing content across various digital platforms.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Community marketing? Discuss some of the social media and community marketing objectives.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the usage and importance of different metrics supported by Google Analytics in traffic building strategies",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

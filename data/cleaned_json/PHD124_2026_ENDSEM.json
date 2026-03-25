@@ -1,0 +1,99 @@
+{
+  "paper_id": "PHD124_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD124",
+    "subject_name": "Foundations of R Software",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key reasons for using R in data analysis and statistical computing?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the use of conditional execution structures such as if, if-else, and switch in R.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are lists in R, and how are they different from vectors and data frames?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "How do you create, combine, and merge data frames in R? Give examples.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain how packages and libraries are used in R. How do you install and load a package?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How do you install R and RStudio, and what is the difference between them?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Compare the different types of loops in R i.e. for, while, and repeat with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the role of sequences in R and how they are created using the seq function.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the use of the gsub and sub functions in string substitution and replacement.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Define factors in R. What are class and unclass functions used for in relation to factors?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe how to create basic plots such as scatter plots, bar plots, and histograms in R.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the use of statistical functions like mean, median, and quantile in R.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

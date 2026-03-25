@@ -1,0 +1,143 @@
+1 
+ 
+(Please write your Enrollment Number)                       Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech(AI&DS), Semester: II 
+(May, 2025) 
+ 
+Subject Code: MCS 116 
+Subject: Computer Vision  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Explain Low-level, Mid-Level and High-level Computer Vison. 
+ 
+ 
+b) What is the difference between Perspective Projection and           
+     Orthographic Projection? 
+ 
+ 
+c) What are salt and pepper noise? Which filter is best suited to    
+    remove it? 
+ 
+ 
+d) What is the role of Regularization theory in motion estimation? 
+ 
+ 
+e) How do active contour(snakes) evolve to detect object  
+     boundaries? 
+ 
+ 
+f) Define Euler Number in shape representation. The word   
+  "COMPUTER VISION" is displayed in a binary image. Calculate Euler Number for it. 
+ 
+ 
+g) How do Gaussian Mixture Model (GMM) help in image  
+    segmentation? 
+ 
+ 
+h) What are Eigen faces? How do they simplify face recognition? 
+ 
+UNIT I 
+ 
+Q2 
+a) Explain the relationship between depth of field, aperture size, and brightness in 
+image formation. 
+b) A camera with a focal length f=40 mm has an aperture diameter d=8 mm. Calculate 
+the f-number and determine the hyperfocal distance h where the acceptable blur 
+circle diameter c=0.02 mm. How does changing the aperture diameter to d=4 mm 
+affect the depth of field? 
+(10) 
+Q3 
+a) Differentiate between Computer Vision and Computer Graphics.  
+b) In a pinhole camera setup, a 3D point in the camera coordinate frame is located at 
+(20, 10, 50) mm. The focal length of the camera is 25 mm, the scaling factors are 
+mx=10 pixels/mm and my=10 pixels/mm, and the principal point is at (100, 80) 
+pixels. Estimate the image coordinates (u, v) of this point on the image sensor. 
+    
+(10) 
+UNIT II 
+ 
+Q4 
+a) Explain the fundamental steps in digital image processing with the help of block 
+diagram. 
+b) Mention three image preprocessing techniques used for computer vision 
+application. 
+(10) 
+Q5 
+a) Explain the different edge detection techniques, highlighting their respective 
+advantages and disadvantages. 
+b) Briefly explain steps in structure from Motion. 
+(10) 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+UNIT III 
+ 
+Q6 
+a) Explain the difference between contour-based and region-based shape 
+representation techniques in image processing. Provide two examples for each 
+type. 
+b) Given the following 8-directional chain code for a boundary: 
+                               5 0 2 0 1 4 0 7 6 0 2 
+i. Compute the curvature values (change in direction) between consecutive 
+directions. 
+ii. Calculate the bending energy using the curvature values. 
+(10) 
+Q7 
+a) Explain the level set representation technique used in shape representation. 
+b) Consider the following object (image) of size (4 × 4): 
+F (x, y) y=1 
+y=2 
+y=3 
+y=4 
+x=1 
+2 
+1 
+4 
+3 
+x=2 
+0 
+3 
+2 
+1 
+x=3 
+1 
+2 
+0 
+3 
+x=4 
+3 
+1 
+2 
+0 
+Find: 
+i. 
+Mass of the object               ii.  Moment w.r.t. x-axis 
+iii. 
+Moment w.r.t. y-axis          iv. Centroid (𝑥̄, ȳ) of the object 
+(10) 
+UNIT IV 
+ 
+Q8 
+a) Explain how pattern recognition in computer vision helps in image understanding. 
+How Hidden Markov Model (HMM model) help in finding out the patterns? 
+(10) 
+Q9 
+ Describe the following computer vision techniques with any two applications given 
+below: 
+a) Foreground-background separation   b) Chamfer matching 
+c) Particle filters                                           d) Road sign identification 
+e) Human gait analysis 
+(10)

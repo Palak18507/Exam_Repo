@@ -1,0 +1,98 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech ECE(VLSI), Semester:2ND  
+(May, 2025) 
+ 
+Subject Code: MVD 120 
+Subject: Low Power VLSI Design 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why power estimation techniques are critical in low power design? 
+ 
+CO1 
+ 
+b) Differentiate between computing power and chip power. 
+ 
+CO1 
+ 
+c) Why a cascode structure is not suitable for low voltage design? 
+ 
+CO2 
+ 
+d) What is the effect of power supply scaling on the drive current of 
+MOS transistor? 
+ 
+CO2 
+ 
+e) What are the main advantages of bulk driven technique as 
+compare to conventional gate driven technique. 
+ 
+CO3 
+ 
+f) Explain Lithium ION technology. 
+ 
+CO3 
+ 
+g) Static power increases with shrinking device geometries. Justify. 
+ 
+CO4 
+ 
+h) What is the effect of Technology Scaling on power dissipation? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What are the degrees of freedom inherent in the low-power design 
+space? 
+(10) 
+CO1 
+Q3 
+The battery technology has failed to meet up the energy requirement 
+of the modern portable equipment” Explain. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe circuit level low power design strategies. 
+(10) 
+CO2 
+Q5 
+Elaborate on the use of pipelining and parallelism for low power 
+design. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss various challenges in the design of low voltage analog circuits. 
+(10) 
+CO3 
+Q7 
+Why FVF is widely used follower for low power applications? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+How body bias technique is helpful in power reduction in VLSI circuits. 
+(10) 
+CO4 
+Q9 
+Describe briefly SPICE model for floating gate MOS transistor. 
+(10) 
+CO4

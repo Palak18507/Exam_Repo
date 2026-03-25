@@ -1,0 +1,261 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<5> 
+(December, 2024) 
+ 
+Subject Code: BIT 303 
+Subject:  Artificial  Intelligence and Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define different components of learning agent with the help of diagram. 
+ 
+ 
+b) Differentiate between These environments:  
+ (i) Fully observable and partially observable, 
+(ii) Deterministic and stochastic. 
+ 
+ 
+c) Differentiate between information and knowledge using example. 
+ 
+ 
+d) What are the major steps of image classification? 
+ 
+ 
+e) Define heuristic function and Differentiate between intelligent search and non-
+intelligent search. 
+ 
+ 
+f) Name two real world application of AI. 
+ 
+ 
+g) Is NLP used in information retrieval?  
+ 
+ 
+h) Give two example of IOT based system. 
+ 
+UNIT I 
+ 
+Q2 (a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  The Following table shows   midterm exam and final exam marks for students in a 
+ase course: 
+               X 
+Midterm exam 
+Y 
+Final Exam 
+72 
+84 
+50 
+63 
+81 
+77 
+74 
+78 
+94 
+90 
+86 
+75 
+59 
+49 
+83 
+79 
+65 
+77 
+33 
+52 
+88 
+74 
+81 
+90 
+(6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ Use the linear regression predict the final exam grade of a student who 
+received 86 on midterm exam. 
+What are the various metrics which are evaluated to compare different classification 
+techniques? 
+(4) 
+ 
+Q3(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+(i)Illustrate the steps to induct the  decision tree for the data set given in Table 1 ,  
+(ii)  write down the rules that can be obtained from the decision tree, (iii) predict 
+the class for < Amit, middle, high > 
+Sno 
+Name 
+Age 
+Income 
+Loan-Decision 
+1 
+Ramesh 
+young 
+Low 
+No 
+2 
+Nimesh 
+young 
+High 
+No 
+3 
+Ritesh 
+middle 
+High 
+Yes 
+4 
+Mahesh 
+middle 
+Low 
+No 
+5 
+Shailesh 
+Senior 
+Low 
+Yes 
+6 
+Ramesh 
+senior 
+medium 
+yes 
+7 
+Mohan 
+senior 
+high 
+yes 
+8 
+Madhav 
+middle 
+Low 
+no 
+ 
+Build Naïve Bayes Classifier for above Table 1 and   predict the class for 
+ < Ravi, middle, high > 
+(6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+UNIT II 
+ 
+Q4 (a) 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ Consider the following facts: 
+      All man who are hard working or smart working attain success. All man  who 
+attain success and have saved money buy new house. Rohit is hard working 
+and  has good money. Rahul is neither hard working nor smart working  
+(i) 
+Represent theses sentences as wff., convert them to clause form 
+(ii) 
+Using backward chaining prove that Rahul does not buy a new 
+house. 
+ Describe knowledge representation using Ontology               
+(6) 
+ 
+ 
+ 
+ 
+ 
+(4) 
+Q5 
+Illustrate  the steps for following concepts: 
+(a)  Language modelling using any Neural Network. 
+(b) Image Classification using CNN. 
+(5+5) 
+UNIT III 
+ 
+Q6 
+Consider the OR graph shown in figure 1, where number written on edges 
+represent the distance between the nodes. The number written on nodes 
+represent the heuristic values. Find the most cost-effective path to reach from 
+(10) 
+3 
+ 
+start A to final state J using: (i) BFS  (ii)DFS,(iii) heuristic search .Cost is the 
+distance travelled                                    
+ 
+Figure(1) 
+ 
+Q7 (a) 
+(b) 
+Describe how fuzzy logic is used for problem solving using suitable example. 
+ Write down procedure of genetic algorithm and its application domains. 
+(5) 
+ 
+(5) 
+UNIT IV 
+ 
+Q8 
+Draw a Process flow diagram to build Expert system. Also describe the general 
+architecture of expert system with the help of medical diagnostic system that can 
+diagnose stomach related pain as diarrhea, dysentery or appendicitis.       
+(10) 
+Q9 
+Write short notes on  
+(a) Social Network Analysis,  
+(b)  Information retrieval. 
+(10)

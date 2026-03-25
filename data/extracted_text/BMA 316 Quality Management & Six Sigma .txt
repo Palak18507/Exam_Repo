@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech.: Sem: 6 
+(May, 2025) 
+ 
+Subject Code: BMA 316 
+Subject: Quality Management & Six Sigma 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+A 
+What is appraisal cost? Give example. 
+ 
+CO1 
+B 
+Define quality from different perspectives. 
+ 
+CO1 
+C 
+Discuss briefly reasons for benchmarking. 
+ 
+CO2 
+D 
+What is FMEA (Failure Mode Effect Analysis)? What are its 
+applications? 
+ 
+CO2 
+E 
+What is process capability? 
+ 
+CO3 
+F 
+What is SIPOC diagram? Where it is used? 
+ 
+CO3 
+G 
+What is Poka-yoke? Give one example. 
+ 
+CO4 
+H 
+How many defects are allowed in six sigma process? Explain 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain briefly the framework of TQM. Also discuss barriers of TQM 
+(10) 
+CO1 
+Q3 
+Discuss the contributions of Deming in Quality improvement process. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+With the help of suitable example explain different elements of House 
+of Quality.  
+(10) 
+CO2 
+Q5 
+With the help of suitable example, explain Taguchi Quality Loss 
+function.  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss IMPROVE phase of six sigma. Explain the process with the help 
+of a suitable tool used in IMPROVE phase. 
+(10) 
+CO3 
+Q7 
+Discuss MEASURE phase of six sigma process. Explain the process with 
+the help of a suitable tool used in MEASURE phase. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) In which phase of six sigma process, Pareto Diagram is used? 
+Draw a Pareto diagram for the data shown in Table 1 about 
+customer dissatisfaction in airlines. With the help of Pareto 
+diagram identify which of the problems should be addressed 
+first by the airlines. 
+Table 1 
+Reason 
+Count 
+Lost baggage 
+15 
+Delay in arrival 
+40 
+Quality of meals 
+20 
+Attitude of attendant 
+25 
+(5) 
+CO4 
+ 
+(b) In which phase of six sigma, fishbone diagram is used? 
+Construct a fishbone diagram for automobile accidents. 
+ 
+ 
+Q9 
+Discuss briefly the steps of implementation of six sigma process. 
+(10) 
+CO4

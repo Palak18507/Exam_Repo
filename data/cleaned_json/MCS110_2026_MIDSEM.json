@@ -1,0 +1,90 @@
+{
+  "paper_id": "MCS110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS110",
+    "subject_name": "Big Data Analytics",
+    "program": "M. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Big Data? Explain the key characteristics of Big Data . 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Hadoop Streaming, and how does it work? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain different types of Hadoop I/O compression techniques and their advantages. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss Hadoop Archives and how it optimizes storage in HDFS. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the architecture and components of Apache Hadoop with a diagram. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Hadoop ecosystem and its major components in detail. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What was the main challenge that led to the development of Hadoop? How does Hadoop analyze large datasets efficiently? 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe serialization in Hadoop and explain how Avro is used for efficient data storage. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the main components of HDFS, and what are their roles? Explain any two commands from the HDFS command-line interface. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the role of Flume and Sqoop in data ingestion. Compare their functionalities and describe their data flow processes. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

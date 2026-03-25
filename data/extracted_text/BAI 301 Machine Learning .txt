@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+B.Tech :<>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BAI-301 
+Subject: Machine Learning 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why is data cleaning an essential step in the machine learning 
+pipeline? 
+ 
+1 
+ 
+b) What is the importance of evaluation metrics in machine learning? 
+ 
+1 
+ 
+c) What is the difference between Ridge Regression and LASSO 
+Regression? 
+ 
+2 
+ 
+d) Define the kernel trick in Support Vector Machines. 
+ 
+2 
+ 
+e) What is k-means clustering, and how is it different from hierarchical 
+clustering? 
+ 
+3 
+ 
+f) Define Dimensionality Reduction. 
+ 
+3 
+ 
+g) What is meant by cross-validation, and why is it important? 
+ 
+4 
+ 
+h) Define ensemble learning and list its types. 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the Machine Learning Cycle with an example, highlighting key 
+stages like Train-Test Split, Validation Data, and K-Fold Cross 
+Validation. 
+(10) 
+1 
+Q3 
+Discuss the process of Data Exploration and Pre-processing, including 
+Data Objects and Attributes, Visualization, and Feature Extraction. 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain Logistic Regression in detail. How is it used for binary 
+classification? 
+(10) 
+2 
+Q5 
+Explain Naïve Bayes Classifiers with examples. 
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the process of Principal component analysis (PCA) and Linear 
+Discriminant Analysis (LDA). Give examples 
+(10) 
+3 
+Q7 
+Explain the Expectation-Maximization (EM) algorithm and its 
+application in clustering. 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss Bagging, Boosting, and Stacking with appropriate examples. 
+(10) 
+4 
+Q9 
+Explain the concept of Random Forests using an example. How does it 
+improve prediction accuracy compared to a single decision tree? 
+(10) 
+4

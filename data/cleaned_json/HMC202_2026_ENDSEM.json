@@ -1,0 +1,112 @@
+{
+  "paper_id": "HMC202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC202",
+    "subject_name": "Disaster Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions a Define the term \"hazard\" with an example. b Describe the post-disaster management strategies and their importance for long-term recovery. c What was the cause of the Bhopal Gas Tragedy? d What is meant by disaster vulnerability? e Explain the role of Remote Sensing and GIS in disaster management. f Describe the application of drones in disaster response and assessment. g What is the significance of mock drills in disaster preparedness? h Name the nodal agency for disaster management in India.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define disaster. Explain the concept of risk reduction with the help of a disaster scenario. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between preparedness, mitigation, and prevention in the pre-disaster phase with suitable examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between natural and man-made disasters and list any one mega disasters of India from each category. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the impact of the 2004 Indian Ocean Tsunami and lessons learnt. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How is mobile technology and ICT used in disaster risk reduction and management? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is NavIC and how is it different from GPS in disaster management applications? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the Disaster Management Act 2005? Describe its main provisions.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the structure and functions of the National Disaster Management Authority 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the importance and procedure of a fire drill in institutional buildings.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the methods of one-person and two-person rescue operations during a disaster? 10",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}l framework of Disaster Management under the Disaster Management Act, 2005. Highlight the role of NDMA.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT I",
+      "question_text": "Describe the steps involved in conducting fire and earthquake evacuation drills. How do these drills contribute to disaster preparedness?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

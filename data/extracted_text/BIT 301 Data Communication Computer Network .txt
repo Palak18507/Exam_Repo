@@ -1,0 +1,74 @@
+1 
+ 
+(Please write your Enrollment Number)                                   Enrollment No.:_________________ 
+END TERM EXAMINATION 
+(CBCS)(DCC) 
+Course Name: B. Tech (IT, CSE, ECE), Semester: 5th 
+(December 2024) 
+Subject Code: BIT-301 
+Subject: Data Communication Computer Networ
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+(a) Describe the Mesh, Bus and Ring Network Topologies with diagrams. List the merits and 
+demerits of one over another. 
+ 
+(b) Change IP addresses from dotted decimal to binary notation and find the Netid and the 
+Hostid of the following IP addresses: 
+(i).  112.34.2.8  
+(ii). 132.56.8.6 
+(iii) 208.34.54.12 
+ 
+(c) How congestion is controlled at the transport layer. Explain any one Congestion Control 
+Technique. 
+ 
+(d) What is the concept of Security on the Internet through Firewalls? Describe Scenarios of 
+Electronic Mail (E-mail). 
+UNIT-I 
+Q2 
+Describe the guided and unguided media with suitable examples. 
+(10) 
+Q3 
+What is the OSI Model Layered architecture? Described the functionality of each 
+Layer with suitable diagram. 
+(10) 
+UNIT-II 
+Q4 
+Compare the classful and classless addressing. In a block of addresses, the IP 
+address of one host is given as 25.34.12.56/16. What is the subnet mask, first 
+address (Network address) and the last address (Limited Broadcast Address) in 
+this block? 
+(10) 
+Q5 
+Describe the Distance Vector Routing and Link State Routing Protocols. List the 
+characteristics as well for both. Draw the table for the given network in Fig. 1 using 
+Distance Vector Routing Protocols. 
+ 
+Fig. 1 Network with Five Nodes from A to E. 
+(10) 
+UNIT-III 
+Q6 
+Illustrate and compare the concept of User Datagram Protocol (UDP) and 
+Transmission Control Protocol (TCP) based on header format, connection setup, 
+and termination process. 
+(10) 
+2 
+ 
+Q7 
+What do you mean by ARQ Technique? Explain it in detail with all the associated 
+classifications.  
+ 
+(10) 
+UNIT-IV 
+Q8 
+Describe HTTP, and DNS Protocols along with suitable diagrams.  
+(10) 
+Q9 
+Illustrate in depth the SSH and SSL Protocols with important steps involve in it. 
+(10)

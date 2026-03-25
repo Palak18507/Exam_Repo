@@ -1,0 +1,232 @@
+1 
+ 
+(Please write your Enrollment Number)                     Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+Course Name: B. Tech CSE-AI Semester:VI 
+(May, 2025) 
+ 
+Subject Code: BAI 306 
+Subject: Digital Image Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Explain the concept of gamma correction in image enhancement. How do 
+different values of gamma affect the output image intensity? 
+ 
+ 
+b) Why median filters are best suited for salt and pepper noise removal?  
+ 
+ 
+c) Explain the process of conversion of spatial domain image into frequency 
+domain using Fourier transform. 
+ 
+ 
+d) What is periodic noise in a digital image and how does it affect image quality? 
+ 
+ 
+e) State differences between Lossy and Lossless image compression.  
+ 
+ 
+f) What is pseudo color image processing? Discuss its applications in image 
+analysis. 
+ 
+ 
+g) Explain regional descriptors and boundary descriptors with an example each. 
+ 
+ 
+h) Explain morphology and different morphological Algorithms. 
+ 
+UNIT I 
+ 
+Q2 
+a) What is point processing in spatial domain? Discuss any two techniques. 
+b) Given a 3X3 grayscale image: 
+ 
+                                    [
+255
+200
+100
+100
+255
+200
+200
+100
+255
+] 
+ 
+(i) 
+Perform bit plane slicing and extract 0th and 7th bit plane. 
+(ii) 
+Apply Sobel filter Sx and Sy on (1,1) pixel. 
+(10) 
+Q3 
+a) A 3-bit grayscale image of size 16 × 16 (i.e., MN = 256 pixels) has the following 
+input image histogram. Perform histogram specification to match this image to 
+the desired histogram. 
+Input Histogram: 
+Gray 
+Level 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+No. of 
+pixels 
+4 
+6 
+14 
+22 
+36 
+48 
+60 
+66 
+ 
+Desired Histogram: 
+Gray 
+Level 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+No. of 
+pixels 
+0 
+6 
+18 
+28 
+32 
+46 
+58 
+68 
+(10) 
+UNIT II 
+ 
+Q4 
+a. Briefly explain the concepts of Inverse Filtering and Wiener Filtering in image 
+restoration with their mathematical formulae. 
+b. An image is degraded in the frequency domain by a blur function H(u,v) and 
+the observed image G(u,v) is: 
+ 
+(10) 
+2 
+ 
+               
+ 
+Using Inverse Filtering, compute the restored image F (u, v). Show all necessary 
+steps. 
+Q5 
+a. Define Image Restoration. Briefly describe the mathematical model of the 
+image degradation/restoration process.  
+b. An observed degraded image G(u,v) blur function H(u,v) and noise power 
+spectrum SN(u,v) and SF(u,v) are given in the frequency domain as: 
+ 
+     SN(u,v) =10   and  SF(u,v) = 1000. Compute the restored image F(u,v). Show all 
+necessary steps. 
+(10) 
+UNIT III 
+ 
+Q6 
+a) Describe the Canny Edge Detection algorithm in detail. Explain each of its main 
+steps and discuss how they contribute to accurate edge detection in images. 
+b) Given an RGB colour with R=51, G=76 and B=25 convert it to: 
+(i) CMYK values 
+(ii) Grayscale value 
+(10) 
+Q7 
+a) Explain the concept of redundancy in image data. Describe various types of 
+redundancy found in images. 
+b) A piece of information I is represented by 250 bits using code A, and the same 
+information is represented by 90 bits using another code B. Calculate the 
+compression ratio and the coding redundancy of code A in comparison to code 
+B. 
+(10) 
+UNIT IV 
+ 
+Q8 
+a) A binary image X and structuring element B are given. Calculate:  
+(i)  Xc 
+(ii) Y1= X⊕B 
+(iii) Y2=Xc ⊖B 
+(iv) Opening operation 
+(v) Closing operation 
+ 
+X:                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B: 
+  
+ 
+ 
+0 
+1 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+1 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+1 
+1 
+1 
+1 
+0 
+1 
+0 
+1 
+0 
+0 
+1 
+0 
+1 
+1 
+1 
+0 
+1 
+0 
+(10) 
+Q9 
+a) Compare structural methods with decision-theoretic methods in terms of their 
+approach to classifying patterns.  
+b) Explain the importance of pattern classes in developing a classification system 
+for object recognition.  
+(10)

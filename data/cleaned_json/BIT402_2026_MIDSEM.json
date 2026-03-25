@@ -1,0 +1,91 @@
+{
+  "paper_id": "BIT402_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT402",
+    "subject_name": "Information and Network Security",
+    "program": "B. Tech.",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is phishing, and how can users protect themselves from phishing attacks? Explain how information theft occurs. What measures can be taken to prevent it? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Encrypt the plaintext \"HELLO\" using the Playfair cipher with the key \"MONARCHY\". 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the value of ϕ ? What are the number of elements in Z14*? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Using the Fermat’s Little Theorem find the result of 312 mod 11. Also, find the result of 3-1 mod 7. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between active and passive attacks with suitable examples. Explain how each type affects cybersecurity. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the working of a Hill cipher and encrypt the plaintext \"ATTACK” using the key matrix: [2 3 3 6] . 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the differences between encryption and hashing on different aspects. Give examples on each of the symmetric encryption, asymmetric encryption, and a hash function. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using the Chinese Remainder Theorem, find the solution to the simultaneous equations: x ≡ 2 mod 3 x ≡ 3 mod 5 x ≡ 2 mod 7 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does the Diffie-Hellman Key Exchange securely establish a shared secret over an insecure channel? Illustrate with a step-by- step process. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the importance of key distribution and management in cryptographic security. Discuss the Key management life cycle. What challenges arise in secure key distribution? 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

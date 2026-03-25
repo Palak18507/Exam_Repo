@@ -1,0 +1,66 @@
+{
+  "paper_id": "BAI110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI110",
+    "subject_name": "PROGRAMMING WITH PYTHON",
+    "program": "B.TECH",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Write the output of the given code snippets with proper justification for i in range : if i%4!=0: continue else: print d = {\"a\": 1, \"b\": 2, \"c\": 3} print if v % 2 != 0}) import numpy as np arr = np.array view = arr[:, 1:] view[0, 0] = 99 print What are logical operators in Python? Explain with examples how they are used in decision-making. Write a program to delete the first occurrence of 10 from the list [20, 30, 10, 40, 50, 60, 10, 70], and then delete the second element from the updated list. What are keyword and default arguments in a function? Explain with an example. Describe the differences between syntax errors, runtime errors, and logical errors with examples. Explain the role of the pandas library in data analysis. Provide a basic example using a DataFrame.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Write a Python program to print the given series: 1/11-2/22+3/33....upto nth term Write a program to swap two numbers only if both numbers entered by the user are even.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a program to authenticate the admin by matching the entered name and password with the stored credentials. If the credentials match, print \"Welcome, Admin.\" If they do not match, print \"Try again.\" After three failed login attempts, print the message \"Your account has been blocked for one day.\" Print the following pattern using a while loop – 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write a program to read a CSV file and count the frequency of each word in it. Write a function that receives a list of student records and returns a list of top 3 scorers.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a Python script to create a dictionary named bike with the following keys: brand, model, and year. Initialize it with the values 'Yamaha', 'R15', and 2018 respectively. Then, update the year value in the dictionary to 2025, and print the list of updated dictionary values using the dict.values method. Example ouput: Original dictionary values: dict_values Updated dictionary values: dict_values Write a program to sort an unsorted tuple. Then, search for first even number and print its index, if such an element exists.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define the role of finally clause in exception handling. List different types of exceptions that can occur while performing file operations on a text file, with appropriate example code.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write a program that performs integer division and gracefully handles the case when the divisor is zero or input is invalid. Explain exception handling with examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

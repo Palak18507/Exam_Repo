@@ -1,0 +1,117 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <B.Tech>, Semester: <2> (Reappear) 
+(May, 2025) 
+ 
+Subject Code: BCS 110 
+Subject: Programming in C Language   
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the concept of memory, ALU, and registers in a computer 
+system. 
+ 
+CO1 
+ 
+b) What is the difference between bits, bytes, kilobytes, megabytes, and 
+gigabytes? Provide conversions for 1 GB to MB and 1 MB to KB. 
+ 
+CO1 
+ 
+c) What is a data type in C? Explain the basic data types in C with examples 
+(int, char, float). 
+ 
+CO2 
+ 
+d) Write a C program that uses the if-else statement to check if a given 
+number is odd or even. 
+ 
+CO2 
+ 
+e) Define arrays. Write a C program to find the sum of elements in a one-
+dimensional array. 
+ 
+CO3 
+ 
+f) Write a C program to print the first 10 natural numbers using the for 
+loop. 
+ 
+CO3 
+ 
+g) What are pointers in C? Explain the relationship between arrays and 
+pointers with an example. 
+ 
+CO4 
+ 
+h) Write a C program to swap two numbers using pointers. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the following concepts with an example: 
+a) System software (OS, compiler, interpreter) (5 Marks) 
+b) Logic development and flowchart for solving problems. (5 Marks) 
+(10) 
+CO1 
+Q3 
+Write a C program that accepts a number as input from the user and 
+displays its binary equivalent. Explain the output and conversion. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) What are the different data types in C? Explain with examples. (5 Marks) 
+b) Write a C program to check whether a given number is positive, 
+negative, or zero using if-else statements. (5 Marks) 
+(10) 
+CO2 
+Q5 
+Discuss the role of C expressions in program development. Explain 
+arithmetic operations, relational operators, and logical operators in C. 
+Write a C program that uses these operators to compare two numbers, 
+perform arithmetic operations on them, and display the results using 
+printf. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+ Explain the difference between for, while, and do-while loops with an 
+example for each. Write a C program to find the sum of elements in a one-
+dimensional array and explain how loops played a significant role here. 
+(10) 
+CO3 
+Q7 
+What are multi-dimensional arrays? Explain with an example of a 2D array. 
+Write a C program to multiply two matrices using two-dimensional arrays. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Write a C program to reverse a string using loops. Additionally, 
+demonstrate the use of at least three string library functions (such as 
+strlen(), strcpy(), strcat(), strcmp()) in your program. Explain 
+the role of each string function used and provide examples of their output. 
+(10) 
+CO4 
+Q9 
+What are structures and unions in C? Explain with examples. Write a C 
+program to create a structure that stores student information (name, roll 
+number, marks). Print the details of a student using the structure. 
+(10) 
+CO4

@@ -1,0 +1,120 @@
+{
+  "paper_id": "BIT419_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT419",
+    "subject_name": "Cyber Security and Forensics",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the security goals of any security Systems? How these goals are achieved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe any Security attacks that target to Operating System Industrial Sector",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly explain the steps involved in Forensics Investigation",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the common artifacts collected during a Windows forensic investigation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the main differences between Copying and imaging? How imaging of a device is done?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the purpose of the Indian IT Act, 2000?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the methodology of a phishing attack for identity theft",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What tools are commonly used for live data collection on Unix systems",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "An organization experiences a ransom-ware attack. Employees report that they are not able to access files, and a ransom note appears on multiple systems demanding payment in crypto-currency to decrypt the files. The IT team discovers that the attack originated from a phishing email containing a malicious link. The attackers have also taken sensitive data and are threatening to release it publicly if the ransom is not paid. a. What is the role of an Incident Response Plan in such a scenario? b. Who are the first Responders in the above case c. How can the organization isolate the infected systems to prevent further spread? d. What logs or artifacts would you analyze to trace the source of the attack?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain in detail about Incident Response Methodology and all the steps associated with it 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the steps involved in acquision of evidence from computer and electronic Evidence. How do you ensure data integrity and preserve evidence during an incident?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write notes on tools available in Cyber Forensics with respect to Disk, Mobile, email , Network Forensics and malware Forensics",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the following a. Data Base Forensics b. Information warfare",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "a. What is the importance of maintaining a chain of custody in computer forensics? b. What are the various sources for collecting the digital evidences?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the following a. steps involved in Email Forensics b. Section 66A of Indian IT act",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A company named X has noticed many suspicious entries and IP addresses while observing the log record. Some of the clients of X also noticed that they have been receiving a message prompts, redirecting them to payment gateway that looks suspicious. You being the forensics examiner, answer the following a. How will you ascertain if malware activity has taken place or malware is present in the system? b. How will you disinfect the malware infected machines c. How will you ensure that the malware has not spread to all the systems in the network? d. Perform the forensic investigation and trace the root cause",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

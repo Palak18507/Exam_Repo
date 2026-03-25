@@ -1,0 +1,84 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech (IT), Semester: 3rd 
+(December, 2024) 
+ 
+Subject Code: MIS 201 
+Subject: Ethical Hacking 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What is active and passive reconnaissance? 
+ 
+ 
+b) What are the steps for performing security audit of an organization? 
+ 
+ 
+c) What is a polymorphic and a metamorphic worm? 
+ 
+ 
+d) Explain Vishing and Smishing attacks. 
+ 
+ 
+e) Explain briefly SQL injection attacks and how it can be defended? 
+ 
+ 
+f) What do you mean by password sniffing? Is it active or passive attacks? 
+Justify your answer? 
+ 
+ 
+g) Explain Blind Hijacking and Session Hijacking. 
+ 
+ 
+h) What is Activity Profiling? 
+ 
+UNIT I 
+ 
+Q2 
+Explain all the phases of hacking.  
+(10) 
+Q3 
+Explain IT Act 2000.  Explain Section 66 of Indian IT Act. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the following: 
+1. Ingress Filtering 
+2. Egress Filtering 
+3. Honeypots 
+4. Load Balancing 
+5. Throttling 
+(10) 
+Q5 
+What is a computer trojan? Briefly explain any 6 purposes of a computer trojan. 
+Explain with an example how a trojan attack works. 
+(10) 
+UNIT III 
+ 
+Q6 
+Explain the working of: 
+a) SQL injection attack 
+b) Cross site scripting attack 
+(10) 
+Q7 
+Explain: 
+a) Ping of death attack 
+b) Webserver Hijacking 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain any 5 tools of Ethical Hacking. 
+(10) 
+Q9 
+What is dark Web? What are the layers of Web? Justify the ethical use of Dark 
+Web. 
+(10)

@@ -1,0 +1,209 @@
+{
+  "paper_id": "BIT306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT306",
+    "subject_name": "Data Mining and Machine Learning",
+    "program": "B.TECH",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "When would you use a decision tree instead of a linear model? Provide suitable examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is overfitting and underfitting in machine learning? How can it be avoided?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is meant by K-fold cross-validation? Explain with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the role of the learning rate in gradient descent? Describe the purpose of activation functions in neural networks and provide one example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How does an LSTM cell help in solving the vanishing gradient problem in recurrent neural networks?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define the kernel trick used in SVMs.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Mention any two types of evaluation metrics for regression models.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the importance of data preprocessing in machine learning pipelines? Give proper justification.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the steps of the Knowledge Discovery in Databases process in sequence, explaining each step briefly.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain how data cleaning and data transformation can significantly impact the accuracy of mining results.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the types of data used in data mining with suitable examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Using Python and Pandas, demonstrate how to normalize a dataset using Min-Max Scaling.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Decision Tree algorithm. What are the roles of information gain and Gini index in constructing the tree?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given the following dataset for a binary classification , compute the Gini index for a hypothetical split on a feature that partitions data into:  Subset 1: 12 samples  Subset 2: 8 samples Show your working and final value of the Gini index.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the best-fit slope and intercept for this dataset using the normal equations or any systematic approach.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Estimate the value of y for x=5 using your regression equation.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between hierarchical clustering and k-means clustering with respect to their approach, required parameters, and usage scenarios.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Give an example scenario where dimensionality reduction would be beneficial in a machine learning pipeline.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss k-Means Clustering with an emphasis on initialization of cluster centroids, iterative updates , and stopping criteria.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider a dataset of 2D points: {, , , , , } i. Illustrate how k-means clustering with k=2 might partition these data points after a 2 iterations. Show the possible cluster centers and membership. ii. Compute the sum of squared errors for your final clusters.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the basic architecture of a feedforward neural network and the role of backpropagation in training.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given a 28×28 grayscale image and a 3×3 filter , calculate the size of the output feature map after one convolutional layer. Then, if a 2×2 max pooling layer with stride = 2 is applied, what will be the final output size?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Suppose you have a simple neural network with one hidden layer. Describe how you would compute the forward pass for an input vector x. Include the notations for weights, biases, and activation functions.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain with appropriate calculations how an LSTM cell updates its cell state and hidden state given the following gate outputs and inputs:  Forget gate = 0.8  Input gate = 0.3  Candidate cell state = 0.6  Previous cell state = 0.5  Output gate = 0.9",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

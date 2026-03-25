@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI409_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI409",
+    "subject_name": "Conversational AI",
+    "program": "B.Tech.",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Conversational AI and explain the primary use cases for AI assistant technology. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the difference between task-oriented and conversational AI systems. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the role of entities in building a Conversational AI system? Provide an example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of confidence detection in AI assistants. Why is it important? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the key challenges in deploying an AI assistant in a production environment? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define the \"two-strikes rule\" and explain its significance in AI assistant design. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Describe the components of a dialogue system. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the term \"intent\" in Conversational AI and provide an example of how it’s used. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the different types of AI assistants and the platforms used to develop them. Discuss the key considerations in selecting the right platform for building a Conversational AI system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the process of designing and implementing an AI assistant. How do you combine user intents and entities, and what is the role of contextualizing responses in this process?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the design and management processes of building an effective conversational AI. Highlight the importance of dialogue management, disambiguation, and escalation in ensuring the success of the assistant.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the key conversational AI success metrics? How do they differ for command interpreters and event classifiers? Provide examples to support your answer.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "You are tasked with testing a newly developed AI assistant. Describe the methodology you would use for assessing its accuracy. How would you handle testing for single and multiple utterances?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Compare and contrast different testing methodologies used for conversational AI systems. Discuss the advantages and disadvantages of each approach.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the process of maintaining a deployed AI assistant. What are the key stages from development to production, and what challenges do organizations face during deployment?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain how AI assistant performance can be improved post-deployment. Discuss the importance of metrics analysis and gap identification in the training data.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

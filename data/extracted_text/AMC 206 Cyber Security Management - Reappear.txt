@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Reappear Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: 4 
+(May, 2025) -  
+ 
+Subject Code: AMC 206 
+Subject:  Cyber Security  
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) What is meant by "Information as an asset"? How does this concept 
+impact information security policies? 
+ 
+CO1 
+ 
+b) What are the best practices for securing a Windows PC. Mention 
+any three built-in security features of Windows OS. 
+ 
+CO2 
+ 
+c) What are the essential properties of a good cryptographic hash 
+function? 
+ 
+CO3 
+ 
+d) Describe the methodology used in cyber-attacks. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the CIA triad in Information Security. How do confidentiality, 
+integrity, and availability contribute to overall security? 
+(10) 
+CO1 
+Q3 
+Describe the Lollipop and Onion models of defense. How do they help 
+in securing information systems? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the significance of Wi-Fi security. How can users ensure safe 
+browsing on public networks? 
+(10) 
+CO2 
+Q5 
+What are the risks associated with using social media platforms like 
+WhatsApp or Instagram? Mention security settings that enhance 
+privacy. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the structure and importance of the Secured Hash Algorithm 
+(SHA). How does it differ from older hashing methods? 
+(10) 
+CO3 
+Q7 
+Explain the process of key management in cryptographic systems. 
+Why is it crucial? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are the major types of cybercrimes? Illustrate with examples 
+such as phishing and malware attacks 
+(10) 
+CO4 
+Q9 
+What are the major provisions of the Indian IT Act, 2000, and what 
+changes were introduced in its 2008 and 2011 amendments? 
+(10) 
+CO4

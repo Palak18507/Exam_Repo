@@ -1,0 +1,136 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. Semester: 6th Sem 
+(May, 2025) 
+ 
+Subject Code: BIT 308 
+Subject: Advanced Data Structure and Algorithm 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Define the divide-and-conquer algorithmic strategy. Illustrate with a 
+real-world example. 
+2.5 
+CO2 
+ 
+b) List four key real-world application areas of data structures. Justify 
+their relevance in each case. 
+2.5 
+CO1 
+ 
+c) Describe the working of the binary search algorithm for the list: [10, 
+18, 19, 20, 25, 28, 48, 55, 62, 70]. Implement a Python function to 
+search the element 25. 
+2.5 
+CO1, CO4 
+ 
+d) Differentiate between linear and non-linear data structures with 
+suitable examples. 
+2.5 
+CO1 
+ 
+e) Convert the infix expression A + B * (C - D) / (P - R) into both prefix 
+and postfix notations. Show the steps clearly. 
+2.5 
+CO1 
+ 
+f) Explain any two collision resolution techniques in hash tables. Provide 
+a use-case for each. 
+2.5 
+CO1 
+ 
+g) Explain the Ford-Fulkerson algorithm for solving the max-flow 
+problem. Demonstrate its application with a simple example. 
+2.5 
+CO3 
+ 
+h) Design an algorithm to search a person’s phone number from a 
+directory using first name and city. Discuss the data structure used. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Write a function GetNth() that accepts a singly linked list and an integer 
+index as input and returns the data value stored at the specified index. 
+Clearly explain your approach and provide a relevant example. 
+Example: Input List: 1 → 10 → 30 → 14, Index = 2 ⇒ Output: 30 
+ 
+(10) 
+CO1, CO4 
+Q3 
+Given a hash function h(key) = key mod 7 and the key sequence: 50, 
+700, 76, 85, 92, 73, 101, demonstrate how separate chaining is used to 
+handle collisions. Construct the resulting hash table. Additionally, 
+explain two advantages of using separate chaining for collision 
+resolution. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Convert the following infix expression into postfix notation (Reverse 
+Polish Notation) using a stack-based approach: 
+A + (B * C - (D / E * A * F) * H) 
+Clearly show each step involved in the conversion process. 
+(10) 
+CO1 
+Q5 
+Choose any one algorithm design technique from the following: Divide 
+and Conquer, Greedy, or Dynamic Programming. 
+a) Briefly describe the technique with a real-world application. 
+b) Solve a standard problem (e.g., Counting Inversions, Interval 
+Scheduling, or Subset Sum) using Python or pseudocode. 
+(10) 
+CO2, CO4 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Write the algorithm for Depth-First Search (DFS) to traverse a graph. 
+Apply your algorithm on the graph shown below, considering node 1 as 
+the starting point. Clearly show the order of traversal. 
+ 
+ 
+(10) 
+CO3 
+Q7 
+Explain the importance of different graph traversal techniques such as 
+BFS and DFS. Compare their strategies and illustrate real-world 
+applications where each is preferred. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Explain the Bianconi–Barabási model for evolving networks. Describe 
+its key features and how it extends the Barabási–Albert model. Discuss 
+at least one real-world application of this model in network analysis. 
+ 
+(10) 
+CO3 
+Q9 
+Airline scheduling is a practical application of network flow algorithms. 
+Explain how the Max-Flow problem and Ford–Fulkerson algorithm can 
+be applied to optimize airline routes or crew assignments. Identify key 
+constraints and demonstrate the role of augmenting paths or bipartite 
+matching in the solution. 
+(10) 
+CO4

@@ -1,0 +1,131 @@
+{
+  "paper_id": "BEC203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC203",
+    "subject_name": "Signals & Systems",
+    "program": "B.Tech.(ECE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define discrete time unit step & Unit impulse.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find whether the signal given by x = 5cos is periodic or Not?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the differences between Fourier series and Fourier transform?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write short notes on Dirichlet’s conditions for Fourier Transform.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Sketch the function x= u-2u.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you mean by Min Phase and Max Phase systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Differentiate between DTFT and Z-Transform.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss different properties of Region of Convergence of Z-transform.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Are the systems represented by the following equations LTI system or not? y = x + 3x + nx",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the convolution of two signals x = { 1, 1,0, 1, 1} and h = { 1, -2, -3, 4} and represent them graphically.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "The input and output of a causal LTI system are related by the differential equation, d2y/dt2+6dy/dt+8y=2x Find the impulse response of the system?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Find the Fourier series representation of a periodic square wave: f = 1 for 0<t<π = -1 for π<t<2π",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Find the Fourier transform of 1/ if F.T [e-atu] = 1/ 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Draw and explain the convergence of Fourier Series of square wave by illustrating the Gibbs phenomenon for different values of ‘N’",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Consider a sequence x Find its discrete time Fourier Transform .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are Dirichlet’s conditions? Discuss special cases of functions which violet different Dirichlet’s conditions. Explain such cases with graphical representation of these functions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Determine the z-transform and the ROC of the following signals:-",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

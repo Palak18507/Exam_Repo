@@ -1,0 +1,276 @@
+(Please write your Enrollment Number)                        Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (Business Intelligence) (OffLine) 
+Course Name: < MBA >, Semester: <4> 
+(May, 2025) 
+ 
+Subject Code: MMS 206 
+Subject: Business Intelligence 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How is data science used in business decision-making? 
+(2.5) 
+CO -1 
+ 
+b) How does a Decision Support System enhance managerial decision-
+making? 
+(2.5) 
+CO – 1 
+ 
+c) What do you understand by classification in data mining? Illustrate 
+its concept with a real-world example 
+(2.5) 
+CO – 2 
+ 
+d) How does data mining contribute to fraud detection? Discuss the 
+various methods used in this process. 
+(2.5) 
+CO – 2 
+ 
+e) Given the following dataset with missing values: 
+Age 
+Income 
+(₹000) 
+City 
+25 
+30 
+Mumbai 
+30 
+? 
+Delhi 
+35 
+45 
+? 
+? 
+50 
+Bangalore 
+40 
+60 
+Chennai 
+i. 
+Fill the missing values in the "Income" column using mean 
+imputation. 
+ii. 
+Fill the missing values in the "City" column using mode 
+imputation. 
+(2.5) 
+CO – 1 
+ 
+f) Name any three clustering techniques and briefly describe them. 
+(2.5) 
+CO – 2 
+ 
+g) Mention three key challenges businesses face when working with 
+big data. 
+(2.5) 
+CO – 1 
+ 
+h) Explain the role of handling missing values in data pre-processing? 
+(2.5) 
+CO - 1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+A retail company uses a Decision Support System (DSS) to predict 
+sales based on advertising spend. The company collects the following 
+data for monthly advertising spend (in ₹000) and monthly sales (in 
+₹000): 
+ 
+Month 
+Advertising Spend (X₁) 
+Sales 
+(Y) 
+1 
+10 
+20 
+2 
+15 
+25 
+3 
+20 
+30 
+4 
+25 
+35 
+5 
+30 
+40 
+ 
+i. 
+Apply Simple Linear Regression to model the relationship 
+between Advertising Spend (X₁) and Sales (Y). 
+ii. 
+Calculate the regression coefficients β₀ and β₁. 
+iii. 
+Predict the sales when the advertising spend is ₹35,000. 
+ 
+(10) 
+CO - 2 
+Q3 
+ What is a Decision Support System (DSS)? How does it differ from 
+traditional management information systems (MIS)? 
+(10) 
+CO - 2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the ethical challenges in Data Science? How can Data 
+Scientists ensure fairness, transparency, and eliminate bias in their 
+analyses and models? Provide real-world examples of ethical 
+dilemmas in data science applications 
+(10) 
+CO - 1 
+Q5 
+A company wants to evaluate three suppliers (S1, S2, S3) for 
+purchasing raw materials based on Cost, Quality, and Delivery Time. 
+The weights assigned to each criterion are as follows: 
+ 
+Cost: 0.4 
+ 
+Quality: 0.3 
+ 
+Delivery Time: 0.3 
+The data is as follows: 
+Supplier Cost (₹) Quality (Rating 1-10) 
+Delivery Time (Days) 
+S1 
+10000 
+8 
+5 
+S2 
+12000 
+7 
+4 
+S3 
+11000 
+9 
+3 
+ 
+i. 
+Normalize the data using Min-Max Scaling. 
+ii. 
+Calculate the weighted sum for each supplier. 
+iii. 
+Rank the suppliers based on the weighted sum. 
+ 
+(10) 
+CO - 1 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Given the following data points representing the height (in cm) and 
+weight (in kg) of customers: 
+{(150,45), (160,50), (170,60), (180,75), (165,55), (175,70)}  
+Apply K-Means Clustering with K=2K = 2K=2. 
+ 
+i. 
+Initialize the centroids. 
+ii. 
+Assign each data point to the nearest centroid. 
+iii. 
+Recalculate the centroids. 
+iv. 
+Repeat the steps until convergence. 
+v. 
+Provide the final clusters. 
+ 
+(10) 
+CO - 2 
+Q7 
+The following table shows the relationship between the number of 
+years of experience and the monthly salary of 6 employees in a 
+company. 
+Employee Years of Experience (X) 
+Monthly Salary (Y) 
+A 
+1 
+3000 
+B 
+2 
+3500 
+C 
+3 
+4000 
+D 
+4 
+4500 
+E 
+5 
+5000 
+F 
+6 
+5500 
+ 
+i. 
+Calculate the Pearson correlation coefficient (r) between 
+Years of Experience and Monthly Salary. 
+ii. 
+Test the hypothesis that there is no correlation between Years 
+of Experience and Monthly Salary at a 5% significance level. 
+ 
+(10) 
+CO - 2 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe Spearman's Rank Correlation. How does it differ from 
+Pearson’s correlation? In which scenarios would you opt for 
+Spearman's rank correlation over Pearson’s correlation? 
+(10) 
+CO – 2 
+Q9 
+The following table shows the ranks of 10 students in two subjects: 
+Mathematics and Science. 
+Student Math Rank (X) 
+Science Rank (Y) 
+A 
+1 
+4 
+B 
+2 
+2 
+C 
+3 
+5 
+D 
+4 
+1 
+E 
+5 
+6 
+F 
+6 
+8 
+G 
+7 
+3 
+H 
+8 
+7 
+I 
+9 
+9 
+J 
+10 
+10 
+i. 
+Calculate the Spearman’s Rank Correlation Coefficient (ρ). 
+ii. 
+Interpret the result of the correlation. 
+ 
+(10) 
+CO - 2

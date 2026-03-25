@@ -1,0 +1,141 @@
+{
+  "paper_id": "MCA103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA103",
+    "subject_name": "Database Management Systems",
+    "program": "MCA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is metadata in DBMS? Explain with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the significance of Foreign key? How it differs from Primary key? Give example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the use of %TYPE and %ROWTYPE in PL/SQL with proper syntax and example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Are selection works same as Projection in Relational Algebra? Yes/No. Justify your answer with example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Given R and FD: {A->B, BC->D, F->C, D->A}. Find the candidate key.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Given R and FD: {AB->CDE, D->A}. This given relation is in which normal form?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Cascading schedule is same as Cascadesless schedule in transaction management. Is the statement true? Justify your answer with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the necessary conditions of deadlock? Explain.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss about the assertions and triggers with suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "One Employee can enroll to one Department",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "One Customer can Order multiple items at a time",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Many Customer can Order same item at a time",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Many Student can enroll in many Course offered Assume the necessary attributes for each Entity and draw the ER Diagram for each condition given above. Covert the ER Diagram drawn in for each condition to Relational Table.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between PL/SQL and SQL. Write a program to print Odd or Even number using PL/SQL",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between Inner Join and Outer Join. Also discuss about different types Outer Joins with proper example. Consider the Relations as follows: Employees , 2 Departments , Projects Write the SQL statement for the queries given below: Find the total salary of employees working in each department along with the department name and location. list the names of employees who are working in the department with the highest budget. find departments where the total salary of employees exceeds 1,00,000. find the department name where the average salary is the highest. find the names of employees who are working on a project.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Every BCNF is a 3NF but vice-versa is not always true. Justify the given statement with proper example. Given R and FD: {A->B, B->C, C->A}. What is the candidate key of the relation? Also find in which normal form this relation belongs?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is the significance of Denormalization? How it differs from Normalization? Explain with suitable example. The given R and FD: {A->B, B->C, C->D} is in 2NF but not in 3NF. Covert the relation to 3NF.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the Locking based concurrency control protocols with example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is Serializability? Explain conflict serializability with example. Explain time stamping protocol for concurrency control with example.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

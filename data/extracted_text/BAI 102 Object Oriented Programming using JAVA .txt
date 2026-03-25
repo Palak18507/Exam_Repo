@@ -1,0 +1,111 @@
+(Please write your Enrollment Number)                                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B. Tech, Semester: 2nd     
+(May, 2025) - Reappear 
+ 
+Subject Code: BAI 102 
+Subject: Object Oriented Programming using JAVA 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a.  Differentiate between instance variables and class variables in Java with 
+suitable examples. 
+2.5 
+CO1 
+b.  Write a simple syntax to declare and initialize a one-dimensional array in 
+Java. 
+2.5 
+CO1 
+c.  How does runtime polymorphism work in Java? Illustrate with a scenario 
+involving method overriding. 
+2.5 
+CO2 
+d.  Why is the super() constructor call used in inheritance? Explain its 
+significance in constructor chaining. 
+2.5 
+CO2 
+e.  Compare FileInputStream and FileReader in terms of use cases in Java file 
+handling. 
+2.5 
+CO3 
+f.  What is the role of serialization in Java? Mention one real-world scenario 
+where it is applied. 
+2.5 
+CO3 
+g.  Why is Swing preferred over AWT in modern Java GUI applications? 
+Mention two key differences. 
+2.5 
+CO4 
+h.  In Java event handling, explain the relationship between Event Source, 
+Event Object, and Event Listener. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is method overloading in Java? How does it implement compile-
+time polymorphism? Explain with a program that defines an Area class 
+having overloaded methods to calculate the area of a square and a 
+rectangle. 
+(10) 
+CO1 
+Q3 
+Discuss the role of control statements in Java programming. Differentiate 
+between while, do-while, and for loops with syntax. Write a Java program 
+to print the first 10 even numbers using a loop of your choice. 
+(10) 
+CO1 
+UNIT - II 
+ 
+CO Mapping 
+Q4 
+Explain different types of inheritance supported in Java with the help of 
+diagrams. Why is multiple inheritance not supported through classes in 
+Java? Demonstrate how Java achieves multiple inheritance using 
+interfaces with a simple program. 
+(10) 
+CO2 
+Q5 
+What is an abstract class? How is it different from an interface? Explain 
+with suitable examples where using an abstract class is preferable over 
+an interface in Java application design. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is the difference between checked and unchecked exceptions in 
+Java? Write a Java program that demonstrates the use of try-catch-finally 
+blocks by handling an ArrayIndexOutOfBoundsException. Explain the 
+flow of execution. 
+(10) 
+CO3 
+Q7 
+Explain the concept of Generics in Java. How do generics improve type 
+safety in collections? Write a Java program to create a generic class Box 
+<T> that can store any data type and display its content. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the life cycle of a thread in Java with a neat diagram. Describe 
+different thread states and transitions with appropriate methods. 
+(10) 
+CO4 
+Q9 
+Describe the Delegation Event Model used in Java for event handling. 
+Write a Java program to create a simple GUI with a button using AWT, 
+where clicking the button displays a message. 
+(10) 
+CO4

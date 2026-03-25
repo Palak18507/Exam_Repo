@@ -1,0 +1,117 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< M.Tech CSE AI >, Semester:<2> 
+(May, 2025) 
+ 
+Subject Code:  MCS 102 
+Subject:  Deep Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Attempt all parts 
+(2.5*8=20) 
+CO Mapping 
+ 
+a)  Name 5 real world applications of Deep Learning. Give brief 
+description of each. 
+ 
+CO1 
+ 
+b)  How can predictive model be useful? Explain with two different 
+examples. 
+ 
+CO1 
+ 
+c) It is said that ‘data ‘is most important part of deep learning. Explain 
+with the help of suitable example. 
+ 
+CO2 
+ 
+d) Explain sigmoid function with the help of suitable diagram. 
+ 
+CO2 
+ 
+e) Define Gibbs sampling for training RBMS. 
+ 
+CO3 
+ 
+f) What is meant by Batch normalization? Give suitable example. 
+ 
+CO3 
+ 
+g) What is vectorial representation of words? 
+ 
+CO4 
+ 
+h) Explain difference between encoder-decoder models. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) How can we create two different data set for training and testing? 
+Suppose we take hourly temperature of our city for ten years. 
+What would be the best sampling method to work on this data? 
+Justify your answer. 
+(b) What is multilayer perceptron model? Explain with the help of 
+suitable example. 
+(5,5) 
+CO1 
+Q3 
+Explain the various gradient descents mechanisms to be used in a 
+deep neural network. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) What is the working principle of contractive Autoencoders? Why 
+they are useful. 
+(b) What is the importance of PCA? 
+(5,5) 
+CO2 
+Q5 
+(a) you are given a classiferC2 , that works only on two classes say A 
+and B. but you need to build a model for a dataset where the 
+target variables has four classes say A,B,C,D . How can you use C2 
+to build a classifier for the given dataset?   
+(b) Explain Greedy Layer wise pre-training. 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a)  What is the advantage of using CNN models? How is it different 
+from recurrent neural network? 
+(b) Explain the concept of learning vectorial representation of words, 
+with the help of suitable example. 
+(5,5) 
+CO3 
+Q7. 
+(a) What is the purpose of attention mechanism?  Explain in 
+detail giving a suitable example. 
+(b) List five open source data sets used for different purposes. 
+Explain any one of them in detail. How the concept of 
+multidimensionality array reduction can be used on this data 
+set. 
+(5,5) 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define the contrastive divergence for training RBMS. Explain with the 
+help of suitable example. 
+(10) 
+CO4 
+Q9 
+What is Trasformer model?  Explain its architecture and working with 
+suitable diagram? 
+(10) 
+CO4

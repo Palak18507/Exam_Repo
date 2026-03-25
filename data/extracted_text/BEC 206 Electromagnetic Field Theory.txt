@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ECE/ECE AI) (Semester: IVth) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 206 
+Subject: Electromagnetic Field Theory 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What do you mean by gradient of a scalar? 
+ 
+CO 1 
+ 
+b) Discuss Stoke’s Theorem. 
+ 
+CO 1 
+ 
+c) Derive relationship between E and V. 
+ 
+CO 1 
+ 
+d) Derive Gauss’s law in differential form. 
+ 
+CO 2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Derive the point transformation among cartesian, cylindrical 
+and spherical coordinates variables with the help of suitable 
+figures. 
+ 
+CO 1 
+ 
+b) The temperature in an auditorium is given by, T = x2 + y2 – z. A 
+mosquito at (1, 1, 2) in the auditorium desires to fly in such a 
+direction that it will get warm as soon as possible.   
+In what direction must it fly? 
+ 
+CO 2 
+ 
+c) Find the Laplacian of the following scalar fields 
+i) 𝑉1 = [𝑥2 + 𝑦2 + 𝑧2 ]
+3 2
+⁄    
+ii) 𝑉2 = 5 𝑟2𝑠𝑖𝑛 θ cos φ 
+ 
+CO 2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Determine which of the following are genuine electric fields. 
+     i) 𝐸1 = 5 𝑥3 𝑎𝑥+ 15 𝑥2 𝑦 𝑎𝑦 
+     ii) 𝐸2 =
+5
+𝑟𝑠𝑖𝑛 θ cos φ 𝑎𝑟 
+ 
+CO 1 
+ 
+b) Derive law of refraction of the electric field at a boundary free 
+of charge. 
+ 
+CO 2 
+ 
+c) Let D = 2xy 𝑎𝑥 + x² 𝑎𝑦 C/m² find 
+(a) The volume charge density 𝜌𝑣 
+(b) The flux through the surface 0 < x < 1, 0 < y < 1, z = 1 
+ 
+CO 2

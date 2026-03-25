@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAM310_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM310",
+    "subject_name": "Cyber Security and Forensics",
+    "program": "< B.TECH>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Version Control",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Pharming",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Trusted Shell",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Forensic Duplication",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Digital Signature",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Faraday Bag",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Sandboxing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Malware Forensics",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Analyze how identity fraud can be uncovered in digital systems through anomalies in authentication logs and metadata. Highlight the role of biometric spoofing and synthetic identity detection in forensic investigations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Evaluate a scenario where a data breach occurred despite authentication mechanisms being in place. Discuss how weak or misconfigured access control models could contribute to such incidents. Give suitable illustrations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Critically examine the Trusted Shell Execution in secure systems. How does it help prevent unauthorized command execution and ensure the integrity of shell operations?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Elucidate the concept of root-level privileges in the context of operating system security. Discuss how unauthorized access to root privileges can be exploited by attackers in a compromised system. Illustrate with a real-world case study involving privilege escalation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Investigate how cryptographic checksums assist in ensuring data integrity during forensic evidence acquisition. Discuss the consequences of mismatched checksums in chain-of-custody validation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "During forensic imaging of a compromised system, how does validation ensure the authenticity of acquired data? Assess the role of hashing algorithms in maintaining integrity of evidences.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Critically examine the role of behavioral or dynamic malware analysis in detecting process anomalies involving memory injection and stealthy persistence during forensic investigations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the procedural stages of mobile forensics with emphasis on issues related to data volatility, encryption, and evidence admissibility.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

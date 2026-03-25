@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Reappear End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+                Course Name: B.Tech      Sem: 1 
+(May, 2025) 
+ 
+Subject Code: BAI 106 
+Subject: Database Management Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Define Data Independence. 
+ 
+CO1 
+b 
+Explain the role of the Database Administrator. 
+ 
+CO1 
+c 
+What is BCNF? How does it differ from 3NF? 
+ 
+CO2 
+d 
+Differentiate between Strong and Weak Entity Sets. 
+ 
+CO2 
+e 
+Define Deadlock. How can it be prevented in DBMS? 
+ 
+CO3 
+f 
+What are ACID properties in transaction management? 
+ 
+CO3 
+g 
+What is a cursor in SQL? Briefly explain its types. 
+ 
+CO4 
+h 
+What is a Trigger in SQL? Give a suitable example. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the three-level architecture of DBMS with a neat diagram. How 
+does this architecture support data independence? 
+(10) 
+CO1 
+Q3 
+Compare and contrast the File System and DBMS in detail. What 
+problems of file systems are solved by DBMS? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Draw an ER diagram for an Online Shopping System. Identify entities, 
+relationships, attributes (with keys), and cardinalities. Convert the ER 
+diagram into relational schema. 
+(10) 
+CO2 
+Q5 
+Consider the following relations: 
+Employee(EmpID, Name, DeptID) 
+Department(DeptID, DeptName, Location) 
+Project(ProjectID, DeptID, Budget) 
+Write SQL queries for: 
+a) List names of employees working in ‘Sales’ department. 
+b) Find departments located in ‘Delhi’. 
+c) Increase budget of all projects by 10%. 
+d) Display employees along with their department name. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Explain Functional Dependencies and their role in normalization. 
+(b) Q: Consider the relation 
+R(A, B, C, D) 
+with the following set of functional dependencies: 
+F = { A → B, B → C } 
+The relation R is decomposed into two relations: 
+R1(A, B) and R2(B, C, D) 
+1) Is this decomposition lossless? Justify your answer using the lossless 
+join property. 
+2) If the decomposition is not lossless, suggest a correct decomposition. 
+(10) 
+CO3 
+Q7 
+(a) What is a transaction? Explain the ACID properties in detail. Discuss 
+concurrency control techniques and their role in ensuring consistency.. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the steps involved in query processing. How is query 
+optimization done, and what factors influence the cost of query 
+execution? 
+(10) 
+CO4 
+Q9 
+What is a trigger in PL/SQL? Write a program to create a trigger that 
+automatically inserts a log entry into a table Audit_Log whenever a new 
+employee is added to the Employee table. 
+(10) 
+CO4

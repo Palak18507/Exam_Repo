@@ -1,0 +1,112 @@
+{
+  "paper_id": "BMS333_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS333",
+    "subject_name": "Marketing Analytics",
+    "program": "BBA",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the following marketing metrics:  Customer Acquisition Cost  Return on Marketing Investment",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is discounting future revenues important when calculating customer lifetime value ?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is conjoint analysis, and why is it used in market research?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "How did Medfirst India underutilize data analytics in its decision-making processes?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How can a business use marketing metrics to improve its campaign effectiveness? Provide examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A marketing team wants to evaluate the success of a content marketing strategy. Suggest three key metrics they should track and why.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the components and steps involved in calculating customer lifetime value .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A dataset has three attributes: price, rating, and sales volume. Describe how you would process the data for K-Means clustering.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the total utility for a product that is Blue and costs ₹ 500.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Calculate the total utility for a product that is Blue and costs ₹ 1000.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Imagine you are conducting a conjoint analysis for a coffee brand. List three potential attributes and levels you would include in the study. Justify the choice.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "\"MFI launched its marketing campaigns across all channels. In order to maximize reach, all campaigns were nationwide and did not specifically target any geographical areas. The expectation was that the campaigns via various channels would bring prospective customers to the website and that the website would play the pivotal role in conversion. They found that the bulk of the business came from four or five Tier 1 cities, with the majority of the buyers being smaller hospitals and clinics.\" Why was the decision to launch nationwide marketing campaigns without targeting specific geographical areas a challenge for Medfirst India?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "“Despite these mishaps, a wealth of data flowed into the MFI data dashboard. For instance, MFI was able to analyze regional and state revenues and average order values. MFI could have analyzed the performance of individual campaigns, including customer acquisition costs, conversion rates, and the effectiveness of specific channels such as PPC and Facebook ads. However, they missed out on analyzing customer behavior metrics such as bounce rates and session durations, which could have provided deeper insights.\" Despite data mismanagement, how did the availability of regional and state revenue data provide Medfirst India with valuable insights? How could these insights have been better leveraged to optimize marketing efforts?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

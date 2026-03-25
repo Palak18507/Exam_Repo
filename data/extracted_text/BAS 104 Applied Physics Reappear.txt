@@ -1,0 +1,92 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION (Reappear) 
+(Course Name: B. Tech.) (Semester: Second) 
+(March 2025) OFF LINE mode 
+Subject Code: BAS 104 
+Subject: Applied Physics-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+a) 
+Prove that in free space, the electromagnetic waves are transverse 
+waves. 
+ 
+1 
+b) 
+Derive the equation of continuity for current. What happens if the 
+volume charge density is independent of time? 
+ 
+1 
+c) 
+Taking a simple cubic lattice, draw the crystal planes corresponding to 
+the given Miller Indices (2 0 0), (1 1 0), (0 0 2̅).                                               
+ 
+2 
+d) 
+Explain Bloch theorem for one dimensional periodic potential. 
+ 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2 =10) 
+ 
+a) 
+Derive the equation governing electromagnetic wave propagation in a 
+conducting medium. Discuss the key characteristics of its solution. 
+ 
+1 
+b) 
+Explain Poynting’s theorem and its significance in electromagnetics. 
+How does it describe the flow of energy in an electromagnetic field? 
+Discuss the role of the Poynting vector in this context. 
+ 
+1 
+c) 
+What is displacement current? An electric field in a capacitor varies 
+as 𝐸= (5 × 106) sin(109𝑡)𝑉/𝑚. The capacitor has a plate area of 
+0.01𝑚2 and a plate separation of 1 mm. The medium between the 
+plates has 𝜀𝑟= 3. Find the displacement current density as a function 
+of time. What will be the value of maximum displacement current? 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2 =10) 
+ 
+a) 
+Discuss the Kronig-Penney model for the motion of electrons in a 
+periodic potential. Explain the formation of allowed and forbidden 
+energy bands using the 𝐸−𝐾 Diagram. 
+ 
+2 
+b) 
+Discuss the formation of acceptor and donor energy levels in extrinsic 
+semiconductors. How does the introduction of these levels influence 
+the position of the Fermi level in n-type and p-type semiconductors? 
+ 
+2 
+c) 
+Given a lattice with primitive lattice vectors: 
+                     𝑎⃗=
+1
+2 𝑎 𝑥̂,       𝑏⃗⃗=
+1
+2 𝑎 𝑥̂ + √3
+2 𝑎 𝑦̂,       𝑐⃗= 4𝑎 𝑘̂  
+where 𝑥̂, 𝑦̂  and 𝑘̂ are unit vectors along 𝑥, 𝑦 and 𝑧 axes respectively, 
+and 𝑎 is the lattice parameter. Determine the volume of the primitive 
+unit cell. Also, find the reciprocal lattice vectors corresponding to 𝑎 
+and 𝑏. 
+ 
+2

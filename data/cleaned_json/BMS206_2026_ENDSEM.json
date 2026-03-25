@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS206_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS206",
+    "subject_name": "International Business Management",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define International Business.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is FDI and how is it different from FPI?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define any one international business theory.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Mention any two effects of globalization on business.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is meant by Distinctive Competitive Advantage?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define cross-border mergers and acquisitions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is country risk analysis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Mention any two components of Global Human Resource Management.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the scope and challenges of international business in the current global context.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role of international financial institutions like IMF, World Bank and IDA in facilitating international business.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the process of technology transfer and its impact on global business competitiveness.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Critically analyze whether imposing tariffs will help the U.S. achieve long-term competitive advantage in international business.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the different types of strategies used by global organizations to achieve a competitive advantage.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of financial integration and its implications for international businesses.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "As a manager, what strategies would you implement to effectively manage cultural differences and ensure smooth collaboration across the international team? Support your answers with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the process and challenges of managing human resources in a global environment. Include selection, development and motivation in your answer.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

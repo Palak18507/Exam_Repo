@@ -1,0 +1,90 @@
+{
+  "paper_id": "BCS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS104",
+    "subject_name": "Mobile Application Development",
+    "program": "B. Tech (CSE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "i) What is the role of the Gradle build system in Android Studio? ii) Explain the use of the Emulator in mobile development IDEs. iii) Name the key components of an IDE for mobile development. 1 + 1 + 0.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "i) How does Google Play Store differ from Apple App Store in terms of app publishing? ii) Differential between native, Progressive Web App and hybrid apps with example 1 + 1.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between MVC, MVP and MVVM with the help of an example and diagram. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "i) What is event-driven programming in Android? Explain with an example. ii) How does the setOnClickListener method work in Android? Write a Kotlin code snippet to demonstrate its usage. 1.5 + 1 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "i) What is Mobile Application Development, and why is it important? ii) What are the key characteristics of mobile applications? iii) What is Workflow of mobile development application? Explain with example 1 + 2 + 2 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "i) How does the Application Lifecycle work in Android? Explain with a diagram. ii) Write a Kotlin program snippet that logs messages in Logcat when the activity goes through different lifecycle states . 3 + 2 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "i) What is a Mobile Operating System? Explain its role in mobile devices. ii) What are the key differences between Android, Windows and iOS Operating systems? iii) How does using a source code repository improve team collaboration? Describe the steps involved in cloning a repository, making changes, and pushing them back to a remote repository using Git commands. 1+2+2 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Event Handling Mechanism in Android. Discuss the different types of input event management in detail. 5 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Property animation, View Animation and Drawable animation with the help of an example. 5 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "i) What is Jetpack Compose. Why is it used? ii) Differentiate between View and ViewGroup. iii) Explain any two types of android layout. 1+2+2 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

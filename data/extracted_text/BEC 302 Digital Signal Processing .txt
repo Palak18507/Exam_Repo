@@ -1,0 +1,136 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.Tech. ECE, Semester: 6 
+(May, 2025) 
+ 
+Subject Code: BEC 302 
+Subject:  Digital Signal Processing (DSP) 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) State & explain the Time reversal and Complex Conjugate 
+property of DFT. 
+ 
+CO1 
+ 
+b) What are the differences and similarities between DIF and DIT 
+algorithms?  
+ 
+CO1 
+ 
+c) Write the important features of IIR filters.  
+ 
+CO2 
+ 
+d) What is the FT of unit step function and sketch the frequency 
+spectra for the same. 
+ 
+CO2 
+ 
+e) What are the cases, when an IIR filter is preferable over an FIR 
+filter? 
+ 
+CO3 
+ 
+f) Explain Frequency Sampling Realization of FIR filter. 
+ 
+CO3 
+ 
+g) What is decimation? When it is performed?  
+ 
+CO4 
+ 
+h) Give few methods to prevent the overflow.  
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Find the 8-point DFT of the following Sequences by using DIT FFT 
+algorithm:  
+                            x(n) = {1,1,1,1,0,0,0,0}  
+(10) 
+CO1 
+Q3 
+Find the DFT of the Sequence x(n) defined by  
+x(n) = 1 for 2 ≤ n ≤ 6  
+= 0 for n = 0, 1 and 7 
+Use DIF algorithm. Give all intermediate results. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Design a Chebyshev IIR digital low pass filter to satisfy the constraints 
+using bilinear transformation method and assuming T= 1s.  
+                                   0.707≤│H(ω)│ ≤1 ; 0 ≤ ω ≤ 0.2π  
+                                              │H(ω)│ ≤0.1 ; 0.5 π ≤ ω ≤π 
+(10) 
+CO2 
+Q5 
+Design a Butterworth IIR low pass filter with the following 
+specifications: pass band Ripple αp =1 dB, stop band attenuation αs =40 
+dB, pass band edge frequency is 2 KHz, stop band edge frequency 10 
+KHz, Sampling frequency is 25 KHz. Use the bilinear transformation 
+technique. 
+(10) 
+CO2 
+ 
+2 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) What is meant by linear phase filters? Describe the procedure 
+of designing linear phase FIR filters by Fourier Transform 
+method. Illustrate with the help of high pass filter design 
+example. 
+(b) Give windowing function w[n] for at least four different 
+windows. Which window is most popular and efficient? 
+ 
+(5x2=10) 
+CO3 
+Q7 
+(a) Determine if the following FIR systems are minimum phase, 
+maximum or mixed phase 
+  
+(i) h(n) = [10, 9, -7, -8, 0, 5, 3] 
+(ii) h(n) = [5, 4, -3, -4, 0, 2, 1] 
+ 
+(b) An FIR filter is given by the difference equation 
+ 
+Y(n) = 2. x(n) + (13/2). x(n-1) + (5/4). x(n-2) + (2/3). x(n-3) 
+ 
+              Determine its lattice form. 
+(5x2=10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) What are the applications of multi rate digital signal 
+processing?  
+(b) Explain the spectrum of down sampling.  
+ 
+(5x2=10) 
+CO4 
+Q9 
+(a) Explain the interpolation process. How it is different from 
+Decimation?  
+(b) How do you change the sampling rate by arbitrary factor? 
+(5x2=10) 
+CO4

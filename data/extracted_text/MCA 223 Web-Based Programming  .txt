@@ -1,0 +1,116 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<3rd Sem.> 
+(December, 2024) 
+ 
+Subject Code: MCA  223  
+Subject: Web-Based Programming  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the difference between the <div> and <span> tags in HTML? 
+ 
+CO1 
+ 
+b) What is responsive design in CSS? How does it help in creating 
+websites for different screen sizes? 
+ 
+CO1 
+ 
+c) What is the difference between == and === in JavaScript? 
+ 
+CO2 
+ 
+d) How do you send an AJAX request in jQuery? Give suitable example. 
+ 
+CO2 
+ 
+e) What is the difference between “echo” and “print” in PHP? 
+ 
+CO3 
+ 
+f) How does the ‘foreach’ loop work in PHP? 
+ 
+CO3 
+ 
+g) What is a container in Bootstrap and how is it used? 
+ 
+CO4 
+ 
+h) In AngularJS, what is the role of a controller? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Create a web page, showing an unordered list of names of all the 
+Department names in your institution. 
+b) Discuss the significance of HTML5. What new features were 
+introduced in HTML5 compared to older versions? 
+(5+5= 10) 
+CO1 
+Q3 
+Create a webpage that displays a list of products in a grid layout using 
+CSS. Each product should have an image, title, description, and price. 
+Apply CSS to style the products and make the grid layout responsive. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is a JavaScript callback? How are callbacks used in asynchronous 
+operations? Discuss the concept of callback hell and its solutions. 
+(10) 
+CO2 
+Q5 
+What is event handling in JavaScript? Discuss different ways to attach 
+events to elements and the concept of event delegation using suitable 
+example. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Explain how forms work in PHP. How can you process form data, 
+validate user inputs, and sanitize the data before processing it? 
+b) Create a PHP script to check if a given string is a palindrome. 
+(5+5= 10) 
+CO3 
+Q7 
+a) Explain how string manipulation works in PHP. Discuss common 
+string functions and methods like concatenation, escaping, and 
+formatting strings. 
+b) Write a PHP script to reverse a string without using any built-in PHP 
+functions. 
+(5+5= 10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) Explain the concept of a grid system in Bootstrap. How does it 
+facilitate responsive design? 
+b) How does AngularJS differ from other JavaScript frameworks, and 
+what advantages does it provide for building dynamic web 
+applications? 
+(5+5= 10) 
+CO4 
+Q9 
+a) Explain the MVC (Model-View-Controller) architecture in the 
+context of Django. How does it help in organizing the code for large 
+web applications? 
+b) What are the key features of Ruby on Rails that make it suitable for 
+rapid web application development? 
+(5+5= 10) 
+CO4

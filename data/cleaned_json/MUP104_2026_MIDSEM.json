@@ -1,0 +1,91 @@
+{
+  "paper_id": "MUP104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP104",
+    "subject_name": "Planning Legislation and Governance",
+    "program": "M.Plan",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the definition of law?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between an act and ordinance?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the 3 types of laws recognized in the Indian constitution?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Name the 3 tiers of Government in the Indian Governance system.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does the study of Planning laws and legislation contribute to urban planning and management?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain succinctly the administrative governance structure of India.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Critically write about the roles of Urban Development Authorities and Urban local bodies in urban planning and urban management in India.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the system of Administrative Governance in India and its relation to urban governance.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Structure of Name and explain some constitutional provisions related to the urban in India.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the 73rd and 74th CAA? Explain their significance in improving urban planning and management in India.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

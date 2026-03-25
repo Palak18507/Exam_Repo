@@ -1,0 +1,165 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: MBA, Semester: II 
+(May, 2025) 
+ 
+Subject Code: MMS 114 
+Subject: Management Accounting 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define the role of management accounting as controller. 
+ 
+CO1 
+ 
+b) Illustrate the scope of management accounting in business 
+decision making. 
+ 
+CO1 
+ 
+C)  
+ABC Ltd. supplies you the following data: 
+Direct material cost                       Rs. 48,000 
+Direct wages                                   Rs. 22,000 
+Variable overheads 
+                 factory   
+                 Adm. and selling            
+ 
+Rs. 13,000 
+Rs. 2,000 
+Fixed overheads 
+                 factory   
+                 Adm. and selling            
+ 
+Rs. 20,000 
+Rs. 8,000 
+Sales 
+Rs. 1,25,000 
+ 
+Prepare an income statement under absorption costing. 
+ 
+ 
+CO2 
+ 
+d) What is Cost-Volume-Profit Analysis? 
+ 
+CO2 
+ 
+e) What is the activity-based approaches to management? Illustrate 
+with suitable example. 
+ 
+CO3 
+ 
+f) What is black flush costing? Explain the conditions of black flush 
+costing? 
+ 
+CO3 
+ 
+g) What is sunk cost? 
+ 
+CO4 
+ 
+h) What is zero based budgeting? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What 
+is 
+management 
+accounting? 
+What 
+are 
+its 
+main 
+characteristics? 
+(10) 
+CO1 
+Q3 
+How is management accounting differing from cost accounting and 
+financial accounting? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is marginal costing? Describe its application in business 
+decision making. 
+(10) 
+CO2 
+2 
+ 
+Q5 
+Part A  
+Following data is given: 
+Selling price    =       Rs. 150 per unit 
+Variable cost  =       Rs. 90 per unit 
+Fixed Cost       =       Rs. 6,00,000 
+ 
+(a) Estimate the breakeven point. 
+(b) Estimate selling price per unit if B.E.P. is 12,000 units. 
+ 
+Part B  
+The following data is given 
+Total fixed cost   =   Rs. 12000               
+Selling price        =    Rs. 12 per unit 
+Variable cost       =    Rs. 9 per unit 
+What will be the amount of sales if it is desired to earn a profit of  
+(a) Rs. 6000        (b) Rs. 15000 
+(5*2) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is quality costing? What are its major components? 
+(10) 
+CO3 
+Q7 
+Define life cycle costing? What are the major types and stages of 
+LCC? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+The expenses budgeted for production of 10,000 units in the 
+factory are furnished below: 
+Rs. per unit 
+Materials                                                                                                    70  
+Labor                                                                                                            25 
+Variable overheads                                                                                   20   
+Fixed overheads (Rs. 1,00,000)                                                               10 
+Variable expanses (direct)                                                                        5 
+Selling expenses (10% fixed)                                                                    13 
+Distribution expenses (20% fixed)                                                           7 
+Administration Expenses (Rs. 50,000)                                                    5 
+                                                                                               Total             155 
+Prepare a budget for the production of:  
+(a) 8,000 units                   (b) 6,000 units  
+ 
+Assume that administrative expenses are rigid for all levels of 
+production. 
+(10) 
+CO4 
+Q9 
+A company is planning to implement a responsibility accounting 
+system to improve accountability and performance across 
+departments. As a management consultant, explain how 
+responsibility accounting can be applied in different departments.  
+(10) 
+CO4

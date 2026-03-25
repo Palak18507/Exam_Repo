@@ -1,0 +1,85 @@
+{
+  "paper_id": "MCS109_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS109",
+    "subject_name": "AI Based Programming Tools",
+    "program": "<M.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Write a program to implement Boolean and relation calculator using functions of any AI programing Language Prolog / LISP and justify its salient features w.r.t how it is suitable for AI What are the salient features of NumPy and Pandas for AI programming and demonstrate the same with the help of any program What is file object in Python and explain its attributes with the help of any program Differentiate Lists , Data Frames and Vectors in R language and write any program by using above data structures CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Write a program to demonstrate the use of logic-based programming languages with suitable example for solving AI domain problems. What are the salient features of the Logic based programing languages over conventional programing languages",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "Write a program to implement any 5 salient features of LISP / Prolog",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Write a Recursive Programs to calculate a factorial of a give number and sum of first n natural numbers given by the user and demonstrate the use of object- oriented oriented programing concepts of Python",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Write a python program to implement the functions and its different parameters passing techniques by creating a one module by the name AIPT. Use the same to output the results with proper code. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "You need to implement OOPS concepts through a python program to store patient records of hospital who are suffering from the fever. With the above problem statement. Write a method to calculate average temperature for a week of each patient, rank them in terms of temperature. Use the constructor, destructor and inheritance in the program.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "You need to implement File handling in Python w.r.t above question Q6. Write a program to create source file of python by file name “Patients Text”. Write the data of any 2 patients, read the same and display, append the 2 more patients’ data at the end and finally rename the file patient. Text into “Current patient. Text”. 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "With reference to Q6, Write a R- Program using R- functions and data structures to calculate average temperature of all patents, rank of each patent w.r.t temperature, arrange the patents in increasing order of their temperature.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "a. With are the salient features of R-Language and demonstrate any of the five feature with suitable code and explain. b. Differentiate between Python and R- Programming languages w.r.t to AI Applications",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

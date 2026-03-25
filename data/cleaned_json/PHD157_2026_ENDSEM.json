@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD157_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD157",
+    "subject_name": "Bioclimatic Architecture: Futureproofing with Simple",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions. Write short note on: a What encompasses a Built Environment? 2.5 b Why is Building orientation and form important? 2.5 c What is Urban Heat Island effect? 2.5 d Name one vernacular façade insulating technique? 2.5 e Define HVAC in term and function? 2.5 f What is PCM integrated glazing? 2.5 g What is a Thermosiphon Heater? 2.5 h What is a roof pond system? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain Climatic classification of Koppen and Candolle with examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe how window positioning in cross ventilation acts like a passive cooling system? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe with illustrations the working of any one roof system for insulation and cooling. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe Mahoney’s tables and how users can define parameters of building design from it? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How does a double skin green façade work? Illustrate. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How do cavity walls work and what are their limitations? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the advantages of a Radiant cooling system? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe any passive design strategy in Cold Climate. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

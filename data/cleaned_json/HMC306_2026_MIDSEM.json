@@ -1,0 +1,90 @@
+{
+  "paper_id": "HMC306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC306",
+    "subject_name": "Financial Management",
+    "program": "B. Tech.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Financial Management, and why is it important for businesses?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Goal of Financial Management.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the difference between bonds and debentures.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the factors affecting capital structure.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the Time Value of Money . Explain its significance with suitable examples and outline its key assumptions.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the type of Decisions a financial manager has to take. Explain how these decisions are interrelated.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Mr Dhawan borrowed Rs. 7, 00,000 to buy a Machine. If he pays Equal Installments for 20 Years @8% P.A. Compute Amount of Installments",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "1. What do you understand by the term perpetual and irredeemable preference share? 2. Define cost of Equity with relevant examples? 2.5 2.5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define WACC? Explain its significance in Financial decision-making with relevant examples. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The following is the capital structure of ABC Ltd. Sources of Capital Amount Cost of Capital of Sources Equity Share Capital 60,00,000 18% 14% Preference Share Capital 10,00,000 ? 12% Debentures of Rs. Each 30,00,000 ? The tax rate for the given period is 20%. Calculate WACC. 5 Calculators are allowed.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAS301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS301",
+    "subject_name": "Modeling and Simulation",
+    "program": "B.Tech (CSE/IT/ECE",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the advantages of the mathematical modeling?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is validation so important in modeling and simulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Generate a sequence of 2 random integers with constant multiplier 13 and modulus 64 with X0=4.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Apply Runge-Kutta method of second order to solve the initial value problem 𝑑𝑦 𝑑𝑥= −2𝑥−𝑦, 𝑦 = −1. Find 𝑦 with h=0.1.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Find the equilibrium point of 𝑥𝑛+1 = 5 4 .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the dynamic model which describes drug delivery problem.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the assumptions in the Least Square method?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "There is congestion on the platform of a railway station. The trains arrive at a rate of 30/days. The service time for any train is Exponential distribution with an average of 36mins. Calculate Mean queue size.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain any three classifications of systems according to the nature and type of components.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is system modeling? Differentiate between physical systems and conceptual systems with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the components of a Monte Carlo Simulation? Also, compute the value of  using Monte Carlo Simulation method.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Approximate the integral ∫ 1 𝑥+𝑒𝑥 2 1 𝑑𝑥 with n = 3 by using Trapezoidal and Simpson’s 1 3 rules up to 5 decimal places. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define Linear Difference equation. Consider a population growing each year by 3%. Emigration occurs at a constant rate of 2500 per year. Find the strength of the population after 10 years if the current strength is 120000.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Assume a single infected individual migrates into an area containing n individuals susceptible to a disease. Write the mathematical equations of the SI model by considering suitable parameters, and solve the formulated model. Write the mathematical equations describing SIS model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Differentiate between Single and Multiple Linear Regression? Find the line of best fit for the following data Find how many people will attend the show if ticket price is 14? Ticket Price 2 5 8 10 No. of people attending 80 90 110 140",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "At a one man barber shop customers arrive according to Poisson distribution with a mean arrival rate of 5/hr. The hair cutting time is Exponential distribution with a hair cut taking 10 min on an average assuming that the customers are always willing to wait, find: Average number of customer in the shop. Average waiting time of a customer. The percent of time an arrival can walk right without having to wait. The probability of a customer waiting more than 5mins.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

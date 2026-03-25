@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAI102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI102",
+    "subject_name": "Object Oriented Programming using JAVA",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a. Differentiate between instance variables and class variables in Java with suitable examples. 2.5 b. Write a simple syntax to declare and initialize a one-dimensional array in Java. 2.5 c. How does runtime polymorphism work in Java? Illustrate with a scenario involving method overriding. 2.5 d. Why is the super constructor call used in inheritance? Explain its significance in constructor chaining. 2.5 e. Compare FileInputStream and FileReader in terms of use cases in Java file handling. 2.5 f. What is the role of serialization in Java? Mention one real-world scenario where it is applied. 2.5 g. Why is Swing preferred over AWT in modern Java GUI applications? Mention two key differences. 2.5 h. In Java event handling, explain the relationship between Event Source, Event Object, and Event Listener. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is method overloading in Java? How does it implement compile- time polymorphism? Explain with a program that defines an Area class having overloaded methods to calculate the area of a square and a rectangle.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role of control statements in Java programming. Differentiate between while, do-while, and for loops with syntax. Write a Java program to print the first 10 even numbers using a loop of your choice.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Explain different types of inheritance supported in Java with the help of diagrams. Why is multiple inheritance not supported through classes in Java? Demonstrate how Java achieves multiple inheritance using interfaces with a simple program.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "What is an abstract class? How is it different from an interface? Explain with suitable examples where using an abstract class is preferable over an interface in Java application design.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is the difference between checked and unchecked exceptions in Java? Write a Java program that demonstrates the use of try-catch-finally blocks by handling an ArrayIndexOutOfBoundsException. Explain the flow of execution.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of Generics in Java. How do generics improve type safety in collections? Write a Java program to create a generic class Box <T> that can store any data type and display its content.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the life cycle of a thread in Java with a neat diagram. Describe different thread states and transitions with appropriate methods.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the Delegation Event Model used in Java for event handling. Write a Java program to create a simple GUI with a button using AWT, where clicking the button displays a message.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

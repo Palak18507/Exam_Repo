@@ -1,0 +1,92 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: MCA, Semester: 3rd  
+(December, 2024) 
+ 
+Subject Code: MCA 203 
+Subject: Big Data and NoSQL 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) Distinguish between structured and unstructured data. 
+2.5 
+ 
+b) Can you list down examples of Big Data in present scenario? 
+2.5 
+ 
+c) Why we need Distributed File System? 
+2.5 
+ 
+d) Do we need specific computational architecture for distributed big data 
+paradigm? Justify your answer. 
+2.5 
+ 
+e) Can you differentiate between a job and workflow?  
+2.5 
+ 
+f) Explain the terms Data as a resource and ethics for data in Big Data 
+paradigm. 
+2.5 
+ 
+g) What is unique about Unique ID in MongoDB? 
+2.5 
+ 
+h) How Apache Pig - Grunt Shell differs from normal OS shells? 
+2.5 
+UNIT I 
+ 
+Q2 
+Following Examples of Big Data in Various Domains may be explained:  
+a. Healthcare 
+b. Algorithmic Trading 
+c. Medicine  
+d. Web Analytics 
+(10) 
+Q3 
+What are Key Properties of CAP Theorem and tradeoff in Big Data System given 
+CAP? How Bloom Filters acts in Big Data paradigms? 
+(10) 
+UNIT II 
+ 
+Q4 
+How Hadoop architecture matches the requirements of Big Data Analysis? Given 
+HDFS, explain Name Node and Data Node Daemons in HDFS.  
+(10) 
+Q5 
+a. Explain PIG as a language for Information extraction from databases and 
+HIVE as a report generator in distributed databases. 
+b. How Data integrity, compression, I/O and serialization in HDFS meets map-
+reduce algorithmic requirements? 
+(10) 
+UNIT III 
+ 
+Q6 
+a. Given Map-reduce, How YARN fulfills the resource manager roles and 
+performs Job shuffling, scheduling and sorting? 
+b. Also explain MemCached functions in holding the results of API calls, 
+Database Calls and page rendering etc. 
+(6,4) 
+Q7 
+a. How Zookeeper ensures coordination among cloud applications?   
+b. Explain the functionality of Tokyo Cabinet as Database of Databases.  
+(5,5) 
+UNIT IV 
+ 
+Q8 
+How HIVE works on top of Map reduce and Supports SQL like environment through 
+Definitions, Manipulations and Queries? 
+(10) 
+Q9 
+Write short notes on the following with at least application as context: 
+a. NewSQL 
+b. NuoSQL 
+(10)

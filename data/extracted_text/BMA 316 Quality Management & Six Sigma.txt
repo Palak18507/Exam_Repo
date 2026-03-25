@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: VI) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 316 
+Subject: Quality Management & Six Sigma Applications 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Assume suitably missing data if any 
+and highlight it. Use of calculator is allowed.  
+ 
+Q1 
+Answer the following questions briefly. 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is the need of quality control? 
+ 
+CO1 
+ 
+b) List the dimensions of product quality. 
+ 
+CO1 
+ 
+c) What is non-conformity? Explain with the help of suitable example.  
+ 
+CO2 
+ 
+d) What is risk priority number used in failure mode and effect analysis? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) A food industry manufacturer of packaged drinking water has to meet rigid 
+standards in the field. Product design, precision manufacturing equipment, 
+and raw material/component quality from suppliers are all important. 
+Product failure at the customer level is quite expensive and could cost Rs. 
+2,50,000 for each occurrence. Yearly expenditures for the past year are 
+shown in Table 1. Analyze various quality cost components. What 
+proportion are they of total quality costs? Find the total quality cost as a 
+proportion of manufacturing costs and sales and comment on “Should 
+senior management stress less on design issues?” 
+TABLE 1: Quality Cost Expenditures 
+Cost Categories 
+Amount (Rs.) 
+1. Review and update of design 
+20,00,000 
+2. Planning for quality through quality 
+improvement teams 
+5,00,000 
+3. Operator training 
+2,00,000 
+4. Maintenance of ISO certification 
+10,00,000 
+5. Vendor selection 
+2,00,000 
+6. Incoming raw material inspection 
+3,00,000 
+7. Calibration of test equipment 
+1,00,000 
+8. In-house product testing 
+4,00,000 
+9. Scrap costs of non-conforming product 
+5,00,000 
+10. Failure within warranty period 
+10,00,000 
+11. Manufacturing cost 
+7,00,00,000 
+12. Sales 
+10,00,00,000 
+ 
+ 
+CO1 
+ 
+b) What is Quality Trilogy as proposed by Juran. Explain briefly. 
+ 
+CO1 
+ 
+c) Briefly explain the framework of TQM. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is correlation matrix in QFD? Explain briefly with the help of an 
+example. 
+ 
+CO2 
+ 
+b) Write the steps to do benchmarking. What are the applications of 
+benchmarking? 
+ 
+CO2 
+ 
+c) Explain Taguchi Quality Loss Function. 
+ 
+CO2

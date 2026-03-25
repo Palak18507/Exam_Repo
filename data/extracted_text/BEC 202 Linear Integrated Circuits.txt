@@ -1,0 +1,92 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ECE/ECE-AI) (Semester: 4th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 202 
+Subject: Linear Integrated Circuits (LIC) 
+Time: 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain the function of the Level Shifter stage of an op-amp. Also, 
+give circuit for the same. 
+ 
+CO1 
+ 
+b) What is cross over distortion in output stage of op-amp? How it is 
+eliminated? 
+ 
+CO1 
+ 
+c) Explain the Barkhausen criterian for oscillators. 
+ 
+CO2 
+ 
+d) Draw input versus output waveforms for op-amp differentiator for 
+Sine wave and Square wave inputs. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw comparison of uncompensated op-amp with dominant-pole 
+and pole-zero frequency compensated op-amps in terms of their 
+Gain vs frequency curves, transfer functions, advantages, and 
+disadvantages. 
+ 
+CO1 
+ 
+b) Define Common Mode Rejection Ratio (CMRR). If CMRR of a 
+differential amplifier using an op-amp is 100 dB and the output 
+voltage for a differential input is 2V. Find out the common mode 
+gain in dB. 
+ 
+CO1 
+ 
+e) Define the following Op-amp parameters and also explain their 
+respective compensation circuits:- 
+i) 
+Input Offset Current 
+ii) 
+Total Output Offset Voltage 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw and explain the operation of Wien Bridge Oscillator. Calculate 
+mathematical expressions for its frequency of oscillation and Gain 
+‘A’ for sustained oscillations. 
+ 
+CO2 
+ 
+b) Draw circuit diagram of log-amplifier with saturation current and 
+temperature compensation and calculate output voltage V0 for this 
+circuit. 
+ 
+CO2 
+ 
+c) What is hysteresis width? In the below circuit of Schmitt trigger, R2 
+= 100 Ω, R1 = 50 kΩ, Vref = 0 V, vi = 1 Vpp (peak-to-peek) sine wave 
+and saturation voltage =  ± 14 V. Determine threshold voltages VUT 
+and VLT. 
+ 
+ 
+CO2

@@ -1,0 +1,189 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+Course Name: B.Tech (CSE-AI, ECE-AI), Semester: II  (For Reappear Students) 
+(March 2025) OFFLINE mode 
+ 
+Subject Code: BAS 108 
+Subject: Probability and Statistics 
+Time: 1 ½ Hours 
+Maximum Marks: 30 
+ 
+Note: Q1 is compulsory. Attempt any two parts from Q2 and Q3.  
+ 
+Q1 
+Attempt all the parts. 
+(2.5*4=10) 
+CO 
+Mapping 
+ 
+a) Two fair dice are thrown. Find the probability of getting 
+doubles or the sum of 7? 
+ 
+CO1 
+ 
+b) For a moderately skewed distribution, the mean and median 
+are respectively 26.8 and 27.9. What is the mode of the 
+distribution? 
+ 
+CO1 
+ 
+c) Check whether the following function is joint density function 
+or not. 
+𝑓(𝑥, 𝑦) = {
+2
+5 (2𝑥+ 3𝑦);    0 ≤𝑥≤1, 0 ≤𝑦≤1
+0              ;               𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+ 
+ 
+CO2 
+ 
+d) Given the joint probability distribution function 
+ 
+ 
+ 
+Find 𝑃(𝑌= 3|𝑋= 2). 
+y     x 
+1 
+2 
+3 
+1 
+0.05 
+0.05 
+0.10 
+3 
+0.05 
+0.10 
+0.35 
+5 
+0.00 
+0.20 
+0.10 
+ 
+CO2 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Attempt any two parts. 
+(5*2=10) 
+ 
+ 
+a) An aircraft maintenance company bought an equipment for 
+detecting structural defects in aircrafts the equipment detects 
+defects and give alarm when they actually exist is 95% while if 
+gives false alarm in 1% of the tests. If 2% of the aircrafts actually 
+have structural defects, what is the probability that an aircraft 
+actually has a structural defect given that the equipment gives 
+an alarm? 
+ 
+CO1 
+ 
+b) Consider a random variable X with the following probability 
+mass function: 
+ 
+Determine the value of k. Also, find the mean of X. 
+xi 
+-2 
+-1 
+0 
+1 
+2 
+3 
+f(xi) 
+0.1 
+k 
+0.2 
+2k 
+0.3 
+k 
+ 
+CO1 
+ 
+c) Calculate the mean and median for the following frequency 
+distribution: 
+x 
+31-
+35 
+36-
+40 
+41-
+45 
+46-
+50 
+51-
+55 
+56-
+60 
+61-
+65 
+66-
+70 
+71-
+75 
+f 
+9 
+6 
+15 
+3 
+1 
+2 
+2 
+1 
+1 
+  
+ 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q3 
+Attempt any two parts. 
+(5*2=10) 
+ 
+ 
+a) Find marginal density functions from the following joint 
+density function: 
+𝑓(𝑥, 𝑦) = {10 𝑥 𝑦2 ;           0 < 𝑥< 𝑦< 1
+0        ;          𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+ 
+ 
+CO2 
+ 
+b) Given the joint density function 
+𝑓(𝑥, 𝑦) = {
+6 −𝑥−𝑦
+8
+;           0 < 𝑥< 2,   2 < 𝑦< 4
+0        ;          𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+ 
+Find 𝑃(1 < 𝑌< 3|𝑋= 1). 
+ 
+CO2 
+ 
+c) Suppose the joint mass function of  𝑋 and 𝑌 is given by the 
+following table: 
+ 
+ 
+ 
+ 
+Find the covariance of X and Y. 
+y     x 
+0 
+1 
+2 
+0 
+3/28 
+9/28 
+3/28 
+1 
+3/14 
+3/14 
+0 
+2 
+1/28 
+0 
+0 
+ 
+CO2

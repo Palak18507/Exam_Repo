@@ -1,0 +1,36 @@
+{
+  "paper_id": "BMA110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA110",
+    "subject_name": "Engineering Mechanics",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1.5Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Draw the free body diagram of the sphere supported as shown in Figure 1. Define Cone of Friction. Locate the Centroid of the lamina shown in Figure 2. 5 cm 10 cm 5 cm 15cm Figure 2 Explain the perfect, deficient and redundant frame.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 CO Two forces, P and 2P, have a resultant of 260 N. If the direction of the larger force is reversed and the other remains unaltered, the resultant becomes 180 N. Determine the magnitude of the two forces and the angle between them. Note: Q. 1 is compulsory. A roller of weight 600N rests on a smooth inclined plane and is kept free from rolling down by a string as shown in the Figure 3. Work out tension in the string and reaction at the point of contact. Figure 3 A uniform ladder of mass 20 kg and length 5 m is placed against a smooth and frictionless vertical wall with its lower end 3.5 m away from the wall. If the ladder is just to slip, determine the coefficient of friction between the ladder and the floor.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 CO A rectangle has width ‘b’ and height h ’. Calculate the centroid for the of the rectangle. Determine the moment of Inertia Ixx and Iyy of the plane area shown in Figure 4 about its centroidal axes. Figure 4 Determine the forces in each member of the truss loaded as shown in Figure 5 Figure 5",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

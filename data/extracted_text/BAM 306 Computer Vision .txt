@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. AI-ML) (Semester: VI ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAM- 306 
+Subject: Computer Vision 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Explain the challenges faced in Image Classification. 
+ 
+CO1 
+ 
+b) What is the significance of clustering and where it is applied in 
+computer vision tasks. 
+ 
+CO2 
+ 
+c) Explain purpose of pooling in a CNN. You may take help of any 
+CNN model known to you to explain your answer. 
+ 
+CO1 & CO4 
+ 
+d) Write short note on any one. 
+     (i) Loss function Metrics 
+     (ii) Data Augmentation to overcome Over fitting problem in CNN   
+ 
+CO1 & CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the Salient point for Data Driven approach in computer 
+vision with help of practical example. 
+ 
+CO2 
+ 
+b) Outline any three major challenges faced in computer vision with 
+support of a practical example. 
+ 
+CO1 
+ 
+c) List and explain any three types of Neural Networks. 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a)  Explain the steps involved in a KNN algorithm stating clearly the 
+convergence condition. Explain the method used to fix the final 
+number of centroid. 
+ 
+CO2 
+ 
+b) Explain what is Batch Normalisation and Drop out in context of 
+Over fitting problem. 
+ 
+CO1 
+ 
+c) Write short Note on any one. 
+    (i) LeNet 
+   (ii) AlexNet 
+ 
+CO4

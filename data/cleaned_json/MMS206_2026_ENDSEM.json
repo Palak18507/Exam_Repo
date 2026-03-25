@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS206_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS206",
+    "subject_name": "Business Intelligence",
+    "program": "< MBA >",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How is data science used in business decision-making? CO -1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does a Decision Support System enhance managerial decision- making? CO – 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What do you understand by classification in data mining? Illustrate its concept with a real-world example CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does data mining contribute to fraud detection? Discuss the various methods used in this process. CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Given the following dataset with missing values: Age Income City 25 30 Mumbai 30 ? Delhi 35 45 ? ? 50 Bangalore 40 60 Chennai i. Fill the missing values in the \"Income\" column using mean imputation. ii. Fill the missing values in the \"City\" column using mode imputation. CO – 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Name any three clustering techniques and briefly describe them. CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Mention three key challenges businesses face when working with big data. CO – 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the role of handling missing values in data pre-processing? CO - 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "A retail company uses a Decision Support System to predict sales based on advertising spend. The company collects the following data for monthly advertising spend and monthly sales : Month Advertising Spend Sales 1 10 20 2 15 25 3 20 30 4 25 35 5 30 40 i. Apply Simple Linear Regression to model the relationship between Advertising Spend and Sales . ii. Calculate the regression coefficients β₀ and β₁. iii. Predict the sales when the advertising spend is ₹35,000. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is a Decision Support System ? How does it differ from traditional management information systems ? CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the ethical challenges in Data Science? How can Data Scientists ensure fairness, transparency, and eliminate bias in their analyses and models? Provide real-world examples of ethical dilemmas in data science applications CO - 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A company wants to evaluate three suppliers for purchasing raw materials based on Cost, Quality, and Delivery Time. The weights assigned to each criterion are as follows:  Cost: 0.4  Quality: 0.3  Delivery Time: 0.3 The data is as follows: Supplier Cost Quality Delivery Time S1 10000 8 5 S2 12000 7 4 S3 11000 9 3 i. Normalize the data using Min-Max Scaling. ii. Calculate the weighted sum for each supplier. iii. Rank the suppliers based on the weighted sum. CO - 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Given the following data points representing the height and weight of customers: {, , , , , } Apply K-Means Clustering with K=2K = 2K=2. i. Initialize the centroids. ii. Assign each data point to the nearest centroid. iii. Recalculate the centroids. iv. Repeat the steps until convergence. v. Provide the final clusters. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "The following table shows the relationship between the number of years of experience and the monthly salary of 6 employees in a company. Employee Years of Experience Monthly Salary A 1 3000 B 2 3500 C 3 4000 D 4 4500 E 5 5000 F 6 5500 i. Calculate the Pearson correlation coefficient between Years of Experience and Monthly Salary. ii. Test the hypothesis that there is no correlation between Years of Experience and Monthly Salary at a 5% significance level. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe Spearman's Rank Correlation. How does it differ from Pearson’s correlation? In which scenarios would you opt for Spearman's rank correlation over Pearson’s correlation? CO – 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "The following table shows the ranks of 10 students in two subjects: Mathematics and Science. Student Math Rank Science Rank A 1 4 B 2 2 C 3 5 D 4 1 E 5 6 F 6 8 G 7 3 H 8 7 I 9 9 J 10 10 i. Calculate the Spearman’s Rank Correlation Coefficient . ii. Interpret the result of the correlation. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

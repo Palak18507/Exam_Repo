@@ -1,0 +1,77 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech) (Semester: 2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 104 
+Subject: Digital Electronics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Simplify the Boolean function F (A, B, C) = A'B + AB' + A'B' using 
+a K-map. 
+2.5 
+Unit I 
+ 
+b) Convert the Gray code (1010)₂ into binary code. 
+2.5 
+Unit I 
+ 
+c) What is the race-around condition in a J-K flip-flop? How is it 
+avoided? 
+2.5 
+Unit II 
+ 
+d) Differentiate between flip-flops and latches. 
+2.5 
+Unit II 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw the circuit diagram of a half adder and a half subtractor. 
+Derive their Boolean expressions and truth tables. 
+5 
+Unit I 
+ 
+b) Draw and explain the working of a 4-bit magnitude comparator 
+using logic gates. 
+5 
+Unit I 
+ 
+c) Design an XNOR gate using only NAND gates. 
+5 
+Unit I 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is setup time and hold time in flip-flops?  
+5 
+Unit II 
+ 
+b) Differentiate between a serial-in serial-out (SISO) shift register 
+and a parallel-in parallel-out (PIPO) shift register. 
+5 
+Unit II 
+ 
+c) What is a Johnson counter? Explain how a 4-bit Johnson 
+counter works using a shift register, state table, and timing 
+diagram. 
+5 
+Unit II

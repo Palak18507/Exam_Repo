@@ -1,0 +1,96 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MCA>, Semester:<1> 
+(December, 2024) 
+ 
+Subject Code:MCA-205  
+           Subject: Software Testing and Quality Assurance 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+ (5*4=20) 
+CO Mapping 
+ 
+a) Explain the various steps of the regression testing process. Which step is the most 
+important and why? 
+3 
+ 
+b) Consider a program that determines the next date. Given a month, day and year as 
+input, it determines the date of the next day. The month, day and year have integer 
+values subject to the following conditions: C1 : 1<= month <=12 C2 : 1 <=day <=31 and 
+C3 : 1900 <=year <=2025.Create equivalence classes and generate test cases. 
+2 
+ 
+c)Explain: i) Software Testing process  ii) Test case template 
+1 
+ 
+d)Explain:-a) Quality Assurance and Quality Control ii)Use of Software Testing tool 
+4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+a)Differentiate between i) types of testing ii) verification and validation 
+b) Explain the significance of the V-shaped software life cycle model and also 
+establish the relationship between its development and testing parts. 
+(5,5) 
+2 
+Q3 
+a) What is the role of testing in the software engineering lifecycle and how is 
+it different from debugging? 
+b) Explain with the help of a suitable example, why exhaustive testing is not 
+possible and the difference between alpha and beta testing. 
+(5,5) 
+2 
+UNIT-II 
+CO Mapping 
+Q4 
+What are different parts of the Decision table? What is the purpose of a rule 
+count? Differentiate between limited entry and extended entry decision table 
+based testing? Consider a program ‘Addition’ with three numbers (x, y and 
+z)and it gives the addition of x ,y and z as an output. The range of both input 
+values are given as: 100 <x <300 and 200 <y <400, and 300 <z <500, Generate 
+possible test cases using Limited entry decision table based testing 
+(10) 
+2 
+Q5 
+What is structural testing? Write a program to find the smallest number 
+amongst three numbers. Draw program graph and DD path graph. Also find 
+independent paths .Find all du paths and identify those du paths that are 
+definition clear. Also find all du-paths, all-uses, and all-definitions and 
+generate test cases for these paths 
+(10) 
+2 
+UNIT-III 
+CO Mapping 
+Q6 
+What is mutation testing? What is the purpose of mutation score? Why are 
+higher order mutants not preferred? Using any program example, generate 
+1st and 2nd order mutants and show the significance of mutation testing?  
+(10) 
+3 
+Q7 
+What is the difference between general test case prioritization and version 
+specific test case prioritization? Write modification algorithm in regression 
+testing and explain with an example 
+(10) 
+3 
+UNIT-IV 
+CO Mapping 
+Q8 
+How do we achieve Software quality? Explain Garvin’s Dimensions Of Quality. 
+(10) 
+4 
+Q9 
+Explain any two of the following-:i) Elements of Software Quality Assurance 
+ii)Quality tools iii)Software Quality Dilemma 
+(10) 
+4

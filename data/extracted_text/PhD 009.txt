@@ -1,0 +1,668 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(NEP)(SUBJECTIVE TYPE)(Offline) 
+Course Name: PHD     Semester:  
+(MAY, 2025) 
+ 
+Subject Code: PHD 009 
+Subject: Linear Programming Problems   
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=
+20) 
+CO 
+Mapping 
+ 
+Solve the following problem graphically. 
+ 
+ 
+2
+1
+x
+3
+x
+2
+z
+Maximize
+
+
+ 
+a) s.t., 
+0
+,
+,
+2
+,
+0
+,3
+3
+2
+,3
+2
+1
+1
+2
+1
+2
+1
+2
+1
+
+
+
+
+
+
+
+
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+. 
+2.5 
+CO1 
+ 
+b) Compute all the basic feasible solutions of the  system of linear equations 
+4𝑥1 + 2𝑥2 + 𝑥3 = 7 
+−𝑥1 + 4𝑥2 +  2𝑥3 = 14 
+2.5 
+CO1 
+ 
+c) Write the dual of the problem:   
+3
+2
+1
+x
+x
+2
+x
+z
+Max
+
+
+
+, 
+0
+,
+0
+,
+2
+2
+,1
+,
+2
+.,
+.
+2
+1
+3
+2
+1
+3
+2
+1
+3
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+t
+s
+  
+2.5 
+CO2 
+ 
+d) Write a short note on two phase method. 
+2.5 
+CO2 
+ 
+e) What is an Integer Programming Problem? Explain its various types. 
+2.5 
+CO3 
+ 
+f) In a Branch and Bound tree, a node gives a solution x1 = 2.5, x2 =3 with 
+optimal value 22. List the two sub-problems formed by branching x1.  Also, 
+define fathomed node. 
+2.5 
+CO3 
+ 
+g) Define a balanced transportation problem. Using the North-West Corner 
+Rule, find the initial basic feasible solution for the following transportation 
+problem: 
+ 
+D1 
+D2 
+Supply 
+S1 
+4 
+3 
+10 
+S2 
+2 
+1 
+15 
+S3 
+1 
+5 
+25 
+Demand 
+25 
+25 
+ 
+ 
+ 
+CO4 
+ 
+h) Solve the following game  
+A\B 
+I 
+II 
+III 
+I 
+6 
+8 
+6 
+II 
+4 
+12 
+2 
+ 
+2.5 
+CO4 
+ 
+UNIT I 
+5*2=10 
+ 
+Q2 
+a) XYZ company during the financial season combines two items A and B 
+to form gift packs. Each pack must weigh 5 kg and should contain at 
+least 2 kg of A and not more than 4 kg of B. The net contribution to 
+the company is Rs. 10 per kg of A and Rs. 12 per kg of B. The company 
+wants to determine the optimum mix. Formulate the above as a linear 
+programming problem to maximize net contribution per pack and 
+solve the same using the appropriate method. 
+b) Show that the following problem and its dual are infeasible. 
+0
+x
+,
+x
+,
+1
+x
+2
+x
+4
+,
+2
+x
+x
+2
+t/
+s
+,
+x
+6
+x
+8
+z
+Max
+2
+1
+2
+1
+2
+1
+2
+1
+
+
+
+
+
+
+
+
+ 
+ 
+CO1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO1 
+ 
+ 
+(6,4) 
+ 
+Q3 
+a) Use the simplex method to show that the following problem has 
+unbounded solution: 
+Max  
+0
+,
+,
+,
+0
+,3
+4
+3
+..
+,
+3
+2
+1
+3
+2
+1
+2
+1
+2
+1
+
+
+
+
+
+
+
+
+
+x
+x
+x
+x
+x
+x
+x
+x
+t
+s
+x
+x
+z
+. 
+ 
+CO1 
+ 
+ 
+ 
+b) Write a short note on degeneracy in Linear programming problem. 
+ 
+CO1 
+ 
+UNIT II 
+ 
+ 
+Q4 
+The following Tableau gives an Optimal Solution to a Standard LPP 
+                Max 𝑍= 𝒄𝒙,     subject to 𝐀𝐱= 𝐛, 𝒙≥𝟎 
+ 
+a) How much 
+𝑐2 be varied without affecting the optimal solution? Find 
+the optimum solution when 𝑐2 = 1 
+b) Find the range on  𝜆 for which the given basis (𝑥1, 𝑥2) is still optimal if 
+the original vector b is replaced by 𝒃+ 𝝀𝒃∗ where 𝒃∗= [ 1
+−1] and 
+−∞< 𝜆< ∞. Also find the optimal solution when 𝜆=
+1
+2  (Assume 
+that ((𝑥4, 𝑥5) formed the initial basis). 
+c) Find the optimal solution when a new constraint 𝑥1 + 𝑥2 ≥2 is 
+added to the original problem. 
+𝑐𝑗 
+2 
+3 
+1 
+0 
+0 
+ 
+Basis 
+𝑥1 
+𝑥2 
+𝑥3 
+𝑥4 
+𝑥5 
+Constants 
+(𝑏𝑖) 
+𝑥1 
+1 
+0 
+-1 
+3 
+-1 
+1 
+𝑥2 
+0 
+1 
+2 
+-1 
+1 
+      2 
+𝑧𝑗−𝑐𝑗 
+0 
+0 
+3 
+3 
+1 
+Z=8 
+(2,4,4) 
+CO2 
+Q5 
+Consider the linear programming problem 
+                Max 𝑍= 𝑥1  + 6𝑥2   
+         Subject to  
+                              𝑥1    + 3𝑥2  ≤12 
+                              3𝑥1    + 𝑥2  ≤12 
+                                  𝑥1  + 𝑥2  = 13       
+                                  𝑥1    , 𝑥2  ≥0 
+and let the last tableau for this LPP is is as follows 
+Basis 
+𝒚𝟏 
+𝒚𝟐 
+𝒚𝟑 
+𝒚𝟒 
+𝒚𝟓 
+𝒙𝟐=3 
+0 
+1 
+3/8 
+-1/8 
+0 
+𝒙𝟏= 𝟑 
+1 
+0 
+1/8 
+3/8 
+0 
+𝒙𝟓= 𝟕 
+0 
+0 
+1/4 
+-3/4 
+1 
+ 
+(1,3,3,3) 
+CO2 
+a)            What conclusion can you draw from the tableau. 
+b) Update the table if b is changed to (12,12,6)𝑡 , what do you infer now? 
+c) Identify the redundant constraint (if any) and hence find the new optimal 
+basic feasible solution of the reduced problem? 
+d) Does the addition of the constraint  𝑥1  + 𝑥2  = 3   in the reduced problem 
+affects the solution? If yes, then find the optimal basic feasible solution.    
+ 
+ 
+UNIT III 
+ 
+ 
+Q6 
+Solve the following integer linear programming problem graphically using 
+branch and bound method. Draw tree with proper branch constraint, node 
+with basic feasible solution space and value of objective function z & decision 
+variables (
+1
+2
+,
+x x ). 
+                                      
+1
+2
+1
+2
+1
+2
+1
+2
+Min
+3
+4
+. .
+3
+12;
+3
+11
+66
+,
+0
+integer
+z
+x
+x
+s t
+x
+x
+x
+x
+x x
+and
+
+
+
+
+
+
+
+
+ 
+10 
+CO3 
+Q7 
+Solve the following Integer Programming Problem using Gomory’s cutting 
+plane algorithm 𝑀𝑎𝑥 𝑍= 2𝑥1 +  3𝑥2 
+                             Subject to  𝑥1 +  3𝑥2 ≤9 
+                                                  3𝑥1 + 𝑥2 ≤7 
+                                                                   𝑥1 − 𝑥2 ≤1 
+                                                      𝑥1 , 𝑥2 ≥0 and integers 
+10 
+CO3 
+ 
+UNIT IV 
+ 
+ 
+Q8 
+(a) Solve the following transportation problem by VAM and check optimality by 
+MODI method. Give the alternate optimal solution if it exists. 
+ 
+ 
+(b) There are five persons and five jobs.  The cost of performing different jobs 
+by different persons are given in the following table. Find an assignment to 
+minimize total cost. 
+ 
+1 
+2 
+3 
+4 
+5 
+ 
+ 
+ 
+ 
+1 
+5 
+3 
+4 
+7 
+1 
+ 
+ 
+ 
+2 
+2 
+3 
+7 
+6 
+5 
+ 
+ 
+ 
+3 
+4 
+1 
+5 
+2 
+4 
+ 
+ 
+ 
+4 
+3 
+8 
+1 
+2 
+3 
+ 
+ 
+ 
+5 
+4 
+2 
+5 
+7 
+1 
+Warehouse 
+ 
+Factories 
+ 
+I 
+II 
+III 
+Availability 
+A 
+11 
+13 
+18 
+250 
+B 
+10 
+9 
+5 
+300 
+C 
+12 
+8 
+14 
+150 
+Requir
+ements 
+200 
+225 
+275 
+ 
+(5,5) 
+CO4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+Q9 
+a) Find initial BFS by VAM and check optimality by MODI method 
+                    To 
+ 
+ 
+From 
+ 
+I 
+II 
+III 
+Availability 
+A 
+2 
+7 
+4 
+5 
+B 
+3 
+3 
+7 
+8 
+C 
+5 
+4 
+1 
+7 
+D 
+1 
+6 
+2 
+14 
+Requirements 
+7 
+9 
+18 
+ 
+ 
+(5,5) 
+CO4 
+ 
+b) The pay-off matrix for A in a two person zero-sum game is given below. 
+Determine the value of the game and the optimal strategies for both 
+players  
+A\B 
+I 
+II 
+III 
+I 
+-1 
+2 
+1 
+II 
+1 
+-2 
+2 
+III 
+3 
+4 
+-3 
+ 
+ 
+CO4

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMA428_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA428",
+    "subject_name": "Sensors and Actuators",
+    "program": "B.Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write about the static characteristics of sensors.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is calibration of sensor?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the photolithography for pattering layer.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the pulse laser deposition?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly explain the field effect transistor.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe the Optical gas sensor.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are micro actuators? Give some practical application.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is a Piezoelectric Actuator?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between sensors & transducers giving suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is metal-oxide semiconductor field-effect transistor ? Where are MOSFET used in?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain physical vapour deposition & its complete process? Also give their application?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the chemical vapour deposition? Also write its advantages over the other methods of depositions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain construction, and application of Nano-structured based gas sensor?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is a Gas Sensor? Write their Advantages, Disadvantages and Applications?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain design and fabrication process of Force Sensors?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A strain gauge have a gauge factor of 3·7. It is bonded to a metal bar which is 'stretched' from 10 cm to 10·25 cm by application of force. What would be the % change in resistance? It the unstrained value of resistance is 240 ohms, what is the value of the strain produced?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

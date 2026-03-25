@@ -1,0 +1,142 @@
+{
+  "paper_id": "MUP105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP105",
+    "subject_name": "Planning Techniques",
+    "program": "<Planning Techniques>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Land Use Survey",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Scalogram",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Metropolitan Area",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Gross Residential Density",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Scale of a Map",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Region",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Theil Index",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Floor Area Ratio",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain in detail about any two kinds of Socio Economic Surveys.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "List and write in brief about various Land Use Classifications in context of Delhi.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Sociogram",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Threshold Analysis",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain any two techniques for Delineation of a region.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Why is it important to study about Demographics in Urban Planning?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Gini Ratio",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Lorenz Curve",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is the role of URDPFI guidelines in Urban Planning?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How Development Control Regulations help in regulating the urban development in any urban area?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

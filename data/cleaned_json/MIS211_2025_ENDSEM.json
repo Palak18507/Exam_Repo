@@ -1,0 +1,120 @@
+{
+  "paper_id": "MIS211_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS211",
+    "subject_name": "Blockchain Fundamentals",
+    "program": "<M.Tech IT(Cyber Security)>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Zero Knowledge Proof",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Digital Signature",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Distributed Ledger",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Anonymity",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Sybil Attack",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Private Blockchain",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Side Chain",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Memory Hard Problem",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Hash Function in cryptography with relevance in Blockchain Technology citing suitable illustrations and example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Conceptually analyze the concept of Distributed Hash Table in operating systems giving suitable illustrations and example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Elucidate the concept of Forking in Blockchain Technology. Critically differentiate between Soft and Hard Fork citing suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Critically analyze Distributed Consensus Mechanisms in the domain of Blockchain Technology citing examples with suitable illustrations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Conceptually differentiate between Proof of Stake and Proof of Burn especially in the context of difficulty level and energy utilization.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain conceptually the concept and types of Smart Contracts in Blockchain Technology highlighting their benefits and challenges.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Critically analyze the adaptability and applicability of Blockchain Technology in the domain of Internet of Things.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How is Blockchain Technology adapted and applied in the area of Domain Name Service in Web Technology?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: M.Tech (IT), Semester: 2nd 
+(May, 2025) 
+ 
+Subject Code: MIS 102 
+Subject: Secure Coding and Security Engineering 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a) 
+How can integration of security practices into early stages of SDLC 
+influence post-deployment software maintenance efforts? 
+ 
+CO1 
+b) 
+List any four security principles for secure software development. 
+ 
+CO1 
+c) 
+Explain the importance of requirements prioritization in secure 
+software requirements engineering. 
+ 
+CO2 
+d) 
+What is the significance of threat modeling in secure design? 
+ 
+CO2 
+e) 
+What is the purpose of the CWE database? 
+ 
+CO3 
+f) 
+Why is the use of magic URLs discouraged in secure software 
+implementations? 
+ 
+CO3 
+g) 
+Why is memory management crucial for secure coding? 
+ 
+CO3 
+h) 
+What is the significance of version control in secure coding? 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the challenges organizations might face when transitioning 
+from a traditional SDLC to Microsoft SDL. 
+(10) 
+CO1 
+Q3 
+Discuss the Seven Touchpoints of Software Security and their 
+significance in the software development lifecycle.  
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the role of "Misuse" and "Abuse" cases in identifying security 
+requirements. Why is collaboration between designers and security 
+engineers essential during requirement analysis?  
+(10) 
+CO2 
+Q5 
+Explain the concept of a Requirements Traceability Matrix (RTM). 
+Create a Requirement Traceability Matrix for web-based banking 
+application. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain any five vulnerabilities from OWASP Top 10 and their 
+preventive measures. 
+(10) 
+CO3 
+Q7 
+a. How does failing to sanitize output contribute to cross-site 
+scripting (XSS)? 
+b. How can improper input formatting lead to injection flaws? 
+ 
+(5+5 = 10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What the role of code analysis tools in the early detection of security 
+vulnerabilities. Compare static and dynamic code analysis tools with 
+examples. 
+(10) 
+CO3 
+Q9 
+Discuss a case study on recent software vulnerabilities due to insecure 
+coding and how they could have been prevented. 
+(10) 
+CO3

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BEC416_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC416",
+    "subject_name": "Data Analytics with Python",
+    "program": "B. Tech. - ECE",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How Python is different from other programming languages when it comes to data analysis? C01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the purpose of the __init__ method in a class? C02",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is exception handling? Write a Python program to handle division by zero exception. C03",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the different file handling modes in Python? Provide a code to demonstrate reading a file. C04",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a Python program that takes user input for two numbers and performs division. Handle the ZeroDivisionError exception properly. C01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a Python module named my_module.py that contains a function to calculate the area of a circle. Then, demonstrate how to import and use this module in another Python script. C02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write a Python program to implement a class ⁠ Student ⁠ with attributes ⁠ name ⁠, ⁠ roll_no ⁠, and ⁠ marks ⁠. Add a method ⁠ calculate_grade ⁠ that returns the grade based on the following criteria: •⁠ ⁠Marks >= 95: Grade A •⁠ ⁠Marks >= 85: Grade B •⁠ ⁠Marks >= 75: Grade C •⁠ ⁠Marks < 65: Grade D C03",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the steps involved in the Data Analysis process. How does data pre-processing play a crucial role in this process? C01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Exploratory Data Analysis and why is it important? Demonstrate some EDA techniques using Python. C02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write Python code using the pandas library to read a CSV file named \"data.csv\" . Calculate and print the number of rows and columns in the DataFrame. Also, print the data type of each column. C03",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

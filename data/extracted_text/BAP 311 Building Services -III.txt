@@ -1,0 +1,84 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name:  B.Arch.) (Semester: V SEM) 
+(December 2024) OFFLINE mode 
+ 
+Subject Code: BAP 311 
+Subject: Building Services -III(HVAC) 
+Time: 3 Hours 
+Maximum Marks:60 
+ 
+Note: Q1 is compulsory. Attempt one question each from units I, II, III, and IV. Substantiate your 
+answers with relevant sketches and diagrams.  
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What does the Wall–to–Window Ratio (WWR) mean? 
+ 
+ 
+b) How does the wall insulation affect the overall energy performance of the 
+building? 
+ 
+ 
+c) What is mechanical ventilation, and why is it necessary in modern buildings? 
+ 
+ 
+d) How does an exhaust ventilation system improve IAQ in the building? 
+ 
+ 
+e) Write four main components in the Airconditioning. 
+ 
+ 
+f) In what type of climate air coolers are most effective?  
+ 
+ 
+g) What is Demand Base Ventilation? 
+ 
+ 
+h) What is solar-based Air conditioning? 
+ 
+UNIT I 
+ 
+Q2 
+What is a psychometric chart? Explain various terms in a psychometric chart with 
+a sketch.   
+(10) 
+Q3 
+Explain the relationship between the building envelope and the air-conditioning 
+system. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the primary methods of air conditioning used in buildings. Additionally, 
+highlight the differences between a Split Air Conditioner and a Central Air 
+Conditioning System. 
+(10) 
+Q5 
+How does Delhi's poor outdoor air quality affect indoor air cleanliness? What 
+types of air filtration systems and equipment can help mitigate these effects and 
+improve indoor air quality effectively? 
+(10) 
+UNIT III 
+ 
+Q6 
+What is an Air Handling Unit (AHU), and what role does it play in an HVAC 
+system? List the main components of an AHU and briefly describe the function of 
+each component. 
+(10) 
+Q7 
+Discuss the challenges of incorporating duct systems with other building services, 
+such as electrical conduits, plumbing, and fire suppression systems. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Define direct evaporative cooling and indirect evaporative cooling. How do they 
+differ in terms of process and application? 
+(10) 
+Q9 
+Explain with a neat diagram how a vapour absorption refrigeration system 
+operates using the water-ammonia pair. 
+(10)

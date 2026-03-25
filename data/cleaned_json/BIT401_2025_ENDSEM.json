@@ -1,0 +1,120 @@
+{
+  "paper_id": "BIT401_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT401",
+    "subject_name": "MOBILE COMPUTING",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Mobile Computing and list any three of its characteristics.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept of frequency reuse in cellular networks.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define the role of PLMN in GSM architecture?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Briefly explain the term \"Handoff\" in mobile communication systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write any four key features of Mobile IP?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between Direct Sequence Spread Spectrum and Frequency Hopping Spread Spectrum .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the primary use of Bluetooth in mobile communication with suitable example?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Name two features of a commercial mobile operating system like Android.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the evolution of mobile computing and discuss its benefits and security concerns.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the electromagnetic spectrum's role in wireless communication and explain the concept of fading in the mobile environment.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Illustrate the architecture of GSM and discuss how call routing is managed.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the functionality of GPRS and its role in enabling data services.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A logistics company is expanding its operations to provide real-time tracking of vehicles using Mobile IP. The vehicles frequently move across different networks while maintaining a seamless connection.  Describe the key mechanisms of Mobile IP that would enable such a setup.  Suggest how tunneling and encapsulation could be used to handle packet delivery during network transitions.  Discuss challenges the company might face during deployment and possible solutions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the various enhancements in TCP for mobile environments . 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A university plans to launch a mobile application for e-learning, targeting students with diverse devices and operating systems such as iOS, Android, and Windows Phone. The application must support live video streaming, downloadable study materials, real-time notifications, and interactive quizzes.  How would you ensure compatibility across multiple mobile operating systems?  What role would the Software Development Kit of each platform play in developing this application?  Identify potential constraints of mobile devices and propose solutions to address these issues.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A retail company is designing a mobile commerce application that supports contactless payments, order tracking, and personalized notifications. They aim to leverage Bluetooth technology and the latest 5G networks for enhanced user experience.  Propose how Bluetooth could be integrated into the payment system for secure and quick transactions.  Explain how 5G technology would improve the application's performance and user satisfaction.  Identify potential constraints and challenges in developing such a mobile commerce platform and suggest mitigation strategies.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

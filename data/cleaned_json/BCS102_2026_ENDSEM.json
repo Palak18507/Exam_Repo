@@ -1,0 +1,213 @@
+{
+  "paper_id": "BCS102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS102",
+    "subject_name": "Web Application Development",
+    "program": "B.Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are variables in JavaScript? Give an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How to preserve white space in XHTML?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between <p> and <br> tags?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "List two advantages of using CSS in web development.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the role of PHP in server-side scripting?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the different levels of heading in HTML?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain GET and POST request methods.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain form. Explain action and method attribute of form.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Write an HTML document to design a student registration form that includes the following fields:  Full Name  Email  Gender  Course  Password  Submit and Reset button",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Image maps",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Tables and Frames",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Adding multimedia elements",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Alignment and font customization using tags",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how XML differs from HTML with an example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are DTD and XML Schemas? Describe with examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss how XSLT is used to transform XML documents.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is CSS? Explain its types with syntax.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the DOM and how it helps in accessing and modifying HTML elements dynamically.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a JavaScript program to validate a form that collects a user’s name and age.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain JavaScript functions, conditions, and loops with examples.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is AJAX? Explain its working with a simple example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between jQuery and AngularJS in the context of AJAX-based applications.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write PHP code to connect to a MySQL database and display records from a table named students.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the use of phpMyAdmin in managing databases.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a CMS? List and explain the benefits of using WordPress and Drupal.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the structure of a WordPress theme and the role of plugins in site customization.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

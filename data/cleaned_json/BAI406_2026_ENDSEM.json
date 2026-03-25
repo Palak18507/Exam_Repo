@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAI406_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI406",
+    "subject_name": "AI for Games",
+    "program": "B. TECH",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between scripted behavior and AI-driven behavior in games.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Navigation Meshes , and how are they used in pathfinding?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between Utility Theory and Decision Theory in the context of NPC behavior.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Briefly explain how an NPC decision-making system can be implemented in a game.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "List and briefly explain the basic node types used in Behavior Trees.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How can AI be optimized for real-time performance in games?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are some common techniques used in Procedural Content Generation ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How can game AI tools be used in student-level projects for learning?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the evolution of Artificial Intelligence in games from early developments to modern implementations. Include key historical milestones and their impact on the gaming industry.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe at least two variants of the A algorithm used in game development. How do these variants improve performance or adapt to specific game requirements? Given the following grid map where S is the start, G is the goal, # represents obstacles, and numbers represent the cost of movement: Use the A* algorithm with Manhattan distance as the heuristic to determine the optimal path from S to G. Also, explain how the f = g + h function works in the context of this problem.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between Utility Theory and Decision Theory for NPC decision-making. Give one example where each approach is more suitable. An NPC must choose one of three actions using the following utility formulas: Attack = 2 * Enemy Threat Level Hide = 100 – NPC Health % Call Backup = 50 + * 5 Given: NPC Health = 40% Enemy Threat Level = 8 Number of Enemies = 4 Task: Calculate the utility for all three actions and decide which action the NPC will take. Explain the reasoning based on Utility Theory.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the steps involved in implementing NPC decision-making using Utility Theory. What factors influence the utility score for different actions? An NPC can either Defuse a Bomb or Call Bomb Squad, with the following outcomes: Defuse: 70% success, reward = +150 30% failure, penalty = −100 Call Bomb Squad: 90% success, reward = +50 10% failure, penalty = −20 Task: Calculate the expected value for both decisions and determine the optimal choice. Justify your answer using Decision Theory principles.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is a Behavior Tree in game AI? Explain its structure and how it differs from Finite State Machines in managing complex NPC behavior. Design a behaviour tree for a guard NPC with the following actions and priorities: Chase Player: if player is within 10 units Call Backup: if player is within 10 units and health < 50% Patrol Area: default action when no threat is detected Retreat: if health < 30% Task: Draw and explain the behaviour tree structure with appropriate selector and sequence nodes. Show how numerical thresholds guide transitions and decision flow.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of spatial partitioning in games. How do techniques like Quadtrees or Grids help improve the performance of AI in large environments? A 2D open-world game has a map of size 1024 × 1024 units. Without spatial partitioning, an NPC must check for collision with 2000 objects each frame. You decide to implement a quadtree, dividing the space recursively until each quadrant has ≤ 50 objects. Task: Estimate the depth of the quadtree required to reduce object checks per quadrant to ≤ 50. How does this improve AI performance in terms of collision detection or sensory checks?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of Natural Language Processing in creating dynamic and interactive game dialogues. How can NLP enhance player experience and what are the limitations or ethical considerations associated with it?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the steps involved in developing a hands-on AI project using a game engine of your choice. Outline the workflow from design to implementation, including how AI techniques are used in the project.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

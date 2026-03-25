@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (Subjective) (OffLine) 
+Course Name:< MBA>, Semester:<4> 
+(May, 2025) 
+ 
+Subject Code: MMS 212 
+Subject: Derivatives and Risk Management  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the concept of a forward contract and give an example 
+of how it is used in financial markets. 
+(2.5) 
+CO -1 
+ 
+b) Differentiate between hedging and speculation with examples 
+(2.5) 
+CO – 3 
+ 
+c) What factors influence the pricing of interest rate futures? 
+(2.5) 
+CO – 2 
+ 
+d) What is a short hedge using futures? Provide an example of 
+when it would be used. 
+(2.5) 
+CO – 3 
+ 
+e) What is the binomial option pricing model? Mention its basic 
+steps. 
+(2.5) 
+CO – 2 
+ 
+f) What does the term "underlying asset" mean in options 
+trading? 
+(2.5) 
+CO – 1 
+ 
+g) What does Value at Risk measure, and what are its key 
+limitations? 
+(2.5) 
+CO – 2 
+ 
+h) What is the primary objective of risk management in financial 
+markets? 
+(2.5) 
+CO - 1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What are the different types of financial risks faced by firms? 
+Explain how derivatives can be used to hedge credit risk, currency 
+risk, and interest rate risk. 
+(10) 
+CO - 3 
+Q3 
+ Compare and contrast hedge funds and mutual funds with 
+reference to their structure, investment strategies, regulatory 
+environment, risk levels, and typical investor profiles. Along with 
+the relevant examples. 
+(10) 
+CO - 3 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss its application in portfolio and commodity risk 
+management, highlighting the risks and benefits of using 
+imperfect hedges. 
+(10) 
+CO - 3 
+Q5 
+What is hedging? Explain how a short hedge and a long hedge 
+using futures work, with suitable examples. 
+(10) 
+CO - 3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the concept of forward-spot parity. How does this 
+relationship help in the pricing of options on underlying assets? 
+Along with the examples. 
+(10) 
+CO - 2 
+Q7 
+Explain the basic structure of an option contract. Compare and 
+contrast call options and put options, including their payoffs, with 
+appropriate examples. 
+(10) 
+CO - 1 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Identify and explain the different types of financial risks. Provide 
+examples of how these risks can impact a company’s operations 
+and financial performance. 
+(10) 
+CO – 2 
+Q9 
+Describe the various hedging techniques available for managing 
+financial risks. Discuss the advantages and disadvantages of using 
+futures, options, and forward contracts in hedging strategies. 
+(10) 
+CO - 3

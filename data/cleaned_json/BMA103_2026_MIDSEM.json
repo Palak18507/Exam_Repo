@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA103_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA103",
+    "subject_name": "Engineering Mechanics",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is moment? Explain using a neat sketch",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the static equilibrium of three coplanar forces",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "State parallel axis theorem",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is polar moment of inertia?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Establish a relationship of resultant force using law of parallelogram",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive the relationship of ladder friction subject to sliding assuming W is weight, L for length, Ɵ angle of ladder from horizontal floor, and µ for Co- efficient of friction",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write the contribution of friction for designing and manufacturing of automobiles on NCT Delhi roads",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Show that the centroid of triangle lies h/3 from base. Where h height of triangle",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Establish relationship of area moment of inertia of ‘R’ radius circular shape about diameter",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write steps for determination of polar moment of inertia of a L shape by assuming own dimensions",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

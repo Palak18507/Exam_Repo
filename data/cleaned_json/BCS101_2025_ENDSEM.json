@@ -1,0 +1,126 @@
+{
+  "paper_id": "BCS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS101",
+    "subject_name": "Programming With C",
+    "program": "<>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Design a flowchart to calculate the area of a triangle given its base and height. Explain the steps involved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Evaluate the result of the following C expression: int x = 10, y = 20, z = 5; int result = ? : ; Explain your answer.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write a C program that checks whether a number is divisible by both 5 and 10 using a single if-else-if condition. Explain why only one of the conditions executes.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Consider the following code: char str[] = \"Hello\"; printf; What will be the output of this program? Explain why.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Analyze the following code and state the output: void func { int x = 10; printf; } func; printf; Explain the scope of variable x in the given code.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What could go wrong if you try to free a pointer that was not dynamically allocated? Illustrate with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Given a structure Student with fields Name, RollNo, and Marks[], write a code to create an array of Student structures and initialize each student’s name and marks. Then, display the details of each student.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the purpose of the #define preprocessor directive in C? Provide an example where using #define improves code readability and maintainability.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "; 2 Explain the order of evaluation and operator precedence in this expression.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a C program that demonstrates the concept of implicit and explicit type casting with examples. Include a case where type casting may result in loss of data or precision. Provide a scenario where implicit type casting is preferable over explicit casting.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write a program that takes two 2D arrays of the same size, performs matrix addition, and prints the result. Ensure that the arrays are passed to a function to handle the addition.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a program that accepts two strings and compares them without using the strcmp function. The program should print \"Equal\" if the strings are the same and \"Not Equal\" otherwise.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Design a function that reverses an array of integers. Use recursion to achieve this. Critically analyze the performance implications of recursion compared to using a loop for the same task.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Given the following code, analyze what happens at runtime: int *arr = malloc); arr = realloc); free; Discuss the possible issues related to memory allocation, resizing, and freeing memory.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a program that combines structures and unions to represent a \"Vehicle\" with the following:  Fields for the vehicle type and vehicle details .  A union that stores either fuel capacity for cars and trucks, or engine power for bikes.  Implement functions to display the details of each vehicle depending on its type.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a C program that performs the following operations on a file:  Read a series of records .  Store these records in an array of structures.  Write the array of structures back to a new file.  Implement error handling if the file cannot be opened or read properly.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

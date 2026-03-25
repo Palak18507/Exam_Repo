@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC314_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC314",
+    "subject_name": "FPGA & Verification",
+    "program": "B.Tech. ECE",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare CPLD and FPGA.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss various key factors responsible for the accurate power estimation in the design cycle.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is meant by logic simulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the impact of HVLs on simulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is RTL hardware design flow and methodology?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are different benefits of using Transactional-Level Models in a SoC Design Flow?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the difference between in circuit debugger and in circuit emulator?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Among In-Circuit Emulators and JTAG Debuggers which method is better suited for different scenarios? Justify with examples.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the challenges that FPGAs create for Board Design.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Draw and explain the architecture of FPGA. Differentiate between semicustom and full custom design",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the primary difference between event oriented and process- oriented simulation? Give Example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a Verilog Program for implementation and verification of a 8-bit shift register Circuit.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss design flow of a TLM Modeling application. How the TLM can be used to evaluate the system level design decisions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain how TLMs can be automatically generated from a given mapping of the application to a multimedia platform if no initial mapping is available.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss how the hardware emulators are capable of exchanging events with the software simulators. What different considerations are required for successful Emulation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Draw and explain the overview of Emulator Architecture design.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

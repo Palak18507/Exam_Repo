@@ -1,0 +1,78 @@
+{
+  "paper_id": "MMS209_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS209",
+    "subject_name": "Investment Management",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are the advantages of mutual fund investments? What do you mean by systematic and unsystematic risk? Differentiate the two. Write a short note on currency market? What are the different types of investors in the stock market? What is relative strength analysis? How do technical analysts use it? What is Pure Discount Bond? How minimum variance portfolio is calculated? What are the active and passive portfolio revision stratergies? CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "The probability distribution of the rate of return on a stock is given below: State of the Economy Probability of occurrence Rate of Return Boom 0.20 30% Normal 0.50 18% Recession 0.30 9% What is the standard deviation of return?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are the various forms of investment alternatives available in India for investors? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain how securities are traded in primary and secondary markets?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What are the three forms of market efficiency? State their implications? 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain the different types of charts commonly used in technical analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain the common methods used in fundamental analysis to determine the value of a stock. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "How does Markowitz’s Efficient Frontier theory guide investors in portfolio selection?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Consider the following information for three mutual funds, L, M, and N, and the market. Mean return Standard deviation Beta L 15 20 1.6 M 12 11 0.8 N 18 15 1.3 Market index 13 14 1.00 The mean risk-free rate was 8 percent. Calculate the Treynor measure, Sharpe measure, and Jensen measure for the three mutual funds and the market index.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

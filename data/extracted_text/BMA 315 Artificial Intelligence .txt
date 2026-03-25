@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: <BBA>, Semester:<5> 
+(December, 2024) 
+ 
+Subject Code: BMA 315 
+Subject: Artificial Intelligence 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How will you define the term Artificial Intelligence 
+ 
+CO1 
+ 
+b) Expand  PEAS 
+ 
+CO2 
+ 
+c) Name the components of a production system 
+ 
+CO3 
+ 
+d) What are agents in AI? 
+ 
+CO2 
+ 
+e) What is a water jug problem, explain? 
+ 
+CO1 
+ 
+f) What is rapid prototyping? 
+ 
+CO2 
+ 
+g) What are the advantages of Best first search Algorithm? 
+ 
+CO3 
+ 
+h) What do you understand by the term Intelligent vehicle? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the meaning of the term environment and explain any four 
+types of environments 
+(10) 
+CO1 
+Q3 
+Write short notes on fuzzy logic and fuzzy sets 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define the heuristic search. Discuss benefits and short comings 
+(5+5) 
+CO2 
+Q5 
+What is workspace in a robot? What is the difference between end 
+effector and gripper? What are the different types of end effectors 
+used by the robots, Explain with examples? 
+(3+2+5
+) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the following search Technique with the help of an example. 
+Also discuss the benefits and shortcoming of each. 
+I. Breadth First Search. 
+II. Depth First Search. 
+(10) 
+CO3 
+Q7 
+Explain the algorithm for hill climbing. Also what is the difference 
+between stochastic and steepest ascent hill climbing  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain intelligent manufacturing system with the help of an example  
+(10) 
+Co4 
+Q9 
+Explain intelligent casting system with the help of an example 
+(10) 
+Co4

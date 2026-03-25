@@ -1,0 +1,91 @@
+{
+  "paper_id": "BEC208_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC208",
+    "subject_name": "Communication Systems",
+    "program": "B. Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a Random Process? Draw a comparison chart of Random Variable vs Random Process.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Plot the CDF and PDF for a Random Variable ‘x’ which is specifying number of heads in the experiment of tossing a coin twice.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the block diagram of the Phase Discrimination Method.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "For a signal amplitude modulated to a depth of 100% by a sinusoidal signal, how much is the power required for the modulated signal in terms of the power of the unmodulated carrier?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A random process is given by X = A cos, where A and ꞷo are constants and ϴ is a random variable, which is uniformly distributed in the interval . Find whether the given Random Process is Wide Sense Stationary or not?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "A continuous random variable has a uniform density function as specified below. Find all its statistical averages.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are ergodic random processes? Explain ensemble averages and time averages.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A carrier of 10 cos8𝜋105𝑡 is amplitude modulated by a message signal of 6 cos 𝜋104𝑡. Find all the parameters of AM Draw the spectrum.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the concept and block diagram of the square law modulator. Derive all the frequency components generated before the BPF. Also, draw the spectrum including the components before and after the placement of BPF. What is the resulting carrier amplitude and the amplitude sensitivity at the output of square law modulator?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "An AM signal is given by 𝑠 = [20 + 12 cos2 𝜋104𝑡+ 16 cos 4 𝜋104𝑡] Find all the parameters of AM Draw the spectrum.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "MCS104_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS104",
+    "subject_name": "Natural Language Processing",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Natural Language Processing . Why is it important in today's digital age?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why it is necessary to consider the context while doing pragmatic analysis? Explain using an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is “Sentence Boundary Disambiguation”. What is the role of Named Entity Recognition in it?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How processing a Natural Language Text in English Language is different from processing Text in Hindi Language. Discuss using Example.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the structure and significance of WordNet in the field of Natural Language Processing. Identify the types of Wordnet relations Fruit- Mango Car- tyre Shouting – speaking Barber- Hair cutting",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different phases of Semantic Layer? Discuss each in detail. Consider the following sentence “ I played with a mountain” Which type of error does the sentence contain and why?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "Consider the following sentence: \"The quick, brown fox jumps over the lazy dog!\" i)Tokenize the given sentence into individual tokens ii)Count how many tokens are words and how many are punctuation. iii)What is the percentage of word tokens compared to the total number of tokens?.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

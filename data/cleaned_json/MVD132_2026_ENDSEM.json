@@ -1,0 +1,121 @@
+{
+  "paper_id": "MVD132_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD132",
+    "subject_name": "Artificial Neural Networks and Deep Learning",
+    "program": "M.Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the applications of soft computing in detail.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Bayes’ Rule?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw the schematic diagram of a biological neuron. Explain the terms: synapse and refractory period.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is an activation function? Explain with examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is dropout? Why is it needed?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the different rules for designing a CNN?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How are NLP models used for sentiment analysis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the ethical considerations and challenges of using AI in healthcare.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the features of hard computing and soft computing. How do you select a suitable scheme of computing to solve a particular problem?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the role of uncertainty in real-world decision-making problems. Provide examples where uncertainty significantly affects outcomes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the practical issues in neural network training?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the architecture and learning factors of a back-propagation network.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the different types of CNN. Also mention the applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the role of saliency maps in visualizing convolutional neural networks. How do they help in understanding model predictions?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain how deep learning has transformed problem-solving approaches in real-world domains. Support your answer with any two relevant case studies.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss how recurrent neural networks are applied for stock market prediction. Include a case study with performance evaluation.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

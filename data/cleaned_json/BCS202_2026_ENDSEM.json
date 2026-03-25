@@ -1,0 +1,120 @@
+{
+  "paper_id": "BCS202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS202",
+    "subject_name": "Computer Organization and Architecture",
+    "program": "< B Tech CSE >",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why NAND and NOR gates are called universal gates?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is 10’s complement and 9’s complement representation of a decimal number",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a register?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is an instruction cycle and write the phases of instruction cycle.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the function of a 4 bit synchronous clocked shift left register",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the functioning of JK flip flop with the help of suitable diagram. What is race around condition?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is cache memory?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the functions of address bus, data bus and control bus.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is a decoder? Explain 2 to 4 decoder and its function.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is the function of register transfer language . Explain arithmetic, logic and shift microoperations with its RTL notations",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between RISC and CISC architecture. Mention there suitable applications also.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain various addressing modes with the help of an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Booth’s multiplication algorithm",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write about pipelining and its importance in high speed applications",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the difference between isolated and memory mapped .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is DMA? Explain how DMA bypasses CPU and speeds up the memory operation.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

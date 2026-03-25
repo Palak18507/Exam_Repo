@@ -1,0 +1,119 @@
+{
+  "paper_id": "MCA107_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA107",
+    "subject_name": "Operating System",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between Multiprogramming and Time sharing system giving example of each. Co1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different tasks performed by OS when CPU shifts from one process to another? Co1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the merits of Binary Semaphore over Counting Semaphore Co2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Compare Deadlock Avoidance Versus Recovery from Deadlock Co2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Differentiate dedicated device, shared device and virtual device Co3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the function of Device Management Module of OS? Co3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the different types of files supported by OS? Co4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Name two directory structures where files can be shared. Also give one demerit for each Co4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": ". Explain the concepts: system calls, system program. What is the advantages of layered approach for design of OS? What resources are used when a thread is created. Differentiate between and user level thread and kernel supported threads Co1",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define tasks of three types of scheduler short, medium and long term for processor managements. consider the following set of processes with CPU burst time given in milliseconds: Process Burst Time P1 10 P2 29 P3 3 P4 7 P5 12 The process are assumed to have arrived in order P1, P2, P3, P4, P5, all at time zero. Work out average turn around time using Round Robins Algorithm taking time quantum as 5,10, 15 ms respectively. If context switch time is 2 ms, which time slot is most efficient. What are the important parameters that determine its performance of Multilevel feed back queue cpu scheduling algorithm. Co1",
+      "marks": 3.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Consider the multiple Partition Scheme with variable partition . With suitable example illustrate the different storage allocation algorithm. Explain the structure of Page table providing memory protection in Paged Environment. How frames are allocated to a process? If memory reference takes 200 nanoseconds and 20 nanosecond to search associative registers. Calculate the effective memory access time if 75% of the Page Table is kept in associative register Give one algorithm for deadlock prevention.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the sequence of events that occur when page fault occur. How does it affect the memory access? Support your answer with suitable example What are the possible solutions to implement Least recently used page replacement algorithm. Give one algorithm which is its approximation. Support your answer with example with following reference string and initi allocation of five frames containing nil page. 1,2,3,4,5,3,4,1,6,7,8,9,7,8,9,5,4,5,4,2",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe briefly swap space management and disk reliability",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Consider following ordered disk queue with request involving following tracks : 98, 185, 35, 122, 15, 127, 69, 85. If read write head is initially at cylinder 100. Calculate head movements using FCFS, shortest seek time first, SCAN and CSCANexplaining steps used",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the different methods to access files? List their merits and demerits. Describe mechanism for file protection",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe different directory structures. Also give one demerit for each.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

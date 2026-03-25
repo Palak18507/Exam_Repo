@@ -1,0 +1,180 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:< B.Tech. (MAE) >, Semester:< 3rd > 
+(December, 2024) 
+ 
+Subject Code: BMA205 
+Subject: Thermal Engineering - I 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO 
+Mapping 
+ 
+a) Which of the following are intensive properties of a system and why: 
+Heat, Temperature, Work, Pressure. 
+ 
+CO1 
+ 
+b) Write Kelvin Planck statement of second law of thermodynamics. 
+ 
+CO1 
+ 
+c) Air is heated from 303 K to 373 K in a constant volume process. Determine 
+the change in entropy of air. For air, take Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K 
+and R = 0.287 kJ/kg K. 
+ 
+CO2 
+ 
+d) A gas changes its state in a closed system from state point 1 to state point 2. 
+Write the expression for maximum useful work obtained. The surroundings are 
+at po and To.   
+ 
+CO2 
+ 
+e) Write the four Maxwell equations. 
+ 
+CO2 
+ 
+f) Draw Carnot cycle on T-s plane and list out various processes of the cycle. 
+ 
+CO3 
+ 
+g) Saturated water is vapourised into dry saturated steam at constant pressure. 
+Write the expression for the change in entropy during the process of 
+vapourization in terms of latent heat of vapourization (hfg) and saturation 
+temperature (Ts).   
+ 
+CO3 
+ 
+h) Define adiabatic flame temperature. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Prove that internal energy is a point function or property of the system. 
+(10) 
+CO1 
+Q3 
+State and prove Clausius statement of second law of thermodynamics  
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Derive the expression for the change in entropy during a constant volume 
+process. 
+(10) 
+CO2 
+Q5 
+Air expands through a turbine from 500 kPa and 520oC to 100 kPa and 300oC. 
+During expansion 10 kJ/kg of heat is lost to the surroundings which are at 98 
+kPa and 20oC. Neglecting the changes in kinetic and potential energies, 
+determine per kg of air the decrease in availability. For air take Cp = 1.005 kJ/kg-
+K and R = 0.287 kJ/kg-K. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Draw Otto cycle on p-V plane and list out various processes of the cycle. Derive 
+the expression for thermal efficiency in terms of compression ratio and specific 
+heat ratio. 
+(10) 
+CO3 
+Q7 
+Calculate the specific volume, enthalpy, internal energy and entropy of wet 
+steam at 8 bar pressure and 0.9 dryness fraction. Use following properties of 
+steam:  
+(10) 
+CO3 
+2 
+ 
+At 8 bar pressure, vf = 0.0011150 m3/kg, vg = 0.24026 m3/kg, hf = 720.94 kJ/kg, 
+hg = 2767.5 kJ/kg, hfg = 2046.5 kJ/kg, sf = 2.0457 kJ/kg K, sg = 6.6596 kJ/kg K, sfg 
+= 4.6139 kJ/kg K. 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+In a Rankine cycle-based steam power plant, steam at 50 bar and 400oC enters 
+the steam turbine and expands isentropically to a condenser pressure of 0.1 
+bar. Calculate thermal efficiency of the plant. Use the following properties of 
+steam: 
+ 
+For superheated steam: 
+Absolu
+te 
+pressur
+e, p 
+(bar) 
+Temperatu
+re, ts (oC) 
+Specific 
+enthalpy, 
+h (kJ/kg) 
+Specifi
+c 
+entrop
+y, s 
+(kJ/kg 
+K) 
+Specific 
+volume, 
+v (m3/kg) 
+50 
+400 
+   3196.7    6.6483 
+0.057837
+0 
+ 
+For saturated water and steam: 
+Press
+ure 
+(bar) 
+Specific 
+volume 
+(m3/kg) 
+Specific enthalpy  
+(kJ/kg) 
+Specific entropy  
+(kJ/kg K) 
+vf 
+hf 
+hfg 
+hg 
+sf 
+sfg 
+sg 
+0.1 
+0.0010102 
+191.8 
+2392.1 
+2583.9 
+0.6492 
+7.4996 
+8.1488 
+  
+(10) 
+CO4 
+Q9 
+Ethane (C2H6) is burned with 200% theoretical air. Write the combustion 
+equation, balance it and calculate the value of air-fuel ratio on mass basis.  
+(10) 
+CO4

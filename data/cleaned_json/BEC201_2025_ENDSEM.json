@@ -1,0 +1,120 @@
+{
+  "paper_id": "BEC201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC201",
+    "subject_name": "Analog Electronics",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between Zener Breakdown and Avalanche Breakdown.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How many transistors are used in a Darlington pair, and how are they connected?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between UJT and BJT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Give the relationship between α, β and γ of a transistor",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the purpose of coupling in multistage amplifiers?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Sketch the hybrid model of BJT in CE and CB configuration.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is threshold voltage in a MOS? Sketch the transfer characteristics of MOS transistor.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "In which region JFET acts as a resistor & why?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the working of a diode in clipping and clamping circuits. Provide circuit diagrams and output waveforms for each type. Consider the clamper circuit shown in the figure below. If the diode is assumed to be an ideal and the value of resistance RL is very large, Show the approximate value of output waveform at steady.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "For the potential divided method prove the following equation 𝑅𝐵𝐵 𝑅𝐸 = 1 + β −S Where 2 𝑅𝐵𝐵= Thevenin’s equivalent resistance as seen into the base of the transistor S = Stability Factor",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "For the following circuit find out the values of base current and collector current if β for transistor is 100. Also prove that 𝐼 β = 𝑉𝑐𝑐−𝑉𝐵𝐸 𝑅𝐵+ 𝑅𝐸",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the Cascode Amplifier. Explain its advantages in terms of gain and bandwidth compared to single-stage amplifiers.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Compare and contrast thyristors, TRIAC, and DIAC in terms of their structure, operation, and applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Illustrate the circuit of R-C coupled BJT differential amplifier, and derive expressions for differential gain, common mode gain and CMRR.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the construction and working of an Enhancement-mode MOSFET. Derive the expression for drain current in terms of gate voltage.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the operation of JFET and derive the drain and transfer characteristics. Write the limitation of JFET.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

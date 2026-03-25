@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.ARCH, Semester: 7 
+(December, 2024) 
+ 
+Subject Code: BAP 311 
+Subject: Building services-III(HVAC) 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Explain the three modes of heat transfer and their relevance to 
+envelope design. 
+2.5 
+1 
+ 
+b) What are the physiological effects of air conditioning on human 
+comfort? 
+2.5 
+1 
+ 
+c) How does climate influence the requirements for space 
+conditioning? 
+2.5 
+1 
+ 
+d) Discuss water-based cooling systems. 
+2.5 
+2 
+ 
+e) How does humidity control impact the efficiency of HVAC systems? 
+2.5 
+2 
+ 
+f) Discuss the difference between direct and indirect evaporative 
+cooling systems. 
+2.5 
+2 
+ 
+g) How can energy simulation software like Design Builder be used in 
+HVAC system design? 
+2.5 
+2 
+ 
+h) Discuss the role of solar energy in air conditioning systems. 
+2.5 
+2 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Discuss the importance of shading devices in enhancing the thermal 
+performance of a building envelope. 
+(10) 
+1 
+Q3 
+Explain the concept of Window-to-Wall Ratio (WWR) and analyze its 
+impact on energy efficiency in buildings. Discuss how optimizing the 
+WWR can balance thermal performance, daylighting, and visual 
+comfort. 
+(10) 
+1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Evaluate the various types of air conditioners (split AC, central AC, 
+etc.) and their suitability for different building types. 
+(10) 
+2 
+Q5 
+Explain the working principles of propeller fans and centrifugal fans. 
+Highlight their applications in HVAC systems. 
+(10) 
+2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Explain the role of Air Handling Units (AHUs) and cooling tower in 
+HVAC systems. 
+(10) 
+2 
+Q7 
+Evaluate the impact of poor duct planning on the performance of 
+HVAC systems, with a focus on its consequences for energy efficiency 
+and overall system effectiveness. 
+(10) 
+3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Compare active and passive radiant cooling mechanisms, discussing 
+their suitability for different climates. 
+(10) 
+3 
+Q9 
+Discuss the impact of climate on space conditioning requirements 
+with examples from hot and humid, hot and dry, and cold climates. 
+(10) 
+3

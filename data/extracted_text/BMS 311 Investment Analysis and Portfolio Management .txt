@@ -1,0 +1,131 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: Fifth 
+(December, 2024) 
+ 
+Subject Code: BMS 311 
+Subject: Investment Analysis and Portfolio Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Write  a short note on: 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) An investment has the following annual returns over three 
+years: 8%, 12%, and 10%, measure the risk of the investment. 
+ 
+1 
+ 
+b) Beta 
+ 
+1 
+ 
+c) Dow Theory 
+ 
+2 
+ 
+d) EMH 
+ 
+2 
+ 
+e) SIP 
+ 
+3 
+ 
+f) Objectives of Portfolio Management 
+ 
+3 
+ 
+g) Diagrammatically present the Security Market Line (SML). 
+ 
+4 
+ 
+h) An investor's portfolio has an average return of 12% with a 
+risk-free rate of 3%. If the standard deviation of the portfolio's 
+returns is 15%, calculate the Sharpe Ratio. 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the concepts of systematic and unsystematic risks. Discuss how 
+beta, standard deviation, and coefficient of variation help measure risk. 
+(10) 
+1 
+Q3 
+Describe the EIC (Economy-Industry-Company) framework in detail. 
+How do macroeconomic variables influence stock prices in the Indian 
+context? Provide real-life examples. 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the assumptions and limitations of DDM. Illustrate with 
+examples how DDM is used to value stocks of companies with stable 
+dividend payouts. 
+(10) 
+2 
+Q5 
+Explain the significance of price and volume indicators in technical 
+analysis. Provide an overview of moving averages and their role in 
+identifying trends. 
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the concept of the efficient frontier and the importance of 
+diversification in portfolio construction. 
+(10) 
+3 
+Q7 
+An investor is constructing a portfolio with two assets: Asset A and 
+Asset B. The details of the assets are as follows: 
+ 
+Expected return of Asset A: 10%, Standard deviation: 8% 
+ 
+Expected return of Asset B: 15%, Standard deviation: 12% 
+ 
+Correlation coefficient between Asset A and Asset B: 0.3 
+ 
+Portfolio weights: 60% in Asset A and 40% in Asset B 
+Calculate: 
+1. The expected return of the portfolio. 
+2. The risk (standard deviation) of the portfolio. 
+(10) 
+3 
+ 
+ 
+ 
+2 
+ 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe how Sharpe, Treynor, and Jensen measures are used to 
+evaluate mutual fund performance, with examples. 
+(10) 
+4 
+Q9 
+A stock has a beta of 1.2. The risk-free rate is 5%, and the expected 
+return on the market portfolio is 12%. Calculate the expected return of 
+the stock using the Capital Asset Pricing Model (CAPM). 
+If the actual return of the stock is 15%, determine whether the stock is 
+overvalued or undervalued, Comment. 
+ 
+(10) 
+4

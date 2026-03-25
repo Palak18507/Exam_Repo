@@ -1,0 +1,79 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.ECE AI) (Semester:  8) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 416 
+Subject:  AI in Healthcare 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any twoparts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define AI in healthcare and discuss its historical evolution. 
+ 
+CO1 
+ 
+b) What are the key milestones in AI development for healthcare 
+applications? 
+ 
+CO1 
+ 
+c) Discuss the limitations and challenges faced in implementing AI 
+in healthcare. 
+ 
+CO2 
+ 
+d) How do geographic and demographic variations impact AI-
+based healthcare solutions? 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the advantages and challenges associated with 
+observational medical data. 
+ 
+CO1 
+ 
+b) Differentiate between time series and non-time series data in 
+medical applications 
+ 
+CO2 
+ 
+c) Explain the process of data enrichment and its importance in 
+healthcare AI. 
+ 
+CO3 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is a Clinical Decision Support System (CDSS), and how does 
+AI enhance its functionality? 
+ 
+CO2 
+ 
+b) Explain how disease detection is performed using tabular 
+medical data. 
+ 
+CO3 
+ 
+c) What are the ethical considerations in AI-based clinical decision 
+support systems? 
+ 
+CO4

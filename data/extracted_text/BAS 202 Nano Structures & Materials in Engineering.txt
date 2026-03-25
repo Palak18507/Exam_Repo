@@ -1,0 +1,61 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: IV) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAS 202 
+Subject: Nano Structures & Materials in Engineering  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What are the potential applications of nanoparticle in the field of science and 
+technology? 
+ 
+ 
+b) What are the key physical properties that can be significantly altered at the 
+nanoscale. 
+ 
+ 
+c) Differentiate between top-down and bottom-up approaches for the synthesis 
+of nanomaterials. 
+ 
+ 
+d) Which gas is used in sputtering process and reason behind to choose that 
+gas? 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Define quantum dot, quantum wire, and quantum well with examples. 
+ 
+ 
+b) (i) What are the advantages of electron beam evaporation technique. 
+    (ii) What are the disadvantages of DC and RF sputtering technique?  
+ 
+ 
+c) (i)How magnetron sputtering solve the problems of DC and RF sputtering. 
+    (ii) Describe molecular beam epitaxy technique. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Describe ball milling method in detail. 
+ 
+ 
+b) What are the different ways of heating used in thermal evaporation 
+technique and explain about e-beam thermal deposition method. 
+ 
+ 
+c) Differentiate between DC and RF sputtering process.

@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS104",
+    "subject_name": "Business Environment",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Distinguish between internal and external business environments",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is environmental analysis? Mention two of its limitations.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List any two economic issues affecting India today.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of the demographic dividend.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the Twin Balance Sheet problem?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Mention any two characteristics of the Indian service sector.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a brief note on WTO and its role in international trade.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is FEMA? How does it regulate foreign exchange?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define the business environment. Describe its types and explain the role of environmental analysis in strategic decision-making.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the structure of the Indian economy. How do the concepts of growth and development apply to the Indian context? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT I",
+      "question_text": "Discuss the objectives of economic planning in India. Highlight the key initiatives taken by NITI Aayog.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT I",
+      "question_text": "Discuss any four major problems of the Indian economy. Suggest relevant solutions to any one of them. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT I",
+      "question_text": "Compare public sector enterprises and private sector enterprises. Explain the relevance of MSMEs in India’s economy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT I",
+      "question_text": "Explain the key features and impact of the Industrial Policy of 1991. What is the significance of disinvestment in India? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT I",
+      "question_text": "Explain the structure of the Indian financial system. Discuss the role of RBI and the money market.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT I",
+      "question_text": "Discuss the foreign trade policy of India. What role does FDI play in the development of the Indian economy?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

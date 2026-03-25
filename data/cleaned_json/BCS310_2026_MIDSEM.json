@@ -1,0 +1,90 @@
+{
+  "paper_id": "BCS310_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS310",
+    "subject_name": "Human-Computer Interaction",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the term \"User Interface\" and explain its importance in software applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the key principles of an effective Graphical User Interface design.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the significance of human characteristics in the design process of Human-Computer Interaction.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the key constraints and limitations of mobile and hand-held platforms compared to other computing platforms.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the evolution of screen design and how it has influenced modern user interface development.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Analyze the characteristics of web user interfaces and how they differ from other types of user interfaces.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Illustrate the role of direct manipulation in graphical systems and discuss its impact on user experience with proper examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does human interaction speed affect the design of user interfaces? Provide relevant examples.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Evaluate the importance of understanding business functions while designing user interfaces for enterprise applications.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Propose innovative solutions to improve UI responsiveness for mobile and handheld platforms under constraints like network, power, and memory.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

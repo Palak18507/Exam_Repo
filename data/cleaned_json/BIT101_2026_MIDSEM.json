@@ -1,0 +1,91 @@
+{
+  "paper_id": "BIT101_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT101",
+    "subject_name": "Cyber Security Awareness",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the various type of Trojans Attacks? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of the following in Cyber Security i) NIST ii) CERT iii) OWASP iv) GIGW v) IT Act 2000 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the Malware and various stages of Malware Attack 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Distinguish between DoS and DDoS Attack 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Is there any security concept and relationship exist among the following? Explain. i). Owner ii). Countermeasure iii). Risk iv). Assets v). Threat Agent vi). Threat 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Give the Definition of cybersecurity as provided in ITU-T. Briefly discuss cyber security objectives? 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the Countermeasures to Prevent MITM Attacks 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the Challenges in developing an effective cybersecurity system 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Elaborate why a security mechanism is complex and it is not obvious from the statement of a particular requirement that such elaborate measures are needed. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Botnet? Portray possible Structures of Botnet 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

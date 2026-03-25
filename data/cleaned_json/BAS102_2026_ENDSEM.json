@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAS102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS102",
+    "subject_name": "Applied Physics",
+    "program": "<B.Tech.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Determine the Brewster’s angle for a glass of refractive index 1.5 when it is immersed in water of refractive index 1.33. 1 What do you mean by coherence? What is the difference between Temporal and Spatial Coherence? 1 Calculate the skin depth for a frequency of 1024 Hz for silver ifµo= 4π ×10−7Weber/A-m, and σ = 3 ×107 S/m 2 What is the equation of continuity? Write its expression and significance. 2 Calculate the de-Broglie wavelength associated with a proton moving with a velocity equal to 1/20th the velocity of light. Given mass of proton m = 1.67 ×10−27 kg, h = 6.62 ×10−34 J-s. 3 Give normalization condition of the wave function? Why a wave function should be normalized? 3 Differentiate between step index and graded index fibres and also show their refractive index profile diagrammatically. 4 What is population inversion? Is it possible to make a two-level LASER ? 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Discuss the phenomena of Fraunhoffer diffraction due to single slit and find out the condition for principal maxima. A parallel beam of light strikes an oil film , floating on a surface of water . When viewed at an angle of 30° from the normal 6th dark fringe is seen. Find the thickness of the film. . 1 1",
+      "marks": 1.4,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What do you understand by double refraction? Discuss the working principle and construction of Nicol Prism. How it is used as analyser? Calculate the missing orders in a double slit Fraunhofer diffraction pattern, if the widths of slits are 0.08 × 10–3 m and they are 0.4 ×10– 3 m apart. 1 1 CO Mapping",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Derive Maxwell 4th equation using the concept of displacement current also write its physical significance. What is poynting vector? What is its physical significance? If the magnitude of 𝐻⃗ in a plane wave is 1 A/m, find the magnitude of 𝐸⃗ for plane wave in free space. 2 2 2",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Obtain the electromagnetic wave equations, using Maxwell’s equation, in an isotropic dielectric medium and show that the speed of wave is less than its speed in vacuum? What is electromagnetic wave? Show that electric field and magnetic field vectors do not remain in phase when electromagnetic wave propagates in a conducing medium. 2 2 CO Mapping",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Find out a relation for wave function and energy of a particle moving in an infinite potential 1D box. and also draw first three eigen functions together with probability densities. Calculate the energy difference between the ground state and the first excited state for an electron in one dimensional rigid box of length 10–8 cm. . 3 3",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What is the difference between phase and group velocities? Show that the de-Broglie group velocity associated with the wave packet is equal to the velocity of the particle? What is Heisenberg uncertainty principle? Calculate the smallest possible uncertainty in the position of an electron moving with a velocity 3×108 m/s. 3 3 CO Mapping",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Derive a relation between Einstein’s Coefficients A and B. What conclusions do you draw from the ratio of the A and B coefficients? The refractive indices for core and cladding for a step index fibre are 1.52 and 1.41 respectively. Calculate critical angle numerical aperture and the maximum incidence angle. 4 4",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is LASER? What are the components required for LASER action? Explain using the example of He-Ne LASER. Drive a relation of numerical aperture and acceptance angle. Discuss the physical significance of numerical aperture. For short-distance communication which type of optical fibre is used? 4 4",
+      "marks": 5.0,
+      "subparts": []
+    }
+  ]
+}

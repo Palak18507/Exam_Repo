@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD140_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD140",
+    "subject_name": "Behavioral Finance",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define Behavioral Finance in your own words. 2.5 b Explain any two foundational concepts of Behavioral Finance. 2.5 c Define overconfidence bias in investors. 2.5 d What is meant by loss aversion? 2.5 e What are market anomalies? Give one example 2.5 f How does rational finance explain investor behavior? 2.5 g Explain the effect of heuristic in financial behavior. 2.5 h Define representativeness heuristic with an example. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the scope and applications of Behavioral Finance in real-world investment and financial planning. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Critically evaluate the Efficient Market Hypothesis in light of behavioral perspectives. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss various cognitive and emotional biases that impact investment decisions. Use real-world or hypothetical examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How does framing affect investment decisions? Illustrate with suitable scenarios. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the concept of calendar anomalies. How do they challenge the assumptions of market efficiency? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain Expected Utility Theory and its role in rational financial decision-making. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How do behavioral biases impact portfolio management and risk assessment? Provide practical examples 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the role of emotional biases in major financial crises. Use the case of the Silicon Valley Bank crash to support your argument. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

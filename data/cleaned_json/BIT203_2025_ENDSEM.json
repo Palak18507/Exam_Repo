@@ -1,0 +1,137 @@
+{
+  "paper_id": "BIT203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT203",
+    "subject_name": "Software Engineering",
+    "program": "<B.Tech (IT/AIML/CSE/CSE-AI)>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "‘Think Big, Act Small’. Enumerate two reasons for software projects going wrong? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "List the Umbrella Activities that occur throughout the Software Process. 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "List some metrics for specifying non-functional requirements 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Developing a software application is intrinsically complex. Justify your answer 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss design concept “Separation of Concern”. 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "Contrast between coupling and cohesion 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is estimation method in project planning? Briefly explain the key ingredients of an estimation method? 2.5",
+          "marks": null
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the concept of ‘Size Equivalent’ in Detailed COCOMO model. 2.5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Software agile methods are designed to produce useful software quickly. Describe some common characteristics shared by Agile methods.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast between Prescriptive Process Models and Evolutionary Process Models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using context/zero level DFD",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "First Level DFD",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "In literature, a number of Requirements elicitation techniques have been proposed. Why one elicitation technique cannot work in all situations?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "c",
+          "text": ": if a == b: if a == c: if b == c: return \"Equilateral\" else: 2 return \"Isosceles\" else: return \"Isosceles\" else: if b != c: if a == c: return \"Isosceles\" else: return \"Scalene\" else: return \"Isosceles\" Draw CFG Find cyclomatic complexity Identify Independent paths and write test cases for each independent path.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Prepare the structured chart for the following module: 1. BEGIN 2. Get count 3. names[] = loadList 4. 5. i = 0 6. WHILE i < length of names 7. Get newName 8. duplicate = checkForDuplicate 9. IF duplicate == False THEN 10. addToList 11. ENDIF 12. i = i + 1 13. ENDWHILE 14. END 15. 16. BEGIN checkForDuplicate 17. namesSorted = sortNames 18. inList = findName 19. Return inList 20. END mySubFour",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A software manager is in charge of the development of a safety-critical software system, which is designed to control a radiotherapy machine to treat patients suffering from cancer. This system is embedded in the machine and must run on a special-purpose processor with a fixed amount of memory . The machine communicates with a patient database system to obtain the details of the patient and, after treatment, automatically records the radiation dose delivered and other treatment details in the database. The COCOMO method is used to estimate the effort required to develop this system and an estimate of 26 person-months is computed. All cost driver multipliers were set to 1 when making this estimate. Explain why this estimate should be adjusted to take project, personnel, product and organizational factors into account. Suggest four factors that might have significant effects on the initial COCOMO estimate. Justify why you have included each factor?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain FPA model used for software estimation with suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

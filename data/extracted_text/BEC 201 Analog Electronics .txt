@@ -1,0 +1,135 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 3rd Semester 
+(December, 2024) 
+ 
+Subject Code: BEC-201 
+Subject: Analog Electronics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*
+8=20
+) 
+CO 
+Map
+ping 
+ 
+a) What is the difference between Zener Breakdown and Avalanche 
+Breakdown. 
+ 
+CO1 
+ 
+b) How many transistors are used in a Darlington pair, and how are they 
+connected? 
+ 
+CO2 
+ 
+c) What is the difference between UJT and BJT. 
+ 
+CO3 
+ 
+d) Give the relationship between α, β and γ of a transistor 
+ 
+CO1 
+ 
+e) What is the purpose of coupling in multistage amplifiers? 
+ 
+CO3 
+ 
+f) Sketch the hybrid model of BJT in CE and CB configuration. 
+ 
+CO2 
+ 
+g) What is threshold voltage in a MOS? Sketch the transfer characteristics of 
+MOS transistor. 
+ 
+CO4 
+ 
+h) In which region JFET acts as a resistor & why? 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Map
+ping 
+Q2 
+(a) Explain the working of a diode in clipping and clamping circuits. 
+Provide circuit diagrams and output waveforms for each type.  
+(b) Consider the clamper circuit shown in the figure below. 
+  
+If the diode is assumed to be an ideal and the value of resistance RL is very large, 
+Show the approximate value of output waveform at steady. 
+(5+5) 
+CO1 
+Q3 
+For the potential divided method prove the following equation 
+𝑅𝐵𝐵
+𝑅𝐸
+= (1 + β)(𝑆−1)
+1 + β −S
+ 
+Where    
+(10) 
+CO1 
+2 
+ 
+𝑅𝐵𝐵= Thevenin’s equivalent resistance as seen into the base of the 
+transistor 
+S =  Stability Factor 
+UNIT II 
+ 
+CO 
+Map
+ping 
+Q4 
+For the following circuit find out the values of base current and collector 
+current if β for transistor is 100. Also prove that 
+𝐼 β =
+𝑉𝑐𝑐−𝑉𝐵𝐸
+𝑅𝐵+ 𝑅𝐸(1 + β) 
+ 
+(10) 
+CO2 
+Q5 
+Discuss the Cascode Amplifier. Explain its advantages in terms of gain and 
+bandwidth compared to single-stage amplifiers. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Map 
+Q6 
+Compare and contrast thyristors, TRIAC, and DIAC in terms of their structure, 
+operation, and applications. 
+(10) 
+CO3 
+ 
+Q7 
+Illustrate the circuit of R-C coupled BJT differential amplifier, and derive 
+expressions for differential gain, common mode gain and CMRR. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Map 
+Q8 
+Explain the construction and working of an Enhancement-mode MOSFET. 
+Derive the expression for drain current in terms of gate voltage. 
+(10) 
+CO4 
+Q9 
+Explain the operation of JFET and derive the drain and transfer characteristics. 
+Write the limitation of JFET. 
+(10) 
+CO4

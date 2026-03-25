@@ -1,0 +1,89 @@
+{
+  "paper_id": "BCS402_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS402",
+    "subject_name": "Embedded System Design",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key challenges in programming embedded systems compared to general-purpose computing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key considerations while selecting an IDE for embedded system development?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key differences between general-purpose processors and domain-specific processors?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define RISC and CISC architectures. Provide examples of processors based on each architecture.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the fundamental stages of the embedded system design process? Explain each stage concisely.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What role do debugging tools play in embedded system development? Provide examples of commonly used debugging tools.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "In an embedded health monitoring system, what are the critical considerations for processor and toolchain selection?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the key elements of the ARM programmer’s model. What is the significance of the Program Status Register in ARM processors?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "List the different categories of instructions in the ARM instruction set. How does the barrel shifter function in ARM instructions?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key components of an embedded system? How does ARM architecture compare to other embedded system architectures?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

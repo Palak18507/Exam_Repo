@@ -1,0 +1,57 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 8) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BIT 406 
+Subject: Information Retrieval 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Explain difference between Data retrieval and Information retrieval. 
+ 
+ 
+b) What is Information Retrieval? Explain the history of Information 
+Retrieval. 
+ 
+ 
+c) List various issues in information retrieval system. 
+ 
+ 
+d) Explain different applications of LSI (Latent Semantic Indexing) 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Describe Vector Space Model with example. 
+ 
+ 
+b) Elaborate the technique of Query Expansion for improving the 
+performance of search engines. 
+ 
+ 
+c) What are forces work behind the E-commerce and how? 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain about Latent Semantic Indexing method with example. 
+ 
+ 
+b) Describe the Singular Value Decomposition (SVD) technique for 
+semantic structure.  
+ 
+ 
+c) Describe Probabilistic Analysis of LSI.

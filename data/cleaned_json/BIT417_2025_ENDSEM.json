@@ -1,0 +1,120 @@
+{
+  "paper_id": "BIT417_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT417",
+    "subject_name": "E-Commerce",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define E-Commerce and explain its architectural framework",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the advantages and disadvantages of engaging in E- Commerce",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the differences between e-business and e-commerce?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the Strategic Planning Process in e-business strategies.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Describe the SET protocol for credit card payment in e-commerce",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss symmetric and asymmetric encryption techniques used in E-Commerce.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the architecture and infrastructure of mobile commerce",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is a mobile wallet? Discuss its pros and cons",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss in detail the impact of E-Commerce on modern business practices. Provide examples of how it has revolutionized business-to-business , business-to-consumer , and consumer-to-consumer transactions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the economic potential of electronic commerce. Discuss the incentives for businesses to adopt E-Commerce and analyze the forces driving this adoption. Include real-world examples to support your answer.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the different levels of e-business strategies. How can businesses achieve strategic positioning using these strategies? Illustrate your answer with case studies or examples of successful implementations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define ERP in the context of e-business. Discuss its core modules and their functionalities, emphasizing how ERP integrates and streamlines various business processes. Provide examples of industries where ERP has been transformative.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the key security threats in online transactions and discuss in detail how firewalls and VPNs address these threats. Include diagrams to illustrate the functioning of firewalls",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Digital signatures are critical for E-Commerce security. Explain their working mechanism, including the role of hashing and encryption. Discuss their legal implications and how they enhance trust in electronic transactions",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role and components of Wireless Application Protocol in secure mobile commerce transactions. How do emerging technologies like 3G/4G networks support the WAP framework? Provide examples of secure mobile transactions using WAP",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the benefits and challenges of mobile payments, mobile portals, and mobile wallets. Include a discussion on the role of Bluetooth and wireless LANs in facilitating secure transactions in mobile commerce.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

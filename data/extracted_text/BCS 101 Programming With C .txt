@@ -1,0 +1,166 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(December, 2024) 
+ 
+Subject Code: BCS 101 
+Subject: Programming With C 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt All Parts 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Design a flowchart to calculate the area of a triangle given its base 
+and height. Explain the steps involved. 
+ 
+CO1 
+ 
+b) Evaluate the result of the following C expression: 
+int x = 10, y = 20, z = 5;   
+int result = (x > y) ? (x - z) : (y - z);   
+Explain your answer. 
+ 
+CO1 
+ 
+c) Write a C program that checks whether a number is divisible by 
+both 5 and 10 using a single if-else-if condition. Explain why only one 
+of the conditions executes. 
+ 
+CO2 
+ 
+d) Consider the following code: 
+char str[] = "Hello"; 
+printf("%s", str + 2); 
+What will be the output of this program? Explain why. 
+ 
+CO2 
+ 
+e) Analyze the following code and state the output: 
+void func() {   
+    int x = 10;   
+    printf("%d ", x);   
+}   
+func();   
+printf("%d", x); 
+Explain the scope of variable x in the given code. 
+ 
+CO3 
+ 
+f) What could go wrong if you try to free() a pointer that was not 
+dynamically allocated? Illustrate with an example. 
+ 
+CO3 
+ 
+g) Given a structure Student with fields Name, RollNo, and Marks[], 
+write a code to create an array of Student structures and initialize 
+each student’s name and marks. Then, display the details of each 
+student. 
+ 
+CO4 
+ 
+h) What is the purpose of the #define preprocessor directive in C? 
+Provide an example where using #define improves code readability 
+and maintainability. 
+ 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Write a C program that evaluates and prints the result of the following 
+complex expression: 
+int a = 10, b = 5, c = 20; 
+a += b * (c / 5) - 2; 
+printf("%d", a); 
+(10) 
+CO1 
+2 
+ 
+Explain the order of evaluation and operator precedence in this 
+expression. 
+Q3 
+Write a C program that demonstrates the concept of implicit and 
+explicit type casting with examples. Include a case where type casting 
+may result in loss of data or precision. Provide a scenario where 
+implicit type casting is preferable over explicit casting. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Write a program that takes two 2D arrays of the same size, performs 
+matrix addition, and prints the result. Ensure that the arrays are 
+passed to a function to handle the addition. 
+(10) 
+CO2 
+Q5 
+Write a program that accepts two strings and compares them without 
+using the strcmp function. The program should print "Equal" if the 
+strings are the same and "Not Equal" otherwise. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+Design a function that reverses an array of integers. Use recursion to 
+achieve this. Critically analyze the performance implications of 
+recursion compared to using a loop for the same task. 
+(10) 
+CO3 
+Q7 
+Given the following code, analyze what happens at runtime: 
+int *arr = malloc(5 * sizeof(int)); 
+arr = realloc(arr, 10 * sizeof(int)); 
+free(arr); 
+Discuss the possible issues related to memory allocation, resizing, and 
+freeing memory. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Write a program that combines structures and unions to represent a 
+"Vehicle" with the following: 
+ 
+Fields for the vehicle type (car, bike, truck) and vehicle details 
+(using structure fields). 
+ 
+A union that stores either fuel capacity (in liters) for cars and 
+trucks, or engine power (in horsepower) for bikes. 
+ 
+Implement functions to display the details of each vehicle 
+depending on its type. 
+(10) 
+CO4 
+Q9 
+Write a C program that performs the following operations on a file: 
+ 
+Read a series of records (each containing a student name and 
+marks). 
+ 
+Store these records in an array of structures. 
+ 
+Write the array of structures back to a new file. 
+ 
+Implement error handling if the file cannot be opened or read 
+properly. 
+(10) 
+CO4

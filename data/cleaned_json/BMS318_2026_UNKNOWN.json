@@ -1,0 +1,119 @@
+{
+  "paper_id": "BMS318_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BMS318",
+    "subject_name": "Supply Chain Management",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a marketing channel in the context of supply chain management? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define just-in-time inventory and state its benefit. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "State any two key issues in supply chain management CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why is achieving strategic fit important in SCM CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you mean by Bullwhip Effect in demand forecasting? CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between Push-based and Pull-based supply chains. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the difference between Third Party Logistics and Fourth Party Logistics ? CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the role of 3PL providers in modern supply chains? CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the strategic importance of warehousing in the supply chain. Include different types of warehouses and their functions CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Evaluate the role of distribution in supply chain efficiency. How does it impact customer satisfaction and organizational profitability? CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Identify and explain the key issues faced in managing a supply chain, including global challenges CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Analyze the importance of customer-centric supply chain strategies and how they provide competitive advantage. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the key inventory management practices in a modern supply chain environment? Explain with examples. CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How does poor inventory management affect the performance and profitability of a supply chain? Provide examples. CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the importance of Retailer-Supplier Partnerships . How do they enhance collaboration and reduce inefficiencies? CO 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Create a framework for evaluating suppliers for a manufacturing firm, considering quality, cost, delivery, and sustainability. CO 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

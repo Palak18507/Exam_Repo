@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAP212_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP212",
+    "subject_name": "Specifications, Quantities and Estimation",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write short notes on: a Request for Proposal b PAR-2023 c Deviated item w.r.t a BOQ. d Non Schedule Item e Defect Liability Period in a contracting contract f Earnest Money Deposit g Performance Bank Guarantee h Liquidated Damage",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain in detail the importance and use of “Material Specifications” in Architectural practice.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the use of material specifications connected to livelihood generation and the promotion of indigenous and appropriate construction materials?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw a sketch of a 2bhk plan of a residence and calculate all types of Areas.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Prepare a rough cost estimate for constructing a Nine-storey high School building with a total built-up area of 12000 sq.m, using PAR 2023 for required data, if any)",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the standard deductions considered in quantity estimation for 12mm thick cement-sand plaster. Additionally, compute the dry volume of materials required to plaster a 25m × 3m wall without any openings.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is BOQ? Create the Format of a BOQ for civil works of a commercial building project.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the main types of architectural design competitions held in India? Also, using the 80:20 QCBS system, determine the winner among five participants based on assumed technical and financial scores.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is Tendering process? Explain with a suitable example how bid are regulated?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

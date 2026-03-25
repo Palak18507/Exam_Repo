@@ -1,0 +1,79 @@
+{
+  "paper_id": "BIT202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT202",
+    "subject_name": "Operating Systems",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "a. What is a context switch? Why is it considered overhead in process management? 2.5 b. Differentiate between user-level threads and kernel-level threads 2.5 c. Describe the significance of the valid/invalid bit in paging systems. How does it assist in handling page faults? 2.5 d. What is a race condition? Explain with a simple example why race conditions occur in concurrent processes. 2.5 e. Explain hard disk structure with diagram. Define seek time and rotational latency, and discuss their impact on disk performance. 2.5 f. What is Swap-Space Management in operating systems? 2.5 g. Differentiate between a Logical File System and a Physical File System 2.5 h. Explain the concept of indexed allocation in file management. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain SJF and Round Robin scheduling with an example",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the different process states in an operating system with the help of a clearly labeled process state transition diagram. Discuss the concept of Inter-Process Communication and compare the message passing and shared memory models used for process communication, highlighting scenarios where each model is more suitable.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Explain Banker’s Algorithm. Explain how deadlock avoidance differs from deadlock prevention, and why Banker’s Algorithm is categorized as an avoidance technique.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "Explain the importance of process synchronization in concurrent systems. How can semaphores be used to solve synchronization issues in the Producer-Consumer Problem? Write the semaphore operations for both producer and consumer.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the role of the Device Manager in operating systems. Differentiate between dedicated, shared, and virtual devices with suitable examples. How does spooling help in managing slow dedicated devices like printers?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A disk queue has the following I/O requests for a disk with 200 cylinders, numbered from 0 to 199: 98, 183, 37, 122, 14, 124, 65, 67, 90, 150, 38 The disk head is currently positioned at cylinder 53 and is moving towards higher-numbered cylinders. Compare the performance of these algorithms based on the total head movement and explain which algorithm is most efficient for this scenario. • First-Come, First-Served • Shortest Seek Time First • SCAN • C-LOOK",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is a directory structure? Explain different directory organization techniques such as single-level, two-level, and tree-structured directories. Discuss the advantages of using a tree-structured directory in large file systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define access control in the context of file management. Explain the differences between Discretionary Access Control , Mandatory Access Control , and Role-Based Access Control . How does access control enhance data security in multi-user environments?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

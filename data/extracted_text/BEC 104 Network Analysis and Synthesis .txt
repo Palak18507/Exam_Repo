@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                       Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.TECH : Sem: 2nd  
+(May, 2025) 
+ 
+Subject Code: BEC 104 
+                             Subject: Network Analysis and Synthesis  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(4*5=20) 
+CO Mapping 
+a 
+Two resistances when connected in series, the effective value of 
+equivalent resistance is 100 Ohms. When connected in parallel the 
+effective value is 24. Find the value of resistance R1 and R2. 
+5 
+CO1 
+b 
+Explain with the help of mathematical representation of the following 
+theorems (i) Initial value Theorem (ii) Final value Theorem 
+5 
+CO2 
+c 
+Define y-parameters for a two port network and draw its equivalent 
+circuit model. 
+5 
+CO3 
+d 
+How the function can be identified as a positive real function? Explain 
+with the help of a suitable example 
+5 
+CO3 
+UNIT I 
+CO Mapping 
+Q2 
+Find Voltage V1 and V2 and current in 6 Ohm and 8 Ohm in the circuit 
+shown below 
+ 
+10 
+CO2 
+Q3 
+Find the value RL in the figure for maximum power transfer to RL and 
+calculate the maximum power transferred. 
+ 
+10 
+CO3 
+ 
+ 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Steady state is achieved in the circuit shown in figure with switch S as 
+open. At t=0 the switch S is closed. Find the value of I(t) at t>0. 
+ 
+10 
+CO2 
+Q5 
+A constant voltage source of 100V applied at t=0 to a series RC circuit 
+with R=5 kΩ and C=20µF, given that there is no initial charge on the 
+capacitor. Examine the current i and charge q for time t > 0. 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Define h-parameters. Obtain the h-parameters of the circuit shown in 
+the figure. 
+10 
+CO3 
+Q7 
+(a) Drive the condition of symmetry and reciprocity for a two-port 
+network in terms transmission (ABCD) parameters. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is an LC immittance function? State the properties of such 
+functions. 
+10 
+CO4 
+Q9 
+Synthesize the network using Foster-I and Foster -II forms for the 
+impedance function given below: 
+𝑍(𝑠) =
+𝑠(𝑠2 + 9)
+(𝑠2 + 5)(𝑠2 + 13) 
+ 
+10 
+CO4

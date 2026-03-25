@@ -1,0 +1,86 @@
+{
+  "paper_id": "BCS202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS202",
+    "subject_name": "Computer Organization and Architecture",
+    "program": "B. Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between CISC and RISC processors.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Convert the following binary number into decimal & octal number: i) ii)",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write functionality of computer instructions, CLA, LDA, OUT, INC, HLT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Illustrate the phases of Interrupt Cycle with a neat flowchart.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Reduce following Boolean MIN-term and MAX term expression and implement their logic circuit in SOP and POS form. F1 = ∑ + d Y1 = 𝜋 d",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Classify different Types of Instructions used in Computer Organization with an example. Write the micro operation required for instruction ADD to AC, c. write the functionality of following micro operations: shl R, shr R, cil R, cir R, , R3<---R1+ R2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the three method of signed number representation? Represent decimal numbers 564.40 and 368.75 in 10’s and 9’s complement representation.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Make flow chart of instruction cycle and explain it.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why addressing modes are required. Differentiate between direct and indirect addressing modes with the help of suitable example.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

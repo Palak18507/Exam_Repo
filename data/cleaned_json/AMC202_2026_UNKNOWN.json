@@ -1,0 +1,99 @@
+{
+  "paper_id": "AMC202_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "AMC202",
+    "subject_name": "Business Research",
+    "program": "BBA",
+    "semester": 1,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Outline the key steps involved in the research process. Explain the steps considering a research topic.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare primary and secondary sources of data. When are the two sources preferred over one another?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are Type I and Type II errors in hypothesis testing? Explain with examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Outline and explain the typical layout or structure of a formal research report.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between exploratory, descriptive, and explanatory research with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain how to identify a research problem and formulate a testable hypothesis. Take a research idea and develop hypothesis for it.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the characteristics and uses of Likert and Semantic Differential Scales.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the principles of effective questionnaire and form design?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the key considerations in designing a sampling plan and selecting an appropriate sampling technique.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "When and how is a Chi-square test and ANOVA used in research?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the JEL classification system and its use in organizing economic and business research.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the importance of citations and bibliography in a research report. How they are usually formatted?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

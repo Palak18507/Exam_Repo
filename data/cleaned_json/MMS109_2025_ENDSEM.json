@@ -1,0 +1,163 @@
+{
+  "paper_id": "MMS109_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS109",
+    "subject_name": "Legal Aspects of Management",
+    "program": "MBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Distinguish between Penalty & liquidated damages; and Novation and Alteration",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "“An agreement to make an agreement in future is no contract”. Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Who can be a ‘Director’ of a company? List the different categories of board of directors under Companies Act, 2013.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "‘The memorandum of association is an unalterable charter of a company.’ Comment, also discuss contents of memorandum.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define and distinguish between ‘condition’ and ‘warranty’.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Elaborate on objectives and important provisions of Competition Act, 2002. Also, explain the composition of Competition Commission of India.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss the powers and functions of Central Consumer Protection Authority under Consumer Protection Act, 2019.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Distinguish between public key and private key; digital signature and electronic signature.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A, an associate professor, in the college applied for long leave. The principal of the college proposed to sanction the leave only if she promised in writing that she would not return to job and take ‘VRS’. After completion of leave period A returned to job and gave her joining report which was not accepted by the principal. Advise A as to her rights.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "‘A’ goes to a hotel for a dinner. He finds a mobile phone near his table and deposits it with ‘B’ the hotel manager. In spite of vigorous efforts, the owner of the mobile phone could not be traced. ‘A’ requests ‘B’ to return the mobile phone to him, but B refuses to do so. Now, A files a suit against B for getting back the mobile phone. Will he succeed? Give reasons",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Ordinary damages are the damages, which are awarded for compensating the loss that arises naturally from the breach of contract. State with reasons whether the statement is true or false.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "A draws a cheque payable to B, the bearer. C steals the cheque. Can C demand the payment from the bank or from A or B?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "‘A cheque is a bill of exchange’. Comment. Also distinguish between a bill of exchange and a cheque. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define a company and discuss the characteristics features of a duly incorporated company. Also, distinguish between a private company and a public company.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Shelf prospectus",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Red herring prospectus",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Authorized share capital vs. called up capital",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Annual General Meeting and Extraordinary General Meeting",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "‘Nemo dat quod non-habet’. Explain the maxim and discuss the exceptions to the rule.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe briefly the duties, powers, and functions of the Competition Commission of India.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe the salient feature of the Consumer Protection Act, 2019. Enumerate the aim and objectives of the Act.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a short note on Digital Signature Certificates including certifying authority to issue DSC and grounds for the suspension of DSC.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

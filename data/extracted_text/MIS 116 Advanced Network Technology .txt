@@ -1,0 +1,117 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+Course Name: <M.Tech (IT-Cyber Security)  Semester: <2nd>  
+(May, 2025) 
+ 
+Subject Code: MIS 116 
+Subject: Advanced Network Technology 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Define the below-mentioned terminologies with suitable examples 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Information Coding 
+ 
+CO1 
+ 
+b) Flow and Error Control 
+ 
+CO3 
+ 
+c) Characteristics of Wireless PAN 
+ 
+CO2 
+ 
+d) Unicast Routing 
+ 
+CO1 
+ 
+e) Centralized Controller in SDNs 
+ 
+CO2 
+ 
+f) Security Considerations in WBANs 
+ 
+CO4 
+ 
+g) Greedy Routing  
+ 
+CO3 
+ 
+h) Cognitive Radio Networks Security Goals 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Critically examine the working of User Datagram Protocol (UDP) with 
+respect to connectionless communication and minimal overhead. How 
+does UDP support real-time applications despite lacking reliability 
+mechanisms? 
+(10) 
+CO3 
+Q3 
+Explain how intra-domain and inter-domain routing coordinate to 
+achieve end-to-end packet delivery across heterogeneous networks. 
+Give suitable illustrations showing routing across multiple Autonomous 
+Systems. 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the architecture and operational workflow of Multiprotocol 
+Label Switching (MPLS) in contrast to conventional destination-based 
+IP routing. Give suitable illustrations for the same. 
+(10) 
+CO1 
+Q5 
+Quantitatively different between Remote Access and Site-to-Site 
+Virtual Private Networks based on bandwidth, latency, scalability and 
+throughput metrics. Give suitable illustrations for the same. 
+(10) 
+CO4 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Quantitatively differentiate between Proactive (Table-Driven) Routing 
+Protocol and Reactive (On-Demand) Routing Protocol in Mobile Ad-hoc 
+Networks (MANETs). Give suitable illustrations for the same. State their 
+advantages and disadvantages respectively.  
+(10) 
+CO2 
+Q7 
+Critically examine the role of message prioritization in MaxProp 
+Routing Protocol in Delay Tolerant Networks. Give suitable 
+illustrations explaining the working of MaxProp Routing Protocol. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Cryptographically state and explain the significance of 
+Extended Euclidean Algorithm in RSA Cryptosystem.  
+(b) By choosing the smallest two mutually coprime numbers, 
+calculate the ciphertext for the plaintext “B” using RSA 
+Cryptosystem while considering the fact that the mapping is 
+Set X: {“A=1”, “B=2”, “C=3”,..……, “Y=25”, “Z=26”}, and finally 
+decrypt the same to retrieve the plaintext “B”. 
+(5*2=10) 
+CO4 
+Q9 
+Write short note on any two of the following:- 
+(a) Digital signature and digital certificates 
+(b) Next Generation Firewall 
+(c) Key distribution protocols 
+(5*2=10) 
+CO1

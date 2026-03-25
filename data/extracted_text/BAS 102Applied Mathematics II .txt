@@ -1,0 +1,198 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Reappear  End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: <B.Tech. > 
+ (For students admitted 2022 onwards) 
+ 
+ 
+Subject Code: BAS  102 
+Subject: Applied Mathematics II 
+Time :3 Hours 
+Maximum Marks :60 
+Note : Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) If  𝑉⃗ = 𝑥2𝑧𝑖̂ −2𝑦3𝑧2𝑗̂ + 𝑥𝑦2𝑧, find 𝑐𝑢𝑟𝑙 𝑉⃗  at (1,-1,1). 
+CO1 
+ 
+(b) Find the directional derivative of 𝑓(𝑥, 𝑦, 𝑧) = 2𝑥2 + 3𝑦2 + 𝑧2 at 
+the point 𝑃(2,1,3) in the direction of the vector  𝑎 = 𝑖̂ −2𝑘̂. 
+ 
+CO1 
+ 
+(c) Solve 
+𝑑2𝑦
+𝑑𝑥2 −4𝑦= 𝑥2.  
+ 
+CO2 
+ 
+(d)  Solve 
+𝑦′′ −𝑦′ −2𝑦= 𝑒3𝑥 by 
+method 
+of 
+Undetermined  
+Coefficient. 
+CO2 
+ 
+(e)  Find L-1 (
+1
+√2𝑠+3). 
+        CO3 
+ 
+(f) Express the following function in terms of unit step functions 
+and find its Laplace transform: 
+ 
+𝑓(𝑡) = {8,
+𝑡< 2
+6,
+𝑡> 2 
+        CO3 
+ 
+(g)   Verify  the Cauchy-Riemann equation for the function  
+   f(z) = x2 – y2 +   x + i (2xy+y). 
+        CO4 
+ 
+(h) Determine the order of the poles for the function𝑓(𝑧) = 
+𝑠𝑖𝑛 𝑧
+𝑧2 − 𝑧 . 
+        CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+(a) Find the total work done in moving a particle in a 
+force field, given by  𝑓 = 3𝑥𝑦𝑖̂ + 5𝑧𝑗̂ + 10𝑥𝑘̂, 
+along the curve 𝑥= 𝑡2 + 1, 𝑦= 2𝑡2, 𝑎𝑛𝑑 𝑧= 𝑡3 
+from 𝑡= 1 𝑡𝑜 𝑡= 2. 
+ 
+(b) Find ∬𝐹.
+⃗⃗⃗ 𝑛̂𝑑𝑆, where 
+𝐹 = (2𝑥+ 3𝑧)𝑖̂ −(𝑥𝑧+ 𝑦)𝑗̂ + (𝑦2 + 2𝑧)𝑘̂ and 𝑆 
+is the surface if sphere having centre (3, -1, 2) and 
+radius 3. 
+ 
+ (5*2=10) 
+CO1 
+ 
+Q3 
+(a) Use Green’s theorem in a plane, evaluate 
+∮[(𝑦−sin 𝑥)𝑑𝑥+ cos 𝑦𝑑𝑦],
+𝐶
+ where 𝐶 is the 
+triangle with the vertices (0,0), (
+𝜋
+2 , 0)  𝑎𝑛𝑑 (
+𝜋
+2 , 1).  
+ 
+ 
+(5*2=10) 
+         
+CO1 
+2 
+ 
+(b) The vector field 𝐹 = 𝑥2𝑖̂ + 𝑧𝑗̂ + 𝑦𝑧𝑘̂ is defined 
+over the volume of the cuboid given by 0 ≤𝑥≤𝑎,
+0 ≤𝑦≤𝑏, 0 ≤𝑧≤𝑐 enclosing the surface 𝑆. 
+Evaluate the surface integral ∬
+𝐹 . 𝑑𝑆 
+𝑆
+ using 
+Gauss Divergence theorem. 
+                                                                UNIT-II 
+CO Mapping 
+Q4 
+(a) Solve 
+𝑑2𝑦
+𝑑𝑥2 −2
+𝑑𝑦
+𝑑𝑥= 𝑒𝑥sin𝑥 by method of variation   
+of parameters. 
+ 
+(b) Solve (2𝑥+ 3)2 𝑑2𝑦
+𝑑𝑥2 −(2𝑥+ 3) 𝑑𝑦
+𝑑𝑥−12𝑦= 6𝑥; 
+𝑥≠−3
+2. 
+ 
+(5*2=10) 
+CO2 
+Q5 
+(a) Solve 𝑥2 𝑑2𝑦
+𝑑𝑥2 + 5𝑥
+𝑑𝑦
+𝑑𝑥+ 4𝑦= 𝑥𝑙𝑜𝑔𝑥. 
+ 
+(b) Solve the simultaneous equations 
+𝑑𝑥
+𝑑𝑡= 7𝑥−𝑦,
+𝑑𝑦
+𝑑𝑡= 2𝑥+ 5𝑦.         
+ 
+(5*2=10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+(a) Find the laplace transform of e-t sint u(t-𝜋). 
+ 
+(b) Obtain the inverse Laplace transform of 
+𝑠 + 1
+𝑠2 + 2𝑠 . 
+(5*2=10) 
+CO3 
+Q7 
+(a) Use Convolution theorem to find L-1 {
+𝑎2
+𝑠 (𝑠 + 𝑎)2}. 
+ 
+(b) Solve the initial value problem  
+ 
+2𝑦′′ +  5𝑦′+ 2y = 𝑒−2𝑡,           y(0) = 1,    y’(0) = 1,   
+ 
+               Using the Laplace transforms.  
+ 
+(5*2=10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+(a) Find the harmonic conjugate and the analytic 
+function f(z) of the function u(x,y) = x3 – 3xy2 – 5y . 
+ 
+(b) Evaluate ∮
+𝑧−3
+𝑧2 + 2𝑧 +5
+𝐶
+𝑑𝑧,  where C is the circle 
+|z+1-i| = 2 
+ 
+(5*2=10) 
+         CO4 
+Q9 
+(a) Expand  𝑓(𝑧) = 
+1
+𝑧(𝑧−1) in a Laurent series valid for  
+i. 1 < |𝑧−2| < 2. 
+(b) Evaluate ∮
+1
+(𝑧−1)2(𝑧−3)
+𝐶
+𝑑𝑧 , by residue 
+theorem,where 
+i. 
+the contour C is the rectangle defined by x 
+= 0, x = 4, y = -1, y = 1, 
+ii. 
+the contour C is the circle |z| = 2. 
+ 
+ 
+(5*2=10) 
+         CO4

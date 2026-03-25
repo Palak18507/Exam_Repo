@@ -1,0 +1,121 @@
+{
+  "paper_id": "MVD102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD102",
+    "subject_name": "DIGITAL VLSI DESIGN",
+    "program": "M.Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does scaling in CMOS technology affect MOSFET parameters such as threshold voltage, leakage, and short- channel effects? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What factors influence the threshold voltage of MOSFET? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the different components of power dissipation in a CMOS inverter? Explain. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the impact of transistor sizing on propagation delay in CMOS inverters 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the function of an ALU in a processor? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the difference between an array multiplier and a Booth multiplier? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the concept of precharge and evaluation phases in dynamic logic circuits. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Compare NMOS, PMOS, and CMOS logic in terms of power dissipation, speed, and area efficiency. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Derive the current-voltage characteristics of a MOSFET. Provide detailed equations for both linear and saturation regions, and explain how device parameters influence these characteristics.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the short-channel effects observed in scaled-down MOSFETs. Describe issues such as drain-induced barrier lowering and velocity saturation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the propagation delay in a CMOS inverter? Explain the factors that affect propagation delay and derive the expressions for rise time and fall time .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Derive the voltage transfer characteristic of a CMOS inverter and explain how its shape influences digital circuit performance. Discuss the role of threshold voltage in determining the switching point.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Design D Flip Flop with static CMOS implementation and transmission gate approach. Discuss the cascading issues in dynamic logic gates. How does domino logic solve the problem of charge leakage and signal degradation?",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Compare pseudo-nMOS logic with static CMOS logic in terms of noise margin, power efficiency, transistor count, and scalability. Under what design scenarios is pseudo-nMOS preferable despite its disadvantages?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the basic structure and operation of a Static 6 transistor RAM cell. How does it perform read and write operations? Discuss the advantages and disadvantages of SRAM over DRAM.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the working principle of a shift-and-add multiplier. Draw a block diagram and describe the steps involved in multiplying two binary numbers.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

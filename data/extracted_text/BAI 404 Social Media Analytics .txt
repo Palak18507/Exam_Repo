@@ -1,0 +1,142 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH, Semester:8th 
+(May, 2025) 
+ 
+Subject Code: BAI 404 
+Subject: Social Media Analytics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Briefly differentiate how small organizations and large organizations 
+approach SMA 
+ 
+CO1 
+ 
+b) Give one basic measure used to quantify influence in a social 
+network. 
+ 
+CO1 
+ 
+c) Name two common applications of Natural Language Processing 
+(NLP) for micro-text analysis on social media. 
+ 
+CO2 
+ 
+d) What do you understand by influence maximization in a network? 
+ 
+CO2 
+ 
+e) In random graph models, what does the parameter “p” usually 
+represent? 
+ 
+CO3 
+ 
+f) Give one example of how A/B testing might be used to improve a 
+website’s performance. 
+ 
+CO3 
+ 
+g) What is influence maximization in the context of social media? 
+ 
+CO4 
+ 
+h) Define reach and engagement in the context of Facebook Analytics. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Suppose you have a small social network with five users. Each user has 
+certain connections. 
+ 
+Illustrate how you would represent this network using a graph 
+and its corresponding adjacency matrix. 
+ 
+Define any two basic measures (e.g., degree centrality, 
+clustering coefficient) you would use to identify an influential 
+user and justify your choice. 
+(10) 
+CO1, CO2 
+Q3 
+Discuss the need for Social Media Analytics in organizations, 
+highlighting the differences in usage for small versus large 
+organizations. Illustrate how SMA can be applied in two distinct areas 
+(e.g., marketing, customer service, crisis management). 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+You are given clickstream data of a website. Design a Python-based 
+pseudocode or actual code to count the number of clicks per user 
+session. Also explain how A/B testing can help optimize the user 
+interface. 
+(10) 
+CO3 
+Q5 
+Every year, thousands of research papers are published worldwide. 
+Suppose a researcher wants to work in a particular research area and 
+explore some research papers in that domain. As millions of scientific 
+papers are available in that domain, how will researchers select 
+research papers? Use an appropriate network model and implement 
+the above scenario. To implement the above behavior, consider that 
+the maximum number of nodes in the network cannot exceed 10. 
+Initially, a small network (m0) with 3 nodes is given, where each node 
+is connected with the remaining nodes (the degree of each node is 2). 
+Suppose a new node (researcher) wants to join the network with an 
+incoming degree (m) of 2 (wants to read 2 papers). How will it choose 
+the nodes to which it intends to connect? Please note that the final 
+network will contain 10 nodes. 
+(10) 
+CO3, CO4 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A social campaign on Facebook reached 15,000 people and had an 
+engagement rate of 6.5%. 
+(i) Calculate the number of people who are engaged. 
+(ii) If the goal was a 10% engagement rate, how many more people 
+needed to engage? 
+(iii) Suggest improvements to meet the campaign goal. 
+(10) 
+CO3 
+Q7 
+a. Describe any three key metrics provided by Facebook Insights (e.g., 
+demographics, reach, engagement). Why are these metrics 
+important for page administrators? 
+b. Propose a strategy to measure and analyze a social media campaign 
+on Facebook, from defining goals to evaluating outcomes. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Compare the efficacy of the Adamic-Adar Index, Jaccard Coefficient, 
+Common Neighbors, and Preferential Attachment link prediction 
+algorithms for the following network and determine the best 
+performing among all considered algorithms. 
+ 
+Actual Network                Network with removal of 3 links 
+ 
+(10) 
+CO4 
+Q9 
+Write a Python program that crawls Twitter data from Twitter now 
+known as X. Write all steps and also demonstrate how to visualize 
+hashtags using word clouds or bar charts. Also, mention the steps for 
+exploring and analyzing such data. 
+(10) 
+CO3, CO4

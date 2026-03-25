@@ -1,0 +1,208 @@
+{
+  "paper_id": "BEC211_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC211",
+    "subject_name": "Communication System",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A stationary random process X is applied to the input of a system for which h = t2e–8t u. If E[X] = 5. What is the mean value of the system’s response Y?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "If X and Y are two random process with autocorrelation function RXX and RYY respectively then prove that |𝑅𝑋𝑌| ≤√𝑅𝑌𝑌)",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define bandlimited white noise.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "With the aid of the block diagram explain the principle and working of Super hetrodyne receiver.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the working principle of balanced slope discriminator used for FM detection.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How AM is generated using square law modulator? Derive relevant expressions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is capture effect and threshold effect in Angle modulation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "A carrier wave of frequency 10 MHz and peak value 10V is amplitude modulated by a 5 KHz sine wave of amplitude 6V. Determine the modulation index and amplitude of the side frequencies.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider a random process Y= Xcos where X is a wide-sense stationary random process, 𝜃 is a random variable independent of X and is distributed uniformly in and w0 is a constant. Prove that Y is wide-sense stationary.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "X is a random variable with mean 𝜇𝑋= 3, 𝜎𝑋 2 = 2. Determine the second-order moment of X about the origin. Determine the mean of random variable Y where Y = –6X + 22",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The probability density functions of statistically independent random variables X and Y are Find the pdf of Z=X+Y",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The joint pdf of random variables is Are X and Y statistically independent random variables? Calculate the probability for X≤0 and Y≤0.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the generation of SSB using phase discrimination method 2",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is envelop detector? Derive the expression for avoiding the diagonal clipping in the envelop detector.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "With necessary circuit diagram and waveforms, explain how DSB-SC wave is generated using Balance Modulators",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A square-law demodulator, where the input voltage vam is the incoming AM signal. For small input voltage levels, the diode current is a nonlinear function of vam so that the output voltage vo is given approximately by 𝜐o = 𝛼1𝜐am + 𝛼2𝜐am2 Evaluate the output voltage vo and show that it contains the original message signal. Discuss how the message signal may be extracted from vo and the conditions that must be satisfied to minimise distortion",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the NBFM and WBFM expression. Explain the Armstrong method of generation of WBFM.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Figure shows the block diagram of an Armstrong wideband FM transmitter that employs two stages of frequency multiplication. The message is a sinusoid of frequency fm = 15 kHz and the NBFM signal has carrier frequency f c1 = 100 kHz and frequency deviation fd1 = 750 Hz. The required transmission from the power amplifier stage is a WBFM signal having carrier frequency fc = 120 MHz and frequency deviation fd = 75 kHz. The first frequency multiplication factor is n1 = 5.Determine: The required second frequency multiplication factor n2. The required LO frequency f LO. The bandwidth of the FM signal at the output of each processing block in the transmitter",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the direct method of generation of FM",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Ratio detector. Compare it with foster seelay discriminator.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "An amplifier has a standard spot noise figure F0 = 10 dB. An engineer uses the amplifier to amplify the output of antenna whose temperature Ts = 200 K What is the effective input noise temperature of the amplifier? What is the operating noise figure?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive the figure of merit of DSB-SC modulation scheme.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Two resistors of 50 kW and 100 kW are at room temperature. For a bandwidth of 500 kHz, calculate the thermal noise voltage generated by each resistor, the two resistors in series, and the two resistors in parallel.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is pre-emphasis and de-emphasis.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

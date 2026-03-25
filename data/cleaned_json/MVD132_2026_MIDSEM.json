@@ -1,0 +1,91 @@
+{
+  "paper_id": "MVD132_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD132",
+    "subject_name": "ANN and Deep Learning",
+    "program": "M. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define soft computing. Discuss different types of soft computing techniques. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is decision theory in handling uncertainty? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is neural network? Explain mathematical model of neurons. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of activation function in neural network? 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the major applications of soft computing in engineering and science. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain utility theory and its role in decision-making. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Bayes' rule? How is it used for combining events? 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a multi-layer perceptron? Explain its structure and working. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is supervised and unsupervised learning? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the working of a biological neuron and compare it with an artificial neuron. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

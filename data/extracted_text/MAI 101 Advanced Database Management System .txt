@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+M.Tech :<>, Semester:<1> 
+(December, 2024) 
+ 
+Subject Code: MAI-101 
+Subject: Advanced Database Management System 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between parallel and federated databases. 
+ 
+1 
+ 
+b) Explain the role of virtualization in query evaluation in parallel 
+databases. 
+ 
+1 
+ 
+c) What is the difference between BASE and ACID properties in 
+distributed databases? 
+ 
+2 
+ 
+d) Explain the concept of schema on read versus schema on write with 
+suitable examples. 
+ 
+2 
+ 
+e) What are embedded documents in MongoDB, and how are they 
+different from arrays? 
+ 
+3 
+ 
+f) Explain the concept of consistency and replication in the Cassandra 
+data store. 
+ 
+3 
+ 
+g) What is the role of indexing in Neo4J, and how does it improve 
+query performance? 
+ 
+4 
+ 
+h) Describe the key features of the RIAK data store. 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the obstacles to scaling up RDBMS and the measures to 
+improve PL/SQL performance. Provide examples. 
+(10) 
+1 
+Q3 
+Elaborate on the performance parameters for parallel databases and 
+their impact on database scalability. 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the challenges of query optimization in distributed 
+databases. Provide strategies to overcome these issues. 
+(10) 
+2 
+Q5 
+Discuss XML database schema design strategies with an example of 
+implementing XQuery and XPath. 
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Compare and contrast MongoDB with XML databases in terms of data 
+modeling and querying. 
+(10) 
+3 
+Q7 
+Explain the column family structure in Cassandra and its advantages 
+over traditional relational database systems. 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the representation of 1:1, 1:N, and M:N relationships in Neo4J, 
+along with their physical storage mechanisms. 
+(10) 
+4 
+Q9 
+Discuss the distribution, availability, consistency, and replication 
+mechanisms in key-value data stores like RIAK. 
+(10) 
+4

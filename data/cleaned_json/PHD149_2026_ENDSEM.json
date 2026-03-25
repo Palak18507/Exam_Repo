@@ -1,0 +1,110 @@
+{
+  "paper_id": "PHD149_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD149",
+    "subject_name": "Deep Learning for Natural Language Processing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider a neural Network with single weight W. The output of the network is given by y=w^2 and the loss function is L=1/2^2 where t=4 is the target value. If the current value of w is 3, what is the gradient of L with respect to w?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Suppose a language model has a vocabulary of size 5 and during decoding the model produces the following logits for the 5 tokens Z=[ 4 0 -2 3 1]. Compute the probability distribution when using random sampling with temperature T= 0.5.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Distinguish between extractive and abstractive text summarization",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is QLoRA? CO Mapping",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Word2Vec architectures to generate word embeddings",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Suppose you train a skip gram model with negative sampling on a vocabulary of 10000 words. If you choose k=5 negative samples per positive pair, Calculate the number of updates made to the embeddings for each target-context pair?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Explain n-gram language model. What are its limitations and applications",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the application of RNN in sequence labelling",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain BART model with architecture details",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is RLHF? How does RLHF work?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain deep learning approaches for question answering system",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is RAG? How does RAG work? What are the benefits of RAG",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is fine tuning? What are the benefits and challenges in LLM fine tuning? Explain any one parameter efficient fine tuning technique?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

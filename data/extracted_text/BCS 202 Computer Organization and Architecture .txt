@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: < B Tech  CSE >, Semester:<4> 
+(May, 2025) (Visual Impaired) 
+ 
+Subject Code: BCS 202  
+ 
+ 
+   Subject:  Computer Organization and Architecture  
+Time :3 Hours  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt all parts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2.5*8=20) 
+ 
+ 
+a) 
+Why NAND and NOR gates are called universal gates? 
+ 
+b) 
+What is 10’s complement and 9’s complement representation of a decimal number 
+ 
+c) 
+What is a register? 
+ 
+ 
+d) 
+What is an instruction cycle and write the phases of instruction cycle. 
+e) 
+Explain the function of a 4 bit synchronous clocked shift left register  
+f) 
+Explain the functioning of JK flip flop with the help of suitable diagram. What is race 
+around condition? 
+ 
+g) 
+What is cache memory? 
+ 
+h)   
+Explain the functions of address bus, data bus and control bus.  
+ 
+UNIT I 
+ 
+Q2 
+What is a decoder? Explain 2 to 4 decoder and its function.  
+ 
+ 
+ 
+      (10) 
+ 
+Q3 
+What is the function of register transfer language   (RTL).  Explain arithmetic, logic and shift 
+microoperations with its RTL notations  (10) 
+ 
+UNIT II 
+Q4 
+Differentiate between RISC and CISC architecture. Mention there suitable applications  
+also. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (10) 
+ 
+Q5 
+Explain various addressing modes with the help of an example.  
+ 
+ 
+     (10) 
+ 
+UNIT III 
+Q6 
+Explain Booth’s multiplication algorithm                                                              
+(10) 
+ 
+Q7 
+Write about pipelining and its importance in high speed applications                      (10) 
+ 
+UNIT IV 
+Q8 
+Explain the difference between isolated   (I/O) and memory mapped (I/O). 
+ 
+(10) 
+ 
+Q9 
+What is DMA? Explain how DMA bypasses CPU and speeds up the memory operation.   (10)

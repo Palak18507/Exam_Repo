@@ -1,0 +1,91 @@
+{
+  "paper_id": "BEC210_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC210",
+    "subject_name": "Digital Communication Systems",
+    "program": "B. Tech. ECE AI",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the importance of Companding in signal processing? C01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you understand by 2 bit PCM coder. C02",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is an Eye Diagram? How study of inter symbol interference can be useful with an Eye Diagram ? C01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "State and explain QPSK transmitter with neat and clean connection diagram. C02",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Use the Gram-Schmidt process to construct an orthonormal basis from the following basis vectors: C01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "State and explain the generation of pulse position modulation using neat and clean block diagram. C02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "2-bit PCM modulator is used with a 0-1 V signal. What is the binary digital value that will occur for the following inputs: 0.4 V, 0.78 V. What is the quantization error for these two samples? C03",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the role of constellation diagrams in digital receiver design. How do they help in analyzing modulation schemes like BPSK and QPSK? C01",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare coherent and non-coherent detection techniques with an example. How do they impact the performance of BFSK receivers? C02",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe Adaptive Delta Modulation . How does it overcome the limitations of standard Delta Modulation? C03",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

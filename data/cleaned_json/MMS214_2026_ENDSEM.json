@@ -1,0 +1,147 @@
+{
+  "paper_id": "MMS214_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS214",
+    "subject_name": "Financial Modeling and Analysis",
+    "program": "<MBA>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key principles of financial modeling?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define financial modeling. How is it different from traditional accounting?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between deterministic and stochastic models.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a stochastic error term, and why is it important?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Why is hypothesis testing important in regression models?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What does the Mean Squared Error indicate in forecasting?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is an Error Correction Model ?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the difference between ARCH and GARCH models.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write down the steps used to apply goal seek in excel with example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "ABC corporation has a stock price PO=50. The firm has just paid a divided of Rs.3/- per share, and shareholders think that this dividend win grow by a rate of 5% per year. Use the Gordon dividend Model to calculate the cost of equity of ABC.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast different modeling practices and principles in financial decision-making. How do they impact business strategies?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Many financial models assume that estimators are unbiased and efficient. However, in real-world data, these assumptions often fail. How would you adjust financial models to account for these deviations?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "The mean score of 64 mentally challenged students in a test was found to be 67.5. It is known that the population is normally distributed with a variance of 9. Test the hypothesis that the mean score is 69.5 at the 0.01 level of significance. Value of z test of alpha 0.01 One tail: 2.33, - 2.33 Two tail: 2.58 – 2.58.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "If you were tasked with creating a new forecasting method that surpasses the accuracy of traditional regression models, what new techniques or hybrid approaches would you propose?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A company’s stock price regression model shows a high R-squared value, but investors continue to make losses based on its predictions. What potential flaws could be causing this discrepancy? Support your answer with proper justification.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Given that financial markets are often influenced by sudden, unpredictable events , is it even possible to build a genuinely reliable time series model? Why or why not?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "ARCH Model",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "AR Model",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "GARCH Model",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

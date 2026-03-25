@@ -1,0 +1,131 @@
+{
+  "paper_id": "BMA301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA301",
+    "subject_name": "Machine Design",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Endurance Limit. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Factor of safety Stress Concentration Factor. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Sketch examples where the bolts are subjected to Shear stress only Tensile and shear stresses. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why taper is provided on the cotter of cotter joint? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Differentiate between Shaft and Axle. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is a Self Locking screw? CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is Bearing Characteristic Number? CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is Herringbone gear? CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe various theories of failure in machine design and their application. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A circular member is subjected to a direct tensile load of 20 kN and a shear load of 12 kN . the yield stress in tension is 25KN/ 𝑐𝑚2. Determine the diameter of the member according to maximum principal stress theory and maximum shear stress theory using a factor of safety 2. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A double -riveted double strap butt joint is used to connect two plates each of 12 mm thickness, by means of 16 mm diameter rivets having a pitch of 48 mm. The rivets and plates are made of steel. The permissible stresses in tension, shear and compression are 80, 60 and 120 𝑁/𝑚𝑚2 respectively. Determine the efficiency of the joint CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design a knuckle joint to transmit 150 kN. The design stresses may be taken as 75 MPa in tension, 60 MPa in shear and 150 MPa in compression. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A double threaded power screw, used for lifting loads, has a nominal diameter of 30 mm and a pitch of 6 mm. The coefficient of friction at the screw threads is 0.1. Neglecting collar friction, calculate CO 3 efficiency of the screw with square threads efficiency with ACME threads.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A steel shaft 35 mm in diameter and 1200 mm long held rigidly at one end has a hand wheel 50 cm diameter keyed to the other end. The modulus of rigidity of steel is 80 × 103𝑁/𝑚𝑚2. What load tangentially applied to the rim of the wheel produces a torsional shear stress of 60 𝑁/𝑚𝑚2. How many degrees will the handwheel twist, when this load is applied? CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the desired properties of bearing material?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by Hydrodynamic Lubrication? How is the oil pressure created in these bearings? CO 4",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "The following data is given for a pair of spur gears with 20℃ full depth involute teeth: Number of teeth on pinion = 24 Number of teeth on gear = 56 Speed of pinion = 1200 rpm Module = 3 mm Service factor = 1.5 Lewis form factor for 24 teeth is 0.337 Face width = 30 mm Both gears are made of steel with an ultimate tensile strength of 600 N/𝑚𝑚2 . Using the velocity factor to account for the dynamic load, Calculate: i. Beam strength ii. Velocity factor iii. Rated power that gear can transmit without bending failure, if the factor of safety is 1.5 CO 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

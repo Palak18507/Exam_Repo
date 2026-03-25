@@ -1,0 +1,120 @@
+{
+  "paper_id": "BIT409_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT409",
+    "subject_name": "Distributed System",
+    "program": "<B.Tech (IT)>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare Network Operating Systems with Distributed Systems?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the layered architecture style in Distributed Systems?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe Lamport's algorithm for logical clocks?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Outline the Bully algorithm for leader election.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss ACID and BASE properties in the context of distributed systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe the concept of eventual consistency and give an example of a distributed system where it might be preferable over other consistency models.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the CAP theorem and its implications for Distributed Databases",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is proxy caching in distributed web systems? Explain its benefits.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss in detail the architectural styles of Distributed Systems, focusing on their advantages, disadvantages, and real-world examples. Compare centralized client- server architecture with edge server systems in terms of scalability, fault tolerance, and performance?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Design a hypothetical distributed system for a ride-sharing application. Describe how you would incorporate scalability, transparency, and fault tolerance in the architecture to handle millions of users across the globe.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of mutual exclusion in Distributed Systems. Discuss the implementation of mutual exclusion using Lamport’s algorithm and a logical token ring, including their strengths, weaknesses, and suitability for different scenarios?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Assume a distributed banking system where multiple branches interact. Develop an algorithm to ensure consistency in account balances when transactions are performed across branches. Discuss how mutual exclusion and coordination would be achieved.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Design a model for a distributed system that ensures causal consistency while minimizing network bandwidth. Include: o An outline of how causality is maintained. o Methods to reduce communica6on overhead. o An evaluation of the pros and cons of this model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Propose an approach for managing replication in a geographically distributed system, such as a content delivery network . Consider factors like latency, data consistency, and update propagation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Propose an architecture for a peer-to-peer distributed database that addresses the challenges of data consistency, security, and fault tolerance. Describe the mechanisms you would use to address these challenges.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Design a secure and scalable distributed web system that can handle high volumes of client requests. Include the following:  An approach for load balancing.  Methods to ensure data replica6on and security.  Explanation of the trade-oﬀs between security and performance",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

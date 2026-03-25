@@ -1,0 +1,110 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+RE-MID-TERM EXAMINATION 
+(Course Name B.Tech MAE/DMAM) (Semester 6th) 
+(March, 2025) OFF LINE mode 
+ 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+ 
+Q1 
+(5,5) 
+CO 
+(a) Select one answer choice: 
+i) For a 2D Translation in matrix form, the value of homogenous coordinate is taken as  
+a) 1 
+b) 0 
+c) -1 
+d) None 
+ii) How many matrices would be required for the concatenated transformation of 
+rotating a point about an arbitrary line? 
+a) Three 
+b) Five 
+c) Seven 
+d) Six 
+iii) Reflection transformation of the vector 5j about y-axis will result in vector 
+a) 5j 
+b) 5i + 10j  
+c) 10j 
+d) 10i + 5j 
+iv) Which curve do the following equations represent? 
+X(t) = (1-t2)/(1+t2) 
+Y(t) = (2t)/(1+t2)    for -1<=t<=1 
+a) Line 
+b) Circle 
+c) Parabola 
+d) Ellipse 
+v) Rotation in 2D about origin by 90 degrees CCW, is equivalent to 
+a) Reflection about y-axis 
+b) Reflection about x-axis 
+c) reflection about y=x 
+d) None  
+ 
+ 
+CO1, 
+CO2, 
+CO3 
+(b) True/False 
+ 
+i) 3D Translation is represented by a 3X3 matrix. 
+ 
+ii) Bresenham's line drawing algorithm is applicable only for line with slope less than 
+or equal to one. 
+ 
+iii) Translation is a linear transformation. 
+ 
+iv) Tangent vector of a curve is called the slope of the curve. 
+CO1, 
+CO2, 
+CO3 
+Note: Q. 1 is compulsory.  
+Subject: Computer Aided Design
+Subject Code: BMA 306 
+ 
+v) The homogenous transformation matrix for a 2D rotation will be a  4X4 Matrix  
+ 
+Q2 (Attempt any Two Parts )     UNIT-1  
+(5,5) 
+CO 
+(a) Using Bresenham's algorithm, generate the coordinates of the pixels that lie on a 
+line segment having endpoints (2,3) and (5,8). 
+I 
+CO1, 
+CO3 
+(b) Derive Bresenham's Circle Drawing Algorithm. 
+CO1, 
+CO3 
+(c) Explain the steps involved in a typical Product Development Process. 
+CO1 
+ 
+Q3 
+(Attempt any Two Parts )     UNIT-2  
+(5,5) 
+CO 
+(a) The end points of two lines L1 and L2 are P1(3,4,7) P2(5,6,1) and P3(1,5,-2) 
+P4(2,9,0) respectively. 
+(i) Find the parametric equations of the lines. Show the parameterization directions. 
+(ii) Are the two lines parallel or perpendicular? 
+(iii) Find the coordinates of the intersection point. 
+ 
+CO1, 
+CO2, 
+CO3 
+(b) Find the center of a circle with radius R, that is tangent to two known lines 
+passing through the points P1&P2 and P3&P4 respectively.  
+ 
+ 
+CO1, 
+CO2, 
+CO3 
+(c) A triangle is formed by points A(50,40), B(100, 60), and C(70,80). Calculate the 
+new co-ordinates if the triangle is reduced in size using the scale factors Sx= 0.5, Sy= 
+0.7 and base point is point A. 
+ 
+________________  
+CO1, 
+CO2, 
+CO3

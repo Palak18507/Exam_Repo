@@ -1,0 +1,119 @@
+{
+  "paper_id": "BEC106_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BEC106",
+    "subject_name": "Signals and Systems",
+    "program": "B.Tech. ECE",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define and plot Unit Step Signal.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain difference between causal and non-causal systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Linear Time Invariant System.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Obtain Fourier Transform of Unit Impulse Function.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you understand by the term signal bandwidth?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write any two properties of ROC of Laplace Transform.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "When does aliasing occur?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define one-sided and two-sided Z-Transforms.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Find the convolution of the following signals by graphical method. x = e -3tu, h = u",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define following properties of a continuous time system with simple examples:- Linearity and Non-linearity Time variance and Time invariance. Also, examine the below given systems with respect to above properties. y = sin [x] y = sin t.x",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "State and prove following properties of Fourier transform. Convolution in time domain Differentiation in time domain Time shifting",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Consider a stable LTI System characterized by the differential equation dy/dt + 2y = x. Find its impulse response.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Find the exponential Fourier Series and plot the magnitude and phase spectra of the following triangular waveform:-",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Derive relationship between Fourier Transform and Laplace Transform.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define Nyquist rate. Determine the Nyquist sampling rate and Nyquist sampling interval for the following signals. sinc sinc2 sinc + sinc sinc + 3 sinc2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Using long division method find out the Inverse Z- Transform of 𝑧2+2𝑍 𝑧3−3𝑍2+4𝑍+1 ; ROC |𝑍| > 1",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "PHD151_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD151",
+    "subject_name": "From Theory to Practice: Implementing ESG and",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define ESG and explain its importance in modern corporate strategy.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "List any two key environmental metrics used in ESG evaluations.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Mention any two principles of sustainable supply chain management.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between carbon neutrality and carbon offsetting.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a Scope 3 emission?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define climate resilience in the context of business continuity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the concept of employee well-being in ESG.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are social impact assessments?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the evolution and significance of ESG in global investment and policy frameworks? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Critically evaluate the role of sustainability in shaping modern corporate strategies. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain in detail the environmental factors in ESG and their measurement frameworks? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Analyze strategies for reducing environmental impact across supply chains with examples? 10 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT II",
+      "question_text": "Evaluate the role of social factors in ESG and how they affect organizational performance. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT II",
+      "question_text": "How can organizations build and leverage human capital for long-term sustainable advantage? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the key components of sustainability reporting and compare two global reporting standards? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Analyze governance-related risks and how strong governance can turn them into opportunities? 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

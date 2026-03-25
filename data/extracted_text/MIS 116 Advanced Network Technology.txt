@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Mid-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (Offline) 
+Course Name: <M.Tech (IT-Cyber Security) Semester :< 2nd>  
+(March, 2025) 
+ 
+Subject Code: MIS 116 
+Subject: Advanced Network Technology 
+Time :1.5 Hours 
+Maximum Marks: 30 
+ 
+Note: Q1 is compulsory. Attempt any 2 parts each from Units I, & II. 
+ 
+Q1 
+Define the below-mentioned terminologies with suitable examples 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Congestion Control 
+ 
+CO1 
+ 
+b) Error Correction 
+ 
+CO1 
+ 
+c) Neighbor Discovery 
+ 
+CO1 
+ 
+d) IPv6-Header 
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any 2 parts 
+(5*2=10) 
+ 
+ 
+a) Quantitatively differentiate between TCP/IP Protocol Architecture 
+and OSI Model suitable illustrations. Specifically highlight those 
+differences which are pertinent at Transport and Network Layers.    
+ 
+CO3 
+ 
+b) Comprehensively differentiate between Distance Vector Protocol 
+and Link State Protocol which falls under the category of Interior 
+Gateway Routing Protocol. Give suitable illustrations.  
+ 
+CO2 
+ 
+c) Quantitatively differentiate between TCP and UDP in terms of 
+Reliability, Speed, Connection and Error Checking. Also highlight their 
+use-cases respectively. 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any 2 parts 
+(5*2=10) 
+ 
+ 
+a) Categorically explain the significance of multicast channels for 
+Multicast Routing Protocols in networking. Specifically highlight the 
+importance of Internet Group Management Protocol in Multicast 
+Routing Protocol. 
+ 
+CO3 
+ 
+b) Explain the significance of discovering and maintaining information 
+regarding link-layer addresses of the immediate neighbors in routing. 
+Give proper examples illustrations for the above-mentioned fact. 
+ 
+CO4 
+ 
+c) Quantitatively differentiate between OSPF Unicast Routing Protocol 
+and MOSPF Multicast Routing Protocol with suitable illustrations. 
+ 
+CO3

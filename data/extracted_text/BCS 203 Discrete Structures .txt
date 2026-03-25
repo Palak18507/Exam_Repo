@@ -1,0 +1,115 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech , Semester: 3rd Sem.  
+(December, 2024) 
+ 
+Subject Code: BCS 203 
+Subject: Discrete Structures 
+Time :3 Hours 
+Maximum Marks : 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+a) Identify the nature of the proposition S, whether it is Tautology/ 
+Contingency/ Contradiction. 
+S: ((P∧Q)→R)→((P∧Q)→(Q→R)) 
+ 
+ 
+b)  Draw the Hasse Diagram of the following:  𝐷105,   𝑎𝑛𝑑  𝐷72  
+ 
+ 
+ 
+c) Prove that group G is an Abelian group if and only if (𝑎𝑏)−1 = 𝑎−1𝑏−1,
+∀ 𝑎, 𝑏 ∊𝐺. 
+ 
+ 
+d) The chromatic number of the following graph is _______ 
+              
+ 
+                         Fig. (a)                                                                Fig. (b) 
+ 
+                       
+ 
+UNIT I 
+ 
+Q2 
+a) Let p, q, r, s represent the following propositions. 
+p: x∈{8,9,10,11,12} 
+q: x is a composite number 
+r: x is a perfect square 
+s: x is a prime number 
+The integer x≥2 which satisfies: ¬((p⇒q)∧(¬r∨¬s)) is ________. 
+b) The binary operator ≠ is defined by the following truth table. 
+ 
+Identify the nature of the binary operator ≠, whether it is associative, 
+commutative, or both? 
+(5+5) 
+Q3 
+a) Translate the following into propositional logic: i) not all rainy days are 
+cold ii) None of my friends are perfect. Note: Where the variables are: 
+rainy(x), cold(x), f(x): friend, p(x): perfect.  
+(5+5) 
+2 
+ 
+b) Identify the following Boolean expressions which is/are NOT tautology? 
+ 
+UNIT II 
+ 
+Q4 
+a) Using the principle of mathematical induction, 
+Show that 22𝑛- 1 is divisible by 3. 
+b) Find the total number of relation on a set R with n elements which is 
+antisymmetric but not reflexive.   
+(5+5) 
+Q5 
+a) Prove that the relation congruence modulo m on the set Z of all integers 
+is an equivalence relation. 
+b) Explain the following Sets with example: a) Finite b) Infinite, c) Countable 
+d) Uncountable. 
+() 
+UNIT III 
+ 
+Q6 
+a) Define a Field. Prove that the set of integers 𝑍11 with addition and 
+multiplication is a Field. 
+b) State and prove Lagrange’s theorem for finite groups. 
+ 
+(5+5) 
+Q7 
+a) Prove that a group of prime order p is cyclic. 
+b) Let 𝐺 be the set of all positive rational numbers and * be the binary 
+operation on G defined as 
+𝑎∗𝑏=
+𝑎𝑏
+7  , ∀𝑎, 𝑏 ∊𝐺.  Prove that (𝐺,∗) be an abelian group.  
+(5+5) 
+UNIT IV 
+ 
+Q8 
+a) State and prove Euler’s formula for connected planar graphs: V−E+R= 2, 
+where V, E, and F represent vertices, edges, and region, respectively. 
+b) The number of distinct minimum-weight spanning trees in the following 
+graph is  
+ 
+(5+5) 
+Q9 
+a) G = (V,E) is an undirected simple graph in which each edge has a distinct 
+weight, and e is a particular edge of G. Which of the following statements 
+about the minimum spanning trees (MSTs) of G is/are TRUE? 
+I. If e is the lightest edge of some cycle in G, then every MST of G includes 
+e. 
+II. If e is the heaviest edge of some cycle in G, then every MST of G 
+excludes e. 
+b) Prove that: Any planar graph can be colored using at most five 
+colors such that no two adjacent vertices share the same color. 
+(5+5) 
+ 
+ 
+3

@@ -1,0 +1,79 @@
+{
+  "paper_id": "PHD001_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD001",
+    "subject_name": "Research Methodology",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping State and interpret the meaning of Type I and Type II errors. 1 What is a peer review? How does peer review enhance research quality? 1 What is Latin Square Design? 2 Define Research. 2 Give five considerations for selecting a research problem. 3 Explain what are extraneous and intervening variable with example? What is control in a research experiment? 3 Give correct terms for the following: Signal to Noise Proportion Gauss Noise, randomized variable conflict in interest. 4 Name two popular citation styles. 4",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Name the different variables that can be used to take an observation. What all statistical functions can be used for these variables? List various kinds of Research Designs. Describe any one of them. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Classify the following statements into: Null Hypothesis or Alternate Hypothesis , and identify whether the test is a One-tailed or Two-tailed test. Statements: 1. The average monthly income of employees is equal to ₹30,000. 2. The new teaching method results in higher test scores than the traditional method. 3. There is no difference in the performance of two brands of batteries. 4. The average daily sales are less than ₹5,000. 5. The mean waiting time at a hospital is not equal to 20 minutes. Answer the following: What is a DOI? State its importance in research publications. Differentiate between ISSN and ISBN with suitable examples. Why are identifiers like DOI, ISSN, and ISBN necessary in academic writing? 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Write the roles and responsibilities of editor of a research journal. Write the equations used for time series analysis. Give some examples of time series data. 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Write five differences between H-index and impact factor. List all major sections which are generally there in a research paper. 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Using the data below, test if the mean values across the groups differ significantly. Use 5% level of significance . Group1:10,12,11,9 Group2:14,13,15,12 Group3: 8, 9, 10, 7 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Samples of sales in similar shops in two towns are taken for a new product with the following results: Town Mean sales Variance Size of sample A 57 5.3 5 B 61 4.8 7 Is there any evidence of difference in sales in the two towns? Use 5 percent level of significance. Which test will you apply? Two tailed or single tail? t-critical for 10 degrees of freedom is 2.228. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are citations? How are the different from References and Bibliography? Why are they important/needed? Give one example of each of these research Quantitative Research, Qualitative Research Cross-sectional Study, Longitudinal Study Helicopter research. 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Give the entire research cycle for a research problem. Also make a three-year timeline. Give various sections headings for a research project. Write two lines in each section, what you will describe in each section. 4",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

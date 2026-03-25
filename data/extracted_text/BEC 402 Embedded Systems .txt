@@ -1,0 +1,102 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 8 
+(May, 2025) 
+ 
+Subject Code: BEC 402 
+Subject: Embedded Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a)  What are the characteristics of an embedded system? 
+ 
+CO1 
+ 
+b) What are the major application areas of embedded systems? 
+ 
+CO1 
+ 
+c) How are General Purpose Processors different from Application 
+Specific Instruction Set Processors? 
+ 
+CO2 
+ 
+d) What are PLDs? Explain their advantages. 
+ 
+CO2 
+ 
+e) What is a hard real-time system? How is it different from a soft 
+real-time system? 
+ 
+CO3 
+ 
+f) Draw and explain the memory organization of a process. 
+ 
+CO3 
+ 
+g) Explain asynchronous serial communication in detail. Give an 
+example. 
+ 
+CO4 
+ 
+h) What are edge-triggered and level-triggered interrupts? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the embedded systems design process. What are the major 
+levels of abstraction in the design process? 
+(10) 
+CO1 
+Q3 
+How are embedded systems classified? Explain in detail. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Draw and explain the architectural difference between Harvard and 
+Von Neumann processors. 
+(10) 
+CO2 
+Q5 
+Explain the different types of memory. What are the different factors 
+required to be considered while selecting memory devices? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Draw and explain the architecture of an Operating System. What is an 
+RTOS? Why is it required? 
+(10) 
+CO3 
+Q7 
+What are the different factors that are needed to be analyzed for 
+selecting an RTOS? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Draw and explain the frame structure of UART and HDLC. 
+(10) 
+CO4 
+Q9 
+What are RS-232 handshaking signals? Explain RS-232 handshaking in 
+detail. 
+(10) 
+CO4

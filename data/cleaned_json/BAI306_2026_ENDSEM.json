@@ -1,0 +1,176 @@
+{
+  "paper_id": "BAI306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI306",
+    "subject_name": "Digital Image Processing",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of gamma correction in image enhancement. How do different values of gamma affect the output image intensity?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why median filters are best suited for salt and pepper noise removal?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the process of conversion of spatial domain image into frequency domain using Fourier transform.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is periodic noise in a digital image and how does it affect image quality?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "State differences between Lossy and Lossless image compression.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is pseudo color image processing? Discuss its applications in image analysis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain regional descriptors and boundary descriptors with an example each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain morphology and different morphological Algorithms.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is point processing in spatial domain? Discuss any two techniques.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given a 3X3 grayscale image: [ 255 200 100 100 255 200 200 100 255 ] Perform bit plane slicing and extract 0th and 7th bit plane. Apply Sobel filter Sx and Sy on pixel.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A 3-bit grayscale image of size 16 × 16 has the following input image histogram. Perform histogram specification to match this image to the desired histogram. Input Histogram: Gray Level 0 1 2 3 4 5 6 7 No. of pixels 4 6 14 22 36 48 60 66 Desired Histogram: Gray Level 0 1 2 3 4 5 6 7 No. of pixels 0 6 18 28 32 46 58 68",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "a. Briefly explain the concepts of Inverse Filtering and Wiener Filtering in image restoration with their mathematical formulae. b. An image is degraded in the frequency domain by a blur function H and the observed image G is: 2 Using Inverse Filtering, compute the restored image F . Show all necessary steps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "a. Define Image Restoration. Briefly describe the mathematical model of the image degradation/restoration process. b. An observed degraded image G blur function H and noise power spectrum SN and SF are given in the frequency domain as: SN =10 and SF = 1000. Compute the restored image F. Show all necessary steps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the Canny Edge Detection algorithm in detail. Explain each of its main steps and discuss how they contribute to accurate edge detection in images.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given an RGB colour with R=51, G=76 and B=25 convert it to: CMYK values Grayscale value",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of redundancy in image data. Describe various types of redundancy found in images.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A piece of information I is represented by 250 bits using code A, and the same information is represented by 90 bits using another code B. Calculate the compression ratio and the coding redundancy of code A in comparison to code B.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A binary image X and structuring element B are given. Calculate: Xc Y1= X⊕B Y2=Xc ⊖B Opening operation Closing operation X: B: 0 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 1 0 1 0",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare structural methods with decision-theoretic methods in terms of their approach to classifying patterns.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the importance of pattern classes in developing a classification system for object recognition.",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD136_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD136",
+    "subject_name": "Sensors and Actuators",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "What are the main advantages of sensors? Explain. Explain the applications of LVDT sensors in brief. List the advantages and disadvantages of pneumatic actuators. Why is the thin film needed? Explain. Differentiate between wet and dry etching techniques. Explain the semiconductor gas sensor. List the advantages of nano-structured based gas sensors. Explain sensor interfacing with Microprocessor.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "What do you understand by the static characteristics of sensor? Explain any five characteristics of sensor.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Explain the working and principle of DC motor and its type.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is the physical vapour deposition technique? Explain the various techniques of physical vapour deposition for depositing thin films.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain the sputtering and its various sputtering techniques.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Classify the various gas sensors and its applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain optical gas sensor and its working principle. Also list the applications of optical gas sensors.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain the pressure sensor and its fabrication methods.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain the piezoelectric actuator and its working principle and operation. Also list the applications of piezoelectric actuator.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH (AI&ML) , Semester: 5th  
+(December, 2024) 
+ 
+Subject Code: BAM-305 
+Subject:  Social Networking and Mining 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Short Answer type questions 
+ 
+CO Mapping 
+ 
+a) Define node centrality and explain its significance in social 
+network analysis. 
+(2.5) 
+CO1 
+ 
+b) Explain the small-world property in real-world networks? 
+Provide an example. 
+(2.5) 
+CO1 
+ 
+c) Differentiate between PageRank and Personalized PageRank. 
+(2.5) 
+CO2 
+ 
+d) Write any four differences between disjoint and overlapping 
+communities in community detection? 
+(2.5) 
+CO2 
+ 
+e) Explain the key intuition behind graph representation 
+learning. 
+(5) 
+CO3 
+ 
+f) Describe the independent cascade model used in modeling 
+cascades 
+(5) 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+ Discuss the methods used for data collection in social network analysis, 
+such as APIs, web scraping, and Selenium, with their applications. 
+(10) 
+CO1 
+Q3 
+ Explain the concept of power law distribution and its implications in 
+the context of scale-free networks. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the concept of signed networks and the role of strong and weak 
+ties in social networks. Provide suitable examples. 
+(10) 
+CO2 
+Q5 
+ Discuss various methods of community detection and explain how 
+communities are evaluated. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+ A social media platform wants to improve its friend recommendation 
+system by predicting potential links among users. 
+Suggest suitable methods for implementing a link prediction model. 
+Explain how heuristic and probabilistic models can be applied in this 
+context. 
+Discuss challenges in evaluating the accuracy of the predictions and 
+propose solutions. 
+(10) 
+CO3 
+Q7 
+Describe the link prediction problem and its applications in social 
+networks. Explain any one method in detail. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+A marketing team wants to analyze how a viral video spreads across a 
+social network and predict its future reach. 
+1. Propose a suitable cascade model for analyzing the video's 
+spread. 
+2. Identify the challenges in predicting cascade behavior in real-
+world networks. 
+3. How can anomaly detection help identify false information 
+cascades or bots amplifying the spread? 
+(10) 
+CO4 
+Q9 
+Explain the challenges in detecting anomalies in dynamic networks and 
+the methods used to address them. 
+(10) 
+CO4

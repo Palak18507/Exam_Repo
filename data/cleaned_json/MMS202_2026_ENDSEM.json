@@ -1,0 +1,130 @@
+{
+  "paper_id": "MMS202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS202",
+    "subject_name": "Project Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Project managers play an instrumental role in planning and execution of project. Justify above statement. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Analyze the common causes of project failures and suggest preventive measures citing suitable examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A project manager is tasked with creating a budget for a new project. Which approach would you recommend for estimating costs and why? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe the use of Work Breakdown Structure in project planning. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the key steps involved in project scheduling? Provide a brief explanation of how project scheduling helps in managing time and resources effectively. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is a precedence network diagram? Illustrate how it is used to determine the sequence of project activities 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss the concept of Earned Value Management in project control. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Identify and explain two key criteria used to measure the success of a project. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the phases of a project life cycle with examples. Why is understanding the project life cycle crucial for effective project management?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the fundamental principles of project management. How do these principles contribute to the successful completion of a project?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the key steps involved in the project planning process. Discuss how these steps contribute to the successful execution of a project.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Recall and explain the approaches in preparing project budgets.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define the Critical Path Method and explain its importance in project management. How does CPM help in identifying project bottlenecks and ensuring timely project completion?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the expected time and variance for the activity using the PERT formula.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the advantages of using PERT over other project scheduling techniques.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain how the key processes of Project Quality Management , such as Plan Quality Management, Manage Quality, and Control Quality, can be practically implemented in a project. Provide examples to illustrate their application.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the risk assessment process and how risks are prioritized in project management.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

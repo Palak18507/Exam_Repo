@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BIT 102 
+Subject: Object Oriented Programming 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Find out the output of the following C++ code: 
+     #include<iostream> 
+     using namespace std; 
+     int main() { 
+           int a=18, b=9, c,d, e=10; 
+           c=b++; 
+           d=b; 
+           cout << (a<b<c>d); 
+           cout << (b==e); 
+           cout << (c+1>e); 
+           cout << (a+c==b>e<c+d); 
+            
+           return 0; 
+     } 
+        Justify your answer.    
+ 
+CO1 
+ 
+b) Differentiate between C and C++ programming language. 
+ 
+CO1 
+ 
+c) Consider the following C++ code: 
+    #include<iostream> 
+    class Test { 
+    public: 
+            Test() { cout<<”Constructor called\n”; } 
+            ~Test() { cout<<”Destructor called\n”; } 
+            void display() { cout<<”Display function\n”; } 
+   }; 
+   Int main() { 
+            Test t1; 
+            t1.display(); 
+            return 0; 
+   } 
+Write the output of the program with explanation. 
+ 
+CO2 
+ 
+d) What is the use of private and public access specifier? Explain 
+with one suitable programming example. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are the different characteristics of Object-Oriented 
+Programming? Discuss any two characteristics with programming 
+example. 
+5 
+CO1 
+ 
+b) Write a C++ program to print a factorial of a given number. 
+5 
+CO1 
+ 
+c) What is inline function? What circumstances lead to its frequent 
+usage in programming? Provide an appropriate C++ programming 
+code to illustrate. 
+5 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Write a C++ Program to Implement a Class STUDENT having 
+Following Members: 
+1) Member variables: Name of the student, 
+                                        Marks of the student (as an array),  
+                                        Total marks obtained 
+2) Member functions: assign() – to assign initial values, 
+                                         compute() – to compute Total marks, 
+                                         display() – to display the details 
+Consider the access specifier and data types of the variables as 
+per your convenience to justify the output of the program. 
+5 
+CO2 
+ 
+b) Explain the use of friend function in OOP with proper 
+programming example. 
+5 
+CO2 
+ 
+c) Write the operator overloading program with C++ to overload 
+unary (- -) decrement operator. 
+5 
+CO2

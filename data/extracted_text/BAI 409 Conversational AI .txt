@@ -1,0 +1,116 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.Tech., Semester: 7th 
+(December, 2024) 
+ 
+Subject Code: BAI-409 
+Subject: Conversational AI 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Conversational AI and explain the primary use cases for AI assistant 
+technology. 
+2.5 
+CO1 
+ 
+b) Discuss the difference between task-oriented and conversational AI 
+systems. 
+2.5 
+CO1 
+ 
+c) What is the role of entities in building a Conversational AI system? Provide 
+an example. 
+2.5 
+CO2 
+ 
+d) Explain the concept of confidence detection in AI assistants. Why is it 
+important? 
+2.5 
+CO2 
+ 
+e) What are the key challenges in deploying an AI assistant in a production 
+environment? 
+2.5 
+CO4 
+ 
+f) Define the "two-strikes rule" and explain its significance in AI assistant 
+design. 
+2.5 
+CO2 
+ 
+g) Describe the components of a dialogue system. 
+2.5 
+CO1 
+ 
+h) Explain the term "intent" in Conversational AI and provide an example of 
+how it’s used. 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the different types of AI assistants and the platforms used to develop 
+them. Discuss the key considerations in selecting the right platform for building 
+a Conversational AI system. 
+(10) 
+CO1 
+Q3 
+Describe the process of designing and implementing an AI assistant. How do 
+you combine user intents and entities, and what is the role of contextualizing 
+responses in this process? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the design and management processes of building an effective 
+conversational AI. Highlight the importance of dialogue management, 
+disambiguation, and escalation in ensuring the success of the assistant. 
+(10) 
+CO2 
+Q5 
+What are the key conversational AI success metrics? How do they differ for 
+command interpreters and event classifiers? Provide examples to support your 
+answer. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+You are tasked with testing a newly developed AI assistant. Describe the 
+methodology you would use for assessing its accuracy. How would you handle 
+testing for single and multiple utterances? 
+(10) 
+CO3 
+Q7 
+Compare and contrast different testing methodologies used for conversational 
+AI systems. Discuss the advantages and disadvantages of each approach. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the process of maintaining a deployed AI assistant. What are the key 
+stages from development to production, and what challenges do organizations 
+face during deployment? 
+(10) 
+CO4 
+Q9 
+Explain how AI assistant performance can be improved post-deployment. 
+Discuss the importance of metrics analysis and gap identification in the training 
+data. 
+(10) 
+CO4

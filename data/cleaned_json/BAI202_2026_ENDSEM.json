@@ -1,0 +1,80 @@
+{
+  "paper_id": "BAI202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI202",
+    "subject_name": "Computer Networks",
+    "program": "B.Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping List the characteristics of broadband coaxial cable. What limitations of a bridge are overcome by a router? Define data rate and baud rate. How are they related? What are the advantages of IPV6 overIPV4? For n devices in a network, what is the number of cable links required for a mesh, ring and star topology, respectively? Write the IP address 135.1.1.25 mask 255.255.248.0 in CIDR notation. What is the primary function of DNS? List different types of domains used in DNS? Draw and explain different fields of UDP header. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Write a detailed note on optical fiber communication. How does it work, and what are its advantages over electrical transmission?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Draw the OSI network architecture and explain the functionalities of every layer in detail CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "A group of terminals are to be connected to a central site using ALOHA schemes over a 9600 bps channel. Frame length is 200 bits. Terminals generate on an average one frame in every two minutes. For maximum throughput condition, estimate the number of terminals that can be supported if the scheme used is Pure ALOHA Slotted ALOHA.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Describe sliding window protocol using Go back n. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Using Dijkstra’s algorithm find the shortest path tree for the node A to all other nodes in the figure given below",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Subnet the IP Address 205.11.2.0 so that you have 30 subnets. What is the subnet mask for the maximum number of hosts? How many hosts can each subnet have? What is the IP address of host 3 on subnet 2? A F E B D C 2 5 8 6 9 3 2 1 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "The UDP header in hexadecimal format is as : BC82000D002B001D Obtain the following from it: 1. Source port number 2. Destination port number 3. Total length 4. Length of the data. 5. Name of client process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What do you mean by congestion and how is it different from flow control? Describe the Leaky bucket algorithm for congestion control.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

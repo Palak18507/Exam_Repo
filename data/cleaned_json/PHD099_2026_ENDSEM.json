@@ -1,0 +1,79 @@
+{
+  "paper_id": "PHD099_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD099",
+    "subject_name": "Natural Language Processing",
+    "program": "<PHD>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Explain tokenization and its importance in text processing. 2.5 Define the edit distance and mention one application in NLP 2.5 Differentiate between MaxEnt and CRF in sequential tagging. 2.5 What is the difference between constituency and dependency parsing? 2.5 Define distributional semantics with an example. 2.5 How is WordNet used in lexical semantics? 2.5 What is the goal of topic modeling? 2.5 Define sentiment analysis and mention one real-world application. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the steps in basic text processing, including tokenization, stopword removal, and lemmatization. Provide examples to illustrate each step.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast different smoothing techniques used in N- gram language models. Why are they necessary?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are word embeddings? Discuss and compare Word2Vec, GloVe, and FastText in terms of their architecture and use cases.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare transition-based and graph-based approaches to dependency parsing. Highlight the advantages and limitations of each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the architecture and working of an RNN and LSTM network. How does LSTM solve the vanishing gradient problem in RNNs?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the process and challenges involved in Named Entity Recognition . How do deep learning models improve NER performance?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Latent Dirichlet Allocation for topic modeling. How does it differ from NMF?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is entity linking in NLP? Describe a method to perform it and the common challenges involved.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

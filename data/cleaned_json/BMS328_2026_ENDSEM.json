@@ -1,0 +1,100 @@
+{
+  "paper_id": "BMS328_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS328",
+    "subject_name": "Cross Cultural HRM",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Hofstede’s cultural dimensions. 5 C01",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the approaches to managing diversity in the workplace? 5 C02",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does culture impact compensation policies. 5 C03",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe the role of assessment centers in training. 5 C04",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "A French employee is struggling to adapt to workplace culture in Japan. Suggest a framework for expatriate adjustment. C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "You're asked to design a recruitment plan for a new global project. How would you decide between hiring PCNs, HCNs, or TCNs? C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Design a one-day diversity training session for a culturally mixed team in a US-based firm. C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Your firm wants to improve team building in global virtual teams. What training strategies would you propose? C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "An expatriate in Brazil complains about unfair performance appraisal. How can you resolve this considering cultural differences? C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Your company wants to choose between “going rate” and “balance sheet” compensation approaches. Justify your choice with examples. C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Design a repatriation strategy for an Indian manager returning from a 3-year stint in Europe. C04",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Labour unions are protesting unequal treatment in a foreign-owned subsidiary in India. As HR, how will you manage this? C04",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

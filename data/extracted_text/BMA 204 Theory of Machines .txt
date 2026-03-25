@@ -1,0 +1,170 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Off-Line) 
+Course Name: TOM, Semester: 4th  
+(May, 2025) 
+ 
+Subject Code: BMA 204 
+Subject: Theory of Machines 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume any data if 
+required. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+What is a kinematic Chain? Is the case as shown in Figure 1,  
+               a Kinematic Chain? Justify.  
+ 
+CO1 
+ 
+b)          What is a Cam? Give at-least 2 examples where cam and follower mechanism can be  
+              used. 
+CO2 
+ 
+c) 
+What is Grashof’s Law? Explain with an example for a 4 bar mechanism having link  
+               length- 5mm, 7 mm, 11 mm, 12 mm, all connected through revolute pairs and one   
+               link is fixed. 
+CO1 
+ 
+d) 
+Differentiate between free vibrations and forced vibrations. 
+CO2 
+ 
+e) 
+What is a Reverted Gear Train. Make a neat figure and derive relation for Gear Ratio. CO3 
+ 
+f) 
+Make a neat sketch and show following for an external toothed profile of a gear: a)  
+               Face, b) Flank, c) Addendum, d) Dedendum, d) Tooth Space. 
+CO3 
+ 
+g) 
+What is meant by balancing of rotating masses in machines? Why is it necessary to   
+               balance rotating parts? 
+CO4 
+ 
+h) 
+How does gyroscope help in making a ship stable? 
+CO4 
+UNIT-I 
+CO Mapping 
+Q2 
+a) 
+State Grublers rule for determining the degree of freedom of a mechanism.  
+               Explain with an example and a neat sketch, where Grubler’s rule fail. 
+b) 
+What is meant by 2R-2P mechanism? Draw a neat and labelled diagram of  
+               an Oldham’s coupling. Explain its working. 
+(5+5
+=10) 
+CO1 
+Q3 
+a) 
+Explain procedure to find velocity of a link / mechanism by relative velocity  
+               method. 
+ 
+b)          In a 4 bar slider crank mechanism for a reciprocating piston, crank length is   
+              15cm, connecting rod is 60 cm and angular velocity of crank is 200 rpm. Find  
+              the angular velocity of the connecting rod with any one method (i)  
+              Instantaneous Centre method, or (ii) Relative velocity method. 
+ 
+(5+5
+=10) 
+CO1 
+UNIT-II 
+CO Mapping 
+Q4 
+A cam is to give the following motion to a knife-edged follower : 
+1. 
+Outstroke during 80° of cam rotation ;  
+2. 
+Dwell for the next 30° of cam rotation ; 
+3. 
+Return stroke during next 60° of cam rotation, and  
+4. 
+Dwell for the remaining degrees of cam rotation. 
+(5+5
+=10) 
+CO2 
+Fig. 1 
+The stroke of the follower is 50 mm and the minimum radius of the cam is 50 mm. 
+The follower moves with uniform velocity during both the outstroke and return 
+strokes. Draw the profile of the cam when-  
+(a) the axis of the follower passes through the axis of the cam shaft, and  
+(b) the axis of the follower is offset by 20 mm from the axis of the cam shaft. 
+ 
+ 
+Q5 
+a) 
+Derive the relation for natural frequency of free transverse vibrations for a 
+shaft of weight W, which is deflected by distance ‘x’ and it vibrates?  
+b) 
+A cantilever shaft 50 mm diameter and 300 mm long has a disc of mass 
+100 kg at its free end. The Young’s modulus for the shaft material is 200 G N/m^2. 
+Determine frequency of longitudinal and transverse vibrations of the shaft. 
+(5+5
+=10) 
+CO2 
+UNIT-III 
+CO Mapping 
+Q6 
+a) What is Klein’s velocity diagram? Describe with a neat sketch the method of 
+constructing Klein’s velocity diagram for a reciprocating engine mechanism. 
+ 
+b) The gearing of a machine tool is shown in Fig.2 The motor shaft is connected to 
+gear A and rotates at 975 r.p.m. The gear wheels B, C, D and E are fixed to parallel 
+shafts rotating together. The final gear F is fixed on the output shaft. What is the 
+speed of gear F? The number of teeth on each gear are: A=20, B=50, C=25, D=75, 
+E=26, F=65.  
+ 
+(5+5
+=10) 
+CO3 
+Q7 
+ (a) Explain with neat sketch Cycloidal teeth in gears in terms of their construction. 
+ 
+a) In an epicyclical gear train refer fig 3, an arm carries two gears A and B 
+having 36 and 45 teeth respectively.  
+(b) If the arm rotates at 150 r.p.m. in the anticlockwise direction about the centre 
+of the gear A which is fixed, determine the speed of gear B. (ii) If the gear A 
+instead of being fixed, makes 300 r.p.m. in the clockwise direction, what will 
+be the speed of gear B?  
+ 
+(5+5
+=10) 
+CO3 
+UNIT-IV 
+CO Mapping 
+Q8 
+Explain the effect of the Gyroscopic Couple on an Aeroplane in following cases:  
+(a) Whose propeller rotates in clockwise direction when seen from rear end and 
+aeroplane turns towards right?  
+(b) Whose propeller rotates in clockwise direction when seen from rear end and 
+aeroplane turns towards left? Explain 
+(5+5
+=10) 
+CO4 
+Q9 
+a) 
+What is meant by balancing of rotating masses in machines? Why is it 
+necessary to balance rotating parts? 
+b) Four masses m1, m2, m3 and m4 are 200 kg, 300 kg, 240 kg and 260 kg 
+respectively. The corresponding radii of rotation are 0.2 m, 0.15 m, 0.25 m and 0.3 
+m respectively and the angles between successive masses are 45°, 75° and 135°. 
+Find the position and magnitude of the balance mass required, if its radius of 
+rotation is 0.2 m. 
+(5*5
+=10) 
+CO4 
+ 
+Fig. 2

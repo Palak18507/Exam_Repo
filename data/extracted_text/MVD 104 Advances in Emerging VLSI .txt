@@ -1,0 +1,97 @@
+(Please write your Enrollment Number) 
+Enrollment No._________________ 
+ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)Offline 
+Course Name: M.Tech ECE, Semester: Second 
+(May, 2025) 
+ 
+ 
+Subject Code : MVD 104 
+Subject: Advances in Emerging VLSI 
+Time : 3 Hours 
+Maximum Marks : 60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV 
+ 
+ 
+Q1. 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) List any six Analog Design trade-offs. 
+Unit I 
+ 
+(b) How does the narrow channel effects degrade the performance of MOS 
+devices? 
+Unit I 
+ 
+(c) Differentiate between Errors and Faults. 
+Unit III 
+ 
+(d) What is the VTC of an inverter? Draw VTC and label all regions of 
+operation. 
+Unit II 
+ 
+(e) What are the MOS Scaling trends and state its effect on deep submicron 
+region of operation 
+Unit II 
+ 
+(f) What are pocket implants? 
+Unit III 
+ 
+(g) Differentiate between Struck at Fault and Bridging Fault. 
+Unit IV 
+ 
+(h) List chip classification according to the number of active elements? 
+Unit IV 
+UNIT-1 
+ 
+Q2. Name the leakage mechanisms influencing the performance of MOS 
+during off-state. How is the performance of MOS affected by Trap 
+assisted Tunneling? 
+(10) 
+Unit I 
+Q3. 
+(a) What happens when a signal mode is hit by radioactive or 
+cosmic particle? 
+(b) Differentiate between planar and Fin FET, with suitable diagrams 
+(10) 
+Unit I 
+UNIT-2 
+ 
+Q4. 
+Name some digital faults. Explain any one and steps to rectify it. 
+(10) 
+Unit II 
+Q5. 
+(a) What is Logic Optimization, list down its benefits & 
+Classification? 
+(b) What is the objective of technology mapping, explain its 
+significance?      
+(10) 
+Unit II 
+UNIT-3 
+ 
+Q6. 
+What are the various steps involved in VLSI Testing? Discuss about 
+the Test generation for combinational circuits 
+(10) 
+Unit III 
+Q7. (a) Draw stick diagram of a CMOS inverter and label its layer 
+information. 
+(b) List 5 differentiating factors of use of MOSFET as an amplifier and 
+as a switch. 
+(10) 
+Unit III 
+UNIT-4 
+ 
+Q8. 
+What is Built-in-self-test? Give its benefits over other tests. 
+(10) 
+Unit IV 
+Q9. 
+Explain any Test generation one algorithms for Sequential Circuits. 
+(10) 
+Unit IV

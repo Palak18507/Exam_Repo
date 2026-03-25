@@ -1,0 +1,119 @@
+{
+  "paper_id": "BAI301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI301",
+    "subject_name": "Machine Learning",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why is data cleaning an essential step in the machine learning pipeline? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the importance of evaluation metrics in machine learning? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between Ridge Regression and LASSO Regression? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the kernel trick in Support Vector Machines. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is k-means clustering, and how is it different from hierarchical clustering? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define Dimensionality Reduction. 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is meant by cross-validation, and why is it important? 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define ensemble learning and list its types. 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Machine Learning Cycle with an example, highlighting key stages like Train-Test Split, Validation Data, and K-Fold Cross Validation. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the process of Data Exploration and Pre-processing, including Data Objects and Attributes, Visualization, and Feature Extraction. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain Logistic Regression in detail. How is it used for binary classification? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain Naïve Bayes Classifiers with examples. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the process of Principal component analysis and Linear Discriminant Analysis . Give examples 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the Expectation-Maximization algorithm and its application in clustering. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss Bagging, Boosting, and Stacking with appropriate examples. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Random Forests using an example. How does it improve prediction accuracy compared to a single decision tree? 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

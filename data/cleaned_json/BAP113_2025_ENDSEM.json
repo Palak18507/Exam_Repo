@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP113_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP113",
+    "subject_name": "Climatology and Environmental Studies I",
+    "program": "<B.Arch.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is global warming? 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Heat Exchange Processes through Building Envelope 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define the relevance of Sunpath Diagram 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the relevance of windrose Diagram 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define food chains and food webs. 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the concept of ecosystem with the help of diagrams. 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Briefly mention the sources and effects of noise pollution. 2.5 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Briefly mention three ways in which an architect can help in the context of disaster management? 2.5 5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe briefly five major elements of climate 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe briefly on the Thermal balance of human body with a neat sketch. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How can the air flow pattern inside the building can be modified with the opening size, position, attachments etc.? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the various methods of achieving comfortable air temperature through building elements. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the threats to natural resource depletion? What are the causes and effects of soil erosion? 5",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss briefly different sources of renewable and nonrenewable energy. Write a short note on use of alternative energy sources. 5",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the ways of achieving in-situ and ex-situ conservation of biodiversity? 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of an individual in prevention of pollution. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

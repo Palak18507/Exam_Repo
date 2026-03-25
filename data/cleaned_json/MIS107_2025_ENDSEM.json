@@ -1,0 +1,120 @@
+{
+  "paper_id": "MIS107_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS107",
+    "subject_name": "Cyber Security and Forensics",
+    "program": "<M.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Computer Security Incident with examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between posturing, tactical, and strategic.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key objectives of live data collection in Windows forensics?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "List two tools used for data acquisition in digital forensics and briefly explain their purpose.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Digital Evidence and provide two examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the primary goal of validating forensic data?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the Indian IT Act.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain Email Forensics.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is Incident Response? Explain the Incident Response Process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is Cybersecurity? Explain the various types of cybercrimes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the steps for preserving and collecting digital evidence from electronic media while maintaining its integrity.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Compare the methodologies of live data collection in Windows and Unix systems, emphasizing the challenges and tools used for each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the methodologies of Network Forensics and their applications in detecting cybercrime.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is Information Warfare, and how does it differ from traditional warfare? Discuss its arsenal and tactics.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is messenger analysis? Discuss its role in forensic investigations involving instant messaging platforms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the various Software and Hardware Computer forensic tools.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

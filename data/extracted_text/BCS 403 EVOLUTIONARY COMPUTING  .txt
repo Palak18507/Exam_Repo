@@ -1,0 +1,110 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+ End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<7> 
+(December, 2024) 
+ 
+Subject Code: BCS - 403  
+Subject: EVOLUTIONARY COMPUTING  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(4*5=20) 
+ 
+a) Explain the main components of an Evolutionary Algorithm and their roles in the 
+evolutionary cycle 
+5 
+ 
+b) Differentiate between binary representation and real-valued representation in 
+the context of evolutionary algorithms. 
+5 
+ 
+c) Explain how Genetic Algorithms (GAs) can be applied to solve a real-world 
+optimization problem, such as the Travelling Salesman Problem or the Knapsack 
+Problem. 
+5 
+ 
+d) Discuss how Swarm Intelligence algorithms, such as Ant Colony Optimization 
+(ACO) or Particle Swarm Optimization (PSO), can be used to solve a complex 
+optimization problem, such as the Travelling Salesman Problem (TSP) or Job 
+Scheduling. Explain how these mechanisms help to find near-optimal solutions for 
+the problem. 
+5 
+UNIT I 
+ 
+Q2 
+Discuss the origins of evolutionary computing and the main evolutionary computing 
+metaphor. Provide a brief history of the field, highlighting key milestones. 
+Additionally, explain how Darwinian evolution and genetic principles serve as the 
+foundation for evolutionary algorithms, and describe the analogy between biological 
+evolution and evolutionary computing techniques such as selection, mutation, and 
+crossover. 
+(10) 
+Q3 
+Discuss the key components of an Evolutionary Algorithm (EA) and describe the 
+steps involved in an evolutionary cycle. Provide an example application where an EA 
+is used effectively. Explain the operation of an EA, and compare natural evolution 
+with artificial evolution. Additionally, discuss the role of Evolutionary Computing in 
+global optimization problems and how it contrasts with other search algorithms.  
+(10) 
+UNIT II 
+ 
+2 
+ 
+Q4 
+Explain the concept of permutation representation in evolutionary algorithms. How 
+is it used to encode solutions in Job Scheduling problem? Discuss the challenges 
+involved in applying variation operators likecrossover and mutation to 
+permutation-based representations. Provide examples of specific crossover and 
+mutation techniques tailored for permutation representation and explain how they 
+help maintain valid solutions throughout the evolutionary process. 
+(10) 
+Q5 
+Discuss the use of binary representation and integer representation in 
+evolutionary algorithms. Explain how solutions are encoded in each of these 
+representations and the types of problems they are best suited for. Compare and 
+contrast the advantages and disadvantages of binary and integer representations in 
+terms of solution precision, computational efficiency, and applicability to different 
+problem domains.  
+(10) 
+UNIT III 
+ 
+Q6 
+Learning Classifier Systems (LCS) combine the principles of Genetic Algorithms 
+(GAs) and reinforcement learning (RL) to evolve a population of classifiers capable 
+of adaptive behavior. Provide a detailed explanation of the architecture and 
+working principles of an LCS, focusing on how genetic algorithms are used for rule 
+evolution and how reinforcement learning is integrated for feedback-driven 
+learning. Discuss the role of environmental feedback and the credit assignment 
+problem in LCS, and explain how the system balances exploration and exploitation 
+over time.  
+(10) 
+Q7 
+Derive the mathematical formulation of the velocity update equation in Particle 
+Swarm Optimization. Explain the role of the cognitive component and social 
+component in the equation. How do these components influence the exploration 
+and exploitation balance of the algorithm? 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain the concept of Accelerated Particle Swarm Optimization (APSO). How does 
+APSO differ from traditional PSO in terms of its velocity update mechanism? Discuss 
+the introduction of an acceleration factor and its role in improving convergence 
+speed and overall performance of the algorithm. Provide an example of a problem 
+where APSO would be more efficient than standard PSO. 
+(10) 
+Q9 
+Explain how the Firefly Algorithm (FA) can be adapted for solving multi-objective 
+optimization problems. How do the concepts of Pareto dominance and Pareto 
+front apply to the algorithm? Discuss how FA can be modified to handle multiple 
+conflicting objectives and maintain diversity in the solution set. 
+(10)

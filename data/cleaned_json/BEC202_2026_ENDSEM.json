@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC202",
+    "subject_name": "Linear Integrated Circuits (LIC",
+    "program": "B.Tech. ECE",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The output voltage of Op-amp is changes by 20V in 4µsec. What is the slew rate of Op-amp?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the virtual ground concept with a suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is precision diode? What part it plays in a half wave rectifier?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the basic principle of a RC Phase shift oscillator.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Give limitations of an Operational Transconductance Amplifier .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the power conversion efficiency of a Class A Amplifier.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "For which applications active filters are preferred over passive filters and why?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is a phase detector? What are its types?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the meaning of open loop and closed loop operation of an op-amp. Discuss different circuits and their working for both types of operation of Op- Amp.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss about the various methods used for improving CMRR of the Op-Amp.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw the circuit of a Monostable Multivibrator using Op-Amp. Explain its operation and find out the mathematical expression for pulse width ‘T’ for the monostable multivibrator.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Design an op-amp differentiator that will differentiate an input signal with fmax = 500 Hz. Draw the output waveform for a sine wave of 2V peak at 200 Hz applied to the differentiator.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Find the transfer function of the circuit given in Figure below:",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the operation of Class A Push-Pull Amplifier. Give circuit diagram and detailed working.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Design a fifth order Butterworth low-pass filter having upper cut-off frequency 2kHz.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on the following:- Monostable operation of 555 Timer Block schematic of Phase Locked Loop",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

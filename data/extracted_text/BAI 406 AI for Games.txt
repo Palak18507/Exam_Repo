@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech) (Semester: 8  ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 406 
+Subject:  AI for Games 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What are the key milestones in AI for games? 
+ 
+ 
+1 
+ 
+b) Differentiate between A* and Dijkstra’s algorithm. 
+ 
+ 
+2 
+ 
+c) What is a Finite State Machine (FSM) in game AI? 
+ 
+ 
+2 
+ 
+d) List two advantages of using FSMs in NPC behavior modeling. 
+ 
+ 
+2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Mention two modern games that use AI and describe their AI 
+features. 
+ 
+1 
+ 
+b) Discuss different variants of the A* algorithm and their 
+advantages. 
+ 
+ 
+2 
+ 
+c) Describe how navigation meshes help in pathfinding for games. 
+ 
+ 
+2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain how FSMs are used in NPC decision-making with an 
+example. 
+ 
+ 
+2 
+ 
+b) Describe utility theory and its application in game AI decision-
+making. 
+ 
+2 
+ 
+c) Discuss the challenges in designing NPC decision-making 
+systems. 
+ 
+2

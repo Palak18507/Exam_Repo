@@ -1,0 +1,122 @@
+{
+  "paper_id": "MCA205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA205",
+    "subject_name": "Software Testing and Quality Assurance",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the various steps of the regression testing process. Which step is the most important and why? 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider a program that determines the next date. Given a month, day and year as input, it determines the date of the next day. The month, day and year have integer values subject to the following conditions: C1 : 1<= month <=12 C2 : 1 <=day <=31 and C3 : 1900 <=year <=2025.Create equivalence classes and generate test cases. 2",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain: i) Software Testing process ii) Test case template 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain:-a) Quality Assurance and Quality Control ii)Use of Software Testing tool 4 CO Mapping",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between i) types of testing ii) verification and validation",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the significance of the V-shaped software life cycle model and also establish the relationship between its development and testing parts. 2",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the role of testing in the software engineering lifecycle and how is it different from debugging?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain with the help of a suitable example, why exhaustive testing is not possible and the difference between alpha and beta testing. 2 CO Mapping",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What are different parts of the Decision table? What is the purpose of a rule count? Differentiate between limited entry and extended entry decision table based testing? Consider a program ‘Addition’ with three numbers and it gives the addition of x ,y and z as an output. The range of both input values are given as: 100 <x <300 and 200 <y <400, and 300 <z <500, Generate possible test cases using Limited entry decision table based testing 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What is structural testing? Write a program to find the smallest number amongst three numbers. Draw program graph and DD path graph. Also find independent paths .Find all du paths and identify those du paths that are definition clear. Also find all du-paths, all-uses, and all-definitions and generate test cases for these paths 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What is mutation testing? What is the purpose of mutation score? Why are higher order mutants not preferred? Using any program example, generate 1st and 2nd order mutants and show the significance of mutation testing? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What is the difference between general test case prioritization and version specific test case prioritization? Write modification algorithm in regression testing and explain with an example 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "How do we achieve Software quality? Explain Garvin’s Dimensions Of Quality. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain any two of the following-:i) Elements of Software Quality Assurance ii)Quality tools iii)Software Quality Dilemma 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

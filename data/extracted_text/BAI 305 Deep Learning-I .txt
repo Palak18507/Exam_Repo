@@ -1,0 +1,95 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech./CSE-AI, Semester: 5 
+(December, 2024) 
+ 
+Subject Code: BAI 305 
+Subject: Deep Learning-I 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) “Perceptron Learning Algorithm is applicable on multi-classification 
+problem.” Justify your answer with appropriate reason. 
+ 
+CO1 
+ 
+b) Differentiate between L1 and L2 regularization. 
+ 
+CO2 
+ 
+c) Why is sigmoid function not appropriate for hidden layers of CNN? 
+Explain the problems in details. 
+ 
+CO3 
+ 
+d) Explain the different strategies for weight initialization of a DL model. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Consider a three-input perceptron with weight vector a [1,3,4] with bias 
+as -1. For the input vectors of [0.1, -4, -5] with output label as 1 and [2, 
+2.5, 0.6] with output label as 0, what will be the updated weights values 
+after two iterations of perceptron learning algorithm? 
+(10) 
+CO1 
+Q3 
+MP-neuron units and perceptron units are suitable for linear separable 
+Boolean functions. Identify which one is better and justify your answer 
+with appropriate reason 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Consider a two-input perceptron with sigmoid activation function and 
+weight vector as [0.1, 4] and bias of 0.5. For the input vector of [7.2, -0.5] 
+and output label as 1 and cost function as (y2+y*)2, where ‘y’ is the target 
+output and ‘y*’ is the estimated output. What will be the updated 
+weights values after two iterations of gradient descent algorithm 
+(learning rate as 0.2)?  
+(10) 
+CO2 
+Q5 
+Differentiate between Overfitting vs Underfitting. Explain the dropout 
+and data augmentation in detail in context of ANN. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+“ReLU is suitable for CNN while TanH is suitable for RNN”. Justify this 
+statement with appropriate reason. Also discuss the other activation 
+functions available for deep learning models.  
+(10) 
+CO3 
+Q7 
+Explain the LSTM and GRU unit along with architectural difference. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+“Convolutional Neural Network is better than Recurrent Neural 
+Network for Image Classification”. Identify the correctness of the above 
+statement and justify with appropriate reason.  
+(10) 
+CO4 
+Q9 
+Explain the VGG16, ResNet, and InceptionNet along with their 
+architecture in detail. 
+(10) 
+CO4

@@ -1,0 +1,106 @@
+{
+  "paper_id": "MUP103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP103",
+    "subject_name": "Housing and Environmental Planning",
+    "program": "M.Plan",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the concept of Barrier-free design and safety features.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The concept of sustainable development balances environmental, social, and economic goals for long-term well-being. Justify.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does Environmental degradation directly affect ecosystem?",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain Ghettoism",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you understand by Green housing?",
+          "marks": 4.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of \"housing shortage\" and discuss the major factors contributing to it in Indian cities.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role of construction materials and housing age in determining the durability and livability of residential buildings.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Evaluate the importance of housing as a social security measure, focusing on its role in reducing poverty and promoting social stability.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Analyse gender issues in housing and their implications for inclusive urban planning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Compare neighborhood living in traditional and contemporary societies, highlighting the challenges of modern neighborhood planning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the housing and area planning standards as per MPD-2021. Discuss the relevance of these standards in improving urban living conditions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the impact of urbanization on resource depletion and pollution. Suggest measures to mitigate these impacts.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the process of Environmental Impact Assessment . Discuss its significance in urban planning and development, with examples of how it helps mitigate negative environmental impacts of large-scale housing or infrastructure projects.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

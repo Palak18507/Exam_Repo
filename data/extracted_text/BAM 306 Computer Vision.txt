@@ -1,0 +1,50 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+(Course Name B.Tech AI ML ) (Semester VIth) 
+(March, 2025) OFF LINE mode 
+ 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+ 
+Q1 
+(2.5*4) 
+1. Explain the challenges faced in Image Classification. 
+ 
+2. What is the significance of clustering and where it is applied in computer vision tasks. 
+ 
+3. Explain purpose of pooling in a CNN. You may take help of any CNN model known to you to 
+explain your answer. 
+ 
+4. Write short note on any one. 
+     (a) Loss function Metrics 
+     (b) Data Augmentation to overcome Over fitting problem in CNN   
+Q2 (Attempt any Two Parts )     UNIT- 1  
+(5,5) 
+(a Discuss the Salient point for Data Driven approach in computer vision with help of practical 
+example. 
+ 
+(b)Outline any three major challenges faced in computer vision with support of some practical 
+example. 
+ 
+(c)List and explain any three types of Neural Networks . 
+ 
+Q3 
+ (Attempt any Two Parts )     UNIT- 2 
+(5,5) 
+(a)Explain the steps involved in a KNN algorithm stating clearly the convergence condition. 
+Explain the method used to fix the final number of centroid. 
+ 
+(b)Explain what is Batch Normalisation and Drop out in context of Over fitting problem. 
+ 
+(c) Write short Note on anyone CNN model below 
+1. LeNet 
+2. AlexNet 
+ 
+ 
+Note: Q. 1 is compulsory.  
+Subject: Computer Vision
+Subject Code: BAM- 306

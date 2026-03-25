@@ -1,0 +1,76 @@
+{
+  "paper_id": "MMS224_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS224",
+    "subject_name": "Training and Development",
+    "program": "MBA.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Training as a consultancy 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the various aspects of training design 5",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the significance of employee training programs in organizational success. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "As an HR manager, you are responsible for assessing the training needs in your organization. Explain the essence of feedback in this regard 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the methods that can be utilized for Individual analysis as part of TNA 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "You have been asked to develop an onboarding training program for new employees in a multinational company. Outline the key components of the training program and explain how it would help employees transition smoothly into the organization. 5 Explain the concept of motivation of trainers and trainees. How can organizations use this approach to enhance employee skill development and engagement? 5",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain how factors such as supervisor support, peer support, trainer support, reward systems, and organizational climate contribute to effective skill application in the workplace. Provide relevant examples to support your answer 5",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

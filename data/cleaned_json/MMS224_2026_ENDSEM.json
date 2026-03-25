@@ -1,0 +1,100 @@
+{
+  "paper_id": "MMS224_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS224",
+    "subject_name": "Training and Development",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the Systematic Model of training. 5 C01",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Name any two factors influencing trainee motivation.. 5 C02",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between CIRO and CIPP models of evaluation. 5 C03",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Describe the role of assessment centers in training. 5 C04",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Suppose a company is facing a high turnover rate. How can the concept of a learning organization help? C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "You are hired as a training consultant for a startup. How would you align training with organizational change? C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "You are designing a training program for sales executives. How would you ensure the training objectives align with business goals? C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A manager reports that trainees are not applying new skills on the job. How would you improve the transfer of training? C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "As a trainer, how would you adapt your methods to a team with mixed learning styles? C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "After a workshop, participants gave low feedback scores. What evaluation model would you use to identify gaps? C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A mid-sized firm wants to shift to online learning platforms. How would you introduce e-learning effectively? C04",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Design a management development plan for newly promoted team leads using any three methods discussed. C04",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

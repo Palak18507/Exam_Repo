@@ -1,0 +1,121 @@
+{
+  "paper_id": "BCS310_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS310",
+    "subject_name": "Human Computer Interaction",
+    "program": "B.Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define \"User Interface\" and explain its significance in modern computing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Hover-Reveal Tools and Toggle-Reveal Tools.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the challenges present in display based Systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the principle of \"direct manipulation\" in the context of graphical user interfaces.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Discuss the importance of screen design in user interfaces.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are the common limitations of mobile and hand-held platforms in terms of user interface design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the role of colors and multimedia in enhancing user experience in UI design?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does human interaction speed influence user interface design and usability?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Justify the statement with example: “The Response Time/Productivity Relation changes based on the task and user.”",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the principles of user interface design for graphical user interfaces . Explain the concept of direct manipulation and how it is used in modern graphical systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the design process for user interfaces. Discuss the role of human interaction characteristics in shaping the design of user interfaces.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the following Elements of Mobile Design in detail a. Context b. Message c. Look and Feel d. Layout e. Color",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the following characteristics in respect of web pages a. Page size b. Page rendering c. Page layout d. Page resolution e. User focus",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the importance of navigation schemes in user interface design. How do you select the appropriate window types and controls for an application? Provide examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the role of multimedia, icons, and colors in user interface design. How can these elements be utilized to enhance the user experience and engagement?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the various interacting devices used in user interfaces, such as keyboards, touchscreens, and voice-activated commands. How do these devices impact user interaction and usability?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

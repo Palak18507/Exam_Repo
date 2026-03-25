@@ -1,0 +1,120 @@
+{
+  "paper_id": "AMC205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC205",
+    "subject_name": "Disaster Management",
+    "program": "BBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the term Disaster Relief and Disaster Recovery",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Briefly discuss the factors that affects vulnerability.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the Challenges for earthquake mitigation in India",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by the term biological warfare? Support with an example",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly discuss role of media & technology in disaster management",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write applications of drones in DM",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write about various objectives of mock drills",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Highlight roles and responsibilities of NDMA",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Identify and explain the importance of key elements of action in disaster management cycle during the post-disaster phase only. Explain different approaches of Disaster Risk Reduction",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "“India is one of the world’s most vulnerable countries to disasters and it has a lot to discuss and prepare when it comes to preparing for them.” With this point of view throw some light on disastrous profile of India and Disaster Management in Indian context",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the different types of man-made disasters with special reference to Bhopal gas leaked tragedy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "“Geo informatics is an integrated spatial research tool”. In the light of this statement Explain the relevance the Science and Technology in DM Different components of GIS Few examples to support GIS role",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Summarize the importance of Early Warning system “ ICT plays a very important role in various aspect of disaster risk management. At present there is a growing awareness of the importance of ICT for disaster risk management”. In the light of above statement explain the role of ICT in Disaster Management",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a note on Disaster Management Act 2005 Explain the role of Intergovernmental and UN agencies in Disaster Management",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Heavy rainfall caused severe flooding and landslides across Uttarakhand on June 2013. It Impacted thousands of people were stranded; more than 5,000 reported deaths; entire villages destroyed. There were several challenges for SAR Operations like difficult terrain and continuous rainfall made access challenging. The communication infrastructure was severely damaged. In the light of this caselet: Explain the concept of SAR Importance, phases and challenges of SAR . Technology used in SAR",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

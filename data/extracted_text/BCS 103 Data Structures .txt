@@ -1,0 +1,191 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: B.TECH : Sem: 2 
+(May, 2025) 
+ 
+Subject Code: BCS 103 
+                                                                          Subject: Data Structures  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+What is an array? Explain the differences between array and linked list. 
+2.5 
+CO2 
+b 
+Define time and space complexity of an algorithm. Also, discuss the 
+time-space trade-off in an algorithm. 
+2.5 
+CO1 
+c 
+What is stack? Explain the Push and Pop operations with the help of a 
+suitable example. 
+2.5 
+CO2 
+d 
+Write an algorithm to implement a queue using linked list. 
+2.5 
+CO2 
+e 
+What is a Binary search tree (BST)? Create a BST for the list of elements 
+24, 5, 40, 10, 50 inserted in the order. 
+2.5 
+CO3 
+f 
+Explain binary search algorithm. Also discuss its limitations. 
+2.5 
+CO2 
+g 
+What is a graph data structure? Write adjacency list representation of 
+the following graph: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 
+CO2 
+h 
+What is a hash function? Explain any one of the hash functions with the 
+help of a suitable example. 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the circular queue data structure. Write algorithms for insertion 
+and deletion in a circular queue. 
+10 
+CO3 
+Q3 
+Write an algorithm to create a two dimensional array V of size  n × n 
+such that V [i, j] = i - j for all i, j, 0≤i<n, 0≤j<n. Also  find the sum of the 
+elements of the array V. 
+10 
+CO4 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Write a program/algorithm to create a singly linked list and display it in 
+the reverse order. Also, do the time complexity analysis of performing 
+the reverse operation. 
+10 
+CO4 
+Q5 
+Convert the following infix expression in prefix and postfix expression. 
+Use the appropriate data structure and show all the intermediate steps. 
+Also, draw the expression tree for the given infix expression. 
+Infix expression:       (A+B)*C-D/E^F+(G-H/J*K) 
+10 
+CO3 
+ 
+B 
+A 
+F 
+E 
+D 
+C 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What are properties of a B-tree? Create the B-tree of order 4 for the 
+following list of elements, inserted in the order showing all the 
+intermediate steps. From the created B-Tree, delete the elements 3, 5, 
+and 6.                        Arr[]=  15, 25, 5, 10, 40, 30, 35, 20, 3, 45, 6, 8 
+10 
+CO3 
+Q7 
+Write a program/algorithm for insertion sort and apply it to sort the 
+following list of elements in ascending order. Show all the steps. Also, 
+calculate the total number of comparison and swap operations 
+performed while sorting the given list. 
+Arr[] = 15, 24, 5, 4, 10, 35, 30, 8, 45, 1 
+10 
+CO4 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define minimum cost spanning tree (MCST). Write prim’s algorithm to 
+create a spanning tree and apply it on the following graph to find the 
+MCST. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+CO2 
+Q9 
+What is a shortest path in a graph? Apply Dijkstra’s algorithm to find 
+the shortest path from vertex ‘A’ to all other reachable vertices in the 
+following graph. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+CO2 
+ 
+B 
+E
+D
+G
+A
+F
+C
+ 4 
+ 1 
+ 6 
+ 5 
+ 2 
+ 2 
+ 3 
+ 3 
+4 
+ 3 
+ 4 
+ 5 
+ 7 
+B 
+A 
+C 
+E 
+F 
+D 
+6 
+2 
+4 
+3 
+1 
+5 
+7 
+4 
+2

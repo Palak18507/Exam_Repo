@@ -1,0 +1,119 @@
+{
+  "paper_id": "BMA316_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA316",
+    "subject_name": "Quality Management & Six Sigma Applications",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define \"quality\" and explain how it differs from \"grade.\" 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "List and briefly describe any four dimensions of product quality. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Enlist the steps involved in conducting a benchmarking study. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define FMEA? What is its purpose? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Differentiate between Histogram and Box Plot. When would you use each in Six Sigma? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "A process has a mean of 50 and a standard deviation of 5. If specification limits are 40 and 60, calculate the process capability index. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "List any two control phase tools in Six Sigma and explain their purpose. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain Poka-Yoke? Give one real-life example of its application. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the role of quality statements in shaping an organization’s TQM efforts with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the key features and benefits of adopting a customer- oriented approach in quality management. How is it different from a product-oriented approach?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of Taguchi’s robust design approach. How does it minimize quality loss? Illustrate with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between internal and competitive benchmarking. Which is more effective in driving quality improvement and why?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain various interrelationship diagrams in Six Sigma. Describe how they are constructed and interpreted.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss how SIPOC diagrams help in defining the scope of a Six Sigma project. Why is it important to involve cross-functional teams in SIPOC creation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the process and importance of implementing Value Stream Mapping in Six Sigma. What insights can it provide for lean improvement?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A quality analyst is testing three machines to see if there is a significant difference in their mean output. The output in units from a sample run is as follows: Machine A Machine B Machine C 50 54 51 52 56 53 49 55 52 Conduct a One-Way ANOVA test at α = 0.05 and interpret the results.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

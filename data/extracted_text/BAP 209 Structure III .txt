@@ -1,0 +1,78 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End - Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Arch.>, Semester:<3> 
+(December, 2024) 
+ 
+Subject Code: BAP 209 
+Subject: Structure III 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+Write short note on Bending Equation in Beam. 
+ 
+(b) 
+What are merits & demerits of steel roof trusses?  
+ 
+(c) 
+Write short note on Moment Area Method. 
+ 
+(d) 
+Write short note on Conjugate Beam Method? 
+ 
+(e) 
+What is bending moment of simply supported beam with point load & uniformly 
+distributed load.  
+ 
+(f) 
+Explain wind forces acting of steel roof trusses.   
+ 
+(g) 
+What is asymmetrical section of a Beam? 
+ 
+(h) 
+Define shear force and shear force diagram 
+ 
+ 
+UNIT-I 
+Q2 
+Draw structural framing of industrial building.  
+(10) 
+Q3 
+Explain analysis of truss by method of joints.   
+(10) 
+UNIT-II 
+Q4 
+Explain bending stress in beams.  
+(10) 
+Q5 
+Explain shear stress distribution in sections.  
+(10) 
+UNIT-III 
+Q6 
+Calculate moment of resistance of steel beam having span = 8m and UDL = 
+40Kn/m (including self weight) Adopt allowable bending stress = 165 
+N/mm2. Modulus of section = 3060 cm3  
+(10) 
+Q7 
+Check steel beam ISMB600 for shear having span 6m and point load at 
+centre 50 KN. Web thickness = 10.5 mm. Draw B.M & shear forces 
+diagrams.   
+(10) 
+UNIT-IV 
+Q8 
+Explain Double Integration method of calculation of deflection in beams. 
+Draw neat sketch to support your answer. 
+(10) 
+Q9 
+Calculate and check deflection of simply supported beam having span 7m 
+and udl = 50Kn/m. Modulus elasticity E = 200000 N/mm2. Moment of 
+Inertia Ixx = 728670000 mm4.  
+(10)

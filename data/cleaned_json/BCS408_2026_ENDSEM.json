@@ -1,0 +1,119 @@
+{
+  "paper_id": "BCS408_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS408",
+    "subject_name": "Software Project Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the need for Software Project Management in today’s IT industry? List its key objectives. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe any two types of software project plans. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List the key components of Work Breakdown Structure and why is it crucial in project planning? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between the Project Life Cycle and Product Life Cycle. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is resource scheduling and explain why it is critical in project management? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Differentiate between Schedule Variance and Cost Variance. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Differentiate between verification and validation in software testing. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are CASE tools? Give examples and their relevance in software project management. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Software Project Management Cycle with a suitable diagram. Explain each phase briefly with their significance and highlight how they connect to project success.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What challenges are faced in software estimation? Discuss the interrelation between Software Project Planning and the Software Project Estimation with the help of a suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the objectives of project scheduling and outline the process of building a project schedule. Briefly describe various key terminology and techniques used in scheduling.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the process of converting a WBS into a network diagram. Compare and contrast PERT, CPM, and Monte Carlo techniques in terms of complexity, assumptions, and accuracy.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the different types of software reviews. Analyze the significance of these reviews in detecting errors early, improving collaboration, and enhancing the overall software development process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss about the key earned value indicators: Cost Variance, Schedule Variance, Cost Performance Index, and Schedule Performance Index. How are these indicators calculated and interpreted in the context of project performance?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the objectives and principles of software testing. Describe the roles of test plans and test cases, and discuss the different types and levels of testing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is difference between Software Metric and Indicator? Discuss the Capability Maturity Model in detail.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

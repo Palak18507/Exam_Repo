@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAP312_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP312",
+    "subject_name": "Settlement Design",
+    "program": "B.Arch.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Name 3 most significant components of any settlement/city, according to you.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain in 3-4 lines the difference between public and private transport.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Name 5 essential components of any street design.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the full form of ROW?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain in short the evolution of any settlement over time.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the 5 main components of image structure of the city according to Kevin Lynch?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the road network of Delhi with respect to the hierarchy of roads as given in the Delhi Master Plan.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the role of Building bye-laws in settlement planning/design?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain some components of building bye-laws like FAR/FSI, Height and density restrictions, landuse zones etc.; and how they contribute to creation of specific urban forms?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw and label the cross-section of street design of any particular street width of your choice.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

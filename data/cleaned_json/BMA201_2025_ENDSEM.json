@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA201",
+    "subject_name": "Production Technology",
+    "program": "B.Tech (MAE",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is foundry mechanization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the purpose of cores and chaplets?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between conventional and non-conventional welding?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define cold working and hot working? Give two examples which are carried by cold working?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "In what cases Investment casting is being used? Also explain in short.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain sintering process?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How is additive manufacturing different from subtractive manufacturing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are advantages of manufacturing using Powder metallurgy",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2(a)",
+      "unit": "UNIT I",
+      "question_text": "Explain Casting Process? Also explain Centrifugal Casting along with diagrams? Discuss any three casting defects?",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the Gating system in any Casting process? Discuss all components and their functions along with the diagram",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4(a)",
+      "unit": "UNIT II",
+      "question_text": "What is submerged welding process? Explain the principle and its working in detail? Explain different types of joints along with their shapes?",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss Solid state welding. Explain in detail EBW and LBW along with their advantages?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is forging? Explain the principle of forging as a manufacturing method. Also discuss about Drop forging and press forging?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7(a)",
+      "unit": "UNIT III",
+      "question_text": "Discuss Two high rolling. Three high rolling and four high rolling along with the diagram? What is extrusion process?",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8(a)",
+      "unit": "UNIT IV",
+      "question_text": "What is powder metallurgy? Explain the detail processing of powder metallurgy alongwith diagrams if any? Explain Atomization process used to produce powder in powder metallurgy?",
+      "marks": 7.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Differentiate among various additive manufacturing techniques on the basis of the printing materials like powder, liquid resin and polymers",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

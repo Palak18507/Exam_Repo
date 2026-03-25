@@ -1,0 +1,199 @@
+{
+  "paper_id": "BAM303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM303",
+    "subject_name": "Cryptography and Network Security",
+    "program": "B.Tech AIML",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider the following encryption scheme: 𝐶1 ≡2𝑃1 + 3𝑃2 𝐶2 ≡5𝑃1 + 8𝑃2 Where, the encryption algorithm takes two successive letters and transforms their numerical equivalents 𝑃1 𝑃2 into a block 𝐶1𝐶2 of ciphertext numbers via the pair of congruences given above. Encrypt the message BUYNOW and show the steps of encryption. [Consider the following mapping. A:00, B:01, C:02, …. Z=25].",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain how digital signature standard works.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the working of virus through the virus pseudocode",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain IPSec tunnel and transport mode with suitable diagram",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how meet-in-the middle attack on Double DES works.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain R&A algorithm in detail.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Properties of a group with a numerical example.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Properties of a field with a numerical example.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "331 mod 7",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "128 129 mod 17",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find inverse of 15 mod 43",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the working of ElGamal Cryptosystem through equations. Justify the security of this cryptosystem.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is discrete log problem? What is the advantage of using primitive root in Diffie Hellman Key exchange?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Consider the following Diffie Hellman Key Exchange scenario between Ram and Sita. The DHKE global parameters are: prime number p =13 and its primitive element g = 2. Public key of Ram is 10. [Show computations in all cases.] 1. Choose a private key X for Sita and compute her corresponding public key Y. Calculate Ram’s private key. 2. Compute the common key for each Ram and Sita. Show both calculations. 3. Does DHKE provide authentication of the parties? Justify your answer.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the properties of a cryptographic hash function?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Let n be a large integer. Let a cryptographic hash function h be defined as: h = m , where the output of h is regarded as an integer between 0 and n-1. Is this a cryptographic hash function? Why or why not?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain HMAC with a suitable diagram.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "PGP private key ring,",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "PGP public key ring and",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "PGP certificate.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the structure of a block in blockchain",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How Authentication & Confidentiality is achieved in IPSec",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

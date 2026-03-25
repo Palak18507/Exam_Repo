@@ -1,0 +1,37 @@
+{
+  "paper_id": "BAI404_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI404",
+    "subject_name": "Social Media Analytics",
+    "program": "B. Tech.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Explain the purpose of nodes, ties, and influencers in social networks. Describe the function of graphs and matrices in interpreting social network data. Give instances of basic metrics used on persons and networks. How does clickstream analysis help’s to understand user behavior on websites? Provide examples of metrics that are regularly examined using clickstream data. What is link analysis in the context of social media analytics, and how does it support in identifying links between entities in a network?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 Identify future trends and improvements in Social Media Analytics. How do emerging technologies like artificial intelligence and machine learning affect the development and implementation of SMA methodologies? Describe the significance of information visualization techniques in SMA. How do visual representations like node-link diagrams and heatmaps help with analyzing and understanding of complex social media data? How can Social Media Analytics turn raw social media data into actionable insights? How does this method influence organizational decision-making?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 Explain the importance of random graphs in modeling network evolution. How can random graphs help us understand the structure and dynamics of social networks over time? Provide real-world examples of the use of random graphs in social media analytics. Discuss the use of online surveys in web analytics. How are online surveys planned, implemented, and analyzed to collect user input and insights? Give scenarios of how online surveys are used to improve website performance and usability. Explain an overview of NLP techniques for micro-text analysis in social media analytics. How does NLP algorithms extract information from short-form text data, such as social media postings and comments? Note: Q. 1 is compulsory. Subject: Social Media Analytics Subject Code: BAI-404",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

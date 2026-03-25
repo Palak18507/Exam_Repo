@@ -1,0 +1,121 @@
+1 
+ 
+(Please write your Enrollment Number)                                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B. Tech, Semester: 3rd   
+(December, 2024) 
+ 
+Subject Code: BAI 205 
+Subject: Neural Networks and Artificial Intelligence 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO 
+Mapping 
+a) 
+Explain the concept of 'search knowledge' in the context of AI and 
+provide one example of its use in problem-solving. 
+(2.5) 
+CO1 
+b) 
+What are intelligent agents? Describe the role of agents in the AI 
+system architecture. 
+(2.5) 
+CO1 
+c) 
+Explain the Means-End Analysis technique with an example of 
+problem-solving in AI. 
+(2.5) 
+CO2 
+d) 
+Analyze the significance of alpha-beta pruning in improving the 
+performance of Minimax in decision-making systems. 
+(2.5) 
+CO2 
+e) 
+What is a conceptual dependency graph? Demonstrate its 
+application in representing natural language sentences. 
+(2.5) 
+CO3 
+f) 
+Explain how semantic networks can be used for reasoning. 
+(2.5) 
+CO3 
+g) 
+What are radial basis function networks? Explain their working and 
+significance in AI applications. 
+(2.5) 
+CO4 
+h) 
+Explain the role of activation functions in neural networks. 
+Compare commonly used activation functions with examples. 
+(2.5) 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Compare informed and uninformed search strategies. Evaluate 
+their effectiveness in solving a given problem with an example. 
+(10) 
+CO1 
+Q3 
+Explain the functionality of different types of intelligent agents. 
+Discuss their relevance in designing autonomous systems. 
+(10) 
+CO1 
+UNIT - II 
+ 
+CO 
+Mapping 
+Q4 
+Define informed search strategies and explain how heuristics 
+influence their efficiency. Further, Explain the A* algorithm in 
+detail. 
+(10) 
+CO2 
+Q5 
+Define constraint satisfaction problems (CSP). Solve a real-world 
+problem (e.g., Sudoku) using CSP techniques. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+2 
+ 
+Q6 
+Discuss the principles of Forward Chaining and Backward Chaining 
+within Rule-Based Systems, emphasizing their distinctions and 
+real-world use cases. 
+(10) 
+CO3 
+Q7 
+Explain how predicate logic extends propositional logic for 
+knowledge representation. Discuss its application in knowledge 
+representation. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+Compare single-layer perceptron with multi-layer perceptron. 
+Explain how backpropagation improves learning. 
+(10) 
+CO4 
+Q9 
+Describe the learning paradigms in AI: supervised, unsupervised, 
+and reinforcement learning. Provide real-world examples for each. 
+(10) 
+CO4

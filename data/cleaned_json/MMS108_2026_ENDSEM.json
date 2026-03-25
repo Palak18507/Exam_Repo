@@ -1,0 +1,78 @@
+{
+  "paper_id": "MMS108_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS108",
+    "subject_name": "Business Environment",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define micro and macro environment with examples. b Describe the different phases of the business cycle. c Mention any two elements of culture that impact business in India. d What are the challenges faced by businesses due to socio- cultural differences? e How has liberalization impacted foreign trade in India? f Define economic planning and its importance in India. g What role does the IMF play in the global economy? h What is Industry 4.0? Give one example of its application.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the key techniques of environment analysis? Evaluate their strengths and limitations.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Imagine you are a manager in a consumer electronics company. How would you use PESTLE and SWOT analysis to assess the company’s readiness for launching a new product in a competitive market?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of “ease of doing business.” Analyze India’s performance and challenges in this regard.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What challenges and opportunities do foreign businesses face in India? Highlight socio-cultural and legal aspects.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the impact of Economic reforms on the Indian business environment.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "The government introduces a new industrial policy. As a business strategist, how would you align your company’s operations with this shift and gain a competitive edge?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is the future of protectionism in a post-pandemic world? Discuss its implications on international business.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is the role of foreign capital in economic development? Discuss with reference to FDI, FII, and FEMA in the Indian context.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

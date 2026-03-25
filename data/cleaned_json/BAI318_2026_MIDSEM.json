@@ -1,0 +1,89 @@
+{
+  "paper_id": "BAI318_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI318",
+    "subject_name": "Semantic Web",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does HTTP work when a user requests a webpage? 2.5 CO-1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Briefly explain HTML and its stages. 2.5 CO-1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the major limitations of Web 2.0 that led to the development of Web 3.0? 2.5 CO-2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the role of RDF in the Semantic Web with an example. 2.5 CO-2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the OSI seven-layer model and briefly describe the function of each layer. 5 CO-1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the major components of an internet service provider and its role in web connectivity. 5 CO-1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe any 5 major Internet protocols and their functionalities. 5 CO-1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the contributions of Sir Tim Berners-Lee to the development of the Semantic Web. How does his vision shape the roadmap of Web 3.0? 5 CO-2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the Semantic Web architecture and the role of different layers in the layered cake model. How do these layers contribute to interoperability on the web? 5 CO-2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "The Semantic Web aims to enable machines to understand and process web data intelligently. Identify and discuss two real- world applications of the Semantic Web and their impact on industries. 5 CO-2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

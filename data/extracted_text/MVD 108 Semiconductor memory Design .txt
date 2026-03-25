@@ -1,0 +1,126 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<M.Tech>, Semester:<2nd> 
+(May, 2025) 
+ 
+Subject Code: MVD 108 
+Subject: Semiconductor memory Design 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+In semiconductor memories, explain below architecture with its 
+name and functionality 
+                         
+ 
+ 
+ 
+Unit 1 
+ 
+(b) 
+How do you see, below structure? Name the technology being used 
+here. Explain the advantages and disadvantages of this technology       
+                                         
+ 
+Unit 1 
+ 
+(c) 
+Explain typical Mask ROM  Development flow chart 
+Unit 2 
+ 
+(d) 
+What is ROM with NAND array and NOR array? 
+Unit 2 
+ 
+(e) 
+Explain (a) semiconductor dilectric  interface failures (b) conductor 
+and metallization failures 
+Unit 3 
+ 
+(f) 
+What is semiconductor bulk failure and ‘assembly n packaging’ 
+related failures 
+Unit 3 
+ 
+(g) 
+ How ferroelectric RAM works . Explain its hysteresis curve in 
+ferroelectric capacitor? 
+Unit 4 
+ 
+(h) 
+Explain single element memory cell and dual element memory cell 
+Unit 4 
+ 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping1 
+Q2 
+How two decoder below differ in their functionality? What are 
+names of each circuit and why? Which circuit is better and why? 
+ 
+ 
+ 
+ 
+(10) 
+ 
+Q3a 
+(i)How the circuit shown works?  
+ 
+(ii) List and explain some basic requirements for a good 
+memory cell and basic requirements to sense the signal from 
+memory cell 
+(5) 
+ 
+Q3b 
+How DRAM cell development happened. How three transistor 
+and one transistor cell in DRAM differ from each other?  
+ 
+(5) 
+ 
+UNIT-II 
+CO Mapping2 
+Q4 
+  How EEPROM is different from EPROM? What is the need of 
+EEPROM over EPROM? 
+(10) 
+ 
+Q5 
+Explain Silicon Oxide Nitride Oxide Semiconductor (SONOS) 
+memories 
+(10) 
+ 
+UNIT-III 
+CO Mapping3 
+Q6 
+What is that phenomena when a SHORT occurs in  gate oxide 
+between Mosfet gate and underlying Silicon substrate?  What 
+are the two techniques to analyse Gate Oxide Failures? 
+(10) 
+ 
+Q7 
+What happens when you try to scale down geometry of a 
+memory device for higher density? What kind of degradation 
+occurs? 
+(10) 
+ 
+UNIT-IV 
+CO Mapping4 
+Q8 
+Explain radiation effects in FRAM? How FRAM is different from 
+EEPROMS? 
+(10) 
+ 
+Q9 
+Write short note on memory hybrids. 
+(10)

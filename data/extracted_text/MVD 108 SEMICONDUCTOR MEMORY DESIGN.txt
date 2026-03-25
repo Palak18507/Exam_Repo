@@ -1,0 +1,82 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech.) (Semester:  2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MVD 108 
+Subject: Semiconductor Memory Design  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How do you define static and dynamic in RAM? What is static 
+and dynamic activity in them? Explain with circuits? Why don’t 
+we use 4T SRAM but prefer 6T? Can we have more than one set 
+of Bit,Bit_BAR columns in memory. Explain? 
+ 
+Unit1 
+ 
+b) How Read and write operation is performed in SRAM? 
+ 
+Unit1 
+ 
+c) Why and where do we need NON volatile memory? How ROM 
+n PROM different from each other? 
+ 
+Unit2 
+ 
+d) How Flash memory works 
+ 
+Unit2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain SRAM with read and write operation along with along 
+with all read and write circuitry/blocks 
+ 
+Unit1 
+ 
+b) Can we use just circuits without amplifier to have Bit and 
+Bit_BAR from columns of volatile memory? Are ordinary 
+amplifier enough to have Bit ,Bit_BAR to output read bits? 
+Name special amplifier to read column and explain its 
+functionality 
+ 
+Unit1 
+ 
+c) What is the need of SOI technology? What is PD,FD SOI 
+technology? 
+ 
+Unit1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain mask ROM development flow chart. Explain DRAM 
+cell with its read, write operation 
+ 
+Unit2 
+ 
+b) How EPROM is different from EEPROM? Where do we need 
+each of them? 
+ 
+Unit2 
+ 
+c) Write short note on advance Flash memory architecture 
+ 
+Unit2

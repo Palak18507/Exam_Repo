@@ -1,0 +1,63 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech.(IT)  (Semester: I) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MIS 108 
+Subject: Cyber Risk Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Differentiate between traditional IT security and modern cybersecurity 
+approaches. 
+ 
+ 
+b) What are the key cyber threats affecting organizations and individuals 
+today. 
+ 
+ 
+c) What are the major factors in determining cyber risk within an 
+organization? 
+ 
+ 
+d) Differentiate between internal and external cyber risks with examples. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Evaluate the role of zero-trust architecture in mitigating modern cyber 
+risks. 
+ 
+ 
+b) How can cyber risk quantification improve decision-making in enterprise 
+risk management? 
+ 
+ 
+c) How does Monte Carlo simulations’ assist in quantitative risk 
+assessment for cybersecurity? 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What are the challenges in integrating cybersecurity risk management 
+into enterprise risk management (ERM)? 
+ 
+ 
+b) Assess the effectiveness of SOC (Security Operations Centers) in 
+identifying and mitigating cyber threats. 
+ 
+ 
+c) Compare and contrast risk appetite, risk tolerance, and risk capacity in 
+cybersecurity risk management.

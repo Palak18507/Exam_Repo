@@ -1,0 +1,96 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name :< PhD>, Semester :< 1st> 
+(May 2005) 
+ 
+Subject Code: PhD 050 
+Subject: Power Electronics and Distributed Generation 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Do any Four 
+CO Mapping 
+ 
+a) Explain the role of reclosers and sectionalizers in radial 
+distribution system protection. 
+5 
+CO1 
+ 
+b) Describe the function of SCR-based static switches in source 
+switching. 
+5 
+CO2 
+ 
+c) Write short notes on the use of Per-Unit analysis in fault 
+analysis of distribution systems. 
+5 
+CO2 
+ 
+d) Define flicker and mention its effect on power quality in DG 
+systems. 
+5 
+CO3 
+ 
+e) Briefly explain thermal impedance and its role in damage 
+estimation due to thermal cycles. 
+5 
+CO3 
+ 
+f) Differentiate between passive and active methods for 
+detecting unintentional islanding in distribution networks. 
+5 
+CO3 
+UNIT I 
+CO Mapping 
+Q2 
+Briefly explain the different distributed generation technologies. Why 
+they are called distributed generation? 
+(10) 
+CO3 
+Q3 
+Perform a sequence component analysis for a faulted distribution 
+system and explain its implications on DG operation. 
+(10) 
+CO2 
+UNIT II 
+CO Mapping 
+Q4 
+Discuss the impact of DG integration on loop and secondary network 
+distribution grids. 
+(10) 
+CO4 
+Q5 
+How the upstream and downstream circuit breakers are coordinated 
+when faults occur at different zones? 
+(10) 
+CO2 
+UNIT III 
+CO Mapping 
+Q6 
+Briefly explain passive and active islanding detection techniques by 
+explaining at least one example of each. 
+(10) 
+CO3 
+Q7 
+Describe the inverter control strategies for both grid-connected and 
+stand-alone DG operations. Include protection schemes. 
+(10) 
+CO3 
+UNIT IV 
+CO Mapping 
+Q8 
+Explain the power quality implications of DG with reference to flicker, 
+reactive power compensation, and low voltage ride through (LVRT) 
+requirements. 
+(10) 
+CO4 
+Q9 
+Evaluate the different topologies of power converters used in DG 
+applications with their merits and limitations 
+(10) 
+CO4

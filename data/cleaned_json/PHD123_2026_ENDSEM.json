@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD123_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD123",
+    "subject_name": "Machine Learning and Deep Learning",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Explain with a short example how Bayes Decision Theory handles binary features in classification. 2.5 b What is the difference between Simple Linear Regression and Multiple Linear Regression? Provide an example for each. 2.5 c What is a Support Vector Machine ? Briefly explain the concept of the hyperplane used in SVM. 2.5 d Explain the difference between Boosting and Bagging as ensemble methods. How do they each contribute to improving model performance? 2.5 e What is Fuzzy K-Means Clustering? How does it differ from standard K- Means? 2.5 f What is the Dimensionality Problem in machine learning, and how does it affect model performance? 2.5 g What is the purpose of Backpropagation in neural networks? Briefly explain how it helps in updating the weights during training. 2.5 h What is the primary advantage of using Recurrent Neural Networks for sequence data? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain with an example when a model with high accuracy can still be a poor model. Why are Precision and Recall sometimes more important than Accuracy? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is the difference between Parametric and Non-Parametric Density Estimation? Explain with examples. Describe the Parzen Window and K-Nearest Neighbour approaches for density estimation. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the Perceptron algorithm in detail. Discuss the Perceptron criteria for updating the weights and provide an example of how it works in a simple binary classification problem. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the working of Logistic Regression. Discuss how it is used for classification problems and how the sigmoid function is used to make predictions. Provide an example to show how logistic regression can be applied to a simple binary classification task. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of Principal Component Analysis . Discuss how PCA helps in reducing the dimensionality of data and retaining the most important information. Illustrate the steps involved in PCA and its application in data preprocessing. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the Gaussian Mixture Model . How does it work as a probabilistic model for clustering? Discuss how GMM uses multiple Gaussian distributions to model data, and explain its application in clustering problems. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is a Convolutional Neural Network ? Explain its architecture, including the layers . Discuss how CNNs are used in image recognition tasks. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is a Generative Adversarial Network ? Explain how it consists of a generator and a discriminator and how these networks work together in a min-max optimization framework. Provide an example of GAN applications. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

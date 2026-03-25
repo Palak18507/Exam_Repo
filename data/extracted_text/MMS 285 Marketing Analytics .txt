@@ -1,0 +1,99 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MBA, Semester: III 
+(December, 2024) 
+ 
+Subject Code: MMS 285 
+Subject: Marketing Analytics  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+a) Explain the significance of marketing analytics in the context of big data. 
+ 
+ 
+ 
+b) Define Customer Lifetime Value (CLTV) and explain why it is crucial for 
+customer segmentation. 
+ 
+ 
+c) Define the following terms in the context of conjoint analysis: 
+ Attributes 
+ Levels 
+ Utility values 
+ 
+ 
+d) Analyzing digital marketing data reveals a click-through rate (CTR) of 2% on 
+50,000 impressions. Calculate the number of clicks received. 
+ 
+UNIT I 
+ 
+Q2 
+A company wants to assess the ROI of influencer marketing. List the relevant 
+metrics to measure its success and justify the choice. 
+(10) 
+Q3 
+Explain how metrics like Click-Through Rate (CTR) and Cost Per Click (CPC) are 
+used to measure the success of digital marketing campaigns. 
+(10) 
+UNIT II 
+ 
+Q4 
+A dataset has two features: Age and Income. Explain stepwise how K-Means can 
+segment customers into clusters based on these features.  
+(10) 
+Q5 
+How can companies use CLTV to optimize their marketing spend? Provide 
+examples. 
+(10) 
+UNIT III 
+ 
+Q6 
+A study involves three attributes for a smartphone: 
+ Battery Life: 10 hours, 20 hours, 30 hours 
+ Price: ₹10,000, ₹15,000, ₹20,000 
+ Brand: Brand A, Brand B 
+How many possible combinations of product profiles can be created? List them.  
+(10) 
+Q7 
+How can conjoint analysis assist in determining the trade-offs customers are 
+willing to make? Explain using a numerical example 
+(10) 
+UNIT IV 
+ 
+Q8 
+"The company also underestimated the costs of running the digital advertising 
+campaigns. Shravan, in discussions with the agency, planned a fixed spend of 
+₹200,000 per month on advertising. The agency charged a fixed rate retainer of 
+₹100,000. The initial expectation was that PPC and Facebook advertising would 
+account for about 50 percent of the advertising costs, and the remaining 50 
+percent would be equally distributed among other channels (especially email 
+marketing). But PPC and Facebook campaigns took a substantial chunk of the 
+(10) 
+2 
+ 
+budget (approximately 75 percent), leaving little for the other channels. Despite 
+the spend, PPC did not account for much of the conversions." 
+ 
+How did Medfirst India’s budgeting for digital ads impact their overall marketing 
+performance? What could they have done to better manage their advertising 
+costs and improve their ROI? 
+Q9 
+"Karpuram reflected that insights that could have been analyzed, including 
+customer attribution channels, Google keyword searches, and campaigns, were 
+hardly touched. The company had collected extensive data on customer 
+acquisition and behavior but failed to use this information to revise their 
+marketing or optimize the website." 
+ 
+How did Medfirst India fail to capitalize on valuable insights from customer 
+attribution and Google keyword searches? What could they have done differently 
+to optimize their customer acquisition and retention strategies? 
+(10)

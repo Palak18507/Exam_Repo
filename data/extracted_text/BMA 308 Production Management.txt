@@ -1,0 +1,126 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  6th ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 308 
+Subject: Production Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO 1 and CO 
+2 Mapping 
+ 
+a) Define total productivity and give its formula? 
+ 
+ 
+ 
+b) Explain Process Layout and Product Layout? 
+ 
+ 
+ 
+c) What is chrono cycle graph? 
+ 
+ 
+ 
+d) Enlist objectives of Work Study? 
+ 
+ 
+UNIT I 
+ 
+CO 1 
+Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What are various controllable and non-controllable 
+location factors? Explain in brief? 
+ 
+ 
+ 
+b) The new Health-care facility is targeted to serve seven 
+census tracts in Delhi. The table given below shows the 
+coordinates for the centre of each census tract, along with 
+the projected populations, measured in thousands. 
+Customers will travel from the seven census tract centres 
+to the new facility when they need health-care. Two 
+locations being considered for the new facility are at (5.5, 
+4.5) and (7, 2), which are the centres of census tracts C and 
+F. Details of seven census tract centres, co-ordinate 
+distances along with the population for each centre are 
+given below. If we use the population as the loads and use 
+rectilinear distance, which location is better in terms of its 
+total load distance score? 
+ 
+S.No. 
+Census 
+Tract 
+  (x,y) 
+Population 
+(l) 
+1 
+A 
+(2.5, 4.5) 
+2 
+2 
+B 
+(2.5, 2.5) 
+5 
+3 
+C 
+(5.5, 4.5) 
+10 
+4 
+D 
+(5, 2) 
+7 
+5 
+E 
+(8, 5 
+10 
+6 
+F 
+(7, 2) 
+20 
+7 
+G 
+(9, 2.5) 
+14 
+ 
+ 
+ 
+c) Explain Cellular Layout Alon with a diagram? Also discuss 
+in short about Taylor Principle 
+ 
+ 
+ 
+UNIT II 
+ 
+CO 2 
+Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is Demand Forecasting? Explain any two qualitative 
+forecasting method? 
+ 
+ 
+ 
+b) What is method study? Explain the procedure of Method 
+Study? 
+ 
+ 
+ 
+c) Assuming that the total observed time for an operation of 
+assembling of electric swtich is 1 min. If the rating is 120%, 
+find normsl time. If an allowance of 10% is allowed, 
+determine the standard time.

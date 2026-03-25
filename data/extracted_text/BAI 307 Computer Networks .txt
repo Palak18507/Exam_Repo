@@ -1,0 +1,140 @@
+(Please write your Enrollment Number)                     Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course: Computer Networks, Semester: 5th  
+(December, 2024) 
+ 
+Subject Code: BAI 307 
+Subject: Computer Networks 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define the terms latency and capacity as applied to communication 
+channels. Is there a strict relation between the two? 
+2.5 
+CO1 
+ 
+b) A bit string 0111101111101111110, needs to be transmitted at the 
+data link layer. What is the string actually transmitted after bit stuffing? 
+2.5 
+CO2 
+ 
+c)  State and explain the design issues of OSI layers. 
+2.5 
+CO1 
+ 
+d) Explain the leaky bucket algorithm? 
+2.5 
+CO4 
+ 
+e) 4-bit data bits with binary value 1010 is to be encoded using even 
+parity Hamming code. What is the binary value after encoding? 
+2.5 
+CO2 
+ 
+f) Compare the Network layer protocols IPv4 and IPv6. 
+2.5 
+CO3 
+ 
+g)  A network on the internet has a subnet mask of 255.255.240.0. What 
+is the maximum number of hosts it can handle? 
+2.5 
+CO3 
+ 
+h) DNS uses UDP instead of TCP. If a DNS packet is lost, there is no 
+automatic recovery. Does this cause a problem, and if so, how it is 
+solved? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+The following character encoding is used in a data link protocol: 
+A: 01000111; B: 11100011; FLAG: 01111110; ESC: 11100000 
+Show the bit sequence transmitted (in binary) for the four-character 
+frame: A B ESC FLAG when each of the following framing methods are 
+used: 
+i. Character Count 
+ii. Flag bytes with byte stuffing 
+iii. Starting and ending flag bytes, with bit stuffing. 
+(4,3,3) 
+CO1 
+Q3 
+What is the throughput of the system both in Pure ALOHA and Slotted 
+ALOHA, if the network transmits 200 bits frames on a shared channel 
+of 200 Kbps and the system produces? 
+a) 1000 frames per second 
+b) 500 frames per second 
+(5,5) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain how collision handled in CSMA/CD? A 5 km long broadcast LAN 
+uses CSMA has 107 bps bandwidth and uses CSMA/CD. The signal 
+travels along the wire at 5 × 108 m/s. What is the minimum packet size 
+that can be used on this network? 
+(10) 
+CO2 
+Q5 
+An organization has granted a block of addresses starting with 
+105.8.71.0/24, organization wanted to distribute this block to 11 
+subnets as follows:  
+a) First group has 3 medium size businesses, each need 16 
+addresses.  
+b) The second group has 4 medium size businesses, each need 32 
+addresses. 
+(10) 
+CO2 
+c) The third group has 4 households, each need 4 addresses.  
+Design the sub blocks and give slash notation for each sub-block. Find 
+how many addresses have been left after this allocation. 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+ShinyNet updates the gateway routers/switch to now use weighted-fair 
+queueing. Using an unknown patented technology (or poor 
+configuration); the following weights are assigned to the flows as 
+follows: 0.2, 0.6, and 0.2 for each flow respectively. 
+a) What is the packet loss rate for each flow when using this 
+gateway with weighted fair-queueing? 
+b) Approximately how many packets does each flow have in its 
+queue? 
+(5,5) 
+CO3 
+Q7 
+Find the shortest path using Dijkstra’s Algorithm for the source node 
+‘A’ 
+ 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) What are the main components of a DNS system? 
+b) What are the differences between TCP & UDP protocols of 
+transport layer?  Why both are necessary.  
+(5,5) 
+CO4 
+Q9 
+A networking enthusiast says, “TCP does not perform well for the very 
+long, the very short, the very fast, or the very slow.” 
+a) When and why are they correct? Explain your answer clearly. 
+b) QUIC is a new transport protocol that offers many advantages 
+over TCP, it may not solve the issues the enthusiast of the last 
+question discusses. Prototyping new protocols to replace TCP 
+has proven difficult in the past. Discuss the QUIC approach to 
+this particular challenge. 
+(8,2) 
+CO4

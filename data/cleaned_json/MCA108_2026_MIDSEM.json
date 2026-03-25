@@ -1,0 +1,38 @@
+{
+  "paper_id": "MCA108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA108",
+    "subject_name": "Data Communication and Computer Network",
+    "program": "MCA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "List various connecting devices used in networking and explain any two of them.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT (CO1)",
+      "question_text": "Why is switching necessary in networking? Classify the different types of switching techniques and differentiate between circuit switching and packet switching. What are the differences between the OSI and TCP/IP reference models? List and explain the functions of the first three layers of the OSI model. What are the various types of transmission media used for data communication? Explain each type in brief.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT (CO2)",
+      "question_text": "Differentiate between ALOHA and slotted ALOHA protocols. Show the frame transmission and vulnerable time for slotted ALOHA and also derive the expression for maximum available throughput for it. An organization is granted a block of addresses with the beginning address 14.24.74.0/24. The organization needs to have 3 sub-blocks of addresses to use in its three subnets as given below: One sub-block of 123 addresses. One sub-block of 56 addresses. One sub-block of 14 addresses. Design the sub-networks and find the information about each network. What are the advantages of IPv6 over IPv4? Draw and explain the various fields in the header format of IPv4. Note: Q. 1 is compulsory.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

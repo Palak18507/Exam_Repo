@@ -1,0 +1,95 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  4) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 208 
+Subject: Thermal Engineering - II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) A two-stage reciprocating air compressor with intercooling and 
+without clearance takes in atmospheric air at 1 bar pressure and 
+delivers it at 30 bar pressure. The intercooling is perfect. 
+Determine the value of intermediate pressure at which 
+intercooling is taking place. 
+ 
+CO1 
+ 
+b) What are the functions of: (i) Impeller, and (ii) Diffuser in a 
+centrifugal air compressor? 
+ 
+CO1 
+ 
+c) Give two most important reasons for choosing Cast Iron as 
+material for the piston of an IC Engine. 
+ 
+CO2 
+ 
+d) The crankshaft of a 4-stroke SI Engine is rotating at 3000 rpm. 
+What is the speed of rotation of its cam shaft? Give proper reason 
+for your answer.  
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw the indicator diagram for a single stage reciprocating air 
+compressor without clearance and derive the expression for net 
+work done per kg of air per cycle with isothermal compression.  
+ 
+CO1 
+ 
+b). Give reasons for the following: (i) The thermal efficiency of a CI 
+engine is higher than that of an SI engine. Why? (ii) The specific 
+fuel consumption of a 2-stroke SI Engine is higher than that of a 4-
+stroke SI engine for the same power developed. Why? (ii) A 2-
+stroke engine can be made to rotate in opposite direction. How? 
+ 
+CO2 
+ 
+c) Draw a neat diagram of rocker arm mechanism for operating 
+valves of an IC Engine and name different parts of the mechanism. 
+How is sodium used for cooling exhaust valve of a large output 
+engine? 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw the inlet and outlet velocity diagrams for the impeller of a 
+centrifugal compressor with vanes curved backward considering 
+axial inlet of air and list out various velocities and angles involved 
+in the diagrams. Derive the expression for power input to the 
+impeller of such a compressor. 
+ 
+CO1 
+ 
+b) Draw the valve timing diagram for a four-stroke SI engine and 
+explain it. 
+ 
+CO2 
+ 
+c) Why is isothermal compression preferred in a reciprocating air 
+compressor? Explain with the help of p-V diagram. What are the 
+various methods for achieving isothermal compression in a 
+reciprocating air compressor?  
+ 
+CO1

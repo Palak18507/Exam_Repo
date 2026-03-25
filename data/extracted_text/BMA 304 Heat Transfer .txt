@@ -1,0 +1,172 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<6th > 
+(May, 2025) 
+ 
+Subject Code: BMA 304 
+Subject: Heat Transfer 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Assume missing data, if any 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why is thermal conductivity of metallic solids much higher than that 
+of nonmetallic solids? Give proper reason. 
+ 
+CO1 
+ 
+b) Write the General conduction equation in cylindrical coordinates 
+along with diagram and give the significance of each term appearing in 
+the equation. 
+ 
+CO1 
+ 
+c) Define effectiveness of a fin and write the expression for the 
+effectiveness of an infinitely long fin of uniform cross-section in terms 
+of its perimeter P, thermal conductivity k, heat transfer coefficient h 
+and area of cross-section Ac . 
+ 
+CO1 
+ 
+d) State Buckingham’s  theorem for dimensional analysis. 
+ 
+CO2 
+ 
+e) Define Grashof Number and write its expression. Give the units and 
+significance of each term appearing in the expression. 
+ 
+CO2 
+ 
+f) Draw the boiling curve (qvs. t
+) for water and mark different 
+regimes of boiling on it. 
+ 
+CO3 
+ 
+g) Draw the temperature variations of hot and cold fluids along the 
+lengths of a condenser and an evaporator. 
+ 
+CO3 
+ 
+h) Differentiate between Gray Body and Selective Emitter. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Derive the expression for the heat loss rate by conduction from a 
+hollow sphere heated from within  in terms of inside temperature t1, 
+outside temperature t2 (t1>t2) inside radius r1, outside radius r2 and 
+thermal conductivity k. 
+(10) 
+CO1 
+Q3 
+A furnace wall is made up of three layers of thicknesses 300 mm, 125 
+mm and 175 mm with thermal conductivities of 1.65, k and 9.2 W/m-K 
+respectively. The inside is exposed to gases at 1300oC with a convection 
+coefficient of 25 W/m2-K and the inside surface temperature is 1300oC. 
+The outside surface is exposed to air at 25oC with convective coefficient 
+of 12 W/m2-K. Determine the unknown thermal conductivity k and the 
+overall heat transfer coefficient. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Derive the generalised governing differential equation for fins in the 
+following form: 
+               
+0
+1
+2
+2
+
+
+
+
+
+
+c
+c
+c
+kA
+hP
+dx
+d
+dx
+dA
+A
+dx
+d
+    
+The symbols have their usual meanings. 
+(10) 
+CO1 
+Q5 
+A square metal plate of 0.8 m2 area and 3 mm thickness is heated 
+uniformly to a temperature of 90oC. It is then cooled by air at 20oC that 
+flows at 2 m/s over both sides parallel to the plate. Neglecting 
+(10) 
+CO2 
+temperature gradient in the plate, calculate the heat loss from both 
+sides of the plate. 
+For the plate material, = 2500 kg/m3 and Cp = 0.65 kJ/kg-K. 
+Thermophysical properties of air at 55oC are: 
+= 1.076 kg/m3 and Cp = 1008 J/kg-K, k = 0.0286 W/m-K and µ = 19.8 
+× 10-6 N-s/m2. Assume missing data, if any 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Using Buckingham’s theorem show that the data for free convection 
+may be correlated by; 
+                          
+Pr)
+,
+(Gr
+Nu
+
+
+                                
+Where Nu is the Nusselt Number, Gr is the Grashof Number and Pr is 
+the Prandtl Number. 
+(10) 
+CO2 
+Q7 
+Water enters a counter flow double pipe heat exchanger at 20oC and 
+leaves at 80oC with a flow rate of 0.42 kg/s. The water is to cool alcohol 
+(Specific heat = 2520 J/kg-K) from 110oC to 30oC. The convective 
+coefficient between the alcohol and the tube wall is 2250 W/m2-K and 
+that between the tube wall and water is 5650 W/m2-K. Presuming tube 
+wall to be thin, make calculation for the heat transfer area required. 
+Use the effectiveness-NTU method only. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Find the shape factors F11, F12, F22 and F21 for a black solid sphere 2 of 
+diameter 7 cm inside a hollow black sphere 1 of diameter 15 cm as 
+shown below.                                                                                         
+                             
+ 
+ 
+(10) 
+CO4 
+Q9 
+A black body of 1500 cm2 area has an effective temperature of 527oC. 
+Calculate: 
+(i) The total rate of energy emission 
+(ii) The wavelength of maximum monochromatic emissive power. 
+(10) 
+CO4

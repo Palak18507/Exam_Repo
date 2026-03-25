@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP109_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP109",
+    "subject_name": "History of Architecture -I",
+    "program": "<History of Architecture-I>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Mastaba at Saqqara",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Ziggurats of Ur. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Settlement of Catal Huyuk",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Water management played an important role in shaping settlement in desert region. Discuss with an example. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the significance of agriculture in the history of human civilization. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Art style of Gandhara school of sculpture. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Viharas",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Kutiya & Grama",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "The various architecture typologies of Paleolithic, and Neolithic period. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "The factors influencing ritual centres during neolithic period. The different types of Neolithic era burials. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the layout and the architectural features of Temple of Khons, Karnak with labelled plan and section. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe tomb architecture of Egypt namely the Pyramid of Giza. Draw neat sections and sketches CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write a detailed essay on the Imperial Palace of Forbidden City in China. Explain the various components of the palace complex. Illustrate your answer with suitable sketches. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How was the settlement of Mohenjadaro in Indus valley settlement planned? Explain in detail the various sections of the settlement. Draw neat plan. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain in detail the Buddhist Rock Cut Architecture describing the Chaityas and Viharas at Ajanta and Ellora. Draw neat sketches. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the form, elements and evolution of Sanchi Stupa. Draw neat sketches. CO 3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

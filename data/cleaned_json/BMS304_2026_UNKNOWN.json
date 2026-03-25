@@ -1,0 +1,94 @@
+{
+  "paper_id": "BMS304_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BMS304",
+    "subject_name": "International Business Management",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Explain the challenges faced in international business. 1 What encourages firm to internationalize? 1 What are the negative impacts of trade barriers on global business? 2 What is globalization? 2 What are the goals of competitive strategy? 3 What are the threatening moves and non-threatening moves by a corporate? 3 Explain significance of CSR for MNCs. 4 Explain any unique HR practice of Indian MNC. 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain the role of IMF and World Bank in International Business. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What is global competitive advantage, explain the factors responsible for competitive advantage. 1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the key drivers of globalization in detail. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What are the potential benefits and risks of Technology Transfer. 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "While formulating a competitive strategy, what factors should be kept in mind by any leader of an MNC? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Fragmented Strategy",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Emerging Industry",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Declining Industry 3 CO Mapping",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Discuss the risks associated with managing cultural diversity 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Suggest HR strategies to address the challenges faced by MNCs. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

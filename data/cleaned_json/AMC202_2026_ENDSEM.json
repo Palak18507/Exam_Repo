@@ -1,0 +1,121 @@
+{
+  "paper_id": "AMC202_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC202",
+    "subject_name": "Research Methodology",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define research methodology.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Illustrate any two sources used for literature review.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Mention any two types of research design.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a nominal scale? Give one example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a Type I error in hypothesis testing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "State any one method to calculate the mean and briefly explain its utility.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is plagiarism in the context of report writing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Mention any two components of a research report layout.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the steps involved in the research process with a flow diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is a hypothesis? How do you formulate a hypothesis in business research? Support your answer with example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain various types of measurement and scaling techniques used in business research.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the steps involved in designing a questionnaire. What are the characteristics of a good questionnaire?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the procedure of testing a hypothesis using t-test. Illustrate with example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is sampling? Explain different sampling techniques used in data analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the structure and layout of a standard research report.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the steps involved in writing a research report. How are citations and bibliography handled?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

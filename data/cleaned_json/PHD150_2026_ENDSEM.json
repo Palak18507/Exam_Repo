@@ -1,0 +1,119 @@
+{
+  "paper_id": "PHD150_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD150",
+    "subject_name": "ESSENTIALS OF DATA SCIENCE WITH R SOFTWARE-1:",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define a discrete random variable. Write a small R code to assign and print probabilities for rolling a fair die.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "A coin is tossed three times. List the sample space and compute the probability of getting exactly two heads.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Central Limit Theorem with a hypothetical example. Why is it important?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write an R code snippet to generate a sample of 10 values from a normal distribution and calculate mean and standard deviation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is point estimation? Mention two common estimators used in statistics.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a program to calculate a 95% confidence interval for sample mean using given mean, SD, and sample size.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write R code to perform a one-sample t-test with clearly labeled steps .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the meaning of the p-value in hypothesis testing with an example scenario.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of a random variable with suitable examples. Write an R script to simulate 100 values from a Binomial distribution and mention how the histogram would look based on the distribution properties.",
+      "marks": 0.5,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define a discrete probability distribution. Consider a random variable X representing the number of heads in two tosses of a fair coin.  Construct the probability distribution table for X.  Calculate the mean and variance of the distribution.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the Law of Large Numbers and its implication in sampling. Write a program to simulate the rolling of a fair die 500 times, calculate the running average, and explain how this demonstrates convergence.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are sampling distributions? Describe how the Central Limit Theorem applies to the sampling distribution of the mean.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define confidence intervals. Given a sample mean of 75, standard deviation of 8, and sample size of 64, computes the 95% confidence interval for the population mean. Clearly write the steps and formula involved.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss methods of point estimation for parameters. What are the maximum likelihood estimation and method of moments? Explain how you would use the sample mean as an estimator for the population mean and discuss its properties.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "State the steps involved in testing a statistical hypothesis. A sample of size 36 has a mean weight of 58 kg. The population mean is 60 kg, and the standard deviation is 6 kg. Test at 1% significance level whether the sample mean differs significantly from the population mean.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the concept of Type I and Type II errors in hypothesis testing. What are the consequences of each type of error? Provide an example of a hypothesis test with an explanation of potential Type I and Type II errors.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

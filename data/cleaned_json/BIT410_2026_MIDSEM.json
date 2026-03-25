@@ -1,0 +1,91 @@
+{
+  "paper_id": "BIT410_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT410",
+    "subject_name": "Cryptography",
+    "program": "B. Tech.",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a one-time pad, and why is it considered perfectly secure? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key features of AES that make it more secure than DES? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "A RSA cryptosystem uses two prime numbers 3 and 13 to generate the public key= 3 and the private key = 7. What is the value of cipher text for a plain text? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "how do you calculate ab mod n for large values of b 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key differences between ECB, OFB, CTR and CBC modes of encryption? 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the working of Playfair technique 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe the key expansion process in AES. What is the role of the S-box in AES encryption? 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how man-in-the-middle attacks can compromise the Diffie-Hellman Key Exchange. Suggest countermeasures to prevent such attacks. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the basic working principle of the RSA algorithm in encryption and decryption. Generate RSA keys using the prime numbers p=5, q=11 and choose e=7. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is an elliptic curve in ECC? Write its general equation and explain its significance in cryptography. What are the advantages of ECC over RSA in terms of efficiency and security? 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

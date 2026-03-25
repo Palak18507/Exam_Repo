@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAS206_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS206",
+    "subject_name": "Optimization Techniques",
+    "program": "B.Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a. Find the dimension of the vector space 3 . Also, write the standard basis for the vector space 3 . 1 b. Solve graphically the following L.P.P 2 1 6 5 Min x x Z   , s.t. constraints 50 2 1  x x , 40 2 2 1  x x and the nonnegative restrictions 0 1  x and .0 2  x 1 c. Write the dual of the following primal problem: 2 1 3 4 Max x x Z   , s.t. constraints 5 2 1  x x , 8 2 2 1  x x and 0 , 2 1  x x . 2 d. In a Branch and Bound tree, a node gives a solution 3 ,5.2 2 1   x x with objective value 22. List the two subproblems formed by branching on .5.2 1  x 2 e. Define a balanced transportation problem. Using the North-West Corner Rule, find the initial basic feasible solution for the following transportation problem: D1 D2 Supply S1 4 3 10 S2 2 1 15 S3 1 5 25 Demand 25 25 3 f. How do you convert an unbalanced assignment problem into a balanced one? 3 g. Solve the following game using mixed strategies: B1 B2 A1 1 3 A2 4 2 4 h. What is a critical path? Why is it important in project management? 4",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Apply the Big-M method to solve the following L.P.P. : 2 1 4 2 Max x x Z   s.t. constraints 18 2 2 1  x x , 30 2 3 2 1  x x , 26 2 2 1  x x and 0 , 2 1  x x . 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Let 3P be the space of all real polynomials of degree 3  . a. Find the standard basis of 3P . b. If   1 ,1 ,1 ,1 3 2     x x x B so, check whether B is a basis of 3P . 1 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Write the dual of the following problem and solve it: 2 1 2 2 Min x x Z   s.t. constraints 1 4 2 2 1  x x , 1 2 2 1  x x , 1 2 2 1  x x and 0 , 2 1  x x . 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Given the following L.P.P.: 3 2 1 2 Max x x x Z     s.t. constraints 10 3 3 2 1    x x x , 6 4 3 2 1     x x x , 4 3 2  x x and 0 , , 3 2 1  x x x . Find the separate range of 1b and 2b . 2 Subject Code: BAS 206 Subject: Optimization Techniques Time: 3 hours Maximum Marks: 60 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Solve the following assignment problem using the Hungarian Method to find the optimal assignment. What is the minimum cost of the assignment? Man Task I II III IV V A 1 3 2 3 6 B 2 4 3 1 5 C 5 6 3 4 6 D 3 1 4 2 2 E 1 5 6 5 4 3",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "Solve the following transportation problem in which cell entries represent the unit cost: To Available From 2 7 4 5 3 3 1 8 5 4 7 7 1 6 2 14 Required 7 9 18 3 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "a. Solve the following game graphically. A B I II I 2 7 II 3 5 III 11 2 b. Solve the following game whose pay-off matrix to the player A is given as B A I II III I 1 7 2 II 6 2 7 III 5 1 6 4",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT (10*1=10)",
+      "question_text": "An established company has decided to add a new product to its line. It will buy the product from a manufacturing concern, package it, and sell it to a number of distributors that have been selected on a geographical basis. Market research has already indicated the expected volume and the required size of the sales force. The steps shown in the following table are to be planned. Activity Description Predecessors Duration A Organize sales office -- 6 B Hire salesmen A 4 C Train salesmen B 7 D Select advertising agency A 2 E Plan advertising campaign D 4 F Conduct advertising campaign E 10 G Design package -- 2 H Setup packaging facilities G 10 I Package initial stocks J, H 6 J Order stock from the manufacturer -- 13 K Select distributors A 9 L Sell to distributors C, K 3 M Ship stocks to distributors I, L 5 a. Draw an arrow diagram for this project. b. Indicate the critical path. c. For each non-critical activity, find the total and free float. 4",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

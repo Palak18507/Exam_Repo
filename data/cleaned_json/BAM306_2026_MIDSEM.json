@@ -1,0 +1,74 @@
+{
+  "paper_id": "BAM306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM306",
+    "subject_name": "Computer Vision",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "1. Explain the challenges faced in Image Classification. 2. What is the significance of clustering and where it is applied in computer vision tasks. 3. Explain purpose of pooling in a CNN. You may take help of any CNN model known to you to explain your answer. 4. Write short note on any one. Loss function Metrics Data Augmentation to overcome Over fitting problem in CNN",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT- 1 Outline any three major challenges faced in computer vision with support of some practical example. List and explain any three types of Neural Networks .",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT- 2 Explain the steps involved in a KNN algorithm stating clearly the convergence condition. Explain the method used to fix the final number of centroid. Explain what is Batch Normalisation and Drop out in context of Over fitting problem. Write short Note on anyone CNN model below 1. LeNet 2. AlexNet Note: Q. 1 is compulsory. Subject: Computer Vision Subject Code: BAM- 306",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}35
+        },
+        {
+          "subpart_id": "b",
+          "text": "Outline any three major challenges faced in computer vision with support of a practical example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "List and explain any three types of Neural Networks.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the steps involved in a KNN algorithm stating clearly the convergence condition. Explain the method used to fix the final number of centroid.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain what is Batch Normalisation and Drop out in context of Over fitting problem.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write short Note on any one. LeNet AlexNet",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

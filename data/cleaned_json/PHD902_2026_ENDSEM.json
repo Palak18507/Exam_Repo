@@ -1,0 +1,119 @@
+{
+  "paper_id": "PHD902_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD902",
+    "subject_name": "Research and Publication Ethics",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A study is carried out by a researcher to determine how a novel medication affects a certain illness. The researcher completes the study, submits the manuscript to Journal A, and Journal A accepts and publishes the paper. The researcher then choose to submit the identical manuscript to Journal B without mentioning that it was already published in Journal A. Identify the concept. 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does selective reporting impact the reliability of research findings? 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between seminar, conference and workshop? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What actions can be considered as misrepresentation of data? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Is publication of translated paper ethical. Comment. 2.5 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What does COPE stand for and what is its role in promoting ethical publishing practices? 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Why is it important to address conflicts of interest in scholarly work? 2.5 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is a Digital Object Identifier and what is its purpose? 2.5 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Elaborate the peer review process. Highlight the types of peer review. What are the considerations that peer reviewer should keep in mind when conducting a peer review? 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Copyright provides legal protection to the creator of any work, thereby ensuring that any unauthorized claim or usage gets penalized. Comment and elaborate on the infringement of copyright. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the ethical considerations when conducting research with vulnerable populations? How do researchers address the potential power imbalances and ensure the protection of rights for these groups? 5",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Suppose a researcher is conducting a clinical trial to evaluate the effectiveness of a new medication for treating a certain disease. If the researcher has financial ties with the pharmaceutical company that produces the medication being tested, there is a conflict of interest. What is the role of conflict of interest in this situation? Why is it important to disclose conflicts of interest? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Dr Sinha, a renowned researcher in India, is working on a ground- breaking study in the field of biotechnology. As the study progresses, Dr. Sinha realizes that he needs additional help with data analysis and manuscript writing. Instead of acknowledging the contributions of his collaborators, Dr. Sinha decides to exclude their names from the authorship list and submit the paper as sole author. What ethical issue is presented in this case study? What are the potential consequences of Dr Sinha’s actions? How could Dr Sinha have avoided this ethical issue? What steps should be taken if ghost authorship is suspected or discovered in a research publication? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Dr Alex is investigating the long-term impact of a novel drug for patients with a particular medical condition. He finds subjects from a nearby hospital, and gets their permission to take part in the study. Dr Alex discovers that some of the participants’ personal information, such as their names and medical histories, are exposed to other participants during the data collection process. He makes the choice to ignore this problem, figuring that the participants won’t be aware of it or be impacted by it. What ethical issue is presented in this case study? What are the potential consequences of Dr Alex’s actions? How could Dr Alex have avoided this ethical issue? What steps should be taken if participant privacy is compromised in a research study? 6",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Can you explain the meaning and significance of metrics like h-index, g-index, i10 index and altmetrics in the context of research evaluation? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Why is Tuskegee Syphilis case considered unethical. Elaborate. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

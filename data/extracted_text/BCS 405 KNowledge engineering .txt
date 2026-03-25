@@ -1,0 +1,129 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech CSE, Semester: 7th 
+(December, 2024) 
+ 
+Subject Code: BCS 405 
+                                                         Subject:  Knowledge Engineering 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt all parts 
+(2.5*8
+=20) 
+ 
+a) Describe the importance of machine learning in modern knowledge 
+engineering. 
+ 
+ 
+b) State the following as a form of explicit and implicit knowledge: 
+i. 
+Recipes written in a cookbook 
+ii. 
+Driving a car 
+iii. 
+A company’s documented policies 
+iv. 
+An employee’s decision-making ability in critical situations 
+ 
+ 
+c)Explain the concept of knowledge engineering as a process and as a system for 
+the finance industry domain  
+ 
+ 
+d) For the following scenario, define the appropriate term in relation to domain, 
+application, application task, and application domain: 
+"Forecasting and mitigating the impact of cyclones on coastal infrastructure and 
+communities in South India." 
+ 
+ 
+e) What are the advantages of using a knowledge graph in knowledge 
+engineering? 
+ 
+ 
+f) What challenges are commonly faced in the knowledge acquisition process? 
+ 
+ 
+g) Explain the significance of inferencing in the context of building knowledge-
+based system 
+ 
+ 
+h) What are the different types of knowledge? Explain with the help of brief 
+example 
+ 
+UNIT I 
+ 
+Q2 
+Compare and contrast Knowledge Management and Knowledge Engineering. 
+Highlight their differences in focus, objectives, and applications with relevant 
+examples. 
+(10) 
+Q3 
+Discuss the relationship between Knowledge Engineering and Artificial 
+Intelligence. How do the principles of Knowledge Engineering enhance the 
+development of intelligent systems? 
+(10) 
+UNIT II 
+ 
+Q4 
+Consider the following facts stored in the working memory: 
+ 
+(has-fever) 
+ 
+(days-three) 
+ 
+(voice-hoarse) 
+ 
+(body-weak) 
+Explain how forward chaining and backward chaining can assist a doctor in 
+identifying whether the patient might have Influenza. Illustrate the step-by-step 
+inferencing process for each method. 
+ 
+ 
+(10) 
+Q5 
+Design a semantic network to represent the following knowledge about animals: 
+ 
+A bird is an animal. 
+ 
+Birds have feathers and can fly. 
+ 
+Penguins are birds but cannot fly. 
+ 
+Mammals are animals. 
+ 
+Mammals have fur and give birth to live young. 
+ 
+Dogs are mammals, and they bark. 
+Illustrate the semantic network diagram and explain how it captures the 
+relationships between different entities. 
+ 
+(10) 
+UNIT III 
+ 
+Q6 
+What is an Expert System? Discuss its significance in industries such as 
+healthcare, agriculture, and finance. Provide examples of its applications in these 
+domains. 
+(10) 
+Q7 
+What is knowledge conversion? Explain the SECI (Socialization, Externalization, 
+Combination, Internalization) model with examples to illustrate the process of 
+knowledge conversion. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Discuss the features and characteristics of expert systems. Using the case study 
+of MYCIN and DENDRAL, explain how expert systems are designed to solve 
+complex problems in specific domains. 
+(10) 
+Q9 
+Analyze the Indian government-led initiatives such as ArogyaSetu and UMANG as 
+expert systems. Discuss their objectives, key features, and the role they play in 
+improving citizen services and healthcare. 
+(10)

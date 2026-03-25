@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:  MBA, Semester: 4 
+(May, 2025) 
+ 
+Subject Code: MMS 286 
+Subject:  Digital Marketing Analytics 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a)  What are the owned and earned social media metrics? Explain 
+with examples. 
+ 
+CO1 
+ 
+b) Differentiate between short tail and long tail keywords. In which 
+situations are they preferred. 
+ 
+CO2 
+ 
+c) What is content audit? Why is it needed in digital marketing? 
+ 
+CO3 
+ 
+d)  Define the concept of “tipping point”. Explain the idea with the 
+help of a network example 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is the role of Google’s Page Rank in search engine analytics? 
+Explain the factors affecting Page Rank. 
+(10) 
+CO1 
+Q3 
+What is CRM? Discuss the key features of Hubspot CRM and it’s role 
+in digital marketing. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss the role of category keywords, brand keywords and 
+competitor keywords in search engine optimization. Explain with 
+examples 
+(10) 
+CO2 
+Q5 
+Discuss the importance of off-page optimization in SEO. List the 
+factors affecting off-page optimization 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the process of clustering for audience analysis using an 
+example. 
+(10) 
+CO3 
+Q7 
+How is conjoint analysis used to segment a market? Explain with 
+examples 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain Gladwell’s key ideas from the case when network is 
+constructed in a way that results in non-activation of some nodes in 
+a given network. 
+(10) 
+CO4 
+Q9 
+Evaluate the impact of service quality on e-loyalty? 
+(10) 
+CO4

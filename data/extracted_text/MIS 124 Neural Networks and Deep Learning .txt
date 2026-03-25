@@ -1,0 +1,108 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M. Tech. (Cyber Security), Semester: 2nd 
+(May, 2025) 
+Subject Code: MIS 124 
+Subject: Neural Networks and Deep Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are limitations of Perceptron? 
+2.5 
+CO1 
+ 
+b) Differentiate between Parameters and Hyper-Parameters of a 
+feedforward NN? 
+2.5 
+CO1 
+ 
+c) Define Unsupervised Learning with two relevant example. 
+2.5 
+CO2 
+ 
+d) Why should you avoid neuron saturation problem in a NN? 
+2.5 
+CO2 
+ 
+e) What do you mean by Spatial Extent in a Convolutional Neural 
+Networks?  
+2.5 
+CO3 
+ 
+f) How stride value is responsible for downsizing the output? 
+2.5 
+CO3 
+ 
+g) What are the pros of Markov Networks as a graphical learning 
+model? 
+2.5 
+CO4 
+ 
+h) Define Language Modeling in Text Processing environment. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+How a backpropagation works by gradient computation w.r.t. output 
+Units, Hidden Units and Parameters (Weights and Biases)? 
+(10) 
+CO1 
+Q3 
+How sparse values of attributes affects the weight updates process in 
+a learning algorithm? Discuss one Gradient Descent Variant each for a 
+dense and sparse attributes respectively in Neural Networks. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+How Regularization is mandated and achieved in a Neural Networks? 
+Explain with the help of L2 Regularization during Bias-Variance 
+Tradeoffs. 
+(10) 
+CO2 
+Q5 
+Write short notes on: 
+a) Better Weight Initialization Methods 
+b) Better Activation Functions 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+How convolutions operation works in a CNN? Discuss the architecture 
+of any popular CNN with parametric and hyper-parameter details.   
+(10) 
+CO3 
+Q7 
+Why Backpropagation in RNN is called Back Propagation through Time 
+(BPTT)? Explain the BPTT mathematically. Why Truncated BPTT is 
+mandated? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Why Sampling via Gibbs Sampling Method is apt for training 
+Restrictive Boltzmann Machine?  
+Explain Gibbs Sampling Method insights.  
+(10) 
+ 
+Q9 
+Write a short note on: 
+a) RBMs 
+b) Motivation for Sampling 
+(5,5)

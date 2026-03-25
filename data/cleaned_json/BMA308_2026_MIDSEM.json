@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMA308_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA308",
+    "subject_name": "Production Management",
+    "program": "B. Tech.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define total productivity and give its formula?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Process Layout and Product Layout?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is chrono cycle graph?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Enlist objectives of Work Study?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are various controllable and non-controllable location factors? Explain in brief?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "The new Health-care facility is targeted to serve seven census tracts in Delhi. The table given below shows the coordinates for the centre of each census tract, along with the projected populations, measured in thousands. Customers will travel from the seven census tract centres to the new facility when they need health-care. Two locations being considered for the new facility are at and , which are the centres of census tracts C and F. Details of seven census tract centres, co-ordinate distances along with the population for each centre are given below. If we use the population as the loads and use rectilinear distance, which location is better in terms of its total load distance score? S.No. Census Tract Population 1 A 2 2 B 5 3 C 10 4 D 7 5 E 20 7 G 14",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Cellular Layout Alon with a diagram? Also discuss in short about Taylor Principle",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Demand Forecasting? Explain any two qualitative forecasting method?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is method study? Explain the procedure of Method Study?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Assuming that the total observed time for an operation of assembling of electric swtich is 1 min. If the rating is 120%, find normsl time. If an allowance of 10% is allowed, determine the standard time.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

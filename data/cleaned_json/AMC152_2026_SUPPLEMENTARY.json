@@ -1,0 +1,101 @@
+{
+  "paper_id": "AMC152_2026_SUPPLEMENTARY",
+  "paper_metadata": {
+    "subject_code": "AMC152",
+    "subject_name": "Information Technology and Innovation Management",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "Supplementary",
+    "exam_name": "Supplementary Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define data organization. What are the common issues faced in organizing data effectively?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "List and explain the key components of the Digital India Program.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between invention and innovation with suitable examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss at least two techniques used to stimulate lateral thinking.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between a Database Management System and a file system. What are the advantages of using a DBMS?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the role of ETL in building a data warehouse.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Distinguish between e-commerce and traditional commerce with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the types of e-governance? Explain the benefits of each.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is concurrent engineering? How does it help in innovation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Compare and contrast product innovation with process innovation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define lateral thinking. How is it different from vertical thinking?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the difference between logical thinking and creative thinking with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

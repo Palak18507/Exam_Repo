@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD014_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD014",
+    "subject_name": "Wireless Communication",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a How did the evolution from 4G to 5G improved voices on internet protocol services? 2.5 b Explain the concept of “mobility” in wireless networks. Why is it important? 2.5 c What is meant by a \"handover\" in cellular systems? Briefly describe its importance. 2.5 d Why is cell capacity planning critical in mobile network design? 2.5 e What is quantization noise? How does it affect signal quality? 2.5 f What is the key idea behind packet reservation multiple access ? 2.5 g Why is OFDMA more suitable for 4G systems than FDMA? 2.5 h What is duplexing in wireless communication? How is FDD different from TDD? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of cell splitting and frequency reuse in cellular communication. How do these techniques improve cell capacity and coverage? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the roadmap for achieving higher data rate capability in 6G systems. What role does spectrum management play in this context? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Illustrate the OSI reference model and discuss its relevance in wireless data communication. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the different types of transmission impairments such as attenuation, phase distortion, and noise. How do these affect communication performance? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are random access methods? Explain the working of Pure ALOHA, Slotted ALOHA, and CSMA techniques with the help of diagrams. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the significance of spectral efficiency in wireless networks. How do multiple accesses impact overall system performance? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the main differences between wired and wireless networks in terms of design, performance, and reliability? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the characteristics and applications of wide area networks in next generation wireless communication networks. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

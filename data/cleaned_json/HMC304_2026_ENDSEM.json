@@ -1,0 +1,89 @@
+{
+  "paper_id": "HMC304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC304",
+    "subject_name": "Marketing Management",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Name any two elements of the micro marketing environment. 2.5 b What is the difference between a need and a want? 2.5 c What is a core product? Give an example. 2.5 d What is skimming price strategy? 2.5 e Define vertical marketing system . 2.5 f What is the role of a wholesaler? 2.5 g Mention any two tools of sales promotion. 2.5 h What is public relations in the context of promotion? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the importance of marketing in today’s competitive environment and differentiate between the internal and external environment. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between marketing and selling with examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the stages of the product life cycle and their marketing implications. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe any three product mix pricing strategies with examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe different types of marketing channels with examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept and strategy behind multichannel marketing. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the elements of the promotion mix? Explain each briefly.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between push and pull strategies with examples. 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the advantages and limitations of advertising as a promotional tool. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

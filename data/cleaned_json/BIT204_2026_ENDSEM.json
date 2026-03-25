@@ -1,0 +1,100 @@
+{
+  "paper_id": "BIT204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT204",
+    "subject_name": "Object Oriented Programming",
+    "program": "B.Tech (IT",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "1 Explain i) Derived and User defined data types ii) Copy constructor 2 What is Class? How function overloading can be achieved in C++? 3 Explain: i) Reading data from a file in C++ ii) Java Virtual Machine 4 Explain in Java: i) How to use and create packages ii) Default and public access specifiers in java",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a program in C++ that takes two numbers in the range from 1 to 50 from the user. It then compares these numbers against a single dimension array of five integer elements ranging in value from 1 to 50. The program displays the message NUMBERFOUND if the two inputted values are found in the array element.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Using program explain use of inline functions in C++",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "What are references,pointers and objects in C++?Create two classes Rectangleand Triangle.Create appropriate constructors and function in both classes for initializing and display the details.Use friend function to compare area of Rectangle and Triangle.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What are virtual functions in C++? Create an abstract class in C++ called UniversityEmployee and has pure virtual function called int salary to calculate the salary.Create two classes namely TeachingEmployee and NonTeachingEmployee which are inheriting the class UniversityEmployee. The salary of any employee is the sum of BasicTravelling allowance,Dearness Allowance and HRA. But theTeaching employees get an extra allowance namely Special allowance of Rs. 20,000/-.In main function create objects of these classes and show the salary of employees.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What is compile time polymorphism?Create a Class in C++ which provides representation for the concept of Time. Using operator overloading, perform the operations of unary increment of a given Time. Implement operator overloading through friend function and member function.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What is random file access in C++?How do you open a file in C++?Create a program in C++ to enter the details of the students and check if the total_marks of student is greater than 50 then save the details of student in Pass.txt else in Fail.txt.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain i) exceptional handling mechanisms in C++ and create a program to throw an exception division by zero ii) Role of scope resolution operator and using keyword in namespace.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Interface in java",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Multithreading",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What is inheritance in Java? Explain using the program its types and how to use super class constructor, variables and its methods in subclass.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

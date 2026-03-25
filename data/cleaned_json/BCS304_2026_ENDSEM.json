@@ -1,0 +1,167 @@
+{
+  "paper_id": "BCS304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS304",
+    "subject_name": "Microprocessor and Interfacing",
+    "program": "<B.Tech CSE>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are Coprocessors why they are needed? Give examples also. How the low byte flag register can be modified in 8086? Distinguish between CALL and JUMP. Draw timing diagram of IO write cycle in 8086. Explain the significance of the use of 8259. Differentiate Edge trigerred and Level triggered Interrupts with examples. Explain the need of Framing. How it is done? Justify the need of Interfacing. CO 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by microprocessor architecture and explain its operation. If a microprocessor is of 32 bit size what does it means, explain in detail.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the function of Queue. How the concept of pipelining is implemented in 8086.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Segmentation. Explain the advantage of Segmentation Scheme in 8086. Write the size of physical memory and virtual memory of 8086 microprocessor.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the function of the following pins in 8086: DT/R, DEN, ALE, TEST, READY, BHE CO Mapping",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write short note on: Loop, Flag manipulation, shift& rotate .",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is physical address in 8086. Assume the following state of 8086 microprocessor: CS = 1000H, DS = 2000H, SS - 3000H, ES = 4000H, BP = 0010H BX = 0020H, SP = 0030H, SI = 0040H, DI = 0050H. Calculate physical address for following instructions: i) MOV CX,[BX], ii) MOV AL,[BP+SI], iii) MOV CS:[BX],AL, iv) MOV AL.[BP].",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a program to add a data byte located at offset 0500H in 2000H segment to another data byte available at 0600H in the same segment and store the result at 0700H in the same segment.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the purpose of the assembler in the 8086 microprocessor? Differentiate between assembler directive and instructions in 8086. Explain any three assembler directives. CO Mapping",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Multiprocessing systems? Compare Symmetrical and Asymmetrical Multiprocessing systems.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare the features of 80386 and 80286 based on the following points: registers, clock rate, number of pins, number of instructions, modes of operations, memory management, and protection mechanism.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What does the CPU do when it receives an interrupt? How do you enable and disable interrupts in 8086?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw and Explain the Interfacing of 8259 with 8086. What is the advantage of using 8259. CO Mapping",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write the sequence of instructions required to initialize 8251A at address 80H and 81H for the configuration given below. character length-6 bits Baud rate 64 X Parity even DTR and RTS asserted Stop bit 1 Error flag reset Transmitter enable",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the functions of DMA controller? Describe the steps that take place during DMA operation.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss the process of interfacing with the 8255 programmable peripheral interface using the 8086 microprocessor, including the various modes of operation.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is DMA, why it is required. Explain Cycle stealing and Burst mode.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

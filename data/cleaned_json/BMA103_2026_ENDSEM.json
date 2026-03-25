@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMA103_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA103",
+    "subject_name": "Engineering Mechanics",
+    "program": "B.Tech",
+    "semester": 1,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Classify different system of forces with suitable examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "State laws of friction.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Polar Moment of Inertia",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the different methods are used for analyzing a perfect frame? Which one is used where?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is fixed axis rotation? Explain.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "State the D’Alembert’s Principle giving the equations.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the importance of impulse momentum method?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "State the principal of work and energy for general plane motion.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Three forces of magnitude 1,2 and √2 N are acting along the sides of a rigid triangular frame formed by the sides AB, BC and CA whose equation are represented as: - x + y = 2 , y – x = 2 and y = 1 respectively. Find the resultant of the force system and also find the equation of the line of action of the resultant.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Block A of mass 30 kg rests on block B of mass 40 kg as shown in Fig.1. Block A is restrained from moving by a horizontal rope tied at point C, what force P applied to the plane inclined at 30o with horizontal is necessary to start block B down the plane. Take coefficient of friction for all surfaces as 0.35 Fig-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A uniform lamina shown in Fig. 2 consists of a rectangle, a circle and a triangle. Determine the center of gravity of the lamina. All dimensions are in mm Fig-2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Find the moment of inertia of a T-section with flange as 150 mm × 50 mm and web as 150 mm × 50 mm about X-X and Y-Y axes through the center of gravity of the section as shown in fig.3 Fig-3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "The motion of a particle is defined by the relation x = t3 -12t2 + 36t + 30 where x is expressed in meters and t is in sec. Determine the time, position and acceleration, when v = 0.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A man of weight 70kg standing at the end of a small boat of weight 35kg fires a bullet of mass 25gm to hit a wooden block of weight 2.25kg resting on the shore. If the bullet embedded block starts moving 5m/s, determine the velocity of the boat",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Two bodies one of mass 30kg, moves with a velocity of 9m/s strikes on another body of mass 15kg, moving in the opposite direction with the velocity of 9m/s centrally. Find the velocity of each body after impact, if the coefficient of restitution is 0.8.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A cord of negligible mass is wound round the rim of a fly wheel of mass 20 kg and radius 20 cm. A steady pull of 25 N is applied on the cord as shown in Fig. 4. The flywheel is mounted on a horizontal axle with frictionless bearings. Compute the angular acceleration of the wheel. Find the work done by the pull, when 2m of the cord is unwound. Find also the kinetic energy of the wheel at this point. Assume that the wheel starts from rest. Fig.4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

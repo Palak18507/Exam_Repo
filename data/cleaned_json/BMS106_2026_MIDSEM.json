@@ -1,0 +1,37 @@
+{
+  "paper_id": "BMS106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS106",
+    "subject_name": "Macro Economics",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Define national income. 1 What is the difference between personal income and personal disposable income. 1 Explain MPS and MPC. 2 What is balanced budget multiplier? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "CO What are the major limitations of GDP concept? Explain in brief. 1 Explain how the interest rate is determined in the classical theory. 1 Explain the aggregate production function as per the classical theory of output and employment 1",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "CO Explain the condition for equilibrium in the simple Keynesian model in terms of the components of aggregate demand. 2 Briefly explain the conditions for Equilibrium Output under Simple Keynesian Model. 2 Explain the effect on equilibrium income due to a change in autonomous investment demand, as per Keynesian model. 2 Note: Q. 1 is compulsory. Subject: Macro Economics Subject Code: BMS 106",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

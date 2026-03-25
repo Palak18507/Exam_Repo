@@ -1,0 +1,78 @@
+{
+  "paper_id": "BAM304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM304",
+    "subject_name": "Neural Networks and Deep Learning",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define linear separability with an example. b A neuron receives inputs 0.8 and 0.4 with weights 0.5 and -0.7, and a bias of 0.2. Using the sigmoid activation function, calculate the neuron's output. c How does a Hopfield Network function as a content-addressable memory? d What is the Hebbian learning rule in the context of a Hebb Network? e What is data augmentation, and how does it help in improving model performance? f Distinguish between hyperparameters and parameters in a deep learning model. g What is transfer learning, and how is it useful? h What does batch normalization do during training?",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between supervised, unsupervised, and reinforcement learning methods with suitable examples.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are the similarities and differences between biological neural networks and artificial neural networks? How does a biological neuron help in designing an artificial neuron? Draw a diagram of a biological neural network.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the architecture and training algorithm of a multilayer backpropagation neural network. Why is the learning rate important in backpropagation?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the architectures of: Counterpropagation Network Adaptive Resonance Theory Network",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is overfitting and underfitting in deep learning models? Explain their causes and how they affect model performance. Discuss how L1 and L2 regularization, dropout helps in reducing overfitting.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Compare Long Short-Term Memory networks with Gated Recurrent",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is a Convolutional Neural Network ? Explain how filters and pooling work in CNNs. Describe any two popular CNN architectures.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Compare and contrast any two CNN architectures among LeNet, AlexNet, VGG-16, ResNet, and InceptionNet. Highlight their structural differences, advantages, and applications.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

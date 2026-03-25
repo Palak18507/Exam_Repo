@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS205",
+    "subject_name": "Business Ethics and CSR",
+    "program": "BBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of \"Niskama Karma\" as per Indian values. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the significance of respect for others in creating a harmonious society. 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the types of values? 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the impact of values on behavior in an organizational setting. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the environmental aspect of CSR? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How does CSR benefit the community and consumers? 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss the role of corporate governance in preventing unethical business practices. 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the purpose of a corporate governance code? 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the importance of spirituality and ethical living in achieving harmony in life. Provide examples from Indian philosophical traditions. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the values of caring and sharing. How do these values contribute to peaceful living and strong relationships? 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the significance of ethics in the management process, with examples of ethical issues faced by organizations. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the ethos of Vedanta in management and its application in the modern business world. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the models of CSR and their benefits for businesses and society. Include examples of Indian companies practicing CSR. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the challenges businesses face in implementing CSR initiatives in India. How can these challenges be overcome? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss important provisions of Company Law related to corporate governance. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the impact of corporate governance on stakeholder trust and business performance. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

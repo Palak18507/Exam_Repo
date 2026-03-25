@@ -1,0 +1,175 @@
+{
+  "paper_id": "MCA223_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA223",
+    "subject_name": "Web-Based Programming",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between the <div> and <span> tags in HTML?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is responsive design in CSS? How does it help in creating websites for different screen sizes?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between == and === in JavaScript?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How do you send an AJAX request in jQuery? Give suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the difference between “echo” and “print” in PHP?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "How does the ‘foreach’ loop work in PHP?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is a container in Bootstrap and how is it used?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "In AngularJS, what is the role of a controller?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a web page, showing an unordered list of names of all the Department names in your institution.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the significance of HTML5. What new features were introduced in HTML5 compared to older versions?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Create a webpage that displays a list of products in a grid layout using CSS. Each product should have an image, title, description, and price. Apply CSS to style the products and make the grid layout responsive.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is a JavaScript callback? How are callbacks used in asynchronous operations? Discuss the concept of callback hell and its solutions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is event handling in JavaScript? Discuss different ways to attach events to elements and the concept of event delegation using suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how forms work in PHP. How can you process form data, validate user inputs, and sanitize the data before processing it?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a PHP script to check if a given string is a palindrome.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how string manipulation works in PHP. Discuss common string functions and methods like concatenation, escaping, and formatting strings.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a PHP script to reverse a string without using any built-in PHP functions.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of a grid system in Bootstrap. How does it facilitate responsive design?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does AngularJS differ from other JavaScript frameworks, and what advantages does it provide for building dynamic web applications?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the MVC architecture in the context of Django. How does it help in organizing the code for large web applications?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key features of Ruby on Rails that make it suitable for rapid web application development?",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

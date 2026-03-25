@@ -1,0 +1,36 @@
+{
+  "paper_id": "BAP212_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP212",
+    "subject_name": "Specifications, Quantities & Estimation",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "What is Super Area? What does PAR stands for? Define Substitute item w.r.t a BOQ. What do you understand by Non-Schedule Item.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 List CPWD publications related to \"Specifications, Quantities & Estimation\" and provide a brief explanation of each? Write a detailed note on the importance of Specifications in terms of a construction project by giving suitable example. What is Method Statement? Please explain in detail with the help of an example.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 What is BOQ? Create the proforma/ Format of a BOQ for civil works of a residential project. Prepare a rough cost estimate for constructing a two-story residential building with a total built-up area of 1000 sq.m, using PAR 2019 for required data, if any) Explain various types of cost Estimates in detail. Note:  Q. 1 is compulsory.  Use of a calculator is allowed. Subject: Specifications, Quantities & Estimation Subject Code: BAP 212",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

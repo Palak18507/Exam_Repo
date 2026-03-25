@@ -1,0 +1,144 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Off Line) 
+Course Name: B. Tech: Semester: 6 
+(May, 2025) 
+ 
+Subject Code: BAI 318 
+Subject: Semantic Web 
+Time :3 Hours 
+Maximum Marks:60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Calculate the total loading time if a webpage uses 5 different resources 
+(HTML, CSS, 2 images, and JavaScript), and each resource takes 
+approximately 0.2 seconds to load over a network with 1 TCP 
+connection. 
+(Assume resources load sequentially and there’s no caching or parallel 
+download.) 
+2.5 
+CO1 
+b 
+Explain how Web 1.0 differs from Web 2.0 with suitable examples. 
+2.5 
+CO1 
+c 
+Name one Semantic Web technology that can be used in a smart city 
+project and justify your answer briefly. 
+2.5 
+CO2 
+d 
+Why is ontology important in building intelligent academic portals? 
+2.5 
+CO2 
+e 
+Why is Protégé a preferred tool for ontology modeling in research? 
+2.5 
+CO3 
+f 
+In what way can SPARQL be used to query an academic knowledge 
+graph? 
+2.5 
+CO3 
+g 
+Compare and contrast Semantic Social Networks and Web Intelligence. 
+2.5 
+CO4 
+h 
+ How Semantic Agents enhance Search Engine capabilities? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+A company has 4 departments, and each department requires a 
+separate subnetwork. The company has been allotted the IP block 
+192.168.1.0/24. 
+(a) Divide this IP block into 4 subnets using subnetting. Write the subnet 
+mask 
+and 
+IP 
+range 
+for 
+each 
+subnet. 
+ (b) For each subnet, identify: 
+● Network address 
+ 
+● Broadcast address 
+ 
+● First and last usable IPs 
+ 
+(c) Explain how the OSI model facilitates communication between 
+computers in these different subnets when a user from one 
+department accesses a website hosted in another subnet. 
+ 
+10 
+CO1 
+Q3 
+Explain the working and structure of DNS (Domain Name System). Why 
+is DNS important for Internet communication? 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the fundamental concepts and issues related to the Semantic 
+Web? Explain how XML metadata helps in achieving machine-
+understandable data with examples. 
+10 
+CO2 
+Q5 
+Assume you are designing a simple Semantic Web application for a 
+Library Management System. 
+● (a) Create a basic RDF (Resource Description Framework) 
+triple for the statement: 
+ “Book123 is written by Author456.” 
+ 
+● (b) How can metadata using XML be used to describe this 
+book’s properties (title, author, genre)? Write a sample XML 
+structure for this. 
+ 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Consider a healthcare domain where patient, doctor, and medication 
+are key entities. 
+● How will you design an ontology to represent this? 
+ 
+● Write a sample SPARQL query to retrieve all doctors 
+prescribing a particular medicine. 
+ 
+10 
+CO3 
+Q7 
+Explain the process of creating an ontology using Protégé for an online 
+bookstore. Include details like classes, properties, and individuals. Also, 
+list the benefits of using ontology in such applications. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+How does Web Data Analytics benefit from Semantic Web 
+technologies? 
+10 
+CO4 
+Q9 
+Describe the importance and working of SWOT and Chatbots in the 
+Semantic Web. 
+10 
+CO4

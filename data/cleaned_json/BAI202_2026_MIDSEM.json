@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAI202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI202",
+    "subject_name": "Computer Networks",
+    "program": "B.Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "List various Networking Devices and explain any two of them.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between “node-to-node” delivery, “host-to host” delivery and “process-to-process” delivery?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider the following message M=1010001101. Calculate the cyclic redundancy check for this message using the divisor polynomial x5+x4+x2+1.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does the Data link layer handles collisions in Ethernet networks?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the Types of Wireless Transmission Media? Explain it.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between Port address, Logical address and Physical address? Explain with an example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Contrast and compare ISO-OSI and TCP/IP models.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the working of Pure and Slotted Aloha. Derive the expression for maximum throughput in case of Slotted Aloha.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the working of Selectively Repeat ARQ with the help of a diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between IEEE 802.3, 802.4 and 802.5?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

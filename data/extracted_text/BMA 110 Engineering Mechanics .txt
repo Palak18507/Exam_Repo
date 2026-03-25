@@ -1,0 +1,113 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+                             (Course Name B.Tech.) (Semester 1st) 
+(DEC, 2024) OFF LINE mode 
+ 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+ 
+Q1 
+(2.5*8) 
+CO 
+(a) Draw the free body diagram of the sphere supported as shown in Figure 1. 
+CO1 
+(b) Define angle of repose. 
+ 
+CO1 
+(c) Locate the centroid of the lamina shown in Figure 2. 
+                                
+               
+ 
+CO3 
+(d) Use proper formula to find out whether the truss shown in Figure 3 is perfect or 
+imperfect. 
+  
+CO3 
+(e) Define the Moment of inertia and Radius of gyration. 
+Co2 
+(f) h)Explain the perfect, deficient and redundant frame. 
+Co3 
+(g) State and explain work energy principle  
+Co5 
+(h) What is relative velocity 
+Co5 
+ 
+ 
+ 
+Note: Q. 1 is compulsory.  
+Subject: Engineering Mechanics
+Subject Code: BMA 110 
+ 
+Q2 (Attempt any Two Parts )     UNIT-1  
+(5,5) 
+CO 
+(a) Two forces, P and 2P, have resultant of 260 N. If the direction of the larger force is 
+reversed and the other remains unaltered, the resultant becomes 180 N. Determine the 
+magnitude of the two forces and the angle between them. 
+ 
+CO1 
+(b) A roller of weight 800N rests on a smooth inclined plane and is kept free from rolling 
+down by a string as shown in the Figure 4. Work out tension in the string and reaction 
+at the point of contact. 
+                                        
+ 
+CO1 
+(c) A uniform ladder of mass 20 kg and length 5 m is placed against a smooth and 
+frictionless vertical wall with its lower end 3.5 m away from the wall. If the ladder is just 
+to slip, determine the coefficient of friction between the ladder and the floor. 
+ 
+CO3 
+Q3 
+ (Attempt any  Part )                          UNIT-2  
+(10) 
+CO 
+(b) Determine the moment of Inertia Ixx and Iyy of the plane area shown in Figure 5 about 
+its centroidal axes. 
+ 
+                                    
+ 
+CO4 
+(c) Determine the forces in each member of the truss loaded as shown in Figure   
+          
+ 
+CO4 
+ 
+ 
+ 
+ 
+Unit III 
+(10) 
+Q6 
+The equation of motion of a particle moving in a straight line is given by 
+s = 18t + 3t2 – 2t3 
+where s is the total distance covered from the starting point is metres at the end of t 
+seconds. 
+Find : 
+(i) the velocity and acceleration at start, 
+(ii) the time, when the particle reaches its maximum velocity and 
+(iii) the maximum velocity of the particle. 
+Co4 
+Q7 
+A wheel, rotating about a fixed axis at 20 r.p.m., is uniformly 
+accelerated for 70 seconds, during which time it makes 50 revolution. Find : (i) Angular 
+velocityat the end of this interval, and (ii) Time required for the speed to reach 100 
+revolutions perminute.  
+Co4 
+UNIT IV 
+10 
+Q8 
+A bullet of mass 180 gm and moving with a velocity of 300 m/s is fired into a block of 
+wood and it penetrates to a depth of 10 cm. If the bullet moving with the same velocity, 
+were fired into a similar piece of wood 7 cm thick, with what velocity would it emerge ? 
+Find also the force of resistance, assuming it to be uniform. 
+ 
+Co5 
+Q9 
+A link AB is moving in a vertical plane. At a certain instant, when the 
+link is inclined at 45° to the horizontal, the point A is moving horizontally at 4 m/s, while 
+B is moving vertically upwards. Find the velocity of B. 
+Co5

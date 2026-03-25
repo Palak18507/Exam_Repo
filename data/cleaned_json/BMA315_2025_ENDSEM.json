@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA315_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA315",
+    "subject_name": "Artificial Intelligence",
+    "program": "<BBA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How will you define the term Artificial Intelligence",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Expand PEAS",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Name the components of a production system",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are agents in AI?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a water jug problem, explain?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is rapid prototyping?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the advantages of Best first search Algorithm?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What do you understand by the term Intelligent vehicle?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the meaning of the term environment and explain any four types of environments",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write short notes on fuzzy logic and fuzzy sets",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define the heuristic search. Discuss benefits and short comings",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is workspace in a robot? What is the difference between end effector and gripper? What are the different types of end effectors used by the robots, Explain with examples?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the following search Technique with the help of an example. Also discuss the benefits and shortcoming of each. I. Breadth First Search. II. Depth First Search.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the algorithm for hill climbing. Also what is the difference between stochastic and steepest ascent hill climbing",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain intelligent manufacturing system with the help of an example Co4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain intelligent casting system with the help of an example Co4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B Tech : Sem: 4 
+(May, 2025) 
+ 
+Subject Code: BEC 208 
+Subject: Communication Systems 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+What is the difference between a discrete and a continuous random 
+variable? 
+ 
+CO1 
+b 
+What is the use of the Poisson distribution in communication? 
+ 
+CO1 
+c 
+What is a Markov process? How is it used in modeling systems? 
+ 
+CO3 
+d 
+Explain the concept of envelope detection in AM systems. 
+ 
+CO3 
+e 
+Why is phase locked loop (PLL) important in FM demodulation? 
+ 
+CO2 
+f 
+Explain the purpose of pre-emphasis in FM transmission. 
+ 
+CO2 
+g 
+What is the significance of multivariate Gaussian distribution? 
+ 
+CO2 
+h 
+What do you understand by coherent demodulation? 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is Bayes’ rule? Derive Bayes’ theorem for continuous random 
+variables with an example. 
+Also, define and differentiate between strict-sense stationary (SSS) and 
+wide-sense stationary (WSS) processes with examples. 
+ 
+CO1 
+Q3 
+Explain autocorrelation and cross-correlation functions for random 
+processes. What are their key properties? 
+For a WSS random process with autocorrelation function           𝑅𝑋(𝜏) =
+𝑒|𝜏|, determine the power spectral density using the Fourier transform. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the functional blocks of a basic communication system. Compare 
+analog and digital communication with respect to bandwidth, noise 
+immunity, and complexity. 
+ 
+CO2 
+Q5 
+Explain AM, SSB, and VSB modulation techniques with time and frequency 
+domain representations. 
+An AM wave has a carrier frequency of 1 MHz and a modulation index of 
+0.6. If the carrier power is 200 W, calculate the total transmitted power and 
+the power in each sideband. 
+ 
+CO3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain narrowband and wideband FM. Discuss the bandwidth 
+requirements of FM using Carson’s rule. 
+ 
+CO1 
+Q7 
+A sinusoidal signal 𝑚(𝑡) = 10 cos(2𝜋∗3 ∗103𝑡) modulates a carrier of 
+100 kHz in an FM system 𝑘𝑓= 1000 𝐻𝑧/𝑉. Calculate the frequency 
+deviation and the bandwidth using Carson’s rule. 
+ 
+CO2, CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain thermal noise, shot noise, and white noise. What are their effects 
+in communication systems? 
+ 
+CO2 
+Q9 
+Define noise equivalent bandwidth and noise figure. How are they 
+important in receiver design? 
+A receiver has a noise figure of 5 dB and bandwidth of 100 kHz. Compute 
+the equivalent noise temperature. 
+ 
+CO3

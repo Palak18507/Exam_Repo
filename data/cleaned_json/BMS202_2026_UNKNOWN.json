@@ -1,0 +1,99 @@
+{
+  "paper_id": "BMS202_2026_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BMS202",
+    "subject_name": "BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
+    "program": "B.Tech",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define self-confidence and how it contributes to ethical decision- making",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between personal values and professional values?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between CSR and corporate philanthropy",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of a Code of Corporate Governance?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the conceptual framework of Purusharth and explain how it can guide ethical decision-making in business..",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "“Respect for others, caring, sharing, and character form the foundation of a healthy work environment.” Discuss with suitable examples from real-life organizations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the values typically observed in Indian managers. How do these reflect cultural and traditional ethos?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Elaborate on the ethical decision-making process. What factors influence an individual’s ability to make ethical decisions in a corporate setting?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the provisions of the Consumer Protection Act and analyze its role in enforcing responsible business conduct.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Provide an overview of CSR in India, including legal mandates under the Companies Act, 2013, and examples of companies successfully implementing CSR initiatives.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the main principles of Corporate Governance and explain how they promote ethical business conduct.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How do regulatory bodies enforce corporate governance standards? Illustrate with a relevant case.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

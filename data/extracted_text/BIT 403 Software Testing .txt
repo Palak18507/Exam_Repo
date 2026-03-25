@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<BIT-403>, Semester:<7th semester> 
+(December, 2024) 
+ 
+Subject Code:BIT-403 
+Subject: Software Testing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=2
+0) 
+ 
+a) What is scaffolding? Why do we use stubs and drivers during unit testing? 
+ 
+ 
+b) Write a program to determine whether a number is even or odd. Draw the 
+program graph and DD path graph. Find the independent paths. 
+ 
+ 
+c) Show with the help of an example that a very high level of statement coverage 
+does not mean that the program is defect-free. 
+ 
+ 
+d) Explain SDD verification used in Software testing. 
+ 
+ 
+ 
+ 
+UNIT I 
+ 
+Q2 
+a) Write a program to add two digit integers. Can we test the program completely? 
+If so, how many test cases are required? 
+b) What are the limitations of testing? Who should do the testing of the software?  
+What should we test? Explain the areas which should be focused on during testing. 
+(5,5) 
+Q3 
+a) What are the various levels of testing? Explain the objectives of every level. Who 
+should do testing at every level and why? 
+b) Explain the Static and Dynamic testing. 
+(5,5) 
+UNIT II 
+ 
+Q4 
+Consider the program to find the addition of three numbersThe input is a triple of 
+positive integers (say x, y and z) and values are from interval [100,500]. Generate 
+boundary, robust and worst-case test cases. Explain limitations of Boundary Values 
+Analysis Testing 
+(10) 
+Q5 
+Differentiate between black box and white box testing. Consider a program to find 
+the smallest number amongst three numbers. Generate test cases using one black 
+box testing and one white box testing technique. 
+(10) 
+UNIT III 
+ 
+Q6 
+a)Explain an algorithm in regression testing for the prioritization of test cases  
+b) How is object oriented testing different from procedural testing?. 
+(7,3) 
+Q7 
+a)Explain the various steps of the regression testing process and Compare 
+regression testing with development testing 
+b) What is class testing? What are various issues related to class testing? 
+(5,5) 
+UNIT IV 
+ 
+Q8 
+a) Describe various verification methods and differentiate between verification 
+and validation. 
+b) Explain the issues which must be addressed by the SRS document checklist. 
+(5,5) 
+Q9 
+a) What is debugging? Explain any two debugging techniques 
+b) What should we measure during testing? Explain different Metrics used in 
+Testing. 
+(5,5)

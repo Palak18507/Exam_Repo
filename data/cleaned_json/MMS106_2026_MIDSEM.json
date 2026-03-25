@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS106_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS106",
+    "subject_name": "Business Research Methods",
+    "program": "MBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the meaning of research?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distinguish between null and alternate hypothesis?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Compare cross-sectional and longitudinal designs?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain any five extraneous variables in causal research?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the steps in marketing research process.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the procedure of hypothesis testing.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is research design? What are the major classifications of research design?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain various comparative scaling techniques.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are projective techniques? What are the four types of projective techniques?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the major steps followed in questionnaire design?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

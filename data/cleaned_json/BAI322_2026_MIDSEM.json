@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAI322_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI322",
+    "subject_name": "Data Warehousing and Business Intelligence",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does a data warehouse enhance decision-making and business intelligence?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key advantages of using a data warehouse over a traditional database system for analytical processing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why is data pre-processing important in the data warehousing process, and what key techniques are involved?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the primary objectives of dimensional modeling, and how does it contribute to effective data analysis?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key components of a data warehouse, and how do they contribute to its overall functionality?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are information packages in data warehousing, and how do they support business intelligence and decision-making?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the different types of metadata, and how do they facilitate data management and decision-making processes?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do OLAP models vary, and what are the key differences between MOLAP and ROLAP ?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key OLAP operations, such as drill-down, roll-up, slice-and-dice, and pivot, and how do they enhance data analysis?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How do the STAR schema and Snowflake schema differ in the context of dimensional modeling?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

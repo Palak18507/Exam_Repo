@@ -1,0 +1,57 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech) (Semester:  2     ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MAI 102 
+Subject:   Advanced Machine Learning  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What is machine learning algorithm. Explain its categories 
+ 
+ 
+b) Differentiate between Lasso regression and Ridge regression. 
+ 
+ 
+c) Explain data preprocessing with the steps involved. 
+ 
+ 
+d) What is SVM. Describe its linear and Nonlinear case. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Define Principal Component Analysis. Write its advantages and 
+disadvantages. 
+ 
+ 
+b) Explain different types of Ensemble learning in detail. 
+ 
+ 
+c) Explain any four data augmentation techniques to deal with class 
+imbalance. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Describe in detail the popular techniques of feature selection. 
+ 
+ 
+b) What are the characteristics of data cleaning. Explain common data 
+cleaning task. 
+ 
+ 
+c)Explain the ID 3 and CART algorithm in detail.

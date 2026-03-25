@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP211_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP211",
+    "subject_name": "THEORY OF DESIGN - I",
+    "program": "<B. ARCH.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by need assessment in an Architectural Project? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you understand by the perceptual effects of a Sphere? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the role of politics in Architecture? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "what is the social purpose of Architecture? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Contemporary Architecture? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define Enclosure as an internal, external or continuous space. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the attributes of Contemporary Architecture? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What do you understand by indoor-outdoor connect in Architecture? CO 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What do you understand by Functional, Aesthetic and Psychological Context in Architecture? CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define with examples Gestalt ideas of visual perception? CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define any three elements of Form and Space with illustrative examples. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What do you understand by the Perceptual effects of geometric forms and architectural spaces? Give suitable graphical examples to explain it. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Architecture as a socially useful discipline in terms of ideology and function? CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is the concept of measuring the relationship of architecture to Science? Explain using objects of daily life. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Compare the works of A national and An international Architect in terms of Philosophy, theory and contextual Delivery. CO 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What principles of Contemporary architecture corelate to your definition of principles of Design? CO 2",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

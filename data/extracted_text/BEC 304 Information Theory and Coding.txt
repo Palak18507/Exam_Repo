@@ -1,0 +1,69 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.(ECE)) (Semester:   6    ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 304 
+Subject: Information Theory and Coding  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Define BSC,BEC 
+ 
+ 
+b) What do you mean by perceptual coding 
+ 
+ 
+c) Discuss various entropies. 
+ 
+ 
+d)Explain the term- Kraft Mc Millan inequality 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Find the code words occurring in the probability { 0.30, 
+0.25,0.15,0.10,0.12,0.08} for symbols S1 , S2, S3 ,S4,S5 and S6. Find 
+Efficiency also. Solve it By (Shanon Fanno Coding) 
+ 
+ 
+b)The source emits five messages with probabilities P(x 1 )= 0.7, P(x 2 )= 0.3, 
+P(x 3 )=0.4,P(x 4)=0.6 P(x 5 )=0.8 
+Calculate-: 
+i. Source Entropy 
+ii. Redundancy 
+iii. Maximum Entropy 
+ 
+ 
+c) Explain the term-: 
+a)Channel Capacity 
+b)Shannon Limit 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Alphabet with probabilities {0.4,0.2,0.2,0.1,0.1} for {S1,S2,S3,S4,S5}.Solve 
+it by Huffman Coding. Find-: 
+i. 
+Efficiency 
+ii. 
+Variance 
+ 
+ 
+b) Consider 3 letters S= { 1,2,3 } where as the probabilities are P(1)= 0.5, 
+P(2)=0.4 P(3)=0.6, Encode ‘1332’ .Solve it by arithmetic coding 
+ 
+ 
+c) Explain the term Channel Vocoder with a proper diagram.

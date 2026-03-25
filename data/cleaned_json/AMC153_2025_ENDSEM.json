@@ -1,0 +1,78 @@
+{
+  "paper_id": "AMC153_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC153",
+    "subject_name": "BUSINESS COMMUNICATION",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are the skills required to become a good speaker? What are the different approaches to writing business letters? What are the types of listening and barriers to effective listening? What is the importance of non-verbal communication and how it can be improved? What is the relevance of cross cultural communication? What is the role and importance of communication in business? What are the ethical aspects of business communication? What are the steps for skillful business writing and its importance and types? CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "What is the process of communication? Describe any four Models of Communication.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Describe the 7Cs of Communication and the barriers to effective communication CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is a group discussion and its types and the purpose of conducting it?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What is the structure of corporate communication and its forms and importance? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What is report writing and its classification? Describe the essentials of a good report in detail",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Describe in detail the various types of business letters? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are the different types of non-verbal communication? Describe in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Describe in detail the importance and elements of body language",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

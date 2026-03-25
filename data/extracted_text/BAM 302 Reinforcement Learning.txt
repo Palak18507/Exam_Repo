@@ -1,0 +1,145 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name : B. Tech. IT(AIML) ) (Semester :  6 ) 
+(March 2025) OFF LINE mode 
+Subject Code: BAM 302 
+Subject: Reinforcement Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Calculators are permitted  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is the Principle of Optimality in Dynamic Programming? 
+Explain with an example. 
+ 
+CO1 
+ 
+b) Explain On-Policy TD method with its update rule. How does it 
+differ from Off-Policy TD method? 
+ 
+CO2 
+ 
+c) Consider a Markov chain with three states 𝑆1, 𝑆2, 𝑆3 and the 
+following transition matrix: 
+[
+0.6
+0.3
+0.1
+0.5
+0.4
+0.1
+0.2
+0.5
+0.3
+] 
+If the system starts in state 𝑆1, find the state probabilities after 
+two steps. 
+ 
+CO1 
+ 
+d) Explain the mathematical formulation and exploration-
+exploitation trade-off in the K-Armed Bandit Problem. 
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Compare the First-Visit and Every-Visit Monte Carlo methods. 
+Compute the action-value function by using Every-Visit Monte 
+Carlo method for the following episodes. 
+Episode States& Actions 
+Rewards 
+1 
+(𝑆1, 𝑅) →(𝑆1, 𝐿) →(𝑆2, 𝑅) →(𝑆1, 𝐿) 
+3,2,4,5 
+2 
+(𝑆2, 𝐿) →(𝑆1, 𝑅) →(𝑆2, 𝑅) 
+6,7,1 
+ 
+ 
+CO2 
+ 
+b) Explain the Bellman Expectation and Optimality Equations for 
+state-value function and action-value function of a MDP. What are 
+their significance in Reinforcement learning?  
+ 
+CO1 
+ 
+c) A robot navigates in a 3-state environment 𝑆1, 𝑆2, 𝑆3 where it 
+can take an action to move between states. The transition 
+probabilities and rewards are given below. 
+State 
+Action 
+Next State Probabilities 
+Reward 
+𝑆1 
+Move Right 
+70%→𝑆1,30%→𝑆2 
++4 
+𝑆1 
+Move Left 
+100%→𝑆1 
+0 
+𝑆2 
+Move Right 
+60%→𝑆1, 40% →𝑆2 
++6 
+𝑆2 
+Move Left 
+100%→𝑆2 
++2 
+𝑆3 
+Stay(Goal) 
+100%→𝑆3 
+0 
+ 
+CO1 
+Find the optimal state values and Optimal Policy by Value 
+Iteration method(till 3 iterations). (Note: 𝛾= 0.9) 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) An agent moves in a 3-state environment 𝑆1, 𝑆2, 𝑆3 . Use TD(λ) 
+learning with eligibility traces to estimate the value function V(S) 
+for the episode: (𝑆1, 5) →(𝑆2, 3) →(𝑆3, 2), Note: 𝛾=0.9, 𝛼= 0.1, 
+𝜆=0.8 
+ 
+CO2 
+ 
+b) Explain the difference between TD(0), TD(1), and TD(λ). 
+Describe the role of eligibility traces in TD(λ) learning. 
+ 
+CO2 
+ 
+c) Consider a MRP with the state space 𝑆= {𝑠1, 𝑠2, 𝑠3} The 
+transition probability matrix and reward function are given as: 
+𝑃= [
+0.6
+0.3
+0.1
+0.5
+0.4
+0.1
+0.2
+0.5
+0.3
+] 
+𝑅(𝑠1) = 6, 𝑅(𝑠2) = 4, 𝑅(𝑠3) = 2, with 𝛾=0.9. Solve for the state 
+values 𝑉(𝑠1), 𝑉(𝑠2), 𝑉(𝑠3) using Bellman equations. 
+ 
+CO1

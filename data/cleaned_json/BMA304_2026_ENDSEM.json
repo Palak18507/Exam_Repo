@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA304",
+    "subject_name": "Heat Transfer",
+    "program": "<B.Tech.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why is thermal conductivity of metallic solids much higher than that of nonmetallic solids? Give proper reason.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write the General conduction equation in cylindrical coordinates along with diagram and give the significance of each term appearing in the equation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define effectiveness of a fin and write the expression for the effectiveness of an infinitely long fin of uniform cross-section in terms of its perimeter P, thermal conductivity k, heat transfer coefficient h and area of cross-section Ac .",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "State Buckingham’s  theorem for dimensional analysis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define Grashof Number and write its expression. Give the units and significance of each term appearing in the expression.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Draw the boiling curve for water and mark different regimes of boiling on it.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Draw the temperature variations of hot and cold fluids along the lengths of a condenser and an evaporator.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Differentiate between Gray Body and Selective Emitter.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Derive the expression for the heat loss rate by conduction from a hollow sphere heated from within in terms of inside temperature t1, outside temperature t2 inside radius r1, outside radius r2 and thermal conductivity k.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A furnace wall is made up of three layers of thicknesses 300 mm, 125 mm and 175 mm with thermal conductivities of 1.65, k and 9.2 W/m-K respectively. The inside is exposed to gases at 1300oC with a convection coefficient of 25 W/m2-K and the inside surface temperature is 1300oC. The outside surface is exposed to air at 25oC with convective coefficient of 12 W/m2-K. Determine the unknown thermal conductivity k and the overall heat transfer coefficient.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Derive the generalised governing differential equation for fins in the following form: 0 1 2 2       c c c kA hP dx d dx dA A dx d The symbols have their usual meanings.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A square metal plate of 0.8 m2 area and 3 mm thickness is heated uniformly to a temperature of 90oC. It is then cooled by air at 20oC that flows at 2 m/s over both sides parallel to the plate. Neglecting temperature gradient in the plate, calculate the heat loss from both sides of the plate. For the plate material, = 2500 kg/m3 and Cp = 0.65 kJ/kg-K. Thermophysical properties of air at 55oC are: = 1.076 kg/m3 and Cp = 1008 J/kg-K, k = 0.0286 W/m-K and µ = 19.8 × 10-6 N-s/m2. Assume missing data, if any",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Using Buckingham’s theorem show that the data for free convection may be correlated by; Pr) ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Water enters a counter flow double pipe heat exchanger at 20oC and leaves at 80oC with a flow rate of 0.42 kg/s. The water is to cool alcohol from 110oC to 30oC. The convective coefficient between the alcohol and the tube wall is 2250 W/m2-K and that between the tube wall and water is 5650 W/m2-K. Presuming tube wall to be thin, make calculation for the heat transfer area required. Use the effectiveness-NTU method only.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Find the shape factors F11, F12, F22 and F21 for a black solid sphere 2 of diameter 7 cm inside a hollow black sphere 1 of diameter 15 cm as shown below.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A black body of 1500 cm2 area has an effective temperature of 527oC. Calculate: The total rate of energy emission The wavelength of maximum monochromatic emissive power.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

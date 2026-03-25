@@ -1,0 +1,168 @@
+1 
+ 
+(Please write your Enrollment Number)                     Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: BBA, Semester: 5 (Reappear) 
+(December, 2024) 
+ 
+Subject Code: AMC 301 
+Subject: Operations Research 
+Time: 3 Hours 
+Maximum Marks: 60 marks 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO 
+Mapping 
+ 
+a) Enumerate with brief description some of the techniques of Operations 
+Research. 
+CO1 
+ 
+b) Describe the importance of OR in decision-making process. 
+CO1 
+ 
+c) Under what conditions can linear programming be used for optimization 
+problems? 
+CO2 
+ 
+d) State advantages and limitations of linear programming. 
+CO2 
+ 
+e) What do you mean by an unbalanced transportation problem and explain 
+how to convert the unbalanced transportation problem into a balanced one. 
+CO3 
+ 
+f) Explain the difference between a transportation problem and an assignment 
+problem. 
+CO3 
+ 
+g) Construct the network for the project whose activities and their relationships 
+are as given below:  
+Activities: A, D, E can start simultaneously; B, C > A; G, F > D, C; H > E, F   
+(5 marks) 
+CO4 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+List any three operations research techniques and state in what 
+conditions they can be used. 
+(10) 
+CO1 
+Q3 
+Explain various types of OR models and indicate their application 
+top production, inventory and distribution systems. 
+(10) 
+CO1 
+UNIT II 
+(10 marks 
+each) 
+CO 
+Mapping 
+Q4 
+A dairy feed company may purchase and mix one more of the three types of 
+grains containing different amounts of nutritional elements. The data is given in 
+the Table below. The production manager specifies that any feed mix for his 
+livestock must meet at least minimal nutritional requirements, and seeks the 
+least costly among all such mixes. 
+One unit weight of 
+Min 
+Requirements 
+ 
+Item Grain1 
+Grain2 
+Grain3 
+ 
+Nutritional 
+Ingredients 
+A 
+2 
+3 
+7 
+1250 
+B 
+1 
+1 
+0 
+250 
+C 
+5 
+3 
+0 
+900 
+Cost/Unit 
+D 
+6 
+25 
+1 
+232.5 
+Weight (Rs.) 
+ 
+41 
+35 
+96 
+ 
+ 
+Analyse the situation to recognise the key decision objective, alternatives and 
+restrictions. Formulate a linear programming model for the problem. 
+CO2 
+2 
+ 
+Q5 
+Apply simplex method to solve the following LPP 
+                  Maximise z = 30 x1 + 23x2 + 9x3, 
+subject to  
+                6x1 + 5x2 + 3x3 ≤ 26, 4x1 + 2x2 + 5x3 ≤ 7, every xj ≥ 0 
+CO2 
+UNIT III 
+(10 marks 
+each) 
+CO 
+Mapping 
+Q6 
+Goods have to be transported from factories F1, F2, F3 to warehouses W1, W2, 
+W3 and W4. The transportation cost per unit, capacities and requirement of the 
+warehouses are given in the Table. 
+ 
+Find the distribution with minimum cost. Obtain an Initial Basic Feasible Solution 
+to the following transportation problem. 
+CO3 
+Q7 
+Explain Hungarian – Method and the Steps involved in this method. 
+ 
+CO3 
+UNIT IV 
+(10 marks 
+each) 
+CO 
+Mapping 
+Q8 
+Explain difference between PERT and CPM for Project Management and give 
+suitable examples for both. 
+ 
+CO4 
+Q9 
+Given the following information: 
+Activity 
+0-1 1-2 1-3 2-4 2-5 3-4 3-6 4-7 5-7 6-7 
+Duration (in days) 2 
+8 
+10 
+6 
+3 
+3 
+7 
+5 
+2 
+8 
+ 
+a)  Draw the arrow diagram. 
+b) Identify the critical path and find the total project duration. 
+c) Determine total, free and independent floats.  
+CO4

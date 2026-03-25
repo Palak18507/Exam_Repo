@@ -1,0 +1,104 @@
+{
+  "paper_id": "PHD110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD110",
+    "subject_name": "Reinforcement Learning",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the effect of optimistic initial action-value estimates on the 10- armed testbed. Is the method biased? Give reasons. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the actions, states and rewards, if we apply reinforcement learning to the following case study: Pick-and-Place Robot: To control the motion of a robot arm in a repetitive pick-and-place task Bioreactor: To determine moment-by-moment temperatures and stirring rates for a bioreactor 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define the following : Policy improvement Policy evaluation 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the two distinct approaches to planning: State-space planning and plan space planning with reference to Artificial Intelligence. 5",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are action critic methods? Explain. 5",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Differentiate between ε-greedy methods, UCB Methods, Gradient Bandit methods. Draw a graph showing parameter study over 1000 steps for the Bandit Algorithms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are the four main sub-elements of a reinforcement learning system other than agent and environment? Give an example of re-enforcement learning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How Dynamic programing is different from Temporal differences methods? Explain in a neat tabular form.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define a finite Markov Decision Process. Explain Agent-Environment interface in an MDP.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Feature Construction for Linear Parameterization Methods.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are Eligibility traces? What are the advantages of Eligibility traces? Explain any one Eligibility trace method.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is Hierarchical Reinforcement Learning? What are its key components? How is it advantageous over traditional RL approaches?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are policy gradient methods? Explain REINFORCE: Monte Carlo-based policy gradient algorithm.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

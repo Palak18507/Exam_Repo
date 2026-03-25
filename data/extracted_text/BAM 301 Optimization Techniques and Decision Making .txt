@@ -1,0 +1,158 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH, Semester:5th 
+(December, 2024) 
+ 
+Subject Code:  BAM 301   
+Subject: Optimization Techniques and Decision Making 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) State associated Issues with Iterative Methods. 
+2.5 
+1 
+ 
+b) What are the complementary slackness conditions? 
+2.5 
+1 
+ 
+c) Explain Curvature Analysis. 
+2.5 
+2 
+ 
+d) State disadvantages of Newton’s Method. 
+2.5 
+2 
+ 
+e) What is Bias-Variance tradeoff? 
+2.5 
+3 
+ 
+f) Differentiate overfitting and underfitting. 
+2.5 
+3 
+ 
+g) What are the "positive ideal solution" and "negative ideal solution" 
+in the TOPSIS method? 
+2.5 
+4 
+ 
+h) What is the role of the kernel in Support Vector Machines? 
+2.5 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+The manager of an oil refinery must decide on the optimal mix of two 
+possible blending processors of which the input and output 
+production runs as follows- 
+Process 
+Input 
+Input 
+Output 
+Output 
+ 
+Crude A 
+Crude B 
+Gasoline X 
+Gasoline Y 
+1. 
+6 
+4 
+6 
+9 
+2. 
+5 
+6 
+5 
+5 
+The maximum amounts available of Crude A and B are 250 units and 
+200 units respectively. Market demand shows that atleast 150 units of 
+Gasoline X & 130 units of Gasoline Y must be produced. The profits 
+per production run from Process 1 & Process 2 are Rs.4 and Rs.5 
+respectively. Formulate the problem for maximizing the profit. 
+(10) 
+1 
+Q3 
+Minimize the quadratic function using Steepest Descent Method. 
+f(x)=x2+4x+4 
+(10) 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the concept of lagrange variables. Find minimum value of the 
+objective function f(x,y)=x2+y2  
+subject to: x+y=1, using Lagrange variables method. 
+(10) 
+2 
+Q5 
+What is the advantage of the Quasi Newton Method over  Newton 
+Method? Minimize the function using the Quasi Newton Method. 
+f(X)=x2+2x+1 
+starting from an initial guess of x0=0 and Take α=1. 
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain K Nearest Neighbors Algorithm with an example. 
+(10) 
+3 
+Q7 
+Define Prescriptive Analytics? What are its types and differentiate 
+between them? 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain k-means algorithm. For the given data, compute two clusters 
+using K-means algorithm for clustering where initial cluster centers 
+are (1.0, 1.0) and (5.0, 7.0). Execute for two iterations. 
+Record No 
+R1 
+R2 
+R3 
+R4 
+R5 
+R6 
+R7 
+A 
+1 
+1.5 
+3 
+5 
+3.5 
+4.5 
+3.5 
+B 
+1 
+2 
+4 
+7 
+5 
+5 
+4.5 
+ 
+(10) 
+4 
+Q9 
+(a) What is a Markov Decision Process (MDP), and why is it important 
+in reinforcement learning? 
+(b) What is reinforcement learning? Write its applications.  
+(10) 
+4

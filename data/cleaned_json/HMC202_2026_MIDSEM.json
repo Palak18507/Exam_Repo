@@ -1,0 +1,101 @@
+{
+  "paper_id": "HMC202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC202",
+    "subject_name": "Disaster Management",
+    "program": "B. Tech",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Analyze the factors contributing to urban flooding and propose mitigation measures to reduce the risk in densely populated areas.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the environmental and socio-economic impacts of a major landslide, outlining strategies for post-disaster rehabilitation and reconstruction.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Address the role of various stakeholders like government agencies, NGOs, local communities, and the private sector in disaster management.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Consider the ethical and social dimensions of disaster management, including issues of equity and vulnerability.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the pre-disaster and post disaster stages?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of mitigation in disaster management?",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the terms in detail -:",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "a",
+          "text": "Rehabilitation",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Resilience",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Bhopal gas Tragedy",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "When did the Bengal Famine occur? Who is considered primarily responsible for the Bengal Famine? Explain it in detail",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What caused the Bhuj Earthquake ,discuss in brief.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

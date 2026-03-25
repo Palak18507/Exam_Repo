@@ -1,0 +1,117 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: B. Arch, Semester: VII 
+(December, 2024) 
+ 
+Subject Code: BAP 407 
+Subject: Advanced Building Services-VII 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Calculators are 
+allowed for solving this Question Paper. 
+ 
+Q1 
+Answer ALL the following questions. Please answer each question in not more than 
+FIVE lines with figures wherever necessary 
+(2.5*8=20) 
+ 
+a) Write the purpose of the following in a ‘Fire Safety Door’ (i) Intumescent strip (ii) 
+Self-closing spring mechanism  
+2.5 
+ 
+b) What is ‘Piston Effect’ in high-rise elevator systems? Write a short note on how to 
+address this issue in design of high-rise elevators?  
+2.5 
+ 
+c) What is a Paternoster Parking System? 
+2.5 
+ 
+d) Write full forms for these abbreviations: (i) LPG (ii) CNG (iii) LNG (iv) GHG (v) BOD     
+2.5 
+ 
+e) What is ‘Source Segregation’ in Solid Waste Management? Mention the 
+recommended colour coding as per The Solid Waste Management Rules, 2016 by 
+MoEFCC 
+2.5 
+ 
+f) Fill in the blanks: (i) BOD is a measure of the level of pollution due to _____ 
+pollutants (ii) Full form of DEWATS is _______ (iii) A BOD to COD ratio close to 1 
+implies _____ (low or high) biodegradability of the pollutants in a given sewage 
+sample  
+2.5 
+ 
+g) What are the two types of ‘Field Devices’ used in Building Automation System? 
+Write a short note on these two types. 
+2.5 
+ 
+h) Write full forms for these abbreviations: (i) ECBC (ii) HVAC (iii) BEE (iv) TR (v) EER 
+(answer iv and v in the context of air-conditioning) 
+2.5 
+UNIT I 
+ 
+Q2 
+(a) Mention any FOUR important guidelines/standards (as per NBC 2016) for design 
+of ‘Refuge Area’ in High-rise buildings. (4 Marks) 
+(b) A high-rise building (Business Occupancy – Occupant Load Factor of 10 
+m²/person) has a height of 45 meters with 3 meter floor-to-floor height. The floor 
+area on each floor is uniform throughout the building and is equal to 1000 m² at 
+each floor. List down the minimum required refuge areas (in sqm) and all their 
+corresponding floor levels. Consider relevant guidelines as per NBC 2016. (6 Marks) 
+(10) 
+Q3 
+Write the definitions of the following and mention their respective measurement 
+units: (i) Luminous Flux (ii) Luminous Intensity (iii) Illuminance (iv) Light Power 
+Density 
+(10) 
+ 
+2 
+ 
+UNIT II 
+ 
+Q4 
+Write a brief note on any FIVE types of Automated Parking Systems explaining their 
+main features/functions. 
+(10) 
+Q5 
+Answer the following questions in around FOUR lines each:  
+(a) What is Biogas and mention few suitable raw materials for Biogas production.  
+(b) Which process is used in Biogas production (Aerobic/Anaerobic)? Write the 
+definition of the process. 
+(c) Mention the major gases released during Biogas production 
+(d) Is Biogas Renewable/Non-renewable source of energy. Give two examples for 
+each – renewable & non-renewable energy sources. 
+(10) 
+UNIT III 
+ 
+Q6 
+(a) What are the 3Rs in Solid Waste Management (in correct sequence)? (2 Marks)  
+(b) Describe the sequence of steps in ‘Solid Waste Management’ from ‘Source 
+Segregation’ to ‘Disposal & Landfills’. (8 Marks)   
+(10) 
+Q7 
+(a) Fill in the blanks: (3 Marks) (From ii to vi select either aerobic or anaerobic) 
+(i) Ideal cross-section shape for combines sewers is _______  
+(ii) Tricking filters used in wastewater treatment is _______ process  
+(iii) Septic Tank is an example for _____ treatment process  
+(iv) Imhoff Tank is an example for _____ treatment process 
+(v) UASB reactor in wastewater treatment is ______ process  
+(vi) Velocity in a sewer should be ______ than self-cleansing velocity (greater or 
+lower) 
+(b) Describe the sequence of steps in ‘Wastewater Treatment’ from ‘Screening’ to 
+‘Digestion of Sewage Sludge’. (7 Marks) 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain in detail what is Integrated Building Management system? 
+ 
+(10) 
+Q9 
+(a) Explain what is ‘Building Energy Analysis’? (8 Marks) 
+(b) Mention any TWO BEE Approved Compliance Software used for Daylighting 
+Analysis (as per ECBC) (2 Marks) 
+(10)

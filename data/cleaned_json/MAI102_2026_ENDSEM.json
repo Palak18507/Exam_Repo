@@ -1,0 +1,100 @@
+{
+  "paper_id": "MAI102_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MAI102",
+    "subject_name": "Advanced Machine Learning",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are machine learning algorithms? Discuss the different categorizes of ML algorithms in detail.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Difference between active learning and reinforcement learning.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain data augmentation techniques for imbalanced dataset.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the three types of clustering method? Describe each method in detail.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss sampling in brief. Elaborate about the methods and types of sampling.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is feature selection in machine learning? Discuss each method in detail.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe Support Vector Machine . Write in detail about each kernal functions used in SVM.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the working of SMOTE algorithm. Differentiate between over sampling and under sampling with advantages and disadvantages of both techniques.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is fuzzy clustering. Explain its working with its advantages and disadvantages.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Elaborate centroid based clustering along with k-means and k-medoids. Explain DBSCAN method with steps.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is an ANN. Explain it's architecture, techniques and applications in detail.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the reinforcement learning. Mention it's application and case study in medical area in detail.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

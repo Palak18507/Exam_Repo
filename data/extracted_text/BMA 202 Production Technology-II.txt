@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. (MAE) (Semester: 3rd) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 202 
+Subject: Production Technology-II 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Differentiate between the self-centering three jaw chuck and 
+independent four jaw chuck with neat sketch. 
+ 
+ 
+01 
+ 
+b) Explain the different type of chips formed during orthogonal 
+cutting with the neat sketch 
+ 
+01 
+ 
+c) Draw the neat diagram of drill bit mentioning various tool 
+nomenclature.  
+ 
+02 
+ 
+d) What is the purpose of face plate? Explain. 
+ 
+02 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Differentiate between the conventional lathe with CNC lathe 
+with the help of suitable diagram. 
+ 
+01 
+ 
+b) Explain the single point cutting tool. Also, write the various tool 
+signatures of single point cutting tool with suitable diagram.  
+ 
+ 
+01 
+ 
+c) What are the selection criteria for cutting tool material? Explain 
+any five cutting tool materials.   
+ 
+ 
+01 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is the use of drilling machine? Draw and explain the 
+various constructional features (parts) of shaper machine with 
+neat sketch. 
+ 
+ 
+02 
+ 
+b) Explain the various operation performed on drilling machine 
+with suitable diagram: drilling, reaming, counter boring, counter 
+sinking, tapping. 
+ 
+02 
+ 
+c) Explain the various operation performed on Lathe machine 
+with suitable diagram: tapering, facing, knurling, chamfering. 
+ 
+02

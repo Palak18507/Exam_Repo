@@ -1,0 +1,108 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<PhD Course Work>, Semester:<1> 
+(May, 2025) 
+ 
+Subject Code: PhD 071 
+Subject: Deep Learning  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(5x4 =20) 
+CO Mapping 
+ 
+a) Consider a neural Network with single weight W. The output of 
+the network is given by y=w^2 and the loss function is L=1/2(y-
+t)^2 where t=5 is the target value. If the current value of w is 2, 
+what is the gradient of L with respect to w? 
+ 
+CO1 
+ 
+b) Explain Denoising Autoencoder. 
+ 
+CO2 
+ 
+c) Describe how the choice of sigmoid activation function 
+contributed to vanishing gradient problem. 
+ 
+ 
+ 
+d) Why CNN is preferred over fully connected neural network in 
+image classification tasks. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the Back propagation algorithm with a suitable architecture  
+(10) 
+CO1 
+Q3 
+Compare McCulloch Pitts Neuron and Perceptron. Explain the 
+perceptron learning algorithm. What are the limitations of 
+perceptron model? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is PCA? Derive the relationship between PCA and 
+Autoencoder. 
+(10) 
+CO2 
+Q5 
+In SGD optimization, all weight parameters have the same learning 
+rate. What are the various problems associated with it? Explain 
+how the RMSProp and Adam optimizers solve these problems. 
+Write update rules for both the optimizers. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the various regularization techniques in detail. 
+(10) 
+CO3 
+Q7 
+Explain any two approaches of vectorization of words. 
+(10) 
+CO3 
+Unit IV 
+ 
+CO Mapping 
+Q8 
+Explain Recurrent Neural Network architecture with a neat diagram 
+and explain its learning algorithm. 
+(10) 
+CO4 
+Q9 
+Consider the following CNN architecture 
+ 
+Input:28X8X1 
+ 
+Conv1: two 5X5 kernels with weight and bias parameters; 
+unit stride; ReLU activation 
+ 
+MaxPool1: 2X2 Kernel; stride=2 
+ 
+Conv2:  four 7X7 kernels with weight and bias parameters; 
+unit stride; ReLU activation 
+ 
+MaxPool2: 2X2 Kernel; stride=2 
+ 
+Flatten layer 
+ 
+FC Layer: weights and bias for 10-class classification; 
+softmax activation 
+For each layer, give the shape of the output and number of 
+parameters.   
+(10) 
+CO4

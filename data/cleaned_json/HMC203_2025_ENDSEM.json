@@ -1,0 +1,79 @@
+{
+  "paper_id": "HMC203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC203",
+    "subject_name": "Financial Reporting and Analysis",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are the advantages of ratio analysis? 4 As per AS-10 a plant needs to satisfy 3 conditions in order to be considered as a bearer plant, what are those 3 conditions? 3 calculate working capital ratio from the following: Current assets- 180,000 Current liabilities- 90,000 4 Pass the following journal entry: Bought goods from X, worth rs 100,000 at trade discount 30% and 10% cash discount terms and paid him the amount immediately. 2 What are the 2 conditions to be satisfied for a tangible item to be called as PPE under AS-10. 3 What are the traditional rules of accounting in case of real, personal and nominal accounts? 2 Discuss the objectives of financial reporting. 1 who are the users of financial information? 1 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explian the conceptual framework given by ASB in brief? 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Out of the following, explain any two accounting concepts: A) Money measurement concept B) Dual aspect concept C) Accounting period concept 1 CO Mapping 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "From the following Balances of ABC on 31/3/2022, prepare a Trading and Profit & Loss Account and a Balance Sheet as on that date. Particulars Amount Drawings 8000 Capital 48,000 Sundry Creditors 80,000 Sundry Debtors 1,26,000 Bills Receivable 10,000 Opening stock 90,000 Fixtures and Fittings 13,000 Cash in hand 2,000 Machinery 24,800 Bank Overdraft 10,000 Purchases 1,00,000 Sales 2,58,000 Return Inwards 2,000 Return Outwards 2,200 Office Salaries 18,000 Manufacturing Wages 8,000 Commission 9,000 General Expenses 5,000 Rent 4,400 Discount received 8,000 Bills Payable 14,000 The closing stock on 31.3.2022 was 1,04,000 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "From the following transactions, pass the necessary journal entries in the books of sohan &Co., post them into their ledger accounts. 2021 Jan 1 Sohan started business with cash 80,000 Jan 5 purchased goods in cash 25,000 Feb 20 Cash sales 30,000 May 11 purchased goods from Sohan 18,000 May 25 sold goods to Ramesh 20,000 June 15 cash given to Sohan 18,000 Oct 20 cash received from Ramesh 20,000 Dec 31 Paid rent. 2,000 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Briefly explain AS-9 revenue recognition 3 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "A) As per AS-2, how do you calculate the NRV in case of raw material, work in progress and finished goods? B) The company deals in three products, A, B and C, which are neither similar nor interchangeable. At the time of closing of its account for the year 2022-23. The Historical Cost and Net Realizable Value of the items of closing stock are determined as follows: What will be the value of Closing Stock? 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Current assets: inventory is ₹5,60,000; trade receivables ₹4,50,000; cash at bank ₹70,000. Current liabilities: trade payables ₹3,90,000; outstanding liabilities ₹3,10,000 From the above information compute: A) current ratio and quick ratio B) And additional short-term bank loan of 1,50,000 is also under consideration calculate revised current ratio and quick ratio assuming the loan is received. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "A) Calculate return on capital employed with the following information: Equity share capital ₹20,00,000 Fixed assets ₹ 30,00,000 Current assets ₹25,00,000 Current liabilities ₹16,00,000 10% debentures ₹10,00,000 Reserve and surplus ₹9,00,000 B) Y Ltd has profit before interest and tax ₹1,70,000; interest on long-term funds ₹50,000; tax ₹30,000, calculate interest coverage ratio. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

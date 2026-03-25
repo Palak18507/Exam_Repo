@@ -1,0 +1,120 @@
+{
+  "paper_id": "BEC306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC306",
+    "subject_name": "VLSI Design",
+    "program": "B.Tech ECE",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why drain current is zero in absence of gate voltage even if drain voltage is applied in NMOS enhancement transistor.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between constant field scaling and constant voltage scaling.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the “active area” in fabrication process.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why CMOS logic is ratioless logic.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are advantages and drawbacks of BiCMOS circuits.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is LOCOS in CMOS fabrication.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is difference between transmission gate and pass transistor.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain channel length modulation.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain operation regions of MOS transistor using Energy band diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Draw and explain various capacitance in MOS model. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT I",
+      "question_text": "Implement the function 𝑍= ̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ using CMOS logic and NMOS logic. How many transistors are required for each type of implementation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT I",
+      "question_text": "Give implementation of edge triggered D flip flop and explain its working. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT I",
+      "question_text": "Explain the working principle of dynamic CMOS logic.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT I",
+      "question_text": "Draw and explain NORA CMOS logic. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT I",
+      "question_text": "How programmable logic devices are useful in chip design. Explain with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT I",
+      "question_text": "Draw and compare the basic BiCMOS inverter and the conventional CMOS inverter. Specifically, address voltage swing and propagation delay.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

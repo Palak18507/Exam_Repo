@@ -1,0 +1,64 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+BBA SEMESTER IV 
+(MARCH 2025) OFF LINE MODE 
+ 
+Subject Code: AMC 204 
+Subject Name: Management Information System 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+Note:  Q1. is compulsory 
+ 
+Q1 
+(2.5*4) 
+CO 
+(a) 
+Compare data and information? Explain the categories of information? 
+CO1 
+(b) 
+Explain business processes and their relationship with information systems? 
+CO1 
+(c) 
+Explain Feasibility Study and types of feasibility study with examples? 
+CO2 
+(d) 
+Explain the Prototyping method for building information systems? 
+CO2 
+Q2 
+(Attempt any Two Parts)     UNIT-1 (CO1) 
+(5,5) 
+(a) 
+Explain Information System and the different types of information systems with examples for 
+each type? Explain the various components of information system? Use diagrams to answer 
+each of these questions.  
+(b) 
+ Discuss how information systems impact organizations and business firms? Elaborate on the 
+Economic impacts, organizational and behavioral impacts, impact of Internet on information 
+systems? 
+(c) 
+Differentiate between DSS, MIS and EIS in a tabular form. Why are these important tools used 
+by strategic users in businesses? Also give suitable examples where each of these tools is used 
+for decision-making? 
+Q3 
+(Attempt any Two Parts)     UNIT-2 (CO2) 
+(5,5) 
+(a) 
+Explain Cost-Feasibility Analysis in information systems? 
+A company plans to invest in a new Customer Relationship Management (CRM) system to 
+improve customer engagement and sales. The financial details are as follows: 
+Initial Investment (Year 0): $600,000 
+Annual Operational & Maintenance Costs: $70,000 per year 
+Expected Annual Benefits (Increased Revenue & Cost Savings): $250,000 per year 
+Project Lifespan: 5 years 
+Discount Rate: 9% 
+Calculate Net Present Value and Internal Rate of Return of the investment? 
+(b) 
+Explain each stage of the System Development Life Cycle in detail and the Life cycle of System 
+Analysis & Design with the aid of relevant diagrams and illustrations? 
+(c) 
+Explain system, its characteristics and types of systems giving examples for each type. Explain 
+role of the System Analyst and elaborate what skills he/she must possess?

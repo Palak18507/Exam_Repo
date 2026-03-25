@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAM302_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM302",
+    "subject_name": "Reinforcement Learning",
+    "program": "B. Tech. IT(AIML",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the Principle of Optimality in Dynamic Programming? Explain with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain On-Policy TD method with its update rule. How does it differ from Off-Policy TD method?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider a Markov chain with three states 𝑆1, 𝑆2, 𝑆3 and the following transition matrix: [ 0.6 0.3 0.1 0.5 0.4 0.1 0.2 0.5 0.3 ] If the system starts in state 𝑆1, find the state probabilities after two steps.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the mathematical formulation and exploration- exploitation trade-off in the K-Armed Bandit Problem.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare the First-Visit and Every-Visit Monte Carlo methods. Compute the action-value function by using Every-Visit Monte Carlo method for the following episodes. Episode States& Actions Rewards 1 → → → 3,2,4,5 2 → → 6,7,1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the Bellman Expectation and Optimality Equations for state-value function and action-value function of a MDP. What are their significance in Reinforcement learning?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A robot navigates in a 3-state environment 𝑆1, 𝑆2, 𝑆3 where it can take an action to move between states. The transition probabilities and rewards are given below. State Action Next State Probabilities Reward 𝑆1 Move Right 70%→𝑆1,30%→𝑆2 +4 𝑆1 Move Left 100%→𝑆1 0 𝑆2 Move Right 60%→𝑆1, 40% →𝑆2 +6 𝑆2 Move Left 100%→𝑆2 +2 𝑆3 Stay 100%→𝑆3 0 Find the optimal state values and Optimal Policy by Value Iteration method.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "An agent moves in a 3-state environment 𝑆1, 𝑆2, 𝑆3 . Use TD learning with eligibility traces to estimate the value function V for the episode: → →, Note: 𝛾=0.9, 𝛼= 0.1, 𝜆=0.8",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the difference between TD, TD, and TD. Describe the role of eligibility traces in TD learning.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider a MRP with the state space 𝑆= {𝑠1, 𝑠2, 𝑠3} The transition probability matrix and reward function are given as: 𝑃= [ 0.6 0.3 0.1 0.5 0.4 0.1 0.2 0.5 0.3 ] 𝑅 = 6, 𝑅 = 4, 𝑅 = 2, with 𝛾=0.9. Solve for the state values 𝑉, 𝑉, 𝑉 using Bellman equations.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

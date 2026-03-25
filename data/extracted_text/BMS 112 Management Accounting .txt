@@ -1,0 +1,192 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: BBA, Semester: II 
+(May, 2025) 
+ 
+Subject Code: BMS 112 
+Subject: Management Accounting 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How management accounting differs from the cost accounting? 
+ 
+CO1 
+ 
+b) What is activity-based costing? 
+ 
+CO1 
+ 
+C) What is process costing? 
+ 
+CO2 
+ 
+d) Distinguish between periodic and perpetual inventory system? 
+ 
+CO2 
+ 
+e) Differentiate between fixed and flexible budgets. In what types 
+of business scenarios is each one most useful? Support your 
+answer with examples. 
+ 
+CO3 
+ 
+f) What is performance budgeting? How does it differ from 
+traditional budgeting methods? 
+ 
+CO3 
+ 
+g) What is standard costing? What is its relevance in business 
+decision making? 
+ 
+CO4 
+ 
+h) What is P/V ratio. Explain with suitable example. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is cost accounting? What are the objectives, advantages and 
+scope of cost accounting? 
+(10) 
+CO1 
+Q3 
+A manufacturing firm is planning to invest in new machinery and 
+wants to evaluate the total cost over its useful life. How can Life 
+Cycle Costing (LCC) assist in this decision-making process? 
+Describe the major types and stages of LCC involved in such an 
+evaluation. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is contract costing? Describe the feature and procedure of 
+contract costing. 
+(10) 
+CO2 
+Q5 
+From the following transactions, prepare a stores ledger account 
+using LIFO and Weighted Average Method. 
+Year 
+2024 
+Particulars 
+ 
+ 
+ 
+1 July 
+Opening Stock 
+ 
+ 
+500 units @ Rs. 20 
+each 
+4 July 
+Purchased 
+GRN 
+574 
+400 units @ Rs. 21 
+each 
+6 July 
+Issued 
+SR 
+251 
+600 Units 
+8 July 
+Purchased 
+GRN 
+578 
+800 units @ Rs. 24 
+each 
+9 July 
+Issued 
+SR 
+258 
+500 units 
+13 July 
+Issued 
+SR 
+262 
+300 units 
+24 July 
+Purchased 
+GRN 
+584 
+500 units @ Rs. 25 
+each 
+28 July 
+Issued 
+SR 
+269 
+400 units 
+GRN = Goods Received notes, SR = Store Requisition. 
+ 
+ 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Management accounting is the presentation of accounting 
+information in such a way as to assist the management in the 
+creation of policy, and in the day-to-day operation of an 
+undertaking. Elucidate. 
+(10) 
+CO3 
+Q7 
+What is responsibility accounting? Describe the concept in detail 
+and explain the different types of responsibility centers with 
+examples. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+From the following particulars, compute: 
+(a) Material cost variance, (b) Material price variance, and (c) 
+Material usage variance. 
+Quantity of materials purchased 
+3,000 units 
+Value of materials purchased 
+Rs. 9,000 
+Standard quantity of materials required per 
+tonne of output 
+30 units 
+Standard rate of material 
+Rs. 2.50 per unit 
+Opening stock of materials 
+Nil 
+Closing stock of materials 
+500 units 
+Output during the period 
+80 tonnes 
+(10) 
+CO4 
+Q9 
+Part A The following data is given below: 
+Total fixed cost 
+Rs. 12,000 
+Selling Price 
+Rs. 12 per unit 
+Variable Cost 
+Rs. 9 per unit 
+What will be the profit when sale is: 
+(a) Rs. 60,000         (b) Rs. 1,00,000 
+ 
+Part B A startup is assessing whether to launch a new product and 
+needs to determine the minimum sales volume required to avoid 
+losses. How can break-even analysis support this decision? Explain 
+the key assumptions of break-even analysis. 
+(5*2) 
+CO4

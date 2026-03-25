@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA403_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA403",
+    "subject_name": "Mechatronics",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How Solenoid valve is used for operation of any pneumatic actuator?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between SPST, SPDT & DPDT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain briefly the circuit of D and T flip-flops using JK flip-flop",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is meant by Memory Address wit reference to Microprocessor?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How displacement is sensed by LVDT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define the modulation and demodulation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Distinguish between physical and mathematical model.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Analyze any industrial robot & identify the different Mechatronics elements?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Bulk lose material is to be emptied from a dump hopper , by pressing a press button P1 ,the dump hopper is tilted and bulk lose material tilted out, by pressing a another press button P2 ,the dump hopper is returned to its initial position. Design a pneumatic circuit for operation & describe the components used in the circuit. Figure-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Design a pneumatic valve circuit to give the sequence A+, followed by B+ and then simultaneously followed by A- and B-. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Minimize the following switching function by K- map and implement it by NAND gate only. F =Σ + Σ dc",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is a load cell? Draw the schematic diagram of a strain gauge based load cell. Discuss the principle of operation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "As a Mechatronic designer moves progressively from an 8-bit to 10-bit to 12-bit A/D converter. Comment on the feasibility of design & Discuss what problems might be incurred in the design of the data acquisition system?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Distinguish between inverting and non-inverting amplifiers also derive the gain equation for a non-inverting amplifier.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the working of a PLC by drawing its basic architecture. Also draw the ladder rungs to represent the two switches are normally open and both have to be closed for a motor to operate.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe for any two of the following systems, giving free hand sketch, list of components & justification as Mechatronics Product. i) Printer ii) Bar Code Reader iii) Domestic Washing Machine",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

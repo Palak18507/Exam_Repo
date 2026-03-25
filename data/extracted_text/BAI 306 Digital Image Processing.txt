@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 6) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 306 
+Subject: Digital Image Processing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all the following: 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Describe the process of image sampling and quantization. 
+Explain with the necessary diagrams. 
+2.5 
+CO1 
+ 
+b) Define 
+the 
+following 
+pixel 
+relationships: 
+Neighbors, 
+Connectivity, Adjacency, and Distance Measures.  
+2.5 
+CO1 
+ 
+c) What are the key differences between spatial and frequency 
+domain filtering in terms of their techniques, applications, and 
+effects on image enhancement? 
+2.5 
+CO2 
+ 
+d) What is the Fourier Transform, and how is it useful in image 
+processing? Also, explain the Butterworth Low-pass filter. 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the fundamental steps involved in a digital image 
+processing system. Give a diagram or flowchart to explain. 
+5 
+CO1 
+ 
+b) An image segment is given below. Let V be the set of gray-level 
+values used to define connectivity in the image. Compute the 
+shortest De, D4, D8, and Dm distance between pixels ‘p’ and ‘q’ 
+for: 
+(i) V = {1, 4} 
+(ii) V = {1, 5} 
+Given Image Segment: 
+                      
+ 
+5 
+CO1 
+ 
+c) Given the 5×5 grayscale image matrix. Assume that the intensity 
+values range from 0 to 255 wherever required.: 
+ 
+Perform the following point operations on the matrix: 
+1. Apply contrast stretching rmin=2, rmax=10, smin=0 and smax=50. 
+2. Apply Power-Law (Gamma) Transformation with c = 1 and γ = 
+0.5. 
+3. Apply Thresholding using a threshold value 6. 
+5 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss different smoothing and sharpening filters in both the 
+spatial domain and Frequency Domain with supporting 
+equations and an example of a 3x3 image matrix. 
+5 
+CO2 
+ 
+b) Perform Histogram Equalization on the given 3×3 grayscale 
+image matrix, where pixel intensities range from 0 to 7. Given 
+Image Matrix: 
+ 
+      Find the equalized image for the above matrix. 
+5 
+CO2 
+ 
+c) Given the 5×5 grayscale image matrix: 
+ 
+Apply the following filters on the above matrix at position (2,2) and 
+compute the new intensity value. Assume row and column index 
+starting at (0,0) 
+1. Apply the 3×3 averaging filter for the center pixel value 50 
+at (position (2,2)). 
+2. Apply the 3×3 Gaussian Blur filter for the center pixel value 
+50 at (position (2,2)). 
+3. Apply the Sobel Filters Sx and Sy separately on the image 
+matrix and compute the gradient magnitudes and edge 
+direction for the center pixel value 50 at (position (2,2)). 
+5 
+CO2

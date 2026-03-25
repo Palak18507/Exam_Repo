@@ -1,0 +1,119 @@
+{
+  "paper_id": "BEC205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC205",
+    "subject_name": "Network Analysis and Synthesis",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is source transformation technique? Explain by transforming a voltage source to a current source and vice versa.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain KCL and KVL.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "In the circuit shown in Figure, the switch s is closed at t=0 then determine the steady state value of the current.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by time constant of a circuit?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "If Z= Ohm then find the value of Conductance G and Susceptance B?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Derive the condition of symmetry in terms of Z -parameters",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What do you understand by positive real function?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the necessary conditions for driving point functions?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Prove that maximum power is delivered from a source having internal impedance Zs, to a connected load impedance ZL, when ZL=Zs*.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Using nodal analysis, find the power dissipated in the 4 ohm resistor of the network shown in Figure. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "The switch K, as shown in the Fig.4 is in steady state position ‘a’ for t<0. At t=0, it is shifted to position ‘b’. Find iL, for t≥0.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is graph theory? Explain its applications with one example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Find T parameters of the circuit shown in figure below:",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What do you understand by h-parameters? Derive h-parameters for a two port network and clearly explain the procedure. Draw the equivalent circuit model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain concept of poles & zeroes. Discuss restrictions on pole and zero locations for driving point functions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Synthesize a network using Foster-I and Foster -II forms for the impedance function: 𝑍 = 𝑠",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "BCS410_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS410",
+    "subject_name": "Quantum Computing",
+    "program": "B. Tech.",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Differentiate between classical computing, supercomputing and quantum computing. Consider the state |ψ> = 0.8 |0> - 0.4 |1>. What is the probability of finding this state in state |0> and |1> respectively upon measurement. Is this qubit a valid state? Justify Explain in detail the Bloch sphere with proper equations and diagram? Differentiate between pure quantum state and mixed state. What do you understand by the term Hermitian conjugate? Explain with an example",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 Given a basis set {|a>,|b>,|c>} in C3 Hilbert space. A quantum state is defined as |𝜓⟩= 1 √4 |𝑎⟩−𝑖√5 √12 |𝑏⟩+ 1 √3 |𝑐⟩ . Is this state Normalized? If a measurement is made, find the probability of finding the arbitrary state in state |b>. Explain the concept of eigenvalues and eigenvectors in quantum computing with derivations and relevant examples. What are the different types of operators defined in quantum computing? Give necessary explanation to uniquely identify Unitary operator with example.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 What are quantum gates, give mathematical explanation and how do they alter the state of a qubit in quantum computing? Explain the function of the Pauli gates on a qubit states {|0> and |1>} . Describe the principles of quantum mechanics used to govern the quantum computation. How can you physically realize bits and qubits? What do you understand by the terms basis and dimensions. Give mathematical proof of the change of computational basis from one basis set to other. Note: Q. 1 is compulsory. Subject: Quantum Computing Subject Code: BCS 410",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

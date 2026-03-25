@@ -1,0 +1,121 @@
+{
+  "paper_id": "MUP108_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP108",
+    "subject_name": "GIS and Remote Sensing",
+    "program": "M.Plan",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Coordinate System",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "GIS data processing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Scales and levels in GIS",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Terrain modelling",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Sources of Data acquisition for creation of GIS based maps",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Spatial Analysis",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Suitability Analysis",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Land use and land cover",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is meant by a Global Positioning System? Briefly discuss the various components and benefits of Global Positioning System.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How can GIS support decision making for various planning applications? Briefly discuss Urban Information systems for various activity sectors.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the different pre-conditions for using Planning Information Systems and why is it important? Explain with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the various data representation techniques in GIS? Discuss how GIS can be used as a modelling tool for data analysis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is Geospatial data and Temporal data? Discuss how they can be used to create Base maps and Thematic maps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is meant by Topography creation using GIS? Briefly discuss the process and how it can be useful for urban planning with the help of an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is meant by Digital change detection? Briefly discuss the process and how it is useful for planners.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is the role of GIS in Urban and Regional planning? Discuss with the help of suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

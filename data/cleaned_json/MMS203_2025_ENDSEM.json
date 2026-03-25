@@ -1,0 +1,170 @@
+{
+  "paper_id": "MMS203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS203",
+    "subject_name": "Corporate Governance",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a short note on Corporate Social Responsibility.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "“The Trusteeship Principle exists only in theory but not in practice.” Critique in the context of corporate governance.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain key provisions of Companies Act 2013 and revised Clause 49 of Listing Agreement about corporate governance in India.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "d",
+          "text": "Analyse the foundation of corporate governance across globe using examples of various global committees.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "e",
+          "text": "‘Two-tier board companies are better governed than one-tier board companies.’ Explain with suitable illustrations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is executive and managerial compensation. How it differs from other forms of compensation.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Do ethics and governance go hand in hand? Explain in the context of Wipro.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "“Wipro’s ethical winning spree is not free from its set of issues and challenges.” Explain.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain different approaches to CSR which are followed by corporate houses. Which CSR model is considered supreme?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the outcomes of Supreme Court ruling for stakeholder’s interests at large?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What lessons are learnt about corporate governance from the present case?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "“Whistle-blowing has drawn attention to various corporate frauds in recent times but at the same time has been abusive.” Critique. Discuss the merits and demerits of whistle-blowing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Illustrate and contrast the corporate governance system in USA and any other country of your choice. Also, explain the provisions of Sarbanes Oxley Act .",
+      "marks": 2002.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What could Nissan have done differently to avoid its downfall in the 1990s?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What circumstances made Ghosn’s misconduct possible? How can companies prevent such misconduct?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Critically evaluate the corporate governance practices adopted by Nissan",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Types of boards",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Roles and Responsibilities of Board of Directors",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "CEO duality",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Duties entrusted on the Board of Directors",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "“Satyam is called as the Enron of East.” Critique. Who are the real culprits of Satyam fiasco? Is it only the promoters or others as well?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

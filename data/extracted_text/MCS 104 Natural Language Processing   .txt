@@ -1,0 +1,105 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech. Semester: 2nd  
+(May, 2025) 
+ 
+Subject Code: MCS 104   
+Subject: Natural Language Processing   
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the need for processing natural languages in modern 
+applications? 
+2.5 
+CO1 
+ 
+b) Differentiate between stemming and lemmatization with one 
+example each. 
+2.5 
+CO1 
+ 
+c)  Define a synset. Give one example from English WordNet. 
+2.5 
+CO2 
+ 
+d)  Define Part of Speech (POS) tagging. Why is it important in NLP? 
+2.5 
+CO2 
+ 
+e) What is Lesk Algorithm and how does it help in WSD? 
+2.5 
+CO3 
+ 
+f) List any two applications of WSD in real-world NLP systems. 
+ 
+2.5 
+CO3 
+ 
+g) What challenges exist in performing WSD for low-resource languages 
+like Hindi? 
+2.5 
+CO4 
+ 
+h)  Define the N-gram model in NLP. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Write a brief history of NLP and highlight the key challenges faced 
+while working with Indian languages. 
+(10) 
+CO1 
+Q3 
+a) What are the different levels of NLP? 
+b) Explain Zipf’s Law in the context of NLP. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the structure and features of WordNet. What are the different 
+types of semantic relationships in WordNet? 
+(10) 
+CO2 
+Q5 
+Explain how POS tagging can be enhanced using WordNet. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+How would you apply supervised disambiguation to identify the sense 
+of the word “bank” in the sentence: “He sat by the river bank.” 
+(10) 
+CO3 
+Q7 
+Explain the different types of WSD techniques: supervised, 
+unsupervised, and dictionary-based methods. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are the main differences in applying NER for English and Hindi 
+languages? 
+(10) 
+CO4 
+Q9 
+ Apply HMM to recognize named entities in the sentence: “Dr. Sharma 
+visited Delhi on Monday.” 
+(10) 
+CO4

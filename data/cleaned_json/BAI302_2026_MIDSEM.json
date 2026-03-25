@@ -1,0 +1,76 @@
+{
+  "paper_id": "BAI302_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI302",
+    "subject_name": "Natural Language Processing",
+    "program": "B. Tech (AI & DS",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how tokenization works in NLP with an example.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between phonology, morphology, syntax, and semantics. 5 Co1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Identify syntactic ambiguity in the sentence \"He saw the girl with the telescope.\" What are the limitations of syntactic parsing in real-world applications? 5 Co3,4",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "List and explain the different types of ambiguity in NLP with examples 5 Co1,2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how JSON and XML are used for storing and exchanging text data. What are their key differences? 5 Co1,2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Using BoW, represent the sentences: \"NLP is great\" \"NLP is fun\" Vocabulary: {NLP, is, great, fun} 5 Co3",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define a text corpus in NLP and list three different types of corpora used in text processing. 5 Co1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

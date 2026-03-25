@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS226_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS226",
+    "subject_name": "Interpersonal & Counselling for Managers",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does negotiation differ from conflict management in resolving workplace issues? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key stages of Pondy's Model of Conflict and how do they contribute to the overall process of conflict within an organization? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Leadership is a direct function of elements of interpersonal effectiveness. Comment. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the unwritten and informal rules and regulations which are binding on all members in general? 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss how the interplay of interpersonal and managerial skills contributes to the success of a manager. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the main components of active listening? How does it lead to enhanced interpersonal skills. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the five conflict management styles in the Thomas- Kilmann model. Provide an example of a situation where a leader might use the 'Competing' style and one where the 'Collaborating' style would be more appropriate. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "In any organizational setting, groups go through various stages of development. As a leader, your role is critical in guiding the team through these stages. Explain the various stages of group development according to Tuckman’s model and highlight the specific roles a leader during each of these stages to ensure the group's success. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Group cohesiveness can reduce tension and provide a supportive environment to the members but the degree of cohesiveness varies from one to another situation. Discuss the main factors responsible for this. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Homans theory of group formation 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

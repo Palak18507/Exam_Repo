@@ -1,0 +1,112 @@
+{
+  "paper_id": "BCS406_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS406",
+    "subject_name": "Natural Language Processing",
+    "program": "B.Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Natural Language Processing and explain its significance in the field of Artificial Intelligence. 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the phases of natural language processing and the key analyses involved in each phase. 2",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the types of ambiguities in NLP With example. 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the role of algorithms and data structures in syntactic and semantic analysis in NLP. 4",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the basic concepts and challenges in Natural Language Processing? Discuss the evolution of NLP. Write activities performed in pragmatic analysis. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain morphological analysis and its role in NLP. Explain tools and Techniques that are used for Morphological analysis, Semantic analysis, Syntactic analysis, Pragmatic analysis. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe Chomsky's hierarchy of grammar. How does it relate to syntactic analysis in NLP? Classify the following grammars into Chomsky’s hierarchy. Justify your answer for each. Given Grammars: A → aB | B → b S → aSb | S → ab A → aA | Aa → aA XY → YX 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain concept of Top Down Parsing, Bottom Up parsing and bidirectional parsing in detail. Consider the grammar Generate leftmost derivation and rightmost derivation and parse tree for language aabbcc. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define semantic analysis. Discuss the use of CASE grammars in understanding meaning within NLP. Also explain how to Resolve ambiguities to generate correct meaning, 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is Word Sense Disambiguation ? Describe a case study of its application using the WORDNET toolkit. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the components of English WORDNET and its significance in understanding natural languages. Discuss in detail components of WorldNet understanding NLTK tool . 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Hindi WordNet? Explain its structure and significance in natural language processing.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distinguish and Explain types of Relation Wordnet used for following cases: rose - flower Leaf -Tree Chair-furniture Size- small Near -far 4",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

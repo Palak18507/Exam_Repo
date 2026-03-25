@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAI318_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI318",
+    "subject_name": "Semantic Web",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Calculate the total loading time if a webpage uses 5 different resources , and each resource takes approximately 0.2 seconds to load over a network with 1 TCP connection. 2.5 b Explain how Web 1.0 differs from Web 2.0 with suitable examples. 2.5 c Name one Semantic Web technology that can be used in a smart city project and justify your answer briefly. 2.5 d Why is ontology important in building intelligent academic portals? 2.5 e Why is Protégé a preferred tool for ontology modeling in research? 2.5 f In what way can SPARQL be used to query an academic knowledge graph? 2.5 g Compare and contrast Semantic Social Networks and Web Intelligence. 2.5 h How Semantic Agents enhance Search Engine capabilities? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "A company has 4 departments, and each department requires a separate subnetwork. The company has been allotted the IP block 192.168.1.0/24. Divide this IP block into 4 subnets using subnetting. Write the subnet mask and IP range for each subnet. For each subnet, identify: ● Network address ● Broadcast address ● First and last usable IPs Explain how the OSI model facilitates communication between computers in these different subnets when a user from one department accesses a website hosted in another subnet. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the working and structure of DNS . Why is DNS important for Internet communication? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the fundamental concepts and issues related to the Semantic Web? Explain how XML metadata helps in achieving machine- understandable data with examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Assume you are designing a simple Semantic Web application for a Library Management System. ● Create a basic RDF triple for the statement: “Book123 is written by Author456.” ● How can metadata using XML be used to describe this book’s properties ? Write a sample XML structure for this. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Consider a healthcare domain where patient, doctor, and medication are key entities. ● How will you design an ontology to represent this? ● Write a sample SPARQL query to retrieve all doctors prescribing a particular medicine. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the process of creating an ontology using Protégé for an online bookstore. Include details like classes, properties, and individuals. Also, list the benefits of using ontology in such applications. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "How does Web Data Analytics benefit from Semantic Web technologies? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the importance and working of SWOT and Chatbots in the Semantic Web. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

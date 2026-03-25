@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAI418_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI418",
+    "subject_name": "Recent Trends in AI",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a. How does GPT differ from traditional encoder-decoder models? 2.5 b. Explain the role of AI in enhancing data mining techniques. 2.5 c. How do GANs generate realistic images? Briefly explain the generator- discriminator mechanism. 2.5 d. What are the benefits of AI in Smart Grid Computing? 2.5 e. What are some key challenges of integrating AI with virtual currencies? 2.5 f. How can AI improve transparency and traceability in supply chain operations? 2.5 g. What is the role of AI in future communication technologies? 2.5 h. Give two examples of AI applications in healthcare and explain one. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Examine the evolution and significance of large-scale Language Models in AI. Highlight their contribution to Natural Language Understanding . What are the ethical concerns associated with deploying such models in real-world systems? Propose strategies to ensure responsible and fair AI deployments.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the architectural components of a modern Artificial Intelligence system, highlighting the role of data pipelines, model selection, and inference engines. How does the architecture influence performance and scalability in real-world AI applications such as recommendation systems or fraud detection?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Explain the working principle of Generative Adversarial Networks , focusing on the interplay between the generator and discriminator. Evaluate the role of GANs in advancing fields such as deepfake technology and medical imaging. How can industries leverage GANs while addressing associated ethical risks?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "Discuss how AI-powered Computer Vision systems interpret visual data. Highlight key algorithms like Convolutional Neural Networks used in object detection and recognition. Analyze the challenges faced when deploying AI-based vision systems in dynamic environments such as autonomous driving or industrial automation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain how AI enhances Blockchain technology in areas such as secure trading, fraud detection, and smart contracts optimization. Discuss a real-world case where AI-Blockchain integration has improved transparency or efficiency. What challenges were encountered during implementation?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss how AI is being utilized in managing and predicting trends in Virtual Currencies like Bitcoin and Ethereum. Evaluate the risks and limitations of deploying AI algorithms in cryptocurrency trading, especially concerning market volatility and regulatory concerns.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the role of AI in enhancing Geographical Information Systems for spatial data analysis and decision support. Analyze how AI-powered GIS is being applied in disaster management or urban planning. What are the key challenges in handling geospatial big data?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define the concept of a Smart City. How does AI contribute to core components such as traffic management, waste management, and public safety? Evaluate the ethical, privacy, and data governance issues arising from large-scale AI deployment in Smart City infrastructures.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

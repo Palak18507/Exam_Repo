@@ -1,0 +1,84 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Arch>, Semester:<6> 
+(May, 2025) 
+ 
+Subject Code: BAP 308 
+Subject: Structures VI  
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+Explain shear R/F in beam with neat sketches. 
+ 
+(b) 
+Show different types of shallow foundation with neat sketches. 
+ 
+(c) 
+Show parts of retaining wall and what are different stability check required for safe 
+retaining wall. 
+ 
+(d) 
+Explain circular ring & helical reinforcement in column with neat sketches. 
+ 
+(e) 
+Explain general rules for providing main R/F and ties R/F detail in column 
+ 
+(f) 
+Explain deep foundation and at what depth these foundation transfer load of 
+super structure. 
+ 
+(g) 
+Define shallow foundations?  
+ 
+(h) 
+Draw force diagram of retaining wall by lateral load.   
+UNIT-I 
+Q2 
+Explain main & tie Reinforcement of different types of columns?  
+(10) 
+Q3 
+Design short axial column 500x500M having axial load 1500 Kn. Adopt M25 grade 
+of concrete and Fe 500 of R/F Steel. Show main and tie bars. 
+(10) 
+UNIT-II 
+Q4 
+Explain design procedure of isolated square footing by limit state method assume 
+suitable data.  
+(10) 
+Q5 
+What is deep foundation? Explain the types of deep foundations? 
+(10) 
+UNIT-III 
+Q6 
+Explain different types of retaining wall and also explain lateral load on cantilever 
+retaining wall. 
+(10) 
+Q7 
+Explain design procedure of cantilever wall for retaining earth 6M height. Show 
+R/F detail of cantilever wall main R/F and distribution R/F bar. Assume soil density 
+= 18Kn/m3, Angle of repose = 30 degrees. 
+(10) 
+UNIT-IV 
+Q8 
+Explain shear and development length in beams. Sketch shear R/F in beam at end 
+near column and mid span of beam. 
+(10) 
+Q9 
+Define any two of the following:  
+(a) Diagonal Tension 
+(b) Anchorage Bond 
+(c) Flexural Bond  
+(10) 
+2 
+ 
+3

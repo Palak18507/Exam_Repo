@@ -1,0 +1,116 @@
+{
+  "paper_id": "MMS223_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS223",
+    "subject_name": "Organization Development",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "Imagine you are an OD practitioner in a company undergoing rapid technological transformation. Which OD practitioner style would you adopt to support employees through this change? Give reasons. 1",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are some of the main characteristics of effective interventions? 2",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the main components of Weisbord model? 2",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "How can the Gestalt concept be applied as an Organizational Development practice to enhance team dynamics and problem-solving within an organization? 3",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "Identify some of the situations in which large group interventions are most effective in playing a significant role in facilitating and managing change and development. 3",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are some of the crucial disciplines essential for creating a Learning Organization. 4",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "h",
+          "text": "“An OD intervention in Total Quality Management can be applied by leading and achieving quality excellence in every aspect of an organization.” Explain with an example. 4",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the nature, characteristics and objectives of Organization Development as an evolving field of practice. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A leading hospital in which a team of nurses is facing problems with patient medication management. This is resulting in patients receiving incorrect medications or wrong dosages. The HR department along with a newly appointed OD team would be working closely with the team of nurses to bring about desired changes. Explain the ways in which Lewin’s change management model can help in implementing changes effectively in the above-mentioned scenario. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the design components of diagnosis to be considered at the organizational and group level to achieve effective outputs at these levels. 2 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A leading Professional services company has addressed the recent shift in employee expectations about how they want to work with a reimagined people experience. Their recent Organization development plan focused on people strategy which was based on well-being, total rewards, leadership development, and connection via an employee/alumni network. Leadership believes that they can hire and retain the best talent by offering flexibility and choice to support people’s ambitions and well-being. Identify the type of OD intervention in the above and also discuss the various types of interventions adopted by OD teams to bring about change in an organization 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "“Sensitivity Training is a behavioral intervention which focusses on helping people understand themselves better and create a better understanding of others. “Elaborate. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain some important career management and development interventions and issues which are essential according to the career management stages of employees of an organization. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are some key Organizational Development practices that facilitate the creation of self-designing organizations, and how do these practices address challenges such as employee autonomy, leadership alignment, and organizational adaptability? Additionally, what are the potential long-term impacts of these practices on organizational culture, performance, and sustainability? Give examples in support of your answer. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How can organizations effectively integrate Organizational Development practices to drive sustainable growth and innovation in the face of rapid technological advancements, shifting workforce demographics, and evolving global business dynamics over the next decade? 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

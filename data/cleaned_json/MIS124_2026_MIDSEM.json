@@ -1,0 +1,69 @@
+{
+  "paper_id": "MIS124_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS124",
+    "subject_name": "Neural Networks and Deep Learning",
+    "program": "M. Tech (IT",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How Multi-Layer-Perceptron enhances the capability of neural network? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive the loss function for a multiclass classifier neural network. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the neuron saturation problem in neural networks? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Justify the importance of Eigen Vectors and Basis Vectors. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why oscillations occurs in Momentum Based Gradient? How NAD managed to limit the Oscillations?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Sparse and Dense features dictate the requirements for attribute specific updates during Backpropagation. How Gradient Descent handles this scenario? Explain with two different approaches. c. Derive the update rule for Multi-Layer-Perceptron.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt any two parts Explain the Autoencoders and mathematical relation to PCA. Why the model generalization and model complexity are related? Derive the supportive mathematical expression. How the layer wise pre training enabled the neural networks achieve convergence?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

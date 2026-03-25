@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA208_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA208",
+    "subject_name": "Thermal Engineering - II",
+    "program": "B. Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A two-stage reciprocating air compressor with intercooling and without clearance takes in atmospheric air at 1 bar pressure and delivers it at 30 bar pressure. The intercooling is perfect. Determine the value of intermediate pressure at which intercooling is taking place.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the functions of: Impeller, and Diffuser in a centrifugal air compressor?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Give two most important reasons for choosing Cast Iron as material for the piston of an IC Engine.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "The crankshaft of a 4-stroke SI Engine is rotating at 3000 rpm. What is the speed of rotation of its cam shaft? Give proper reason for your answer.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the indicator diagram for a single stage reciprocating air compressor without clearance and derive the expression for net work done per kg of air per cycle with isothermal compression.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": ". Give reasons for the following: The thermal efficiency of a CI engine is higher than that of an SI engine. Why? The specific fuel consumption of a 2-stroke SI Engine is higher than that of a 4- stroke SI engine for the same power developed. Why? A 2- stroke engine can be made to rotate in opposite direction. How?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw a neat diagram of rocker arm mechanism for operating valves of an IC Engine and name different parts of the mechanism. How is sodium used for cooling exhaust valve of a large output engine?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the inlet and outlet velocity diagrams for the impeller of a centrifugal compressor with vanes curved backward considering axial inlet of air and list out various velocities and angles involved in the diagrams. Derive the expression for power input to the impeller of such a compressor.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the valve timing diagram for a four-stroke SI engine and explain it.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why is isothermal compression preferred in a reciprocating air compressor? Explain with the help of p-V diagram. What are the various methods for achieving isothermal compression in a reciprocating air compressor?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

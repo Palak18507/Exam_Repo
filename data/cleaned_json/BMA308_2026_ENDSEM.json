@@ -1,0 +1,120 @@
+{
+  "paper_id": "BMA308_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA308",
+    "subject_name": "Production Management",
+    "program": "<B.Tech (MAE)>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the Objectives and Scope of Production Management?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the types of Production system and their classification.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What do you mean by the work measurement?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the different steps in making a time study?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define micro motion study. What are therbligs?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is float or slack and when does a sub critical path becomes critical?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "The observed time for an element is 1.2 minutes. The pace rating for the element is 120% and job difficulty is found to be 30%. Find Normal Time of the element. Also find standard time at an allowance of 10%.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "If orders are placed once a month to meet an annual demand of 6,000",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the factors that should be taken into account in deciding the location of plant?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define the plant layout and explain the significance of plant location. How will you decide the location of a mini steel plant in India?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain simple exponential smoothing method of forecasting demand. The demand for a two-wheeler was 900 units and 1030 units in April 2015 and May 2015, respectively. The forecast for the month of April 2015 was 850 units. Considering a smoothing constant of 0.6, considering a smoothing constant of 0.6, find the forecast for the month of June, 2015.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the need for sales forecasting. How are forecasting methods classified?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain in detail the different types of Inventory Control Techniques. A machine tool manufacturing industry requires to purchase 2000 helical gears/year from a gear manufacturing industry. The ordering cost is Rs. 100/- per order and the carrying cost per unit per year is Rs. 10/-. The economic order quantity is 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is break-even analysis? How is it useful to the manager? For a particular product, the following information is given: Selling price per",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on: Characteristics and objectives of Production Management. Difference between CPM and PERT.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "A project consists of 7 jobs. Jobs A and F can be started and completed independently. Jobs B and C can start only after job A has been completed. Jobs D, E and G can start only after jobs B, and are completed, respectively. Time estimates of all the jobs are given in the following table: Job Time Estimates Optimistic Pessimistic Most Likely A B C D E F G 3 7 4 4 4 5 2 7 11 18 12 8 19 6 5 9 14 8 6 12 4 Draw the network and determine the critical path, and its expected duration . What is the probability of completing the project in days? Also, determine the total and free slacks of all the jobs.   e T e T",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

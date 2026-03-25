@@ -1,0 +1,114 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+Reappear Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.TECH : Sem: 2nd 
+(May, 2025) 
+ 
+Subject Code: BMA 110 
+                                               Subject: Engineering Mechanics  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Explain the Cone of Friction with a neat sketch. 
+2.5 
+CO1 
+b 
+State  Parallel Axis Theorem 
+2.5 
+CO1 
+c 
+How method of joint differs from the method of the section in the analysis of 
+trusses? 
+2.5 
+CO2 
+d 
+Explain the types of friction with examples. 
+2.5 
+CO2 
+e 
+What are the normal and tangential components of acceleration?  
+2.5 
+Co3 
+f 
+Define the coefficient of restitution  
+2.5 
+Co3 
+g 
+What is the Instantaneous center of rotation? 
+2.5 
+Co4 
+h 
+What is the moment of momentum? 
+2.5 
+Co4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Find the resultant of the system of forces shown below. 
+ 
+10 
+CO1 
+Q3 
+(a) A roller of weight 800N rests on a smooth inclined plane and is kept free 
+from rolling down by a string as shown in the Figure 4. Work out tension 
+in the string and reaction at the point of contact. 
+ 
+10 
+CO1 
+ 
+2 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Determine the centroid of the area shown in Fig. below with respect to the 
+axis shown
+ 
+10 
+CO2 
+Q5 
+Find the forces in the members of a truss as shown in fig below  
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A car starts from rest on a curved road of radius 250 m and attains a speed of 
+18kmph at the end of 60 sec while traveling with uniform acceleration. Find 
+the tangential and normal accelerations of the car 30 sec and 45 sec after it 
+started. 
+10 
+CO3 
+Q7 
+A wheel, rotating about a fixed axis at 20 r.p.m., is uniformly accelerated for 
+70 seconds, during which time it makes 50 revolutions. Find : (i) Angular 
+velocity at the end of this interval, and (ii) Time required for the speed to 
+reach 100 revolutions per minute. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Define the work-energy principle. Also, derive the equation for work energy. 
+10 
+CO4 
+Q9 
+A link AB is moving in a vertical plane. At a certain instant, when the link is 
+inclined at 45° to the horizontal, point A is moving horizontally at 4 m/s, 
+while B is moving vertically upwards. Find the velocity of B. 
+10 
+CO4

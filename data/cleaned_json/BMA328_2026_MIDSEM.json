@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA328_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA328",
+    "subject_name": "Combustion, Emission and Pollution Control",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between primary and secondary pollutants.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the significance of adiabatic flame temperature?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "CI engines are designed to operate with an excess air. Why?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the purpose of air swirl in CI engines?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Butane enters a combustion chamber at 250C at a rate of 0.05 kg/min where it is mixed with air. Calculate stoichiometric air-fuel ratio. Also determine the number of moles of air required for stoichiometric combustion and the mass flow rate of air.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How is pre-ignition different from auto-ignition in SI engines.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the stages of combustion in SI engine? Discuss any one stage in detail.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the significance of delay period in CI engines. Differentiate between physical delay and chemical delay in CI engine combustion.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between controlled combustion and uncontrolled combustion in CI engines.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the phenomenon of knocking in CI engines. List some parameters that prevent knocking in CI engines.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

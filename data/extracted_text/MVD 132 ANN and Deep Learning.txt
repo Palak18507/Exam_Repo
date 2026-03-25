@@ -1,0 +1,76 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: M. Tech) (Semester: 2) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code:  MVD 132 
+Subject: ANN and Deep Learning 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define soft computing. Discuss different types of soft 
+computing techniques. 
+ 
+1 
+ 
+b) What is decision theory in handling uncertainty? 
+ 
+1 
+ 
+c) What is neural network? Explain mathematical model of 
+neurons. 
+ 
+1 
+ 
+d)  What is the significance of activation function in    neural 
+network? 
+ 
+1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Describe the major applications of soft computing in 
+engineering and science. 
+ 
+1 
+ 
+b) Explain utility theory and its role in decision-making. 
+ 
+1 
+ 
+c) What is Bayes' rule? How is it used for combining events? 
+ 
+1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is a multi-layer perceptron? Explain its structure and 
+working. 
+ 
+1 
+ 
+b) What is supervised and unsupervised learning? 
+ 
+1 
+ 
+c) Explain the working of a biological neuron and compare it with 
+an artificial neuron. 
+ 
+1

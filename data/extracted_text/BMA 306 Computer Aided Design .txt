@@ -1,0 +1,107 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: VI 
+(May, 2025) 
+Subject Code: BMA 306 
+Subject: Computer Aided Design 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Assume suitably missing data if any and highlighted it. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Highlight the applications of Integrated CAD/CAM systems in Mechanical 
+Engineering. 
+CO1 
+ 
+b) Name the CAD tools required for Design communication & documentation 
+CO1 
+ 
+c) What will be the effect on the size & shape of the model if scaling factors are 
+Sx ≠ Sy ≠  Sz 
+CO2 
+ 
+d) What is the significance of CSG? 
+CO2 
+ 
+e) Write the parametric equation of plane surface passing through a point & 
+contains two directions. 
+CO3 
+ 
+f) What is the basis of Bezier curve? 
+CO3 
+ 
+g) Why Polynomials of higher degree are discouraged for surface modeling? 
+CO4 
+ 
+h) Find the shape functions of the cubic bar element at the nodes 1 and 2. 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+How computer aided design differs from conventional design? List the 
+benefits & application of CAD 
+(10) 
+CO1 
+Q3 
+Provide the steps of Bresenham line drawing algorithm and apply the 
+algorithm on endpoints as (20, 10) and (30, 18). 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Determine the equivalent transformation matrix for the reflection 
+through an arbitrary line  y=mx+c. 
+(10) 
+CO2 
+Q5 
+For the Position vectors P1[1 2] & P2[4 3], determine the parametric 
+representation of line segments between them. Also determine the 
+slope & tangent vector of the line segments. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Fit a Bezier curve having the following control points: P0(1,1) P1(3,6) 
+P2(5,7) & P3(7,4). Find out points at t= 0.4 & 0.6. 
+(10) 
+CO3 
+Q7 
+Sketch the CSG tree for the solid S3 
+shown in above figure -1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure-1 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss the step by step procedure to solve the engineering problem 
+using finite element methods. Also illustrate the different types of the 
+one dimensional and two dimensional elements. 
+(10) 
+CO4 
+Q9 
+Find the displacement of the end face and the shoulder of the stepped 
+bar shown in figure-2 using FEM. Also find the stresses in each part of 
+the bar. Take E = 200 GPa 
+ 
+Figure -2 
+(10) 
+CO4

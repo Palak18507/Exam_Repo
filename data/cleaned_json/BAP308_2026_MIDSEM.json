@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAP308_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP308",
+    "subject_name": "Structure VI",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain different shapes of columns. Show main bars and lateral ties in each type.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write general requirements in the design of columns.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain shear wall in a high rise building.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define short axial column & minimum eccentricity.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Design a column with following data with limit state method factored load = 3000Kn, Concrete M20, Steel Fe 415, Assume suitable data. Show R/F detail with neat sketches.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Show typical tie arrangement of square, rectangle,L,T, circular shape of column with neat sketchs.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Calculate factored column load with following date column size 400 X 400mm R/F 8-20 mm dia bars. Mix M25, Fe 500 R/F.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain different types of foundations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write down the steps to calculate foundation size, column load = 400Kn and Safe bearing capacity = 150 Kn/m2. Column size 500 x 500 mm.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Show R/F detail of square footing.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

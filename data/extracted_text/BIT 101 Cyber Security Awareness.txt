@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:02 ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BIT 101 
+Subject: Cyber Security Awareness 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Important Instructions 
+i). All Questions are compulsory. Start each question from fresh page. 
+ii). Your work will be assessed based on :(i) Clarity and Coherence (ii)  Argument Strength  (iii) 
+Grammar and Mechanics 
+iii). Write in a Compact & Readable Handwriting and avoid unnecessarily large letters or spacing. 
+iv). Use Both Sides of the Page.  Do not leave excessive space between answers, unless required 
+for clarity. 
+Q1 
+Attempt all parts 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What are the various type of Trojans Attacks? 
+2.5 
+CO1 
+ 
+b) What is the role of the following in Cyber Security 
+i) 
+NIST 
+ii) 
+CERT 
+iii) 
+OWASP 
+iv) 
+GIGW 
+v) 
+IT Act 2000 
+2.5 
+CO2 
+ 
+c) Discuss the Malware and various stages of Malware Attack 
+2.5 
+CO2 
+ 
+d) Distinguish between DoS and DDoS Attack 
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Is there any security concept and relationship exist 
+among the following? Explain. 
+i). 
+Owner 
+ii). 
+Countermeasure 
+iii). 
+Risk 
+iv). 
+Assets 
+v). 
+Threat Agent 
+vi). 
+Threat 
+5 
+CO1 
+ 
+b) Give the Definition of cybersecurity as provided in ITU-T. 
+Briefly discuss cyber security objectives? 
+5 
+CO1 
+ 
+c) Discuss the Countermeasures to Prevent MITM Attacks 
+5 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the Challenges in developing an effective cybersecurity 
+system 
+5 
+CO2 
+ 
+b) Elaborate why a security mechanism is complex and it is not 
+obvious from the statement of a particular requirement that such 
+elaborate measures are needed. 
+5 
+CO2 
+ 
+c) What is Botnet?  Portray possible Structures of Botnet 
+ 
+5 
+CO2

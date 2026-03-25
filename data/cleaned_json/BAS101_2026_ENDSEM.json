@@ -1,0 +1,208 @@
+{
+  "paper_id": "BAS101_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS101",
+    "subject_name": "Applied Mathematics",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using elementary row operations find the inverse of Matrix N, if it exists 𝑁= [2 5 1 3] 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "If 𝜆 is an Eigenvalue of a non-singular matrix 𝐴, show that |𝐴| 𝜆 is an eigenvalue of Adj 𝐴. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "If 𝑢= 𝑥 log where 𝑥3 + 𝑦3 + 3𝑥𝑦= 1, find 𝑑𝑢 𝑑𝑥. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss the continuity of 𝑓 = { 𝑥 √𝑥2 + 𝑦2 , 𝑥≠0, 𝑦≠0 1 2 , 𝑥= 0, 𝑦= 0 at the origin. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Evaluate a double integral by reversing the order ∫∫𝑒𝑦2𝑑𝑦 𝑑𝑥 1 𝑥 1 0 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Sketch the region D and then evaluate the double integral ∬𝑓 𝑑𝑟 𝑑𝜃= ∫∫𝑟2 cos2 𝜃 𝑑𝑟 𝑑𝜃 3 1 𝜋 2 0 𝐷 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "If 𝑎⃗ is a constant vector and 𝑟⃗= 𝑥𝑖⃗+ 𝑦𝑗⃗+ 𝑧𝑘⃗⃗, find curl = 2𝑎⃗ 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Evaluate ∫𝐹⋅𝑑𝑅, 𝑐 where 𝐹= 𝑖 ⃗⃗+ 2𝑦𝑧 𝑗⃗−𝑥2𝑘⃗⃗ and 𝐶 is the curve defined parametrically by 𝑥= 𝑡2, 𝑦= 2𝑡, and 𝑧= 𝑡 for 0 ≤𝑡≤1. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using the concept of rank, determine whether the following vectors are linearly independent or linearly dependent , , , .",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find a matrix P which converts the matrix 𝐵 = [ 1 1 3 1 5 1 3 1 1 ] to diagonal form. Hence calculate 𝐵4.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "For the matrix 𝑀= , find non-singular matrices 𝑃 and 𝑄 such that 𝑃𝑀𝑄 is in the normal form.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Show that the equations −2𝑥 + 𝑦 + 𝑧 = 𝑎, 𝑥 – 2𝑦 + 𝑧 = 𝑏, 𝑥+ 𝑦 −2𝑧 = 𝑐 have no solution unless 𝑎+ 𝑏+ 𝑐 = 0. In which case they have infinitely many solutions?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "If 𝑢= tan−1 𝑥3+𝑦3 𝑥−𝑦, prove that 𝑥 𝜕𝑢 𝜕𝑥+ 𝑦 𝜕𝑢 𝜕𝑦= sin 2𝑢 𝑥2 𝜕2𝑢 𝜕𝑥2 + 2𝑥𝑦 𝜕2𝑢 𝜕𝑥𝜕𝑦+ 𝑦2 𝜕2𝑢 𝜕𝑦2 = 2 cos 3𝑢 sin 𝑢",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Expand sin in powers of and as far as the terms of second degree.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "If 𝑦= 2, Prove that 𝑦𝑛+2 −𝑥𝑦𝑛−𝑛2𝑦𝑛= 0",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Examine 𝑓 = sin 𝑥 + sin 𝑦 + sin for maximum and minimum values.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Trace the curve 9𝑎𝑦2 = 𝑥2",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compute ∬ 4 𝑑𝑦 𝑑𝑥, 𝐷 where 𝐷 is the triangular region bounded by the line 𝑥+ 𝑦= 1 and the coordinate axes, by change of variables taking 𝑢= 𝑥−𝑦 and 𝑣= 𝑥+ 𝑦.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the area between the circle 𝑥2 + 𝑦2 = 𝑎2 and the line 𝑥+ 𝑦= 𝑎 in the first quadrant.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compute ∭ 𝑑𝑥 𝑑𝑦 𝑑𝑧 3 if the region of integration is bounded by the coordinate planes and the plane 𝑥+ 𝑦+ 𝑧= 1.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Show that the vector field 𝐹⃗= 2𝑥𝑖 + 2𝑥2𝑦𝑗 + 3𝑥2𝑧2𝑘 is conservative. Find its scalar potential and the work done in moving a particle from to .",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "State Stoke’s theorem. Use Stoke’s theorem to evaluate the line integral ∮𝑥3𝑦2 𝑑𝑥 + 𝑑𝑦+ 𝑧2 𝑑𝑧 𝑐 where 𝐶 is the circle 𝑥2 + 𝑦2 = 1 in the plane 𝑧= 1, counterclockwise when viewed from the origin.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Apply Green’s theorem to evaluate ∮ 𝑑𝑥 + 𝑑𝑦 𝑐 over a curve C which is the boundary of the area enclosed by the x-axis and the upper half of the circle 𝑥2 + 𝑦2 = 𝑎2 negatively oriented.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Verify Gauss’ Divergence Theorem, where 𝑆 is the surface of the sphere 𝑥2 + 𝑦2 + 𝑧2 = 16 and 𝐹⃗= 3𝑥 𝑖 + 4𝑦 𝑗 + 5𝑧 𝑘.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

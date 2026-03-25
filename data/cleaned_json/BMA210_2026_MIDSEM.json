@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMA210_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA210",
+    "subject_name": "Operation Management",
+    "program": "B. Tech.",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define productivity and explain factor affecting on productivity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain types of production system.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the important factors considered for selecting the plant location.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the need of demand forecasting and its characteristics.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Organization structure and explain the different types of organization structure with applications.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between process layout and product layout concept with proper diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Calculate various productivity factors and total productivity with the following data: Output= 1,00,000 Labor = 20,000 Material = 30,000 Capital= 20,000 Energy= 5000, Other expenses= 2000.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the qualitative techniques of forecasting. Mention the advantage and limitation of techniques as well.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define the approach of Forecasting with relevance to business applications.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A company wants to forecast the demand for 6th month using Simple Exponential Smoothing . The demand for the past 5 months is given. The company chooses a smoothing factor = 0.3 and assumes the initial forecast to be equal to the first actual demand Months 1 2 3 4 5 Demand 120 130 125 140 150",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

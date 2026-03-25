@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name : B Tech (ECE, ECE AI) , Semester: 7th   
+(December, 2024) 
+ 
+Subject Code: BEC 403 
+Subject: Wireless and Mobile Communication 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Explain Following: 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define cellular infrastructure and explain the main components 
+of a cellular system. 
+ 
+CO1 
+ 
+b) What is frequency reuse, and why is it important in cellular 
+systems? 
+ 
+CO2 
+ 
+c) What is interleaving in IDMA, and how does it enhance 
+communication reliability? 
+ 
+CO2 
+ 
+d) Analyze the role of CDMA2000 in improving the efficiency of 
+mobile networks. 
+ 
+CO3 
+ 
+e) What are the main causes of shadowing in wireless 
+communication systems? 
+ 
+CO4 
+ 
+f) List and explain different channel assignment strategies. 
+ 
+CO3 
+ 
+g) What is the significance of adaptive equalizers in mobile 
+communication?  
+ 
+CO4 
+ 
+h) For a Wi-Fi network operating on a 2.4 GHz channel, calculate 
+the maximum data rate achievable using the IEEE 802.11n 
+standard. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain handoff strategies and their significance in mobile 
+communication. Calculate the free-space path loss for a signal at 
+900 MHz transmitted over a distance of 10 km. 
+(10) 
+CO2 
+Q3 
+Compare and contrast the AWGN channel with Rayleigh and 
+Nakagami fading channels. Propose a frequency reuse plan for a 
+citywide cellular network with 21 cells. Explain your strategy. 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the working principle of the General Packet Radio Service 
+(GPRS). Also discuss advantages of EDGE technology over GPRS. 
+(10) 
+CO3 
+Q5 
+Discuss the evolution from IS-95 to CDMA2000 in mobile 
+standards. Also calculate the capacity of a GSM network 
+operating with a 200 kHz bandwidth and supporting 8 users per 
+channel. 
+(10) 
+CO4 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Discuss the principles of Orthogonal Frequency-Division Multiple 
+Access (OFDMA) and its advantages. Also for an FDMA system 
+(10) 
+CO2 
+with a total bandwidth of 10 MHz and a channel bandwidth of 
+200 kHz, determine the number of channels that can be 
+supported. 
+Q7 
+Explain the advantages of CSMA/CA over CSMA/CD in wireless 
+communication. Compute the throughput of Slotted ALOHA for a 
+system with a maximum traffic intensity of 0.4. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the concept of Li-Fi communication and its potential 
+applications. Compare Li-Fi and Wi-Fi in terms of technology, 
+speed, and limitations. 
+(10) 
+CO4 
+Q9 
+Analyze the features and challenges of 5G networks. Also 
+discuss the role of Ultra-Wideband Communication (UWB) in 
+wireless communication. 
+(10) 
+CO4

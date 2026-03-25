@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: PhD  
+(May, 2025) 
+ 
+Subject Code: PHD 047 
+                                    Subject: Introduction to Internet of Things  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+How does the Internet of Things (IoT) differ from traditional internet 
+usage? 
+2.5 
+CO1 
+b 
+Discuss the term “Industrial IoT” (IIoT) in today’s scenario.  
+2.5 
+CO1 
+c 
+Describe one IoT-based smart city service and how it improves urban 
+life. 
+2.5 
+CO2 
+d 
+Why is networking important in IoT systems? Mention one example 
+where networking enables an IoT solution. 
+2.5 
+CO2 
+e 
+Define data analytics in the context of IoT. 
+2.5 
+CO3 
+f 
+Briefly explain the difference between Zigbee and LoRaWAN in terms 
+of range and power usage. 
+2.5 
+CO3 
+g 
+How is Arduino different from Raspberry Pi? 
+2.5 
+CO4 
+h 
+What security concerns arise in IoT systems, and what are some basic 
+ways to address them? 
+ 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the architecture and components of an IoT system. How do 
+sensing and actuation technologies contribute to the functioning of IoT 
+applications? 
+10 
+CO1 
+Q3 
+Discuss the role of communication protocols in IoT with a focus on 
+HTTP. How does HTTP work in IoT systems and what are its limitations? 
+ 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is interoperability in the context of IoT systems? Why is it a critical 
+challenge and how can it be addressed? 
+10 
+CO2 
+Q5 
+Describe the concept of machine-to-machine (M2M) communication. 
+How does M2M communication influence the performance and 
+scalability of IoT networks? 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What are the steps involved in implementing an IoT system using 
+Raspberry Pi? Provide an example use-case to illustrate your answer. 
+10 
+CO3 
+Q7 
+Define Software Defined Networking (SDN). Explain the role of SDN in 
+IoT with emphasis on network management, flexibility, and scalability. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Compare cloud computing and fog computing in the context of IoT. 
+How does fog computing address the limitations of cloud computing in 
+real-time applications? 
+10 
+CO4 
+Q9 
+Explain how IoT is transforming the healthcare industry. Describe an 
+IoT-based remote health monitoring system and its benefits. 
+10 
+CO4

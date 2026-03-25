@@ -1,0 +1,74 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  4) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 210 
+Subject:  Operation Management  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Define productivity and explain factor affecting on productivity. 
+ 
+ 
+b) Explain types of production system. 
+ 
+ 
+c)  Explain the important factors considered for selecting the plant location. 
+ 
+ 
+d) Explain the need of demand forecasting and its characteristics. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Define Organization structure and explain the different types of 
+organization structure with applications. 
+ 
+ 
+b) Differentiate between process layout and product layout concept with 
+proper diagram. 
+ 
+ 
+c) Calculate various productivity factors and total productivity with the 
+following data: (i) Output= 1,00,000 (ii) Labor = 20,000 (iii) Material = 30,000 
+(iv) Capital= 20,000 (v) Energy= 5000, Other expenses= 2000. ( units are same 
+for inputs and output) 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain the qualitative techniques of forecasting. Mention the advantage 
+and limitation of techniques as well. 
+ 
+ 
+b) Define the approach of Forecasting with relevance to business applications. 
+ 
+ 
+c) A company wants to forecast the demand for 6th month using Simple 
+Exponential Smoothing (SES). The demand for the past 5 months is given. The 
+company chooses a smoothing factor (α) = 0.3 and assumes the initial forecast 
+(F1) to be equal to the first actual demand (120) 
+Months 
+1 
+2 
+3 
+4 
+5 
+Demand 120 
+130 
+125 
+140 
+150

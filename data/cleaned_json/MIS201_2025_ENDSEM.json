@@ -1,0 +1,142 @@
+{
+  "paper_id": "MIS201_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS201",
+    "subject_name": "Ethical Hacking",
+    "program": "M.Tech (IT",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is active and passive reconnaissance?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the steps for performing security audit of an organization?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a polymorphic and a metamorphic worm?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain Vishing and Smishing attacks.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain briefly SQL injection attacks and how it can be defended?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you mean by password sniffing? Is it active or passive attacks? Justify your answer?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain Blind Hijacking and Session Hijacking.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is Activity Profiling?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain all the phases of hacking.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain IT Act 2000. Explain Section 66 of Indian IT Act.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the following: 1. Ingress Filtering 2. Egress Filtering 3. Honeypots 4. Load Balancing 5. Throttling",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is a computer trojan? Briefly explain any 6 purposes of a computer trojan. Explain with an example how a trojan attack works.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "SQL injection attack",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Cross site scripting attack",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Ping of death attack",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Webserver Hijacking",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain any 5 tools of Ethical Hacking.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is dark Web? What are the layers of Web? Justify the ethical use of Dark Web.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

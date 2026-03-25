@@ -1,0 +1,101 @@
+{
+  "paper_id": "PHD139_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD139",
+    "subject_name": "Quantitative and Mixed Methods Research for Management",
+    "program": "PhD",
+    "semester": 1,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the main differences between quantitative, qualitative, and mixed-method research approaches?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compare primary and secondary data collection methods with examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a hypothesis? Differentiate between null and alternative hypotheses.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define ANOVA. How is it different from a t-test or F-test?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the process of drawing a research gap from existing literature.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the key stages of conducting research from problem identification to conclusion.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What are the criteria for selecting appropriate data collection methods for a study?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are the different types of sampling techniques? Provide examples of when each might be used.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How is univariate analysis different from bivariate analysis? Explain with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "When is a large sample test preferred over a small sample test, and why?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the key assumptions behind multivariate statistical techniques? What is regression analysis?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the process of presenting and interpreting quantitative research findings in a written report.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

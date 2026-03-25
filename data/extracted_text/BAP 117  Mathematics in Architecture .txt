@@ -1,0 +1,172 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Arch., Semester: I 
+(December, 2024) 
+ 
+Subject Code: BAP-117 
+Subject: Mathematics in Architecture 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(5*4=20) 
+CO 
+Mapping 
+ 
+(a) Use De-Moivre’s theorem to evaluate (1 + 𝑖)100. 
+CO1 
+ 
+(b) Find the direction cosines of x-axis, y-axis and z-axis. 
+CO2 
+ 
+(c) Find the Taylor Series for 𝑓(𝑥) = cos𝑥 about 𝑥= 0. 
+CO3 
+ 
+(d) Find the arithmetic mean and variance of the data: 
+5,3,6,5,4,5,2,8,6,5,4,8,3,4,5,4,8,2,5,4. 
+CO4 
+ 
+ 
+ 
+UNIT-I 
+CO 
+Mapping 
+Q2 
+Determine the volume of the solid obtained by rotating the region 
+bounded by 𝑦 = 𝑥2 − 4𝑥 +  5, 𝑥=  1, 𝑥= 4, and the 𝑥-axis about 
+the 𝑥-axis. 
+(10) 
+CO1 
+Q3 
+Discuss the symmetries present in a triangle and a square, highlighting 
+their differences and similarities. 
+ 
+(10) 
+CO1 
+UNIT-II 
+CO 
+Mapping 
+Q4 
+(i) For which values of k the lines 
+ 
+𝑥−2
+1 =
+𝑦−3
+1 =
+𝑧−4
+−𝑘 and 
+𝑥−1
+𝑘=
+𝑦−4
+2 =
+𝑧−5
+1  
+are coplanar. 
+(ii) Find the angle between the pair of lines given by 𝑟⃗= 3𝑖̂ + 2𝑗̂ −
+4𝑘̂ + 𝜆(𝑖̂ + 2𝑗̂ + 2𝑘̂) and 𝑟⃗= 5𝑖̂ −2𝑗̂ + 𝜇(3𝑖̂ + 2𝑗̂ + 6𝑘̂).                        
+(10) 
+CO2 
+Q5 
+(i) Find the angle between the pair lines: 
+ 
+𝑥+3
+3 =
+𝑦−1
+5 =
+𝑧+3
+4  and 
+𝑥+1
+1 =
+𝑦−4
+1 =
+𝑧−5
+2  . 
+(ii) Given a line with direction ratios of 4, 2, and -4, calculate the 
+direction cosines for this line. 
+(10) 
+CO2 
+UNIT-III 
+CO 
+Mapping 
+Q6 
+(i) Solve the initial value problem of second order linear homogeneous 
+equation with constant coefficients:  
+𝑦′′ −6𝑦′ + 8𝑦= 0;  𝑦(0) = −2, 𝑦′(0) = 6 
+(ii) Derive the reduction formula for ∫sin𝑛𝑥 𝑑𝑥. 
+(10) 
+CO3 
+Q7 
+Use 2nd derivative test to find the maxima and minima of the function 
+𝑓(𝑥) = (𝑥 − 1)(𝑥 − 2)2 
+and the value of the function f(x) at its minima and maxima? 
+(10) 
+CO3 
+ 
+UNIT-IV 
+CO 
+Mapping 
+Q8 
+Can mean, mode and median be the same? If yes, state the situation. 
+Also, determine the mean, median and mode of the distribution:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Class 
+Interval 
+Frequency 
+30-34 
+3 
+35-39 
+5 
+40-44 
+12 
+45-49 
+18 
+50-54 
+14 
+55-59 
+6 
+60-64 
+2 
+(10) 
+CO4 
+Q9 
+Draw a scatter diagram to represent the following data: 
+X 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+Y 
+78 
+72 
+66 
+60 
+54 
+48 
+42 
+36 
+30 
+24 
+18 
+12 
+Also, describe the relationship between X and Y. 
+(10) 
+CO4

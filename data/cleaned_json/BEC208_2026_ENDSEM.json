@@ -1,0 +1,78 @@
+{
+  "paper_id": "BEC208_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC208",
+    "subject_name": "Communication Systems",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is the difference between a discrete and a continuous random variable? b What is the use of the Poisson distribution in communication? c What is a Markov process? How is it used in modeling systems? d Explain the concept of envelope detection in AM systems. e Why is phase locked loop important in FM demodulation? f Explain the purpose of pre-emphasis in FM transmission. g What is the significance of multivariate Gaussian distribution? h What do you understand by coherent demodulation?",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is Bayes’ rule? Derive Bayes’ theorem for continuous random variables with an example. Also, define and differentiate between strict-sense stationary and wide-sense stationary processes with examples.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain autocorrelation and cross-correlation functions for random processes. What are their key properties? For a WSS random process with autocorrelation function 𝑅𝑋 = 𝑒|𝜏|, determine the power spectral density using the Fourier transform.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe the functional blocks of a basic communication system. Compare analog and digital communication with respect to bandwidth, noise immunity, and complexity.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain AM, SSB, and VSB modulation techniques with time and frequency domain representations. An AM wave has a carrier frequency of 1 MHz and a modulation index of 0.6. If the carrier power is 200 W, calculate the total transmitted power and the power in each sideband.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain narrowband and wideband FM. Discuss the bandwidth requirements of FM using Carson’s rule.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A sinusoidal signal 𝑚 = 10 cos modulates a carrier of 100 kHz in an FM system 𝑘𝑓= 1000 𝐻𝑧/𝑉. Calculate the frequency deviation and the bandwidth using Carson’s rule. ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain thermal noise, shot noise, and white noise. What are their effects in communication systems?",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define noise equivalent bandwidth and noise figure. How are they important in receiver design? A receiver has a noise figure of 5 dB and bandwidth of 100 kHz. Compute the equivalent noise temperature.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

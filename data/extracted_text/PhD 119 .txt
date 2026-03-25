@@ -1,0 +1,106 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+END-TERM EXAMINATION 
+(Course Name: PHD.) (Semester:    01 ) 
+(May 2025) OFF LINE mode 
+ 
+Subject Code: PhD 119 
+Subject: Cyber Security and Privacy 
+Time :  3 Hours 
+Maximum Marks :60 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Attempt any four 
+ 
+ 
+ 
+a) Effective communication among stakeholders is critical to the structures and 
+processes used in governance at every level, especially in information security 
+governance. Why are the objectives of  Information Security Governance in an 
+organisation.  
+5 
+CO1 
+ 
+b) How are Policies, standards, guidelines, and procedures are related to each other 
+with reference to Information Security.  
+5 
+CO1 
+ 
+c) How does symmetric and asymmetric cryptographic algorithms differ in terms of 
+security, performance, and use cases. 
+5 
+CO2 
+ 
+d)  Define the following terms 
+i). Access Control List (ACL) 
+ii). Lattice-based access control (LBAC) 
+iii). Role-based access control (RBAC) 
+iv). Task-based access control (TBAC) 
+v). Passphrase and Password 
+5 
+CO3 
+ 
+e)  How do Trap doors cause serious security breaches ? Explain 
+5 
+CO4 
+UNIT I 
+ 
+ 
+Q2 
+How does Viruses and worms use several attack vectors to spread copies of 
+themselves to networked peer computers? Explain citing 5 examples/ case studies 
+10 
+CO1 
+Q3 
+What is Software Security Development Life Cycle? What are the 12 steps in Microsoft 
+Security Development Life Cycle?  
+10 
+CO1 
+UNIT II 
+ 
+ 
+Q4 
+Consider yourself Emanuel, Team Leader for information security development. As a 
+Team Leader you have created and ranked software vulnerability risk worksheet. You 
+are required to select a strategy for controlling each risk that results from software 
+vulnerabilities. Explain how the risk control strategy that you have selected will reduce 
+the impact of an attack? 
+10 
+CO2 
+Q5 
+How does the Cyber Security Policies: EISP, ISSP, SYSSP differ among each other ? 
+10 
+CO2 
+UNIT III 
+ 
+ 
+Q6 
+What do you mean by a firewall? Explain the following terms: 
+a) Packet-Filtering Firewalls 
+b) Application Firewall 
+c) Hybrid Firewalls 
+d) Unified Threat Management (UTM) 
+10 
+CO3 
+Q7 
+Why is Information security important functions for an organization? Explain in terms 
+of Protecting Functionality, Data, Safe Operation and safeguarding technology. 
+10 
+CO3 
+UNIT IV 
+ 
+ 
+Q8 
+The Payment Card Industry (PCI) Security Standards Council offers a standard of 
+performance to which participating organizations must comply. Payment Card 
+Industry Data Security Standards (PCI DSS), are designed to enhance the security of 
+customers’ account data. Write any 10 requirements that PCIDSS addresses in 
+different areas of data security. 
+10 
+CO4 
+Q9 
+Write short note on (Any two) 
+a) Espionage      b) Privacy vs Safety      c) Data Breach 
+10 
+CO4

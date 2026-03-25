@@ -1,0 +1,90 @@
+{
+  "paper_id": "BEC302_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC302",
+    "subject_name": "Digital Signal Processing",
+    "program": "B. Tech. ECE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the N point DFT for x=an for 0<a<1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Given x={0,1,2,3},Find X using DIT-FFT",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Obtain the Direct Form-II structure of the system y=-0.1y+0.72y+0.7x-0.252x",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "An analog filter has the following transfer function H=1/s Using Bilinear transform technique, determine the transfer function of the digital filter H",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the response of FIR filter with impulse response h={1,2,4} to the input sequence x={1,2} using circular convolution.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find linear convolution using overlap and add method of the following sequence x[n]={3,0,-2,0,2,1,0,-2,-1,0} h[n]={2,2,1} using overlap and add method.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the inverse DFT of the sequence X={6,-2+2j,-2,-2-2j} using efficient computation algorithm.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Convert an analog filter with system function H into digital IIR filter using impulse invariance method H= 𝟏𝟎 𝒔 𝟐 +𝟕𝒔+𝟏𝟎",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Realise the discrete system y =-0.1y+0.2y+3x+3.6x+0.6x using Cascade forms Parallel forms.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "A certain discrete time LTI filter has the following data Poles are at 0.2 and 0.6 Zeros are at -0.4 and origin Gain of the filter is 5 Show direct form-II and cascade form realization.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

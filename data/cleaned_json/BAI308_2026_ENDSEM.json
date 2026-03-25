@@ -1,0 +1,118 @@
+{
+  "paper_id": "BAI308_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI308",
+    "subject_name": "Cloud Computing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How does cloud computing overcome the limitations of grid computing?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the challenges of cloud computing that are still need to be addressed.",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "List the standard protocols used in web services.",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is PaaS in cloud computing? Explain with example.",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "List the steps involved in the Virtual Machine provisioning process.",
+          "marks": null
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the properties of a Type 2 hypervisor.",
+          "marks": null
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the blockchain structure that makes it secure.",
+          "marks": null
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the security concerns at different levels of the cloud computing environment.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How have computing paradigms evolved up to the point of cloud computing, and what are the key milestones in this evolution?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the deployment models of cloud computing in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the need for cloud migration? Discuss the steps involved in the cloud migration model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is dynamic scalability? Discuss the types of dynamic scaling with appropriate diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "In the context of modern programmable networks, how does Software Defined Networking redefine traditional network control and forwarding mechanisms? Illustrate your explanation with a detailed architectural diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How does Network Function Virtualization transform traditional network architecture in modern cloud-based infrastructures?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain what a smart contract is and how it works. Provide a demonstration with sample code.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "In what ways do containers differ from traditional virtualization in terms of resource isolation, management, and scalability?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

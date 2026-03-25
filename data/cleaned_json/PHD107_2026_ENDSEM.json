@@ -1,0 +1,78 @@
+{
+  "paper_id": "PHD107_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD107",
+    "subject_name": "Applied Optics",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping What are zone plates? Where are they used? 1 What is the use of double refraction? 1 How does the first minima for diffraction from circular aperture differ from rectangular aperture. 2 What are Fresnel half-period zones? 2 State Malus’s law. 3 What conditions are necessary to produce a laser? 3 What is Fermat’s principle? 4 What are the uses of the Quarter and Half wave plate? 4 CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "What all different ways are there to produce polarized light? How it detected. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Derive the expression for resolving power of a grating. 1 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What is Conu’s spiral. Derive its conditions using Fresnel integrals. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Derive the expression for diffraction at a straight edge. 2 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Derive the expression for diffraction through a circular aperture. Explain the term 1.22 𝜆 𝑑. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Derive the expression for multiple slit diffraction. State the concept of anti-reflection coatings. 3 CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain how a holographic image is produced with the help of equations. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "What all constraints are there to produce a Holographic image? Give five uses of Holography. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

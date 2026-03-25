@@ -1,0 +1,99 @@
+{
+  "paper_id": "BAI106_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI106",
+    "subject_name": "Database Management Systems",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a Define Data Independence. b Explain the role of the Database Administrator. c What is BCNF? How does it differ from 3NF? d Differentiate between Strong and Weak Entity Sets. e Define Deadlock. How can it be prevented in DBMS? f What are ACID properties in transaction management? g What is a cursor in SQL? Briefly explain its types. h What is a Trigger in SQL? Give a suitable example.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the three-level architecture of DBMS with a neat diagram. How does this architecture support data independence?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast the File System and DBMS in detail. What problems of file systems are solved by DBMS?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw an ER diagram for an Online Shopping System. Identify entities, relationships, attributes , and cardinalities. Convert the ER diagram into relational schema.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "List names of employees working in ‘Sales’ department.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find departments located in ‘Delhi’.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Increase budget of all projects by 10%.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Display employees along with their department name.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain Functional Dependencies and their role in normalization. Q: Consider the relation R with the following set of functional dependencies: F = { A → B, B → C } The relation R is decomposed into two relations: R1 and R2 1) Is this decomposition lossless? Justify your answer using the lossless join property. 2) If the decomposition is not lossless, suggest a correct decomposition.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is a transaction? Explain the ACID properties in detail. Discuss concurrency control techniques and their role in ensuring consistency..",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the steps involved in query processing. How is query optimization done, and what factors influence the cost of query execution?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is a trigger in PL/SQL? Write a program to create a trigger that automatically inserts a log entry into a table Audit_Log whenever a new employee is added to the Employee table.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

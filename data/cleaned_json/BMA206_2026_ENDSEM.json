@@ -1,0 +1,80 @@
+{
+  "paper_id": "BMA206_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA206",
+    "subject_name": "Engineering Materials",
+    "program": "B. Tech.(MAE",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Short Answer type Questions. CO Mapping 1) Explain the annealing process of heat treatment? CO-3 2) What is ductile fracture? Explain with the help of suitable diagram. CO-4 3) Enlist the factors that affect fatigue life. CO-4 4) What is the cause of rusting of iron? CO-3 5) Define Frankel defect with suitable diagram. CO-1 6) What is an alloy? Explain with suitable example. CO-1 7) What is the significance of engineering materials in our day-to- day life? Explain with suitable example. CO-2 8) Define composite material with suitable diagram. CO-2",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is edge dislocation and Explain the Point Defects with suitable diagram? CO-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain briefly the following:- 1) Unit Cell 2) Polymorphism 3) Polycrystalline material 4) Crystal Structure 5) Anisotropy CO-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the microstructure of various phases of steel with suitable diagram. CO-2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Give classification of Cast Iron. Explain different types of Cast Iron. CO-2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is corrosion? Explain corrosion types and their causes. Explain the corrosion control methods. CO-3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain with neat diagrams the following heat treatments processes: • Normalizing • Hardening • Tempering • Surface hardening CO-3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the strain hardening process of strengthening mechanism in solids in detail. CO-4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is Steady Failure? Explain the fatigue and creep failures with suitable examples CO-4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "MMS222_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS222",
+    "subject_name": "Performance Management",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Identify the process and approaches to performance appraisal. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the pre-requisites of performance management? What are the key reasons behind the move from performance appraisal to performance management? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "“Performance counselling is the heart of performance management system.” Do you agree? CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the key questions which should be considered while designing a performance linked reward system? CO 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is competency-based performance management, and how does it differ from traditional methods? CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why did SeaCloud decide to revamp its performance management system? What measures were introduced under SeaCloud’s new system? CO 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write a short note on economic theory of choice and employee benefits. CO 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the critical dimensions of Employee Value Proposition, and how has Tesco Business Services addressed this? Why did TBS introduce a wide range of employee benefits and a hyper- personalized employee experience? CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How will today’s mega-trends, particularly demographic and technological transformation, reshape the future design and importance of employee benefits plans? CO 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the main difference in employee benefits between United States, South Korea and India. CO 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

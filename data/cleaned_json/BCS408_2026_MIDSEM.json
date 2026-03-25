@@ -1,0 +1,37 @@
+{
+  "paper_id": "BCS408_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS408",
+    "subject_name": "Software Project Management",
+    "program": "B.Tech CSE",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½ Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Why is it essential to have step-wise project planning in Software Project Management ? Additionally, how does this structured approach help in managing uncertainties and risks? How do software projects differ from other types of projects in terms of their lifecycle, planning, execution, and risk management? What are the key benefits of breaking down the project into smaller, manageable tasks? Explain with reference to WBS. How can milestone charts be used to effectively represent the schedule of a software project, and what advantages do they offer in terms of identifying potential delays?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 CO Explain the structure of a software project management plan with a suitable example. How software project estimation techniques are useful in project planning step of software project management? Give a brief overview of all estimation techniques How function point analysis overcomes the limitations of lines of code metric? Calculate UFP and FP for the given application: An application has 10 low external inputs, 12 high external outputs, 20 low logical files, 15 high external interfaces and 12 average external enquiries. Assume value of CAF as 1.10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 CO Explain the software development lifecycle with the help of water model. Identify the critical activities with the help of CPM Method for the following activities: ACTIVITY NAME TIME PRECEDENTS A HARDWARE SELECTION 6 - B SOFTWARE DESIGN 4 - C INSTALL HARDWARE 3 A D CODE & TEST SOFTWARE 4 B E FILE TAKE ON 3 B F WRITE USER MANUALS 10 - G USER TRAINING 3 E,F H INSTALL & TEST SYSTEM 2 C,D What are the key differences between the project life cycle and the product life cycle and how do these differences impact the way project managers approach planning, execution, and delivery? Note: Q. 1 is compulsory. Subject: Software Project Management Subject Code: BCS 408",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

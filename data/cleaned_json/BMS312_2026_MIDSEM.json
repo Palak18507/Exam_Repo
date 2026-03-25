@@ -1,0 +1,90 @@
+{
+  "paper_id": "BMS312_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS312",
+    "subject_name": "Financial Modelling and Derivatives",
+    "program": "BBA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by the Discounted Cash Flow model? Explain how the intrinsic value of a share is calculated using the DCF model.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain IF, Sum if and Count If Functions and how it be utilized in finance.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of Annuity and its types. How is annuity calculated?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by the Leveraged Buyout model? Explain it with relevant examples",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain any five financial functions. Provide relevant examples to illustrate their applications.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the different types of charts used for visualizing the financial data and how they help in identifying trends, patterns and financial insights.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of Sensitivity Analysis. Discuss the different techniques of sensitivity analysis and how they can be applied in financial modelling.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain financial modelling and Why is financial modeling significant for both investors and companies.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Calculate Enterprise Value of ABC ltd using Market Value Method based on the following given below Number of shares Outstanding of ABC ltd are 45,400 with a market value of Rs. 350 per share each. Cash 1,40,000 Bank 65,000 Marketable Securities 32,000 Short Term Debt 2,50,000 Long Term Debt 3,35,000 Other Liabilities 1,25,000 Minority Interest 2,22,000 Preference Share 3,50,000 Pension Liabilities 1,65,000 Reserve and Surplus 4,35,400",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Prepare a Common size balance sheet of XYZ Ltd. from the information given below: Particulars 31st March 2024 31st March 2023 Equity Share Capital 34,00,000 40,00,000 Furniture and Fixures 10,00,000 15,50,000 Reserve and Surplus 6,65,000 7,60,000 Inventories 70,000 1,15,000 Prepaid Expense 25,000 35,000 Bonds 25,00,000 26,50,000 Sundry Creditors 4,10,000 4,80,000 Bills Payable 40,000 50,000 Secured Loan 3,00,000 4,60,000 Investment 16,00,000 18,00,000 Land and Building 25,00,000 25,00,000 Plant and Machinery 26,00,000 31,00,000 Preference Share Capital 8,00,000 12,00,000 Cash and Cash Equivalents 1,20,000 2,00,000 Sundry Debtors 2,00,000 3,00,000",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE) (OffLine) 
+Course Name: B.TECH, Semester:VI 
+(May 2025) 
+ 
+Subject Code: BIT 306 
+Subject: Data Mining and Machine Learning     
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) When would you use a decision tree instead of a linear model?   
+Provide suitable examples. 
+ 
+CO1 
+ 
+b) What is overfitting and underfitting in machine learning? How can it 
+be avoided? 
+ 
+CO1 
+ 
+c) What is meant by K-fold cross-validation? Explain with suitable 
+example. 
+ 
+CO2 
+ 
+d) What is the role of the learning rate in gradient descent? Describe 
+the purpose of activation functions in neural networks and provide 
+one example. 
+ 
+CO4 
+ 
+e) How does an LSTM cell help in solving the vanishing gradient 
+problem in recurrent neural networks? 
+ 
+CO4 
+ 
+f) Define the kernel trick used in SVMs.  
+ 
+CO3 
+ 
+g) Mention any two types of evaluation metrics for regression models. 
+ 
+CO2 
+ 
+h) What is the importance of data preprocessing in machine learning 
+pipelines? Give proper justification. 
+ 
+CO3 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+a) Discuss the steps of the Knowledge Discovery in Databases (KDD) 
+process in sequence, explaining each step briefly. 
+b) Explain how data cleaning (e.g., handling missing values, noisy data) 
+and data transformation (e.g., normalization) can significantly 
+impact the accuracy of mining results. 
+(10) 
+CO1 
+Q3 
+a) Describe the types of data used in data mining with suitable 
+examples. 
+b) Using Python and Pandas, demonstrate how to normalize a dataset 
+using Min-Max Scaling. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+a) Explain the Decision Tree algorithm. What are the roles of 
+information gain and Gini index in constructing the tree? 
+b) Given the following dataset for a binary classification (Yes/No), 
+compute the Gini index for a hypothetical split on a feature that 
+partitions data into: 
+ 
+Subset 1: 12 samples (8 ‘Yes’, 4 ‘No’) 
+ 
+Subset 2: 8 samples (2 ‘Yes’, 6 ‘No’) 
+Show your working and final value of the Gini index. 
+(10) 
+CO2 
+Q5 
+Why and when do we use regression models? Consider the following 
+dataset with a single feature x and a label y. You want to fit a simple 
+linear regression model: 
+x 
+y 
+1 
+2 
+2 
+4 
+3 
+5 
+4 
+8 
+a) Calculate the best-fit slope and intercept for this dataset using the 
+normal equations or any systematic approach. 
+b) Estimate the value of y for x=5 using your regression equation. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+a) Differentiate between hierarchical clustering (agglomerative or 
+divisive) and k-means clustering with respect to their approach, 
+required parameters, and usage scenarios.  
+b)  Give an example scenario where dimensionality reduction (e.g., 
+using PCA) would be beneficial in a machine learning pipeline. 
+(10) 
+CO3 
+Q7 
+a) Discuss k-Means Clustering with an emphasis on initialization of 
+cluster centroids, iterative updates (reassignment of points and 
+recalculation of centroids), and stopping criteria. 
+b) Consider a dataset of 2D points: {(2,2), (2,3), (3,4), (10,12), (11,12), 
+(12,10)} 
+i. 
+Illustrate how k-means clustering with k=2 might partition 
+these data points after a 2 iterations. Show the possible 
+cluster centers and membership. 
+ii. 
+Compute the sum of squared errors (SSE) for your final 
+clusters. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+a) Discuss the basic architecture of a feedforward neural network 
+(multi-layer perceptron) and the role of backpropagation in 
+training. 
+b) Given a 28×28 grayscale image and a 3×3 filter (stride = 1, no 
+padding), calculate the size of the output feature map after one 
+convolutional layer. Then, if a 2×2 max pooling layer with stride = 2 
+is applied, what will be the final output size? 
+(10) 
+CO4 
+Q9 
+a) Suppose you have a simple neural network with one hidden layer. 
+Describe how you would compute the forward pass for an input 
+vector x. Include the notations for weights, biases, and activation 
+functions. 
+b) Explain with appropriate calculations how an LSTM cell updates its 
+cell state (Ct) and hidden state (ht) given the following gate outputs 
+and inputs: 
+ 
+Forget gate (ft) = 0.8 
+ 
+Input gate (it) = 0.3 
+ 
+Candidate cell state (C~t) = 0.6 
+ 
+Previous cell state (Ct-1) = 0.5 
+ 
+Output gate (ot) = 0.9 
+(10) 
+CO4

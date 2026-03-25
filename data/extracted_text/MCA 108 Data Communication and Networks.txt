@@ -1,0 +1,65 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: MCA) (Semester: 2) 
+(March, 2025) OFF LINE mode 
+ 
+Subject Code: MCA 108 
+Subject: Data Communication and Computer Network 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+ 
+ 
+ 
+Q1 
+(2.5*4) 
+ 
+(a) List various connecting devices used in networking and explain any two of 
+them.  
+UNIT-1 CO1 
+(b) What is the difference between a port address, a logical address, and a 
+physical address? Explain with a suitable example of each. 
+UNIT-1 
+(c) Generate the CRC code for the data word of 100100 if the divisor is 1101. 
+UNIT-2 CO2 
+(d) What is the maximum number of subnets and addresses in each subnet for 
+a class A network with subnet mask 255.255.192.0? 
+UNIT-2 
+UNIT-1          (CO1) 
+Q2 (Attempt any Two Parts )      
+(5,5) 
+(a) Why is switching necessary in networking? Classify the different types of switching 
+techniques and differentiate between circuit switching and packet switching. 
+(b) What are the differences between the OSI and TCP/IP reference models? List and explain 
+the functions of the first three layers of the OSI model. 
+(c) What are the various types of transmission media used for data communication? Explain each 
+type in brief. 
+UNIT-2              (CO2) 
+Q3 (Attempt any Two Parts )      
+(5,5) 
+(a) Differentiate between ALOHA and slotted ALOHA protocols. Show the frame transmission 
+and vulnerable time for slotted ALOHA and also derive the expression for maximum 
+available throughput for it. 
+(b) An organization is granted a block of addresses with the beginning address 14.24.74.0/24. 
+The organization needs to have 3 sub-blocks of addresses to use in its three subnets as given 
+below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(i) One sub-block of 123 addresses. 
+(ii) One sub-block of 56 addresses. 
+(iii) One sub-block of 14 addresses. 
+Design the sub-networks and find the information about each network. 
+ (c) What are the advantages of IPv6 over IPv4? Draw and explain the various fields in the header 
+format of IPv4. 
+ 
+Note: Q. 1 is compulsory.

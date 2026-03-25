@@ -1,0 +1,77 @@
+{
+  "paper_id": "BMA419_2025_UNKNOWN",
+  "paper_metadata": {
+    "subject_code": "BMA419",
+    "subject_name": "Hydraulic & Pneumatic Control",
+    "program": "B.Tech.(MAE",
+    "academic_year": "2024-2025",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "List and explain the primary function of hydraulic oils. Explain low and high viscosity fluids and effects of temperature on viscosity What is the function of direction control valve? Explain 3/2 and 5/2 direction control valves. Explain the single and double acting cylinder with the help of circuit. What is cushioning effect in pneumatic actuators? Explain. Differentiate between hydraulic and pneumatic systems. Explain the linear flow equations of orifice and nozzle. Discuss the role of feedback control systems in pneumatic systems.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain different types of hydraulic fluids with their merits and demerits.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Differentiate between positive and non-positive displacement pumps? Explain the working of vane pump with the help of diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "What are the functions of different types of valves used in hydraulic system? Explain single and two stage pressure control valves with neat sketch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Derive an expression for the flow-displacement relationship of a critical center or open center three-way spool valve.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain primary and secondary treatment of air in pneumatic systems in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Describe different types of compressors used in pneumatic system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Describe the proportional gain, derivative and integral actions in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Write the short notes on any two. Pneumatic transmission lines Linear dynamics of a variable volume of gas Pneumatic pressure regulator OR What is role of on-off pneumatic feedback and explain PID control scheme.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

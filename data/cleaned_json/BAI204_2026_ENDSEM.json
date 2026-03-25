@@ -1,0 +1,105 @@
+{
+  "paper_id": "BAI204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI204",
+    "subject_name": "Optimization Techniques and Decision Making",
+    "program": "B. Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping a. Define optimization and explain its significance in engineering design and decision-making processes. 2.5 b. Explain the role of constraints in mathematical programming formulations. 2.5 c. Differentiate between linear programming and quadratic programming. 2.5 d. Define Integer Programming . Explain its importance in solving discrete optimization problems. 2.5 e. What is the role of Particle Swarm Optimization in solving real-world problems? 2.5 f. Why is mathematical formulation important before applying optimization algorithms? 2.5 g. What is the difference between decision making under risk and under uncertainty? 2.5 h. Define utility theory in the context of decision making. 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the general structure of an optimization algorithm. Describe how constraints and objective functions interact within this structure to determine optimal solutions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Evaluate the role of constraints in optimization. Explain the difference between equality and inequality constraints, and illustrate their impact on feasible solutions using appropriate examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Explain the principles of Linear Programming and discuss its applications in resource allocation problems. Solve the following Linear Programming Problem using the graphical method. Clearly indicate the feasible region, corner points, and determine the optimal solution. Maximize: Z = 4x + 3y Subject to:  2x + y ≤ 10  x + 2y ≤ 12  x ≥ 0, y ≥ 0",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "What is Semi-Definite Programming ? Discuss its role in modern optimization problems, and explain one practical application where SDP provides an effective solution compared to other programming techniques.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the key components and process flow of Ant Colony Optimization . Discuss its application in solving combinatorial problems like the Travelling Salesman Problem .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Briefly explain the working principles of a Genetic Algorithm . Given the initial population {1010, 1100} and fitness function as the number of ones in the string, perform one generation using single-point crossover after the 2nd bit and apply bit-flip mutation with a probability of 0.5 per bit. Show all steps and determine the new population.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define Group Decision Making and explain common methods used to achieve consensus in group settings. Discuss challenges faced in GDM and how Multi-Criteria Decision Making techniques can support better outcomes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Decision-Making Environment",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Group Decision Making",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Content-Oriented Methods",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Payoff Table",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Maximax and Maximin Criteria",
+          "marks": 2.0
+        }
+      ]
+    }
+  ]
+}

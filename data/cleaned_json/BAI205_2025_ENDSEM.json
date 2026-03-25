@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI205",
+    "subject_name": "Neural Networks and Artificial Intelligence",
+    "program": "B. Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of 'search knowledge' in the context of AI and provide one example of its use in problem-solving.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are intelligent agents? Describe the role of agents in the AI system architecture.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the Means-End Analysis technique with an example of problem-solving in AI.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Analyze the significance of alpha-beta pruning in improving the performance of Minimax in decision-making systems.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a conceptual dependency graph? Demonstrate its application in representing natural language sentences.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain how semantic networks can be used for reasoning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are radial basis function networks? Explain their working and significance in AI applications.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the role of activation functions in neural networks. Compare commonly used activation functions with examples.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Compare informed and uninformed search strategies. Evaluate their effectiveness in solving a given problem with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the functionality of different types of intelligent agents. Discuss their relevance in designing autonomous systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT -",
+      "question_text": "Define informed search strategies and explain how heuristics influence their efficiency. Further, Explain the A* algorithm in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT -",
+      "question_text": "Define constraint satisfaction problems . Solve a real-world problem using CSP techniques.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the principles of Forward Chaining and Backward Chaining within Rule-Based Systems, emphasizing their distinctions and real-world use cases.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain how predicate logic extends propositional logic for knowledge representation. Discuss its application in knowledge representation.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Compare single-layer perceptron with multi-layer perceptron. Explain how backpropagation improves learning.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the learning paradigms in AI: supervised, unsupervised, and reinforcement learning. Provide real-world examples for each.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

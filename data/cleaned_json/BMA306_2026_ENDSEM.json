@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMA306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA306",
+    "subject_name": "Computer Aided Design",
+    "program": "B.Tech",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Highlight the applications of Integrated CAD/CAM systems in Mechanical Engineering.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Name the CAD tools required for Design communication & documentation",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What will be the effect on the size & shape of the model if scaling factors are Sx ≠ Sy ≠ Sz",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the significance of CSG?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write the parametric equation of plane surface passing through a point & contains two directions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What is the basis of Bezier curve?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Why Polynomials of higher degree are discouraged for surface modeling?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Find the shape functions of the cubic bar element at the nodes 1 and 2.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "How computer aided design differs from conventional design? List the benefits & application of CAD",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Provide the steps of Bresenham line drawing algorithm and apply the algorithm on endpoints as and .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Determine the equivalent transformation matrix for the reflection through an arbitrary line y=mx+c.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "For the Position vectors P1[1 2] & P2[4 3], determine the parametric representation of line segments between them. Also determine the slope & tangent vector of the line segments.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Fit a Bezier curve having the following control points: P0 P1 P2 & P3. Find out points at t= 0.4 & 0.6.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Sketch the CSG tree for the solid S3 shown in above figure -1. Figure-1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the step by step procedure to solve the engineering problem using finite element methods. Also illustrate the different types of the one dimensional and two dimensional elements.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Find the displacement of the end face and the shoulder of the stepped bar shown in figure-2 using FEM. Also find the stresses in each part of the bar. Take E = 200 GPa Figure -2",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

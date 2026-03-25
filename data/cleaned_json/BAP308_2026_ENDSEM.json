@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP308_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP308",
+    "subject_name": "Structures VI",
+    "program": "<B.Arch>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Explain shear R/F in beam with neat sketches. Show different types of shallow foundation with neat sketches. Show parts of retaining wall and what are different stability check required for safe retaining wall. Explain circular ring & helical reinforcement in column with neat sketches. Explain general rules for providing main R/F and ties R/F detail in column Explain deep foundation and at what depth these foundation transfer load of super structure. Define shallow foundations? Draw force diagram of retaining wall by lateral load.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Explain main & tie Reinforcement of different types of columns?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Design short axial column 500x500M having axial load 1500 Kn. Adopt M25 grade of concrete and Fe 500 of R/F Steel. Show main and tie bars.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain design procedure of isolated square footing by limit state method assume suitable data.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What is deep foundation? Explain the types of deep foundations?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Explain different types of retaining wall and also explain lateral load on cantilever retaining wall.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain design procedure of cantilever wall for retaining earth 6M height. Show R/F detail of cantilever wall main R/F and distribution R/F bar. Assume soil density = 18Kn/m3, Angle of repose = 30 degrees.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain shear and development length in beams. Sketch shear R/F in beam at end near column and mid span of beam.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Define any two of the following: Diagonal Tension Anchorage Bond Flexural Bond 2 3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

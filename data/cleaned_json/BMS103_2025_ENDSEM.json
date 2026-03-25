@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS103",
+    "subject_name": "Financial Accounting",
+    "program": "BBA",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between Book-keeping and Accounting. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Illustrate the GAAP in Accounting. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "“Balance sheet reflect the financial position of the business”. Justify the statement. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain compound journal entries using imaginary figures. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How companies got listed on recognized stock exchanges? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the provision related to right issue of shares. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "“Computer software’s completely revolutionized the entire Accounting system”. Support with relevant examples. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define the concept of social responsibility accounting. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "‘Accounting deals with systematically recording of business transactions.” Highlight the nature and functions of accounting.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Evaluate the relevance of various accounting concepts and convention for preparing companies accounts.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Prepare Income statement and balance sheet for a sole proprietary business using imaginary figures.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "From the following trial balance of Deepika Enterprises, prepare Trading and Profit & Loss Account for the year ending 31st March, 2023 and the Balance Sheet as at that date, after taking into account the following information: Debit Balances Amount Credit Balances Amount Opening stock 34,000 Creditors 80,000 Machinery 40,000 Sales 1,20,000 Furniture 23,000 Rent outstanding 2,000 Debtors 31,000 Capital 86,200 2 Bank balance 36,400 Purchases return 4,000 Cash in hand 1,400 Purchases 85,000 Discount allowed 2,000 Carriage 2,600 Insurance 1,600 Printing and stationery 4,400 Rent and taxes 11,200 Salaries 7,600 Sales return 2,000 Drawings 10,000 2,92,200 2,92,200 Adjustments: Stock on 31st March, 2023 Rs. 42,000. Insurance is unexpired to the extent of Rs. 400. iii) Taxes outstanding Rs. 2,500. Salaries prepaid at the end Rs. 2,100.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the concept of oversubscription, calls in advance and calls in arrear with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "On 1st January, 2018, Bani. Ltd. issued 10,000 Equity Shares of 10 each payable as: on application 3, on allotment 3, on first and final call 4 . Applications were received for 13,000 shares and Directors made allotment in full to the applicants demanding five or more shares and returned money to the applicants for 3,000 shares. One shareholder, who was allotted 200 shares, paid first and final call with allotment money and another shareholder did not pay allotment money on his 300 shares and paid it with first and final call. Journalise the transactions in the books of Bani Ltd. including cash transactions. The company maintains Calls-in-Arrears Account.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is price level accounting? How this differ from traditional accounting process?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain in detail the various applications of computers in accounting, supported by appropriate examples.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

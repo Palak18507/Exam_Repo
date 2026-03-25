@@ -1,0 +1,113 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech. Semester: 2nd Sem 
+(May, 2025) 
+ 
+Subject Code: BAM 314 
+Subject: Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Why is ambiguity a challenge in natural language understanding? 
+2.5 
+CO1 
+ 
+b)  Compare rule-based and statistical parsers. 
+2.5 
+CO1 
+ 
+c)  Differentiate between word2vec and GloVe embeddings 
+2.5 
+CO2 
+ 
+d)  Given the following three documents: 
+ 
+Document 1 (D1): "the sky is blue" 
+ 
+Document 2 (D2): "the sun is bright" 
+ 
+Document 3 (D3): "the sun in the sky is bright" 
+Calculate the TF-IDF value for the term "sun" in Document 3 (D3). 
+2.5 
+CO2 
+ 
+e) Illustrate how NLP powers sentiment analysis in social media. 
+2.5 
+CO3 
+ 
+f) Discuss the structure of Anusaraka and it suitability for Machine 
+Translation.  
+2.5 
+CO3 
+ 
+g) Explain use of NLP in chatbots 
+2.5 
+CO4 
+ 
+h)  Define a Recurrent Neural Network (RNN) 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss various phases of NLP in detail and give example of processing 
+of Natural Language Text in each phase 
+(10) 
+CO1 
+Q3 
+a) What is semantics in NLP?  
+b) Explain the concept of ambiguity in NLP and discuss its different 
+types with illustrations. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the various text preprocessing steps involved in NLP task  and 
+Explain Term Frequency-Inverse Document Frequency (TF-IDF)? 
+(10) 
+CO2 
+Q5 
+Discuss the concept of word embeddings and explain the working of 
+word2vec and GLoVe.  Compare & contrast word2vec & GLoVe 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What are the key features and challenges in building multilingual 
+chatbots using NLP and MT? 
+(10) 
+CO3 
+Q7 
+Compare and contrast the following approaches to Machine 
+Translation: 
+a)Example/Analogy-based MT 
+b)Phrase-based MT 
+c) Neural MT 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe the steps to build an NLP model using NLTK and LSTM for spam 
+detection. 
+(10) 
+CO4 
+Q9 
+Design an NLP pipeline using NLTK and a deep learning model (LSTM or 
+GRU) for sentiment analysis. 
+(10) 
+CO4

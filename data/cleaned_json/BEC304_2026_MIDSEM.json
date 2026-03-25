@@ -1,0 +1,101 @@
+{
+  "paper_id": "BEC304_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC304",
+    "subject_name": "Information Theory and Coding",
+    "program": "B. Tech.(ECE",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define BSC,BEC",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What do you mean by perceptual coding",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss various entropies.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the term- Kraft Mc Millan inequality",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the code words occurring in the probability { 0.30, 0.25,0.15,0.10,0.12,0.08} for symbols S1 , S2, S3 ,S4,S5 and S6. Find Efficiency also. Solve it By",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The source emits five messages with probabilities P= 0.7, P= 0.3, P=0.4,P=0.6 P=0.8 Calculate-: i. Source Entropy ii. Redundancy iii. Maximum Entropy",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the term-:",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "a",
+          "text": "Channel Capacity",
+          "marks": 2.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Shannon Limit",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Alphabet with probabilities {0.4,0.2,0.2,0.1,0.1} for {S1,S2,S3,S4,S5}.Solve it by Huffman Coding. Find-: i. Efficiency ii. Variance",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Consider 3 letters S= { 1,2,3 } where as the probabilities are P= 0.5, P=0.4 P=0.6, Encode ‘1332’ .Solve it by arithmetic coding",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the term Channel Vocoder with a proper diagram.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "MVD102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD102",
+    "subject_name": "Digital VLSI design",
+    "program": "M. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do you define Threshold voltage? Explain all the components of Threshold voltage of MOS transistor",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How NMOS transistor is fabricated? Explain all the steps",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are parasitice resistance and capacitances in CMOS inverter? Are they useful or harmful for the transistor? justify",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why you need CMOS inverter when NMOS inverter has less no of transistors?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do you invert the surface of MOS transistor? What is surface inversion? Why surface inversion is essential in NMOS transistor functioning? Explain with detail diagrams",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How the channel of NMOS transistor looks in Linear and Pinchoff mode? What are the name of current in these two condition?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Derive linear and saturation current of MOS transistor",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How Static CMOS inverter is called static? What is static in it? Explain its VI characteristic",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Can we have depletion mode transistor, enhancement mode transistor, only resistor as LOAD in inverter? How these are different from CMOS inverter?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain propogation delay and power dissipation of CMOS with suitable waveforms",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

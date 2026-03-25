@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAI110_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI110",
+    "subject_name": "PROGRAMMING WITH PHYTHON",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a Python program to count the number of even and odd numbers from a series of numbers. C01",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Count number of digits in a Number. Print the digits of Number.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "State the difference between lists and dictionary datatypes.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a program to check if the letter ‘h’ is present in the word ‘technical’.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write a Python program to handle a ZeroDivisionError exception when dividing a number by zero.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Write a Python program that executes an operation on a list and handles an IndexError exception if the index is out of range.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a Pandas program to create and display a one-dimensional array-like object containing an array of data using Pandas module.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Write a NumPy program to reverse an array",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "With the necessary examples differentiate between while and for loops. Write a Python program that prints the Fibonacci series between 0 to 50. Write a python program to find number btw 100 to 400 where each digit of a number is an even number . the number obtained should be printed in a comma-seperated sequence",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Print the following pattern using a while loop.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write the python program the print the given series : 22,21,23,22,24,23......... print the given series from 20 to 80Explain different file operations with examples. Write a Python program to read a file line by line store it into a variable.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write a python Function to reverse a string and find the product of all the numbers in a list. Write a User defined function that reads some integers b/w 1 to 20 and counts the occurrences of each. SAMPLE: Input: 2 5 2 5 8 8 10 8 2 4 4 5 2 2 Output: 2 occurs 4 times 5 occurs 3 times 8 occurs 3 times 10 occurs 1 times 4 occurs 2 times",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain with examples the difference between Syntax Error and Exceptions. Can multiple exceptions be handled using a single except clause? Explain with example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are the common exceptions in Python and how to catch them? Can I use try without except in Python? Explain.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a Pandas program to create and display a DataFrame- attempts name qualify score a 1 Anastasia yes 12.5 b 3 Dima no 9.0 c 2 Katherine yes 16.5 d 3 James no NaN e 2 Emily no 9.0 f 3 Michael yes 20.0 g 1 Matthew yes 14.5 h 1 Laura no NaN i 2 Kevin no 8.0 j 1 Jonas yes 19.0 Write a Pandas program to get the first 3 rows of the given DataFrame Write a Pandas program to select the rows where the number of attempts in the examination is greater than 2 Write a Pandas program to count the number of rows and columns of the DataFrame. Write a Pandas program to select the rows where the score is missing, i.e. is NaN Write a Pandas program to calculate the sum of the examination attempts by the students",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a NumPy program to create a structured array from given student name, height, class and their data types. Original array: [ ] Sort the array on height Sort by class, then height if class are equal Write a Python GUI program to create three single line text-box to accept a value from the user using tkinter module.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

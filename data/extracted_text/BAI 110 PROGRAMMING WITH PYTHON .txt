@@ -1,0 +1,170 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:  B.TECH, Semester: II 
+(May, 2025) 
+ 
+Subject Code: BAI 110 
+Subject: PROGRAMMING WITH PYTHON 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+Write the output of the given code snippets with proper justification 
+(a)  for i in range (0,20,2): 
+     if i%4!=0: 
+                 continue 
+     else: 
+          print (i*10)         
+      
+(b) d = {"a": 1, "b": 2, "c": 3} 
+               print({k: v**2 for k, v in d.items() if v % 2 != 0}) 
+ 
+(c)        import numpy as np 
+arr = np.array([[1, 2, 3], [4, 5, 6]]) 
+view = arr[:, 1:] 
+view[0, 0] = 99 
+print(arr) 
+ 
+ 
+ 
+CO1 
+ 
+ 
+ 
+CO2 
+ 
+CO3 
+ 
+(d) What are logical operators in Python? Explain with examples 
+how they are used in decision-making. 
+ 
+CO1 
+ 
+(e) Write a program to delete the first occurrence of 10 from the 
+list [20, 30, 10, 40, 50, 60, 10, 70], and then delete the second 
+element from the updated list. 
+ 
+CO2 
+ 
+(f) What are keyword and default arguments in a function? 
+Explain with an example. 
+ 
+CO3 
+ 
+(g) Describe the differences between syntax errors, runtime 
+errors, and logical errors with examples. 
+ 
+CO3 
+ 
+(h) Explain the role of the pandas library in data analysis. Provide 
+a basic example using a DataFrame. 
+ 
+CO4 
+                                                             UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) Write a Python program to print the given series:   
+1/11-2/22+3/33....upto nth term  
+(b) Write a program to swap two numbers only if both numbers 
+entered by the user are even. 
+(5+5) 
+CO1 
+Q3 
+(a) Write a program to authenticate the admin by matching the 
+entered name and password with the stored credentials. If the 
+credentials match, print "Welcome, Admin." If they do not 
+match, print "Try again." After three failed login attempts, print 
+the message "Your account has been blocked for one day." 
+(b) Print the following pattern using a while loop – 
+ 
+ 
+(5+5) 
+CO1 
+2 
+ 
+                                                                   UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Write a program to read a CSV file and count the frequency of 
+each word in it. 
+(b) Write a function that receives a list of student records (name, 
+marks) and returns a list of top 3 scorers. 
+(5+5) 
+CO2 
+Q5 
+(a) Write a Python script to create a dictionary named bike with 
+the following keys: brand, model, and year. Initialize it with the 
+values 'Yamaha', 'R15', and 2018 respectively. Then, update the 
+year value in the dictionary to 2025, and print the list of 
+updated dictionary values using the dict.values() method.  
+Example ouput: 
+Original dictionary values: dict_values(['Yamaha', 'R15', 2018]) 
+Updated dictionary values: dict_values(['Yamaha', 'R15', 2025]) 
+(b) Write a program to sort an unsorted tuple. Then, search for 
+first even number and print its index, if such an element exists. 
+(5+5) 
+CO2 
+                                                                    UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Define the role of finally clause in exception handling. 
+(b) List different types of exceptions that can occur while 
+performing file operations on a text file, with appropriate 
+example code. 
+ 
+(3+7) 
+CO3 
+Q7 
+(a) Write a program that performs integer division and gracefully 
+handles the case when the divisor is zero or input is invalid. 
+(b) Explain exception handling with examples.  
+(5+5) 
+CO3 
+                                                                      UNIT IV 
+ 
+CO Mapping 
+Q.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Write a Python program using the matplotlib library to visualize the 
+relationship between two datasets. Given the data points X = [2, 4, 6, 
+8, 10, 12] and Y = [5, 9, 14, 20, 27, 35], perform the following tasks: 
+1. Plot both a Line Plot and a Scatter Plot on the same graph to 
+represent the trend and distribution of the data. 
+2. Incorporate appropriate graph elements including a title, axis 
+labels, legends, and grid lines to improve visualization clarity. 
+3. Use distinct colors and markers for the line and scatter plots to 
+visually differentiate them. 
+(10) 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+Q.9 
+ 
+Implement a Python program using the Tkinter library to create a 
+graphical user interface (GUI) for a student registration form. The form 
+should include appropriate labels and corresponding entry fields for the 
+following details: Name, Email, and Phone Number. Additionally, 
+include a 'Submit' button to simulate form submission process. 
+(10)

@@ -1,0 +1,188 @@
+{
+  "paper_id": "BAS107_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS107",
+    "subject_name": "Applied Physics",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A soap film of refractive index 1.33 is illuminated with light of different wavelengths at an angle of 45°. There is a complete darkness for wavelength 589nm in reflected light. Calculate the thickness of the soap film. CO 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Show that a plane electromagnetic wave in free space is a transverse wave. CO 2",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the energy of neutron having de-Broglie wavelength 10−14m. Given: rest mass of neutron as 1.6 × 10−27kg. CO 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Derive Einstein’s A and B coefficients? Explain their significance. CO 4",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the condition for constructive and destructive interference in Fraunhofer diffraction through N slits. Obtain the expression for the intensity distribution of the diffracted light. Discuss how the diffraction pattern depends on the number of slits and the slit separation.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Calculate the minimum number of lines in grating which will first resolve the lines of wavelengths 5890 and 5896 Angstroms in the second order. CO 1",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is double refraction? Explain the construction and working of a Nicol prism as a polarizer and analyzer with the help of relevant diagrams.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between the following: i. Brewster Law and Malus Law ii. Polarized and Un-polarized Light CO 1",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe Poynting’s Theorem. Explain the significance of the Poynting vector in describing the energy flow in electromagnetic systems.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Starting from Maxwell’s equations, derive the electromagnetic wave equation for a conducting medium. Discuss the solution of this wave equation, highlighting the key characteristics. CO 2",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the equation of continuity for electric charge. Explain how Maxwell modified Ampere’s law to present it in its generalized form.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "A plane electromagnetic wave has electric field CO 2 2 𝐸⃗ = cos[ √3𝑘 2 + 𝜔𝑡] 𝑘̂ where 𝑘 is wave number and 𝑖̂, 𝑗̂ and 𝑘̂ are Cartesian unit vectors in 𝑥, 𝑦 and 𝑧 directions respectively. Find the magnetic field 𝐵⃗ and the average Poynting vector.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the relationship between a particle's velocity and the group velocity of its associated de Broglie wave and show that they are equal.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "State the Heisenberg’s Uncertainty principle. An excited atom has an average life-time of 10−8 sec. During this time period it emits a photon and returns to the ground state. What is the minimum uncertainty in the frequency of this photon? CO 3",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive Schrödinger’s wave equation for a particle in one-dimensional infinite potential well and obtain the expression for the allowed energy levels.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "The lowest energy possible for a certain particle entrapped in a box is 40 eV. What are the next three higher energies the particle can have? CO 3",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the following terms for an optical fiber, with the help of relevant diagrams: i. Acceptance angle ii. Acceptance cone iii. Numerical aperture iv. Critical angle",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the essential components of a laser system with the help of a diagram. Give examples of different types of active medium? CO 4",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between the following: i. Step Index and Graded Index optical fiber ii. Spontaneous and Stimulated Emission",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the working of a He–Ne laser with the help of its energy level diagram. What is the role of Helium atoms in generation of coherent light? CO 4",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

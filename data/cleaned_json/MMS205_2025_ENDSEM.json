@@ -1,0 +1,134 @@
+{
+  "paper_id": "MMS205_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS205",
+    "subject_name": "Strategic Management",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Is it possible for a company to follow a cost leadership and differentiation strategy simultaneously? Why or why not? 4",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is it that a firm can normally sustain a competitive advantage for only a limited period of time? 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Is the organization structure important in strategy implementation? Explain. 4",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain corporate-level retrenchment strategy and cooperation strategy. 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Since its founding in 1994, Amazon has grown from an online bookstore to a diversified giant offering online general retailing, audio and video streaming, e-readers, tablets, and cloud computing services. Is Amazon’s strategy primarily driven by addressing market needs or by leveraging its resources and capabilities? Explain Amazon’s strategic approach. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Ansoff matrix for strategy formulation",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Blue Ocean strategy 1",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How can GreenWave ensure brand consistency while pursuing franchising or international expansion?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Which expansion strategy is most aligned with GreenWave’s mission and existing customer base?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Briefly discuss various kinds of growth strategies with suitable examples. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "The head of group planning at Patanjali has requested your advice on using portfolio matrices to conduct an initial assessment of their business portfolio. Explain the concept of portfolio analysis and recommend which portfolio matrix—McKinsey or BCG—would be most suitable for Patanjali. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Porter’s five forces",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Drivers of Differentiation strategy 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Advise a restaurant owner on implementing a differentiation strategy to improve declining profitability. Using the value chain framework, identify potential linkages between the restaurant’s value chain and that of its customers to uncover opportunities for differentiation. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Which cost advantage drivers do budget hotels, such as OYO, utilize to undercut traditional hotel chains, such as Marriott? 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "paper_id": "BAS103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS103",
+    "subject_name": "Probability and Statistics",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "The mean of 200 items was 50. Later on it was discovered that 2 items were misread as 92 and 8 instead of 192 and 88. Find out the corrected mean. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "A bag X contains 2 white and 3 red balls and a bag Y contains 4 white and 5 red balls. One ball is drawn at random from one of the bags and is found to be red. Find the probability that it was drawn from bag Y. CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "In 4 tosses of a coin, let x be the number of heads. Calculate the expected values of x. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "The probability density function f of a continuous random variable x is f =A/x2 1≤x≤4. Find the value of A. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "For 10 observations on price and supply, the following data were obtained ∑x=130, ∑y=220, ∑x2=2288, ∑y2=5506 and ∑xy=3467 Obtain the regression line y on x. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Find out the mean, variance and M.G.F of the exponential distribution. CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "A machine produced 16 defective articles in a batch of 500. After overhauling it produced 3 defectives in a batch of 100. Has the machine improved? CO 4",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Define Sampling with its applications, Null Hypothesis, Type I and II error and level of significance. CO 4",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". In a certain distribution, the first four moments about the point x=4 are -1.5, 17, -30 and 308. Find the moments about mean and about origin.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The annual salaries of a group of employers are given in the following table. Find Standard deviation and coefficient of variation. Salaries X in thousand 45 5 0 55 6 0 6 5 70 7 5 80 No of persons 3 5 8 7 9 7 4 7 CO 1",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Calculate the mean and median from the following table: Class interval Frequency 6.5-7.5 5 7.5-8.5 12 8.5-9.5 25 9.5-10.5 48 10.5-11.5 32 11.5-12.5 6 12.5-13.5 1 CO 1",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The standard deviation of a symmetric distribution is 5. What must be the value of the fourth moment about mean in order that the distribution be i) leptokurtic ii) mesokurtic iii) platykurtic.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 1.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Let be a 2- Dim continuous random variable having the joint density function f= 𝑥 𝑒−𝑦 2 , 0<x<2, y>0. Find the distribution function of X+Y.",
+          "marks": 0.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "The joint probability distribution of two random variables X and Y is given by: P = 1/3, P= 1/3 and P= 1/3. Find i) Marginal distribution of X and Y, and ii) the conditional probability distribution of X given Y= 1. CO 2",
+          "marks": 0.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A die is tossed thrice. A success is getting 1 or 6 on a toss. Find the mean and variance of the number of successes.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive mean and variance using the given M.G.F of the random variable X 𝑀𝑋 = 𝑛 . CO 2",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". A manufacturer knows from experience that the resistance of resistors he produces is normal with mean 100 ohms and standard deviation 2 ohms. What percentage of resisters will have resistance between 98 ohms and 102 ohms?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". Obtain the rank correlation coefficient for the following data: X 68 64 75 50 64 80 75 40 55 64 Y 62 58 68 45 81 60 68 48 50 70 CO 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ".Out of 800 families with 4 children each, how many families would be expected to have 2 boys and 2 girls no girl atmost 2 girls? Assume equal probabilities for boys and girls.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". State the Central Limit Theorem. A coin is tosses 200 times. Find the approximate probability of the number of heads obtained is between 80 and 120 by CL theorem. CO 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". The nine items of a sample have the following values: 45, 47, 50, 52, 48, 47, 49, 53, 51. Does the mean of these values differ Significantly from the assumed mean 47.5?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". The theory predicts the proportion of beans in the four groups G1, G2, G3, G4 should be in the ratio 9:3:3:1. In an experiment with 1600 beans the numbers in the four groups were 882, 313, 287 and 118. Does the experimental result support the theory? CO 4",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": ". Can vaccination be regarded as preventive measure of small pox as evidenced by the following data of 1482 persons exposed to smallpox in a locality. 368 in all were attacked of these 1482 persons and 343 were vaccinated and of these only 35 were attacked.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": ". A machine is producing bolts of which a certain fraction is defective. A random sample of 400 is taken from a large batch and is found to contain 30 defective bolts. Does this indicate that the proportion of defectives is larger than that claimed by the manufacturer where the manufacturer claims that only 5 % of his product are defective? CO 4",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

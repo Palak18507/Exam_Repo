@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP111_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP111",
+    "subject_name": "Structure III",
+    "program": "<>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Define Lateral loads on a building. Explain wind load on buildings. Define moment and couple. Explain Different types of load on building. Explain Moment of force. Explain various stages in structural engineering for design of residential project. Define “centre of gravity” of plane section? Explain parallelogram law of forces.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Find the moment of inertia of a channel section about its centre of gravity if the dimensions are 300mm x 200mm x 20mm.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Define the term “Moment of Inertia” of a section. Give expression for Moment Of Inertia rectangle & Circular Section about their both axis.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain the terms : Explain Stress and Strain in member Resolution of force",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain Young’s modules of Elasticity.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Write a note on concept of load bearing wall and framed systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Explain Form Active and Vector Active Systems",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain different types of connections. Describe advantages and disadvantages of welded connections.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Explain evolution of structures through time.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

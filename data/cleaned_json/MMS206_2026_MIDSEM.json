@@ -1,0 +1,90 @@
+{
+  "paper_id": "MMS206_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS206",
+    "subject_name": "Business Intelligence",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between structured, semi structured and unstructured data",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the data transformation process to intelligence",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Data Science and explain its significance in business intelligence.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the role of data warehouse in BI?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the difference between BI and BA",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the importance of handling missing values in a data set and describe two techniques used for it.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the 5 Vs of Big Data and how they impact business intelligence.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the key steps involved in data pre-processing? Explain any two in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Data Mining? Explain its importance in decision-making.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of association rule mining and its application in market basket analysis.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "MIS108_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS108",
+    "subject_name": "Cyber Risk Management",
+    "program": "<M.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Distinguish between Cyber Threat and Cyber Risk. What is Cyber Vulnerability? Name any two common frameworks used in cyber risk assessment What do you mean by “Likelihood\" in the context of cyber risk? How Cyber Risk is related to Likelihood? What are Risk Management Controls? Define Risk Mitigation and give one example. Briefly explain ISO 27001 standard What is the purpose of PCIDSS? How does it help in e commerce transactions/Payments? Define Information Security Metrics What are the difference between Data Protection and Data Privacy? How data Protection in any organization can be done A Pharmaceutical company experiences a ransom ware attack. Describe how breach response and business continuity planning can minimize the disruption and help in quick recovery.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Describe the current cyber threat landscape by highlighting the major emerging trends and the primary challenges organizations face. Additionally, discuss recent cyber threats specifically related to deepfake technology in multimedia and those arising from AI-driven attacks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Discuss how the rapid pace of digital transformation is influencing the cybersecurity landscape. Discuss the implications for both privacy and organizational security.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Suppose there is a vulnerability in the Hospitals email server that could potentially allow phishing attacks. Perform a basic risk assessment by identifying:  The threat  The vulnerability  The likelihood  The impact  Suggested controls",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain the Risk Management Life Cycle. Describe each phase and its significance in minimizing cyber security threats.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "What are the steps involved in Threat Modeling? Explain how diagramming the threat model helps in identifying vulnerabilities.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Write Notes on a. HIPAA b. COBIT",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "What are the major stages in Cyber Crisis Management? How does an effective crisis management plan reduce business damage?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Describe the importance of Business Impact Analysis . How does BIA help in setting business continuity priorities?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

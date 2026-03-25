@@ -1,0 +1,128 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+ 
+Course Name: PhD : Semester 1 
+(May, 2025) 
+ 
+Subject Code: PHD 123 
+Subject: Machine Learning and Deep Learning 
+- Fundamentals and Applications 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Explain with a short example how Bayes Decision Theory handles binary 
+features in classification. 
+2.5 
+CO1 
+b 
+What is the difference between Simple Linear Regression and Multiple 
+Linear Regression? Provide an example for each. 
+2.5 
+CO1 
+c 
+What is a Support Vector Machine (SVM)? Briefly explain the concept 
+of the hyperplane used in SVM. 
+2.5 
+CO2 
+d 
+Explain the difference between Boosting and Bagging as ensemble 
+methods. How do they each contribute to improving model 
+performance? 
+2.5 
+CO2 
+e 
+What is Fuzzy K-Means Clustering? How does it differ from standard K-
+Means? 
+2.5 
+CO3 
+f 
+What is the Dimensionality Problem in machine learning, and how does 
+it affect model performance? 
+2.5 
+CO3 
+g 
+What is the purpose of Backpropagation in neural networks? Briefly 
+explain how it helps in updating the weights during training. 
+2.5 
+CO4 
+h 
+What is the primary advantage of using Recurrent Neural Networks 
+(RNNs) for sequence data? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain with an example when a model with high accuracy can still be a 
+poor model. Why are Precision and Recall sometimes more important 
+than Accuracy? 
+10 
+CO1 
+Q3 
+What is the difference between Parametric and Non-Parametric 
+Density Estimation? Explain with examples. Describe the Parzen 
+Window and K-Nearest Neighbour (KNN) approaches for density 
+estimation. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the Perceptron algorithm in detail. Discuss the Perceptron 
+criteria for updating the weights and provide an example of how it 
+works in a simple binary classification problem. 
+ 
+10 
+CO2 
+Q5 
+Explain the working of Logistic Regression. Discuss how it is used for 
+classification problems and how the sigmoid function is used to make 
+predictions. Provide an example to show how logistic regression can be 
+applied to a simple binary classification task. 
+10 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain the concept of Principal Component Analysis (PCA). Discuss 
+how PCA helps in reducing the dimensionality of data and retaining the 
+most important information. Illustrate the steps involved in PCA and its 
+application in data preprocessing. 
+ 
+10 
+CO3 
+Q7 
+Explain the Gaussian Mixture Model (GMM). How does it work as a 
+probabilistic model for clustering? Discuss how GMM uses multiple 
+Gaussian distributions to model data, and explain its application in 
+clustering problems. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is a Convolutional Neural Network (CNN)? Explain its 
+architecture, including the layers (convolution, pooling, and fully 
+connected layers). Discuss how CNNs are used in image recognition 
+tasks. 
+10 
+CO4 
+Q9 
+What is a Generative Adversarial Network (GAN)? Explain how it 
+consists of a generator and a discriminator and how these networks 
+work together in a min-max optimization framework. Provide an 
+example of GAN applications. 
+10 
+CO4

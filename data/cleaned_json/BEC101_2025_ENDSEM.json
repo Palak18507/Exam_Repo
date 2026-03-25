@@ -1,0 +1,142 @@
+{
+  "paper_id": "BEC101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC101",
+    "subject_name": "Basics of Electrical and Electronics Engineering",
+    "program": "<B.TECH>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Kirchoffs first and second law",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the equivalent circuit of practical voltage and current source",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Prove that RMS value of 𝑣= 𝑉𝑚𝑆𝑖𝑛𝜔𝑡 is 𝑉𝑚 √2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Prove the power in purely inductive or purely capacitive circuit is 0, if supplied with a voltage supply of 𝑣= 𝑉𝑚𝑆𝑖𝑛𝜔𝑡",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a PN Junction? Explain the formation of depletion layer in a PN junction",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Compare Zener Breakdown and Avalanche Breakdown",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are the various operating mode of BJT?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Distinguish between holding and latching current.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Find the voltage V0 across 20 Ohm resistance using superposition theorem?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Find Thevenin’s Equivalent circuit across AB. What value of Load should be connected across AB so that maximum power transfer takes place through it? What is the value of Maximum Power transferred? 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Derive the expression of resonance frequency for a series RLC circuit, which is connected across an ac voltage source . Also draw the phasor diagram and derive the following: Total impedance Expression of current and Quality factor.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Draw the phasor-diagram of a circuit having two parallel branches, one having a series R-L circuit and the other having a series R-C circuit. Derive the condition of resonance and expression of resonance frequency.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the Energy bands in intrinsic and extrinsic silicon.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive the diode current equation for p-n junction diode",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "For the circuit shown below, determine the range of RL and IL that will result in VRL being maintained at 10V",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Give and explain the current components of PNP transistor.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "A transistor operating in CB configuration has IC = 2.98mA, IE = 3.00 mA and ICO =0.01 mA. What current will flow in the collector circuit for this transistor when connected in CE configuration with a base current of 30μA?",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "With the help of neat diagram, explain the operation and characteristics of n-channel enhancement type MOSFET.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech) (Semester: 6 Sem Jan-May 2025) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BCS 310 
+Subject: Human-Computer Interaction 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any twoparts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define the term "User Interface" and explain its 
+importance in software applications. 
+ 
+CO1 
+ 
+b) Discuss the key principles of an effective Graphical User 
+Interface (GUI) design. 
+ 
+CO1 
+ 
+c) Explain the significance of human characteristics in the 
+design process of Human-Computer Interaction. 
+ 
+CO2 
+ 
+d) Discuss the key constraints and limitations of mobile and 
+hand-held platforms compared to other computing 
+platforms. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the evolution of screen design and how it has 
+influenced modern user interface development. 
+ 
+CO1 
+ 
+b) Analyze the characteristics of web user interfaces and 
+how they differ from other types of user interfaces. 
+ 
+CO1 
+ 
+c) Illustrate the role of direct manipulation in graphical 
+systems and discuss its impact on user experience with 
+proper examples. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How does human interaction speed affect the design of 
+user interfaces? Provide relevant examples. 
+ 
+CO2 
+ 
+b) Evaluate the importance of understanding business 
+functions while designing user interfaces for enterprise 
+applications. 
+ 
+CO2 
+ 
+c) Propose innovative solutions to improve UI 
+responsiveness for mobile and handheld platforms under 
+constraints like network, power, and memory. 
+ 
+CO2

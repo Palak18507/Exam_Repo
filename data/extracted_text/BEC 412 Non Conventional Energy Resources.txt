@@ -1,0 +1,64 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech (ECE)) (Semester:       ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 412 
+Subject: Non-Conventional Energy Resources 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Name any five fundamental sources of energy? How do you classify the 
+energy sources into conventional and non-conventional sources of energy? 
+CO1, CO2 
+ 
+b) Write a brief note on renewable energy scenario in India. 
+CO2 
+ 
+c) Name the reactions in the biomass gasification process? 
+CO1 
+ 
+d) Write the properties of Bio gas. 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) How concentrating collector is different from flat plate collector? List 
+advantages and disadvantages of both. 
+CO2 
+ 
+b) What are Extraterrestrial Radiation and Terrestrial Radiation?  
+CO1 
+ 
+c) Define solar zenith angle, Azimuth angle, hour angle and declination angle. 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Classify the Biomass energy conversion systems and explain them in brief. 
+CO2 
+ 
+b) How Solar PV system works. What type of material is used in Solar PV? List out 
+the applications of solar PV cell. 
+CO2 
+ 
+c) Explain the function of Deenbandhu biogas digester with a neat sketch and 
+also mention its merits and demerits. 
+CO2

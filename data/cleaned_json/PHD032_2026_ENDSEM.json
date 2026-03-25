@@ -1,0 +1,120 @@
+{
+  "paper_id": "PHD032_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD032",
+    "subject_name": "Software Testing",
+    "program": "< PhD>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define software bug and failure.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Why is complete testing not achievable? Give example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Compare and contrast Verification and Validation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between white box and black box testing.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Give the fault model for an OO program.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What do you understand by Mc/Dc testing?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is the importance of test automation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Briefly explain dataflow testing.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the basic steps of SDLC, Explain any 3 models.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How are testing techniques effected by the Pesticide effect?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain Pairwise and Black box Testing techniques.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Differentiate between Equivalence class and Boundary value testing with examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the various types of path testing? Give example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are the various types of mutation testing and how can it be achieved?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is regression testing? Explain different types of regression testing techniques with example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How are integration and system testing different from each other?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

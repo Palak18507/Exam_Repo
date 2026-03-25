@@ -1,0 +1,125 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<7th semester> 
+(December, 2024) 
+ 
+Subject Code: BAI-417 
+Subject:  Multimodal Data Analysis  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Taste Data and Haptic Data. 
+ 
+CO1 
+ 
+b) Describe Multimodal Data Analysis Applications. 
+ 
+CO1 
+ 
+c) A speaker’s vocal tract lengthens from 15 cm to 18 cm. How will this 
+change affect the first formant frequency (F1)? Assume that the speed 
+of sound in air is 34,000 cm/s. 
+ 
+CO2 
+ 
+d) Elaborate on Speech Perception in Humans. 
+ 
+CO2 
+ 
+e) Define Gamma Correction & Clipping 
+ 
+CO3 
+ 
+f) Explain different segmentation techniques. 
+ 
+CO3 
+ 
+g) Elaborate on the challenges faced in implementing Co-Learning. 
+ 
+CO4 
+ 
+h) Define co-learning and its application in Multimodal Data 
+Integration. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) In a text, the first-ranked word appears 12,000 times. 
+Estimate the total number of words used in the text assuming 
+that the text follows Zipf’s Law up to rank 100. 
+b) What is the role of Hipf’s law in Multi-Modal Analysis? 
+(10) 
+CO1 
+Q3 
+a) Give examples and applications of TFIDF. 
+b) What are the Heap’s law conclusion? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe: 
+a) Coarticulation 
+b) Word homophones and Ambiguity 
+c) Code Switching 
+d) Emotion & Tone Recognition 
+e) Data scarcity & Labelling Challenges 
+(10) 
+CO2 
+2 
+ 
+Q5 
+Define: 
+       a)     LPC   
+b) Short-Time Energy 
+c) Zero-Crossing Rate 
+d) MFCC 
+e) Spectral centroid 
+ 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain Neighborhood Processing Techniques in Multimodal Data 
+Analysis. 
+(10) 
+CO3 
+Q7 
+a)  Apply a log transformation to enhance the low-intensity values in 
+an image. Given a pixel with an intensity of 50, Calculate the new 
+intensity. Given c=30. 
+ 
+b) Consider an audio signal with the following amplitude values: 
+Amplitudes= [5,10,15,20,15,10,5] 
+Apply a 3-point mean filter to smooth the amplitude value at the 
+fourth position (value 20). 
+ 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain Image captioning in details. 
+(10) 
+CO4 
+Q9 
+Explain types, characteristics, applications and challenges of 
+Biomedical Signals. 
+(10) 
+CO4

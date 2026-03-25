@@ -1,0 +1,316 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH : Sem: 2 
+(May, 2025) 
+ 
+Subject Code: BAS 108 
+                                                          Subject: Probability and Statistics  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+A bag contains 50 tickets numbered 1,2,3, … … . ,50 of which 5 are 
+drawn at random and arranged in ascending order of magnitude(𝑥1 <
+𝑥2 < 𝑥3 < 𝑥4 < 𝑥5). What is the probability that 𝑥3 = 30. 
+2.5 
+CO1 
+b 
+Five defective bulbs are accidently mixed with 20 good ones. It is not 
+possible to just look at a bulb and tell whether or not it is defective. 
+Find the probability distribution of defective bulbs if two bulbs are 
+drawn at random from this lot. 
+2.5 
+CO1 
+c 
+Prove that the moment generating function of the sum of a number of 
+independent random variables is equal to the product of their 
+respective moment generating functions. 
+2.5 
+CO2 
+d 
+Let X be the random variable with the following probability 
+distribution: 
+X 
+-3 
+6 
+9 
+P(X) 
+1
+6 
+1
+2 
+1
+3 
+Find 𝐸(𝑋) and 𝐸(𝑋2)and using the law of expectations, evaluate 
+𝐸(2𝑋+ 1)2. 
+2.5 
+CO2 
+e 
+Six dice are thrown 729 times. How many times do you expect atleast 
+5 dice to show five or six? 
+2.5 
+CO3 
+f 
+Suppose that a trainee shoots a target in an independent fashion, if the 
+probability that the target is hit in any shot is 0.7. What is the 
+probability that it takes him less than 4 shots? 
+2.5 
+CO3 
+g 
+Define the following 
+Null hypothesis  
+Type I and II Error 
+2.5 
+CO4 
+h 
+A random sample of size 16 has 53 as mean. The sum of squares of the 
+deviation from mean is 135. Can this sample be regarded as taken from 
+the population having 56 as mean? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a. State and prove Baye’s theorem.  
+b. A random variable X has the following probability function: 
+X 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+P(x) 
+0 
+K 
+2k 
+2k 
+3k 
+𝑘2 
+2𝑘2 
+7𝑘2 + 𝑘 
+I. 
+Find k 
+II. 
+Find minimum value of x so that 𝑃(𝑋≤𝑥) >
+1
+2 
+5+5 
+CO1 
+Q3 
+(a) Goals scored by two teams A and B in a football season 
+were as follows: 
+No. of goals 
+scored in a match 
+No. of matches 
+A 
+B 
+0 
+27 
+17 
+1 
+9 
+9 
+2 
+8 
+6 
+5+5 
+CO1 
+2 
+ 
+3 
+5 
+5 
+4 
+4 
+3 
+Find out which team is more consistent. 
+ 
+(b) calculate the quartile deviation of the marks of 39 
+students in physics given below: 
+Marks  
+No. of Students  
+0-5 
+4 
+5-10 
+6 
+10-15 
+8 
+15-20 
+12 
+20-25 
+7 
+25-30 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) The joint distribution of two random variables X and Y given 
+by :  
+ 
+Y=2 
+Y=4 
+Y=5 
+X=1 
+1
+12 
+1
+24 
+1
+24 
+X=2 
+1
+6 
+1
+12 
+1
+8 
+X=3 
+1
+4 
+1
+8 
+1
+12 
+Find 
+(i) 
+Marginal distributions of X and Y 
+(ii) 
+Find 𝑃(𝑋≤2, 𝑌≤4). 
+(b) The first of the two samples has 100 items with mean 15 and 
+standard deviation 3. If the whole group has 250 items with 
+mean 15.6 and standard deviation √13.44. Find the standard 
+deviation of the second group. 
+5+5 
+CO2 
+Q5 
+(a) If X and Y are two random variables having joint density 
+function: 
+𝑓(𝑥, 𝑦) = {
+1
+8 (6 −𝑥−𝑦), 0 ≤𝑥< 2,2 ≤𝑦< 4
+0,
+𝑂𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+ 
+Find                                 (𝑖)𝑃(𝑋< 1 ∩𝑌< 3) 
+(𝑖𝑖)𝑃(𝑋< 1|𝑌< 3) 
+(b) Two ideal dice are thrown. Let 𝑋1be the score on the first 
+die and 𝑋2 be the score on second die. Let 𝑌 denote the 
+maximum of  𝑋1 and 𝑋2. Write the joint distribution of 𝑌 
+and 𝑋1. Find the mean and variance of 𝑌 and 𝐶𝑜𝑣(𝑌, 𝑋1). 
+5+5 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A sample of 100 dry cells tested to find the length of life produced the 
+following results : 
+𝑥̅ = 12 ℎ𝑟𝑠, 𝜎= 3 ℎ𝑟𝑠 
+Assuming the data to be normally distributed, what percentage of 
+battery cells are expected to have life  
+I. 
+More than 15 ℎ𝑟𝑠 
+II. 
+Less than 6 ℎ𝑟𝑠 
+III. 
+Between 10 and 14 ℎ𝑟𝑠 
+10 
+CO3 
+Q7 
+Find the correlation coefficient between x and y for the given values. 
+Find also the two regression lines. 
+x 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+y 
+10 
+12 
+16 
+28 
+25 
+36 
+41 
+49 
+40 
+50 
+10 
+CO3 
+ 
+3 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Intelligence test of two groups of boys and girls gives the following 
+results: 
+Girls  
+Mean=84 
+S.D.=10 
+N=121 
+Boys 
+Mean=81 
+S.D.=12 
+N=81 
+I. 
+Is the difference in mean score is significant? 
+II. 
+Is the difference between the standard deviation 
+significant? 
+10 
+CO4 
+Q9 
+Can vaccination be regarded as preventive measure of small pox as 
+evidence by the following data of 1482 persons exposed to small pox in 
+locality? 368 in all were attacked of these 1482 persons and 343 were 
+vaccinated and of these only 35 were attacked.  
+        A(Vaccination) 
+B(Disease) 
+Vaccinated  Not 
+Total 
+Attacked  
+35 
+333 
+368 
+Not  
+308 
+806 
+1114 
+Total 
+343 
+1139 
+1482 
+ 
+10 
+CO4 
+ 
+Note: Use the following values for corresponding tabulated values of  
+ℵ2 = 3.841 at 5% level of significance 
+𝑍𝛼= 1.96 at 5% level of significance 
+Standard random variable  
+Z at 0.67= 0.2487 
+Z at 2= 0.4772 
+Z at 1= 0.3413

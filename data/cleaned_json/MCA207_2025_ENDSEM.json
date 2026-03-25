@@ -1,0 +1,120 @@
+{
+  "paper_id": "MCA207_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA207",
+    "subject_name": "Cyber Security",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do anonymity networks like Tor facilitate both cybersecurity and illegal activities? Provide examples for each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distinguish between the surface web, deep web, and dark web, highlighting their legitimate and illegitimate uses.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Analyze the methodology of a cyber-attack by outlining the steps typically involved.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the concept of cyberstalking and provide one real-world example of its occurrence.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly describe two key practices to ensure Wi-Fi security at home or in small offices.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the significance of digital signatures in ensuring the authenticity of online transactions.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss the significance of security awareness and training programs in mitigating human-factor risks in cybersecurity.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the importance of log files in identifying and mitigating security incidents.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are anonymity networks and proxy servers? Discuss how these tools contribute to privacy and security while also being used for illicit purposes.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss why social engineering is considered one of the most effective methods for breaching security. Discuss how organizations can develop strategies to prevent, detect, and mitigate cyber-attacks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the various types of cybercrimes, providing examples for each category. Discuss the impact of these crimes on individuals and organizations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is software piracy? Discuss its economic and legal implications globally and suggest strategies to reduce its prevalence. Discuss the techniques used in credit card fraud, such as phishing, skimming, and online hacking. Suggest measures that individuals and financial institutions can adopt to mitigate these risks. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Compare symmetric and asymmetric cryptography in terms of their efficiency, use cases, and key management requirements. Provide examples of real-world applications for each type.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the importance of hash functions in cryptography. Discuss the properties that make a hash function secure and provide examples of their application in data integrity verification.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on: Lollipop and Onion Model Access Control",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short notes on: Intellectual Property Rights Firewalls and Intrusion Detection Systems",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "paper_id": "BCS306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS306",
+    "subject_name": "Compiler Design",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the purpose of symbol table in compilation? How is it used during lexical analysis? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Syntax analysis and Sematic analysis. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain Predictive parsing. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss about different actions possible in Shift Reduce parsing using suitable example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a type system? Give two examples of static type checking. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Suppose ∑={a,b}, then what type strings will appear in L. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain about Abstract Syntax Tree and Directed Acyclic Graph using suitable example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Convert the following expression in to equivalent three address code. +d+-d+e 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of \"Grouping of Phases\" in compiler design. Discuss how front-end and back-end phases are grouped, along with their significance in compiler construction.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Define regular expression. Let ∑={0,1} then what type of language does regular expression * will generate Construct a deterministic finite Automate for *.",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Given the grammar: SCC CcC∣d Construct the Canonical LR parsing table and parse the input \"ccdcd\".",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 1.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Construct the canonical LR item sets",
+          "marks": 0.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Construct the LALR parsing table",
+          "marks": 0.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss about different types of attributes? And compare S- attributed and L-attributed grammars with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How static storage allocation is different from stack-based storage allocation explain with neat diagrams. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the following optimizations using suitable examples:  Common sub expression elimination  Reduction in strength  Constant folding  Code motion  Dead code elimination",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Arch.) (Semester:  VI     ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAP 310 
+Subject: Building Services IV 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Use of calculator is allowed 
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Define sound and explain its basic characteristics 
+ 
+ 
+b) What is reverberation time? How is it measured? 
+ 
+ 
+c) Differentiate between reflection, absorption, and diffusion of sound. 
+ 
+ 
+d) What are acoustic materials? Explain their purpose with examples? 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) A Person clapped his hands near the cliff and heard the echo after 5 s. 
+What is the distance of the cliff from the person, if the speed of the sound is 
+taken as 340m/sec?  
+ 
+ 
+b) Define noise. What is the difference between airborne noise and 
+structure-borne noise? 
+ 
+ 
+c) What are the various acoustic defects in buildings? Suggest remedies for 
+each defect. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What are the factors affecting the acoustics of an auditorium? 
+ 
+ 
+b) Explain the STC (Sound Transmission Class) rating and its importance in 
+building acoustics. 
+ 
+ 
+c) A hall of Volume 5500Cubic-m has a Reverberation time of 2.3 sec. The 
+sound-absorbing surface of the hall has an area of 750 sqm. Calculate the 
+average absorption coefficient.

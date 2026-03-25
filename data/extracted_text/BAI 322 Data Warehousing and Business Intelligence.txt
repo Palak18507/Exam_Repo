@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 6) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 322 
+Subject: Data Warehousing and Business Intelligence 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How does a data warehouse enhance decision-making and 
+business intelligence? 
+ 
+CO1 
+ 
+b) What are the key advantages of using a data warehouse over a 
+traditional database system for analytical processing? 
+ 
+CO1 
+ 
+c) Why is data pre-processing important in the data warehousing 
+process, and what key techniques are involved? 
+ 
+CO2 
+ 
+d) What are the primary objectives of dimensional modeling, and 
+how does it contribute to effective data analysis? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+CO1 
+ 
+a) What are the key components of a data warehouse, and how 
+do they contribute to its overall functionality? 
+ 
+ 
+ 
+b) What are information packages in data warehousing, and how 
+do they support business intelligence and decision-making? 
+ 
+ 
+ 
+c) What are the different types of metadata, and how do they 
+facilitate data management and decision-making processes? 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+CO2 
+ 
+a) How do OLAP models vary, and what are the key differences 
+between MOLAP (Multidimensional OLAP) and ROLAP (Relational 
+OLAP)? 
+ 
+ 
+ 
+b) What are the key OLAP operations, such as drill-down, roll-up, 
+slice-and-dice, and pivot, and how do they enhance data 
+analysis? 
+ 
+ 
+ 
+c) How do the STAR schema and Snowflake schema differ in the 
+context of dimensional modeling?

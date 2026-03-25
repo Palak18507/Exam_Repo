@@ -1,0 +1,101 @@
+{
+  "paper_id": "MMS286_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS286",
+    "subject_name": "Digital Marketing Analytics",
+    "program": "MBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the owned and earned social media metrics? Explain with examples.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between short tail and long tail keywords. In which situations are they preferred.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is content audit? Why is it needed in digital marketing?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the concept of “tipping point”. Explain the idea with the help of a network example",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is the role of Google’s Page Rank in search engine analytics? Explain the factors affecting Page Rank.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What is CRM? Discuss the key features of Hubspot CRM and it’s role in digital marketing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss the role of category keywords, brand keywords and competitor keywords in search engine optimization. Explain with examples",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss the importance of off-page optimization in SEO. List the factors affecting off-page optimization",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the process of clustering for audience analysis using an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How is conjoint analysis used to segment a market? Explain with examples",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain Gladwell’s key ideas from the case when network is constructed in a way that results in non-activation of some nodes in a given network.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Evaluate the impact of service quality on e-loyalty?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

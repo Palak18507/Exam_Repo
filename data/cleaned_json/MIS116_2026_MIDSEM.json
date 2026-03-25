@@ -1,0 +1,90 @@
+{
+  "paper_id": "MIS116_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS116",
+    "subject_name": "Advanced Network Technology",
+    "program": "<M.Tech (IT-Cyber Security",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1.5 Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Congestion Control",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Error Correction",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Neighbor Discovery",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "IPv6-Header",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Quantitatively differentiate between TCP/IP Protocol Architecture and OSI Model suitable illustrations. Specifically highlight those differences which are pertinent at Transport and Network Layers.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Comprehensively differentiate between Distance Vector Protocol and Link State Protocol which falls under the category of Interior Gateway Routing Protocol. Give suitable illustrations.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Quantitatively differentiate between TCP and UDP in terms of Reliability, Speed, Connection and Error Checking. Also highlight their use-cases respectively.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Categorically explain the significance of multicast channels for Multicast Routing Protocols in networking. Specifically highlight the importance of Internet Group Management Protocol in Multicast Routing Protocol.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the significance of discovering and maintaining information regarding link-layer addresses of the immediate neighbors in routing. Give proper examples illustrations for the above-mentioned fact.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Quantitatively differentiate between OSPF Unicast Routing Protocol and MOSPF Multicast Routing Protocol with suitable illustrations.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

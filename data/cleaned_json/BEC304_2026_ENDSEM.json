@@ -1,0 +1,78 @@
+{
+  "paper_id": "BEC304_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC304",
+    "subject_name": "Information Theory & Coding",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a State and prove the Kraft-McMillan inequality. What is its significance in source coding? b Differentiate between Shannon-Fano coding and Huffman coding. Provide illustrative examples. c What is an ergodic process? Give suitable examples. d Discuss the role of Channel Vocoders in speech coding. e Explain the concept of perceptual coding. How is masking used in audio compression? f How does arithmetic coding differ from Huffman coding? g Explain linear block code with the help of a suitable diagram. h Define I, P, and B frames in video compression.",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of entropy. Derive the formula for entropy of a discrete memoryless source. Compute the capacity of a Binary Symmetric Channel with crossover probability p=0.1.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A source emits 5 symbols with probabilities 0.4, 0.2, 0.2, 0.1, and 0.1. Calculate:  Entropy  Shannon-Fano codes  Huffman codes and their average length",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Describe Adaptive Huffman coding and how it differs from static Huffman coding.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain Arithmetic Coding. Implement Arithmetic Coding for the string ABABAC with probabilities A=0.5, B=0.3, C=0.2.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe the encoding and decoding process of convolutional codes using trellis diagram.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A generator polynomial 𝑔 = 𝑥3 + 𝑥+ 1 is given. Encode the message 1101 using CRC. ,",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Calculate the autocorrelation function for a wide-sense stationary process.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "For a first-order Markov process with a given transition matrix, compute the steady-state probabilities.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "BCS306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS306",
+    "subject_name": "Compiler Design",
+    "program": "B. Tech.",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is CFG? In which phase of compiler CFG is used? Discuss about the difference between Leftmost Derivation and Rightmost Derivation with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "With a neat diagram discuss about bootstrapping and its uses.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the rules useful to find FIRST and FOLLOW, explain with suitable example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is parsing? Briefly discuss about different types of parsing techniques.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss about different Phases of a compiler with a neat diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of Lexical Analyzer? Discuss about Input Buffering and its uses.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Ambiguity. Check whether the following grammars are ambiguous or not. Grammar 1: AAA//a Grammar 2: EEE/AB AAa/a BBb/b",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Discuss about Recursive Descent Parser and design RDP for the following grammar. SAA AaA Ab &",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss about closure and goto operations with suitable example, and Construct LR items sets for the following grammar. ABB BcB/d",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Construct the SLR parse table for the following grammar. ScAd Aab/e And parse the string: cabd",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

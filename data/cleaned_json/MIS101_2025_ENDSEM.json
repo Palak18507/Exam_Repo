@@ -1,0 +1,133 @@
+{
+  "paper_id": "MIS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS101",
+    "subject_name": "Advanced Java Programming",
+    "program": "<M.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are abstract and final classes in Java?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the life cycle of a servlet.",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "What do you understand by hibernate? List various principles of hibernate.",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain Socket Programming",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the various types of inheritance in Java? Explain each with example. Why is multiple inheritance not allowed in java? Give example. How can it be implemented in java?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What happens when an exception is thrown but there is no catch block to handle it? Explain with example.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "WAP to calculate the average marks of a student in 5 subjects. Throw a user defined exception if entered marks are nor between 0-100.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain different stages in the life cycle of a thread. WAP to compute the highest of 1000 integers stored in an array using 2 thread running in parallel. Print the final result.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is AWT? Write program to create a frame window and add 2 Textboxes, 1 submit Buttons, Name and Roll No Label, and course selection RadioButton and perform event handling on any three controls.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Write the code required to save the details of a student in the table ‘Stud_det’. Also display the details on Console.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write a JEE code for a servlet that takes an integer as input from a form and displays whether it is prime or not, as a response to the web browser.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How to send and receive an email in java?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the various components of JSF.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "JSF",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Java email",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

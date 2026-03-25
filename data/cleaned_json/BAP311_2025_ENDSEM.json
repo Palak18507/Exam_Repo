@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAP311_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP311",
+    "subject_name": "Building services-III(HVAC",
+    "program": "B.ARCH",
+    "semester": 7,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the three modes of heat transfer and their relevance to envelope design. 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the physiological effects of air conditioning on human comfort? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How does climate influence the requirements for space conditioning? 2.5 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Discuss water-based cooling systems. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How does humidity control impact the efficiency of HVAC systems? 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the difference between direct and indirect evaporative cooling systems. 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "How can energy simulation software like Design Builder be used in HVAC system design? 2.5 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss the role of solar energy in air conditioning systems. 2.5 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the importance of shading devices in enhancing the thermal performance of a building envelope. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of Window-to-Wall Ratio and analyze its impact on energy efficiency in buildings. Discuss how optimizing the WWR can balance thermal performance, daylighting, and visual comfort. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Evaluate the various types of air conditioners and their suitability for different building types. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the working principles of propeller fans and centrifugal fans. Highlight their applications in HVAC systems. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the role of Air Handling Units and cooling tower in HVAC systems. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Evaluate the impact of poor duct planning on the performance of HVAC systems, with a focus on its consequences for energy efficiency and overall system effectiveness. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Compare active and passive radiant cooling mechanisms, discussing their suitability for different climates. 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the impact of climate on space conditioning requirements with examples from hot and humid, hot and dry, and cold climates. 3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

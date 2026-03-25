@@ -1,0 +1,73 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MCA ) (Semester: 2nd) 
+(March 2025) OFFLINE mode 
+Subject Code: MCA 102 
+Subject: Object Oriented Programming using Java  
+Time : 1 ½Hours 
+Maximum Marks :30 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(5*2=10) 
+a) 
+Explain  
+i) 
+Instance variable and reference variable 
+ii) 
+Garbage Collection in java 
+ 
+b) 
+Using program explain use of   
+i) 
+Final keyword in inheritance   
+ii) 
+Method overriding 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+a) 
+Create a class MCA(public:string college_name,int javamarks) and class B 
+Tech(public: String school_name , int javamarks). Also Create a function 
+compare_marks, which will compare the Java marks of MCA and B Tech and 
+return the greatest among them. Note: compare_marks function should not 
+be a member function of MCA or B.Tech class. 
+ 
+b) 
+Create a Date Class include day,month and year as member.Create another 
+class Person (name(type String), age(type int), and birthdate (type Date)) 
+with a constructor. In the main class display the details of Person on the 
+console. 
+ 
+c) 
+Define class and objects in java? Create a program to explain the role of 
+constructors in java. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts-: 
+(5*2=10) 
+a) 
+Create a superclass Bank with a method interestRate() returning the 
+interest rate. Create two subclasses ICICI and HDFC that override this 
+method with their specific interest rates. Use dynamic method dispatch to 
+print the interest rate of each bank when calling the interestRate() method. 
+ 
+b) 
+Create a package mypack.operations that contains a class MathOperations 
+with a method add(int a, int b) that returns the sum of two numbers. Then, 
+create a Main class TestMathOperations in the default package to create 
+the object of MathOperations and call the add() method to print the result 
+of adding two integers. 
+ 
+c) 
+Using example explain :  
+i) 
+user defined package and its use   
+ii) 
+a class (say Class Z)inheriting the property from two classes(say 
+Class X and Class Y)

@@ -1,0 +1,131 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<PHD>, Semester:<1st> 
+(May, 2025) 
+ 
+ 
+Subject Code: PHD 153 
+                Subject:  Machine Learning Using Python Programming 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) What is Exploratory Data Analysis (EDA)?  
+2.5 
+CO1 
+ 
+b) What is the basic difference between Regression and Classification 
+problems?  
+2.5 
+CO1 
+ 
+c) Explain K-Fold Cross Validation and its role in model evaluation.  
+2.5 
+CO2 
+ 
+d)  Define the ROC curve. What does AUC represent? 
+2.5 
+CO2 
+ 
+e) Explain the K-nearest Neighbor learning Algorithm and discuss the 
+major drawbacks of it 
+2.5 
+CO3 
+ 
+f)  Explain the concept and role of Support Vector Machine (SVM) in 
+Classification. 
+2.5 
+CO3 
+ 
+g)   What is clustering and why is it useful? 
+2.5 
+CO4 
+ 
+h) Discuss evaluation parameters for Machine Learning. 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Describe the overall architecture of a machine learning system. What 
+are the main components and stages involved, from data collection 
+and feature selection to model training, evaluation, and prediction? 
+Explain the role of each phase with relevant examples. 
+(10) 
+CO1 
+Q3 
+a) Describe the significance of data preprocessing in ML. Explain 
+techniques used for feature scaling, handling missing values, and 
+detecting outliers.                                                                      (5 marks) 
+B) What is the role of feature encoding in machine learning? Compare 
+One-Hot Encoding and Label Encoding with advantages and 
+disadvantages.                                                                         (5 marks) 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+ Compare and contrast linear regression and logistic regression with 
+respect to the following aspects: 
+1. The type of dependent variable they model and their typical 
+applications. 
+2. The mathematical form of their respective models 
+(equations). 
+The cost functions used for training each model and why different 
+cost functions are needed. 
+(10) 
+CO2 
+Q5 
+Explain how a decision tree selects the best attribute for splitting, and 
+illustrate the process with a simple example. 
+(10) 
+CO2 
+ 
+2 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) What is a Naïve Bayes Classifier?  
+b) You have to predict a car is stolen or not with feature set {Red 
+Domestic SUV } based on given data: 
+(10) 
+CO3 
+Q7 
+What are ensemble methods in machine learning, and how do they 
+enhance the performance of classifiers? Explain key ensemble 
+techniques such as bagging, boosting with suitable examples. Also, 
+discuss their benefits and challenges in practical applications. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is the Curse of Dimensionality? Discuss the need of Dimension 
+reduction in terms of Generalization, Overfitting and Complexity of 
+model. 
+(10) 
+CO4 
+Q9 
+a) What is K-Means clustering? Briefly explain its working steps and 
+mention one advantage and one limitation.   (5 marks) 
+b) Solve  K-Means clustering to cluster the data into two groups. 
+Assume cluster centroids are m1=2 and m2=4.The distance function 
+used is Euclidean distance. 
+Data points are: { 2, 4, 10, 12, 3, 20, 30, 11, 25 }     (5 mark) 
+(10) 
+CO4

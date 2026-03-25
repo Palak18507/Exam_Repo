@@ -1,0 +1,91 @@
+{
+  "paper_id": "MVD108_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD108",
+    "subject_name": "Semiconductor Memory Design",
+    "program": "M. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How do you define static and dynamic in RAM? What is static and dynamic activity in them? Explain with circuits? Why don’t we use 4T SRAM but prefer 6T? Can we have more than one set of Bit,Bit_BAR columns in memory. Explain?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How Read and write operation is performed in SRAM?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Why and where do we need NON volatile memory? How ROM n PROM different from each other?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How Flash memory works",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain SRAM with read and write operation along with along with all read and write circuitry/blocks",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Can we use just circuits without amplifier to have Bit and Bit_BAR from columns of volatile memory? Are ordinary amplifier enough to have Bit ,Bit_BAR to output read bits? Name special amplifier to read column and explain its functionality",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the need of SOI technology? What is PD,FD SOI technology?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain mask ROM development flow chart. Explain DRAM cell with its read, write operation",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "How EPROM is different from EEPROM? Where do we need each of them?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write short note on advance Flash memory architecture",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

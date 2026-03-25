@@ -1,0 +1,121 @@
+{
+  "paper_id": "BAI322_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI322",
+    "subject_name": "Data Warehousing and Business Intelligence",
+    "program": "B.Tech",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Differentiate between a database system and a data warehouse.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is ETL? Explain each component.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define star schema with an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is OLAP? List its types and key characteristics.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define data mining and explain the role of KDD.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss the importance of data mining in business decision-making.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Write a short note on outlier analysis.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the benefits of using association rule mining?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the architecture of a data warehouse. Discuss the three-tier architecture and the role of metadata in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss data pre-processing in detail. Explain data cleaning and data transformation with suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define dimensional modeling. Explain STAR, Snowflake, and Fact Constellation schemas with appropriate diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What are OLAP operations? Describe with suitable examples: drill- down, roll-up, slice, dice, and pivot.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Differentiate classification and prediction in data mining. How does decision tree induction work? Illustrate with an example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is KNN algorithm? Explain its working and use cases. Compare it with Decision Tree classification. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT III",
+      "question_text": "What is clustering in data mining? Explain the K-Means algorithm with an example. Mention its limitations.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT III",
+      "question_text": "What will be the association rules using Apriori Algorithm: Given the following transactions: TID Items T1 A, B, C T2 A, C T3 A, D T4 B, E T5 A, B, C, E T6 B, C Support : 50% Confidence: 75%",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

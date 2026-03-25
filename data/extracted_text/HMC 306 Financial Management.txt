@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: HMC-306 
+Subject: Financial Management 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any twoparts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What is Financial Management, and why is it important for businesses? 
+ 
+ 
+b) Explain the Goal of Financial Management. 
+ 
+ 
+c) Explain the difference between bonds and debentures. 
+ 
+ 
+d) Explain the factors affecting capital structure.  
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Define the Time Value of Money (TVM). Explain its significance with 
+suitable examples and outline its key assumptions. 
+ 
+ 
+b) Describe the type of Decisions a financial manager has to take. Explain 
+how these decisions are interrelated. 
+ 
+ 
+c) Mr Dhawan borrowed Rs. 7, 00,000 to buy a Machine. If he pays Equal 
+Installments for 20 Years @8% P.A. Compute Amount of Installments 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a)  1. What do you understand by the term perpetual and irredeemable 
+preference share? 
+     2. Define cost of Equity with relevant examples? 
+2.5 
+2.5 
+ 
+b) Define WACC? Explain its significance in Financial decision-making with 
+relevant examples. 
+5 
+ 
+c) The following is the capital structure of ABC Ltd.  
+Sources of Capital 
+Amount 
+Cost of Capital 
+of Sources 
+Equity Share Capital  
+(shares of Rs. 500 
+ each) 
+60,00,000 
+18% 
+14% Preference Share Capital 
+(shares of Rs. each) 
+10,00,000 
+? 
+12% Debentures of Rs. Each 
+30,00,000 
+? 
+The tax rate for the given period is 20%. Calculate WACC. 
+5 
+Calculators are allowed.

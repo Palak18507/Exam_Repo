@@ -1,0 +1,110 @@
+{
+  "paper_id": "BAM305_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM305",
+    "subject_name": "Social Networking and Mining",
+    "program": "B.TECH (AI&ML",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define node centrality and explain its significance in social network analysis.",
+          "marks": 0.8333333333333334
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the small-world property in real-world networks? Provide an example.",
+          "marks": 0.8333333333333334
+        },
+        {
+          "subpart_id": "c",
+          "text": "Differentiate between PageRank and Personalized PageRank.",
+          "marks": 0.8333333333333334
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write any four differences between disjoint and overlapping communities in community detection?",
+          "marks": 0.8333333333333334
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the key intuition behind graph representation learning.",
+          "marks": 0.8333333333333334
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe the independent cascade model used in modeling cascades",
+          "marks": 0.8333333333333334
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the methods used for data collection in social network analysis, such as APIs, web scraping, and Selenium, with their applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the concept of power law distribution and its implications in the context of scale-free networks.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of signed networks and the role of strong and weak ties in social networks. Provide suitable examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Discuss various methods of community detection and explain how communities are evaluated.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "A social media platform wants to improve its friend recommendation system by predicting potential links among users. Suggest suitable methods for implementing a link prediction model. Explain how heuristic and probabilistic models can be applied in this context. Discuss challenges in evaluating the accuracy of the predictions and propose solutions.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the link prediction problem and its applications in social networks. Explain any one method in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A marketing team wants to analyze how a viral video spreads across a social network and predict its future reach. 1. Propose a suitable cascade model for analyzing the video's spread. 2. Identify the challenges in predicting cascade behavior in real- world networks. 3. How can anomaly detection help identify false information cascades or bots amplifying the spread?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the challenges in detecting anomalies in dynamic networks and the methods used to address them.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

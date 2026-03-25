@@ -1,0 +1,78 @@
+{
+  "paper_id": "BEC412_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC412",
+    "subject_name": "Non-Conventional Energy Resources",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Do Any Four CO Mapping a Differentiate between conventional and non-conventional energy resources. 5 b Outline the challenges and remedies associated with the use of solar energy. 5 c What is the impact of wind energy generation on environment? 5 d What is biomass direct combustion? Explain in detail. 5 e Distinguish between wave and tidal energy. 5 f How do you classify hydrogen production methods? Explain any One of them. 5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the types of solar radiation measuring Instruments? Explain the working of Sunshine recorder with a neat sketch. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the process of generation of power in solar pond with a neat sketch and mention its merits and demerits. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Classify the Biomass energy conversion systems and explain them in brief. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the function of Deenbandhu biogas digester with a neat sketch and also mention its merits and demerits. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Illustrate the power generation process in horizontal axis wind turbine with its merits and demerits. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Classify the wind energy systems and explain their working with neat sketch. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is tide? Explain the basic components of a tidal power plant and state their merits and demerits. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain Geothermal binary cycle power plant with neat diagram. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Off Line) 
+Course Name: B. Tech.(MAE), Semester:  4 
+(May , 2025) 
+ 
+Subject Code: BMA 206 
+Subject: Engineering Materials  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+Short Answer type Questions. 
+(2.5*8=20) 
+CO Mapping 
+ 
+1) Explain the annealing process of heat treatment? 
+ 
+CO-3 
+ 
+2) What is ductile fracture? Explain with the help of suitable 
+diagram. 
+ 
+CO-4 
+ 
+3) Enlist the factors that affect fatigue life. 
+ 
+CO-4 
+ 
+4) What is the cause of rusting of iron? 
+ 
+CO-3 
+ 
+5) Define Frankel defect with suitable diagram. 
+ 
+CO-1 
+ 
+6) What is an alloy? Explain with suitable example. 
+ 
+CO-1 
+ 
+7) What is the significance of engineering materials in our day-to-
+day life? Explain with suitable example. 
+ 
+CO-2 
+ 
+8) Define composite material with suitable diagram. 
+ 
+CO-2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What is edge dislocation and Explain the Point Defects with 
+suitable diagram? 
+(10) 
+CO-1 
+Q3 
+Explain briefly the following:- 
+1) Unit Cell 
+2) Polymorphism 
+3) Polycrystalline material 
+4) Crystal Structure 
+5) Anisotropy 
+(10) 
+CO-1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the microstructure of various phases of steel with suitable 
+diagram. 
+(10) 
+CO-2 
+Q5 
+Give classification of Cast Iron. Explain different types of Cast Iron. 
+(10) 
+CO-2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) What is corrosion? Explain corrosion types and their causes. 
+(b) Explain the corrosion control methods. 
+(10) 
+CO-3 
+Q7 
+Explain with neat diagrams the following heat treatments 
+processes: 
+• 
+Normalizing 
+• 
+Hardening  
+• 
+Tempering 
+• 
+Surface hardening 
+(10) 
+CO-3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the strain hardening process of strengthening mechanism 
+in solids in detail. 
+(10) 
+CO-4 
+Q9 
+What is Steady Failure? Explain the fatigue and creep failures with 
+suitable examples 
+(10) 
+CO-4

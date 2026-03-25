@@ -1,0 +1,91 @@
+{
+  "paper_id": "BMS328_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS328",
+    "subject_name": "Cross Cultural HRM",
+    "program": "BBA",
+    "semester": 6,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between a Parent Country National , Host Country National , and Third Country National ? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does the Polycentric approach differ from the Geocentric approach, and when would it be beneficial to use each one? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key objectives of diversity training in organizations? Explain with suitable example. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does the Black & Mendenhall Model of Cross-Cultural Training address the development of cultural intelligence in global business environments? 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe Hofstede's Model of Cultural Dimensions and its impact on business interactions. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the ways in which culture influences international business. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "At a multinational company an employee Ms. Neeta has recently been sent on an expatriate assignment to Brazil. She is struggling to adjust to the new culture and is feeling isolated in her new environment. Based on the expatriate adjustment cycle, describe the process she should be made to go through to improve the current situation. 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why is diversity management important in today’s workplace? What are some benefits that diversity brings to a company? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Imagine you are the HR manager of a multinational what challenges might employees face while using culture assimilators, and how could you address these challenges? 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "You have been appointed as the manager of a multicultural project team in a global corporation. As a team leader, what strategies will you develop to enhance teamwork and leverage the cultural diversity of the team for better performance? 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

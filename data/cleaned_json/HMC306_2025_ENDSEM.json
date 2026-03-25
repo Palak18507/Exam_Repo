@@ -1,0 +1,120 @@
+{
+  "paper_id": "HMC306_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC306",
+    "subject_name": "Financial Management",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you understand by the rule 72? Explain with examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the term financial management?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the concept of the Interest Tax Shield?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What do you understand by the term Equity and how it is different from preference share?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you understand by the term capital budgeting, and to which type of decision does it belong?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "You are given the present values of cash inflows and outflows for two projects . Calculate the Profitability Index for each project and determine which project is the most suitable for investment. A B Present Value of Cash Outflows 75000 68500 Present Value of Cash Inflows 85500 74500",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain storage and ordering cost in inventory management",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the concept of gross and net working capital.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "A. Why is the time value of money important to consider? Explain it with proper examples B. Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A. Define the scope of Financial Management. What role should the financial manager play in a modern enterprise? B. Explain the factors affecting time value of money?",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A. What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "XYZ ltd has the following capital structure Equity Share Capital 30,00,000 9% Preference Shares 22,00,000 12% Debentures 28,00,000  The cost of Equity is 15%  The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.  Debentures are issued at premium of 5%. 2  Tax rate is given @20%. 1. Compute the cost of capital for each source 2. Compute the Weighted Average Cost of Capital",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows: Year Machine P Machine Q 1 8,50,000 5,85,000 2 7,55,000 3,83,000 3 4,95,000 7,50,000 4 3,50,000 6,50,000 5 7,44,000 4,38,000 6 4,50,000 6,80,000 The company has target return on capital from Machine X and Y are 12% On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Write Short Notes with suitable examples on  Net Present Value  Internal Rate of Return  Profitability Index  Payback Period",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A. Explain ABC analysis model of Inventory Management with suitable examples B. What is the operating cycle? Explain its concept and the method of calculation.",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost. A. Calculate the Economic Order Quantity and the Total Cost at the EOQ level. B. Calculate the Total Cost if the order sizes are: i. 100 units ii. 600 units iii. 3000 units C. Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

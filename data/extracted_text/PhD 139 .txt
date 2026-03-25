@@ -1,0 +1,88 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: PhD, Semester: 1 
+(May, 2025) 
+ 
+Subject Code: PhD 139 
+Subject:  Quantitative and Mixed Methods Research for Management  
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a)  What are the main differences between quantitative, qualitative, 
+and mixed-method research approaches? 
+ 
+CO1 
+ 
+b) Compare primary and secondary data collection methods with 
+examples. 
+ 
+CO2 
+ 
+c) What is a hypothesis? Differentiate between null and alternative 
+hypotheses. 
+ 
+CO3 
+ 
+d) Define ANOVA. How is it different from a t-test or F-test? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the process of drawing a research gap from existing 
+literature. 
+(10) 
+CO1 
+Q3 
+Describe the key stages of conducting research from problem 
+identification to conclusion. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What are the criteria for selecting appropriate data collection 
+methods for a study? 
+(10) 
+CO2 
+Q5 
+What are the different types of sampling techniques? Provide 
+examples of when each might be used. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+How is univariate analysis different from bivariate analysis? Explain 
+with examples. 
+(10) 
+CO3 
+Q7 
+When is a large sample test preferred over a small sample test, and 
+why? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What are the key assumptions behind multivariate statistical 
+techniques? What is regression analysis? 
+(10) 
+CO4 
+Q9 
+Describe the process of presenting and interpreting quantitative 
+research findings in a written report. 
+(10) 
+CO4

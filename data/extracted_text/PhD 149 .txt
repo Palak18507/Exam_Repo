@@ -1,0 +1,94 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<PhD Course Work> 
+(May, 2025) 
+ 
+Subject Code: PhD 149 
+Subject: Deep Learning for Natural Language Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(5x4 =20) 
+CO Mapping 
+ 
+a) Consider a neural Network with single weight W. The output of 
+the network is given by y=w^2 and the loss function is L=1/2(y-
+t)^2 where t=4 is the target value. If the current value of w is 3, 
+what is the gradient of L with respect to w? 
+ 
+CO1 
+ 
+b) Suppose a language model has a vocabulary of size  5 and during 
+decoding the model produces the following logits for the 5 
+tokens 
+      Z=[ 4 0 -2 3 1]. 
+Compute the probability distribution when using random 
+sampling with temperature T= 0.5. 
+ 
+CO1 
+ 
+c) Distinguish between extractive and abstractive text 
+summarization 
+ 
+CO2 
+ 
+d) What is QLoRA? 
+ 
+CO2 
+ 
+ 
+CO Mapping 
+Q2 
+a) Explain Word2Vec architectures to generate word 
+embeddings 
+        b)   Suppose you train a skip gram model with negative 
+sampling on a vocabulary of 10000 words. If you choose k=5 
+negative samples per positive pair, Calculate the number of 
+updates made to the embeddings for each target-context pair? 
+(10) 
+CO1 
+Q3 
+Explain n-gram language model. What are its limitations and 
+applications 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the application of RNN in sequence labelling 
+(10) 
+CO2 
+Q5 
+Explain BART model with architecture details 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is RLHF? How does RLHF work? 
+(10) 
+CO3 
+Q7 
+Explain deep learning approaches for question answering system 
+(10) 
+CO3 
+Unit IV 
+ 
+CO Mapping 
+Q8 
+What is RAG? How does RAG work? What are the benefits of RAG 
+(10) 
+CO4 
+Q9 
+What is fine tuning? What are the benefits and challenges in LLM 
+fine tuning? Explain any one parameter efficient fine tuning 
+technique? 
+(10) 
+CO4

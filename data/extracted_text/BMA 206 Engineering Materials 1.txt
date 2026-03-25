@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech (MAE ), Semester: 4th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 206 
+Subject: Engineering Materials 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Short Questions 
+(2.5*4=10) 
+CO Mapping 
+ 
+(a) 
+What is Crystallographic Direction? Explain. 
+ 
+01 
+ 
+(b) 
+What is crystal structure, define with suitable diagram. 
+ 
+01 
+ 
+(c) 
+Define grain boundary with suitable diagram. 
+ 
+02 
+ 
+(d) 
+What is Anisotropy?                                                     
+ 
+02 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+(a) What is the significance of crystal defect? Classify the 
+various defects (imperfections) in solids. 
+ 
+01  
+ 
+(b) Define stacking fault and twinned boundary defects with 
+suitable diagram. 
+ 
+01 
+ 
+c)     Draw and explain the cooling curve of pure iron with 
+suitable diagram 
+ 
+02  
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Draw and explain the Iron-Carbon equilibrium phase 
+diagram with neat sketch. 
+ 
+02 
+ 
+b) Explain the term alloy? Write down advantages and 
+disadvantages of Alloy Steel.                                                    
+ 
+02 
+ 
+c) Define Schottky defect and Frankel defect with suitable 
+diagram. 
+ 
+02

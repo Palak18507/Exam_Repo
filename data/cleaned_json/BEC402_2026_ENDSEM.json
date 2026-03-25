@@ -1,0 +1,121 @@
+{
+  "paper_id": "BEC402_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC402",
+    "subject_name": "Embedded Systems",
+    "program": "B.Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the characteristics of an embedded system?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the major application areas of embedded systems?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "How are General Purpose Processors different from Application Specific Instruction Set Processors?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are PLDs? Explain their advantages.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a hard real-time system? How is it different from a soft real-time system?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Draw and explain the memory organization of a process.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain asynchronous serial communication in detail. Give an example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are edge-triggered and level-triggered interrupts?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the embedded systems design process. What are the major levels of abstraction in the design process?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How are embedded systems classified? Explain in detail.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Draw and explain the architectural difference between Harvard and Von Neumann processors.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the different types of memory. What are the different factors required to be considered while selecting memory devices?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Draw and explain the architecture of an Operating System. What is an RTOS? Why is it required?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are the different factors that are needed to be analyzed for selecting an RTOS?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Draw and explain the frame structure of UART and HDLC.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What are RS-232 handshaking signals? Explain RS-232 handshaking in detail.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

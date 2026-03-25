@@ -1,0 +1,89 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(B. Tech) (Semester:6th) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BCS 304 
+Subject: Microprocessor and Interfacing 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Do 8086 implements pipelining?  Justify your statement 
+ 
+CO1 
+ 
+b) Can we change the content of the Code Segment directly? 
+Justify your statement. 
+ 
+CO1 
+ 
+c) Differentiate and explain the following instructions: 
+1. SUB CL,BL 
+2. SUB CX,AX 
+3. SUB DX,0016H 
+4. SUB CX,[DI] 
+5. SUB [BP] AH 
+ 
+CO2 
+ 
+d) Given AX=0102H, BX=0304H, SP=0722, and SS=0200. 
+After executing the following program what will be the contents 
+of AX, BX, SP, and STACK : 
+POP BX 
+POB AX 
+ 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the function of the following pins in 8085: 
+INTR, ALE, READY, HOLD, TRAP 
+ 
+CO1 
+ 
+b) Explain in detail the  demultiplexing  of the Address bus in 
+8086  
+ 
+CO1 
+ 
+c) Explain the function of EU, BIU, and QUEUE in 8086 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) IF SS-0100H, DS=2000H, ES-1002, BX-1001H, BP-2100, SI-
+0002H. 
+Mention the contents of BX, BP, SI, ES, and SS after the execution 
+of LES BX, [BP]+[SI] 
+ 
+CO2 
+ 
+b) Draw the timing diagram of the write cycle in 8086 Minimum 
+mode 
+ 
+CO2 
+ 
+c) Explain the following assembler directives: 
+ASSUME, ENDP, EXTRN, ORG, ENDS 
+ 
+ 
+CO2

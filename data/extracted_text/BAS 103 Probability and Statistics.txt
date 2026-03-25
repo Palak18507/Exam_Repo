@@ -1,0 +1,147 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+MID-TERM EXAMINATION 
+Course Name: B. Tech. (CSE, IT, MAE), Semester: II 
+(March 2025) OFF LINE mode 
+ 
+ 
+Subject Code:  BAS 103 
+Subject: Probability and Statistics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any two parts of Q2 and Q3. 
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Two cards are drawn from a well-shuffled ordinary deck of     
+     52 cards. Find the probability that they are both aces if the     
+     first card is (a) replaced, (b) not replaced. 
+ 
+CO1 
+ 
+b) For the frequency distribution of x, number of grammatical     
+     mistakes per line is as follows: 
+x 
+2 
+4 
+6 
+8 
+f 
+8 
+9 
+3 
+10 
+      Find the 3rd moment about the mean. 
+ 
+CO1 
+ 
+c) The joint probability function of two discrete random  
+     variables X and Y is given by 
+X ↓  Y→ 
+0 
+1 
+2 
+3 
+0 
+0 
+c 
+2c 
+3c 
+1 
+2c 
+3c 
+4c 
+5c 
+2 
+4c 
+5c 
+6c 
+7c 
+      Find the value of c. 
+ 
+CO2 
+ 
+d) Determine the covariance for the joint probability density     
+     function 𝑓(𝑥, 𝑦) = 𝑒−𝑥−𝑦 over the range 𝑥> 0 and 𝑦> 0. 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) The temperature of two cities A and B in a winter season are      
+     given below: 
+Temp of City A (°C) 
+18 
+20 
+22 
+24 
+26 
+Temp of City B (°C) 
+11 
+14 
+15 
+17 
+18 
+      Find which city is more consistent in temperature changes?  
+ 
+ 
+CO1 
+ 
+b) Box I contains 3 red and 2 blue marbles while Box II contains  
+     2 red and 8 blue marbles. A fair coin is tossed. If the coin    
+     turns up heads, a marble is chosen from Box I; if it turns up  
+     tails, a marble is chosen from Box II. Find the probability that    
+     a red marble is chosen. 
+ 
+CO1 
+ 
+c) Suppose that X is a continuous random variable whose  
+    probability density function is given by 
+𝑓(𝑥) = { 𝑘 (4𝑥−2𝑥2),
+0 < 𝑥< 2
+              0           ,         𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 
+i. What is the value of 𝑘? 
+ii. Find 𝑃(𝑋> 1). 
+iii. Find the cdf of X. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) The joint density function of X and Y is given by 
+𝑓(𝑥, 𝑦) = {𝑥 𝑒−(𝑥+𝑦)  ;   𝑥> 0, 𝑦> 0
+     0          ;   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 
+i. Compute marginal density functions of X and Y. 
+ii. Are X and Y independent? 
+ 
+CO2 
+ 
+b) Let 𝑌 be the absolute difference of the upturned faces in the     
+     experiment of tossing two dice. Find 𝐸[𝑌] and 𝑉𝑎𝑟[𝑌]. 
+ 
+CO2 
+ 
+c) Let the random variable X with the probability mass function: 
+𝑃(𝑋= 𝑥) = {
+0.3,     𝑥= 8
+0.2,   𝑥= 10
+0.5,     𝑥= 6
+ 
+    Find the moment generating function. Hence, find the mean    
+    and variance. 
+ 
+CO2

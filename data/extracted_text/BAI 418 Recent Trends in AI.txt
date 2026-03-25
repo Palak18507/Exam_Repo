@@ -1,0 +1,61 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+                                 (Course Name: B. Tech) (Semester: 8) 
+                   (March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 418 
+Subject: Recent Trends in AI 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) What do you mean by Dimensionality reduction? Why is it required? 
+ 
+ 
+b) What is BERT? Explain its working. 
+ 
+ 
+c) Explain the applications of Computer Vision. 
+ 
+ 
+d) How is GAN utilized in Audio generation? Explain with the help of block 
+diagram. Give some examples of the GAN types utilized for Audio 
+generation and translation. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Draw and explain the block diagram of canonical AI architecture.  
+ 
+ 
+b) Explain the process of knowledge discovery in databases with the help of a 
+diagram. 
+ 
+ 
+c) Draw a comparison chart for AI, ML, and DL based on its meaning, 
+characteristics, types, and futuristic issues. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What is GAN? Draw and explain the architecture of GAN. 
+ 
+ 
+b) What are the different AI-based classification methods in smart grids? 
+Explain in detail. 
+ 
+ 
+c) How do smart traffic management and smart parking contribute to building 
+a smart city? Explain in detail. What are the other components involved in 
+building a smart city?

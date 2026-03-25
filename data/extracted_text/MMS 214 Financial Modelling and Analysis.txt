@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: MBA ) (Semester:  4) 
+(March 2025) OFFLINE mode 
+ 
+Subject Code: MMS 214 
+Subject: Financial Modelling and Analysis 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1  
+(2.5*4=10) 
+CO Mapping 
+ 
+a) How do you calculate the cost of equity using classical CAPM model in 
+excel? 
+2.5 
+1 
+ 
+b) What is the difference between relative cell reference and absolute cell 
+reference? 
+2.5 
+1 
+ 
+c) What are random variables? 
+2.5 
+2 
+ 
+d) Sample is drawn from the lots of suppliers A and B. 
+ Here n1 = 10, and  n2= 15. 
+ S 2X= 150   , S 2y= 120 
+Test the null hypothesis Ho: σ2A = σ2B.  Critical value at 5% level of 
+significance, degree of freedom 9,14 = 2.65. 
+2.5 
+2 
+ 
+UNIT I 
+(5*2=10) 
+CO Mapping 
+Q2 a) What is “What if analysis” tool in excel? Explain its 2 types. 
+5 
+1 
+ 
+b) How do you calculate the flat annual payment required to pay off a five-
+year loan of rs 100,000 bearing an interest rate of 13 percent in Excel? 
+5 
+1 
+ 
+c) What are the ways to calculate NPV and IRR in excel? 
+5 
+1 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q3 a) A sample of 16 engineering students of a college was taken and the 
+information was obtained on their starting salary. The monthly means 
+starting salary was found to be ₹30,200 with the standard deviation of 
+₹960. The past data on the salary has given the mean value (population) of 
+₹30,000. Using a 5% level of significance, can we conclude that the 
+average starting salary is different from ₹30,000? 
+Critical value at 5% level of significance and degree of freedom 15 is -2.131 
+and 2,131 
+5 
+2 
+ 
+b) What are the properties of point estimators? 
+5 
+2 
+ 
+c) Explain the following (any 3): 
+i) 
+Standard error 
+ii) Maximum likelihood estimators  
+iii) Type 1 and type 2 error 
+Stochastic error term 
+5 
+2

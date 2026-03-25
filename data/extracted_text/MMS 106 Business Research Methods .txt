@@ -1,0 +1,198 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: MBA, Semester: 2nd 
+(May, 2025) 
+ 
+Subject Code: MMS 106 
+Subject: Business Research Methods 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is the role of research in business decision-making? 
+ 
+CO1 
+ 
+b) After a bumper crop, a mushroom grower hypothesizes that 
+mushroom will remain at the wholesale average price of Rs.100 
+per kg. State the null hypothesis and alternate hypothesis.  
+ 
+CO1 
+ 
+c) How respondents are encouraged to provide the information 
+that they are unwilling to give?   
+ 
+CO2 
+ 
+d) What is semantic differential rating scale? 
+ 
+CO2 
+ 
+e) How would you determine the appropriate sample size for a 
+research study? 
+ 
+CO3 
+ 
+f) How unsatisfactory responses are treated during the data 
+preparation process? 
+ 
+CO3 
+ 
+g) What are the some of the usage of cluster analysis in business 
+research? 
+ 
+CO4 
+ 
+h) What is multidimensional Scaling (MDS) Test? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+The marketing research process involves a number of interrelated 
+activities, which overlap and do not rigidly follow a particular 
+sequence. Comment. 
+(10) 
+CO1 
+Q3 
+Explain the different types of research in business, providing 
+relevant examples? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Describe the major statistical designs used in the causal research. 
+(10) 
+CO2 
+Q5 
+What is a non-comparative rating scale? Describe the major non-
+comparative scales used in the business research. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Describe the various methods of sampling, including both 
+probability and non-probability sampling techniques. 
+(10) 
+CO3 
+2 
+ 
+Q7 
+Suppose a researcher is interested in forecasting the sale for a 
+construction distributor (wholesaler) in Delhi. The distributor 
+believes a reasonable association exists between sales and 
+building permits issued by country. 
+Dealer 
+(Y) 
+Dealer’s Sales Volume 
+(Thousands) 
+(X) 
+Building Permits 
+ 
+1 
+77 
+86 
+2 
+79 
+93 
+3 
+80 
+95 
+4 
+83 
+104 
+5 
+101 
+139 
+6 
+117 
+180 
+7 
+129 
+165 
+8 
+120 
+147 
+9 
+97 
+119 
+10 
+106 
+132 
+11 
+99 
+126 
+12 
+121 
+156 
+13 
+103 
+129 
+14 
+86 
+96 
+15 
+99 
+108 
+Apply the bivariate regression analysis on the above data and 
+determine the regression equation which can be used for 
+forecasting the sales volume.  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Look at the data table below that describe how much coffee 
+respondents report drinking each day based on shift of work.  
+Shift of Work 
+Coffee Consumption 
+Day 
+1 
+Day 
+3 
+Day 
+4 
+Day 
+0 
+Day 
+2 
+Second 
+7 
+Second 
+2 
+Second 
+1 
+Second 
+6 
+Night 
+6 
+Night 
+8 
+Night 
+3 
+Night 
+7 
+Night 
+6 
+Apply the appropriate statistical technique to know the effect of 
+shift of work on coffee consumption. 
+(10) 
+CO4 
+Q9 
+Describe the steps involved in conducting the factor analysis. 
+(10) 
+CO4

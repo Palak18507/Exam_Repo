@@ -1,0 +1,97 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester:6 
+(May, 2025) 
+ 
+Subject Code: BCS 310 
+Subject: Human Computer Interaction 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) Define "User Interface" and explain its significance in modern computing. 
+ 
+ 
+b) Differentiate between Hover-Reveal Tools and Toggle-Reveal Tools. 
+ 
+ 
+c) What are the challenges present in display based Systems. 
+ 
+ 
+d) Explain the principle of "direct manipulation" in the context of graphical user 
+interfaces. 
+ 
+ 
+e) Discuss the importance of screen design in user interfaces. 
+ 
+ 
+f) What are the common limitations of mobile and hand-held platforms in terms of 
+user interface design? 
+ 
+ 
+g) What is the role of colors and multimedia in enhancing user experience in UI 
+design? 
+ 
+ 
+h) How does human interaction speed influence user interface design and 
+usability? 
+ 
+UNIT I 
+ 
+Q2 
+Justify the statement with example: “The Response Time/Productivity Relation 
+changes based on the task and user.” 
+(10) 
+Q3 
+Describe the principles of user interface design for graphical user interfaces 
+(GUIs). Explain the concept of direct manipulation and how it is used in modern 
+graphical systems. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the design process for user interfaces. Discuss the role of human 
+interaction characteristics (such as cognitive factors and physical limitations) in 
+shaping the design of user interfaces. 
+(10) 
+Q5 
+Explain the following Elements of Mobile Design in detail  
+a. Context  
+b. Message  
+c. Look and Feel  
+d. Layout  
+e. Color 
+(10) 
+UNIT III 
+ 
+Q6 
+Discuss the following characteristics in respect of web pages 
+a. Page size  
+b. Page rendering  
+c. Page layout  
+d. Page resolution  
+e. User focus 
+(10) 
+Q7 
+Discuss the importance of navigation schemes in user interface design. How do 
+you select the appropriate window types and controls for an application? Provide 
+examples. 
+(10) 
+UNIT IV 
+ 
+Q8 
+Explain the role of multimedia, icons, and colors in user interface design. How can 
+these elements be utilized to enhance the user experience and engagement? 
+(10) 
+Q9 
+Discuss the various interacting devices used in user interfaces, such as keyboards, 
+touchscreens, and voice-activated commands. How do these devices impact user 
+interaction and usability? 
+(10)

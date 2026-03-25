@@ -1,0 +1,120 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+                                                (Course Name:  B. Tech.) (Semester: II) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAS 101 
+Subject: Applied Mathematics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Calculator is not allowed. 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Express the matrix as the sum of a Hermitian and a skew-Hermitian Matrix. 
+𝐴= (
+1 + 𝑖
+2
+0
+3
+4 −𝑖
+1
+−𝑖
+2 + 𝑖
+5
+ ) 
+ 
+CO1 
+ 
+b) Find non singular matrices 𝑃 and Q such that 𝑃𝐴𝑄 is in the normal form 
+𝐴= (1
+2
+3
+3
+1
+2)  
+CO1 
+ 
+c) Find the nth derivative of 𝑦= sin4 𝑥. 
+CO2 
+ 
+d) If  𝑢= cosec−1
+𝑥+2𝑦+3𝑧
+√𝑥8+𝑦8+𝑧8 , show that  𝑥
+𝜕𝑢
+𝜕𝑥+ 𝑦
+𝜕𝑢
+𝜕𝑦+ 𝑧
+𝜕𝑢
+𝜕𝑧+ 3 tan 𝑢= 0. 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss the consistency of the system of equations  
+2𝑥−3𝑦+ 6𝑧−5𝑤= 3,  
+𝑦−4𝑧+ 𝑤= 1, 
+4𝑥−5𝑦+ 8𝑧−9𝑤= 𝜇, 
+for various values of 𝜇. If consistent, find the solution.   
+CO1 
+ 
+b) Find the eigen values and eigen vectors of the matrix 
+𝐴= (
+2
+−2
+2
+1
+1
+1
+1
+3
+−1
+ ) 
+Hence, check whether the matrix is diagonalizable or not. If yes, find out the 
+modal matrix P. If not, give reasons. 
+CO1 
+ 
+c) State Cayley Hamilton Theorem. Find the characteristic equation of the 
+matrix  
+𝐴= (
+2
+−1
+1
+−1
+2
+−1
+1
+−1
+2
+ ) 
+Hence find 𝐴−1 and the matrix represented by   
+𝐴6 −6𝐴5 + 9𝐴4 −2𝐴3 −12𝐴2 + 23𝐴−9𝐼. 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Find the first 6 terms of the expansion of the function 𝑒𝑥log(1 + 𝑦) in a 
+Taylor’s series in the neighbourhood of the point (0,0). 
+CO2 
+ 
+b) If 𝑦= {log(𝑥+ √1 + 𝑥2)}2,  find 𝑦𝑛(0). 
+CO2 
+ 
+c) Find the absolute maximum and minimum values of 
+𝑓(𝑥, 𝑦) = 2 + 2𝑥+ 2𝑦−𝑥2 −𝑦2 
+on the triangular plate in the first quadrant, bounded by the lines 𝑥= 0, 𝑦=
+0 and 𝑦= 9 −𝑥. 
+CO2

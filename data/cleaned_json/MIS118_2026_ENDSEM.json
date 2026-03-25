@@ -1,0 +1,168 @@
+{
+  "paper_id": "MIS118_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS118",
+    "subject_name": "MACHINE LEARNING IN CYBER SECURITY",
+    "program": "M.Tech CSE AI",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Differentiate between Intrusion Detection and Anomaly Detection. What do you mean by mouse pattern analysis attacks? Explain the Web server log analysis and its advantages. Explain the main drawback of data poisoning attacks in machine learning. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the types of intrusion detection system with diagram and how it can be avoided using machine learning techniques.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Imagine a situation where a network of computers suddenly begins flooding a company’s server with traffic, causing it to crash. The IT team suspects a botnet attack. As the lead analyst, can you explain how attackers typically carry out botnet attacks? Also, what steps can be taken to prevent such incidents? Describe any two techniques that could be used to stop these attacks before they cause damage.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write five major applications of machine learning algorithms in cyber security.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "During a team meeting at a cybersecurity firm, your manager presents a challenge the team recently faced: \"Last week, our system flagged a sudden spike in login attempts from an unusual location — something our regular monitoring tools missed. It turned out to be an attempted breach. This was caught by our anomaly detection system.\" She turns to you and asks: \"Can you explain what anomaly detection means? Also, how can machine learning algorithms help detect such anomalies in real-life applications like fraud detection, network security, or system monitoring?\" CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "a) How machine learning algorithms helps to detect the malware in the system.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain keyboard/ mouse pattern analysis attacks and discuss it prevention approach.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a machine leaning approach for malware detection and prevention.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the differences between the static and dynamic analysis. 2 CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the strategies for feature selection for email spam detection?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is email spam? How can it be detected through machine learning?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the types of phishing attacks?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "While investigating a recent phishing attack, your cybersecurity team discovers that users were tricked into clicking on a suspicious-looking link that led to a fake login page. During the team briefing, your supervisor turns to you and asks: \"Can you explain what a malicious URL is? Also, how can we use machine learning algorithms to detect such harmful links before users fall victim to them?\" CO Mapping",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "During a cybersecurity workshop on digital misinformation, the presenter shares a viral video that looks incredibly real but it's entirely fake. The audience is stunned. Turning to you, the presenter asks: \"With the rise of deep fakes, it’s important to understand how they’re made. Can you name and briefly describe any two machine learning algorithms commonly used for creating deep fakes?\"",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain GAN and its role in Cyber Security Applications.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 5.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write the advantages of generative adversarial networks.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Model reconstruction attacks.",
+          "marks": 2.5
+        }
+      ]
+    }
+  ]
+}

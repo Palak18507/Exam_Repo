@@ -1,0 +1,120 @@
+{
+  "paper_id": "BEC103_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC103",
+    "subject_name": "Electronics Workshop",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between Zener Breakdown and avalanche Breakdown.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is an Electrodynamometer type Wattmeter?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is an Amplified DC Meter?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Give the relationship between α, β and γ of a transistor",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Briefly explain the True-RMS responding voltmeter?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss about the cut-off and saturation mode of operations of BJT.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Simplify using Boolean Algebra 𝑌 = 𝐴𝐵 + 𝐴𝐶 ̅̅̅̅ + 𝐴𝐵̅𝐶",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Convert the following expression in canonical POS form. Y =",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Demonstrate and justify the input and output characteristics of common base configuration of BJT.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the construction, characteristics, and operation of a Zener diode. Explain how it can be used as a voltage regulator. For the circuit shown below, find the output voltage the voltage drop across series resistance the current through zener diode.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the working of emitter bias circuit and derive the expression of its stability factor S. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "With a neat diagram explain in detail the construction and principle of PMMC Instruments. What are shunts and multipliers? Derive the expression for both, with reference to meters used in electrical circuits.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "With the help of block diagram explain the working principle of Electronic Voltmeter?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Draw the block diagram of Digital Frequency meter? Explain the principle of operation of Vector Voltmeter?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Use K-Map to minimize and express the function in SOP form. Implement the expression using NAND gates only. F = ∑m + ∑d",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Implement the following Boolean functions using a 3:8 decoder. Use block diagram for the decoder. F1 =∑ m F2 =∑ m F3 =∑ m Differentiate between i. Positive Logic and Negative Logic ii. Multiplexer and Demultiplexer",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

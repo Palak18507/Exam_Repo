@@ -1,0 +1,86 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  IInd ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BAI 102 
+Subject: IT Workshop 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What are the advantages of R programming? 
+2.5 
+CO1 
+ 
+b) How do we install a package in R Program? What is the 
+difference between a package and a library in R software? 
+2.5 
+CO1 
+ 
+c) Write a R Program to create a matrix taking a given vector of 
+numbers as input and define the column and row names. 
+Display the matrix.  
+2.5 
+CO2 
+ 
+d) Define an array. What is the difference between a matrix and 
+an array? Write down the command for creating an array in R.  
+2.5 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) i) Write a R program to display the sum of Logarithms of three 
+non-zero values entered by the user. 
+ii)  Write a R Program to create a vector. Extract the first and 
+last element of your vector, storing them as new object.  
+3+2 
+CO1 
+ 
+b) Write a program in R : 
+i) To multiply two vectors of different lengths 
+ii) To display the square of a vector 
+2.5+2.5 
+CO1 
+ 
+c) Write a R Program to find sum, mean and product of a vector.  
+d) Define functions in R. What is the advantage of using 
+functions in R? 
+2.5+2.5 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Write a program to multiply two matrices in R. 
+5 
+CO2 
+ 
+b) Write a program in R for inverting a matrix. Verity that the 
+product of these two matrices results in an identity matrix.  
+5 
+CO2 
+ 
+c) Create and store a three-dimensional array with six layers of a 4 
+x 2 matrix, filled with a decreasing sequence of values between 4.8 
+and 0 .1 of the appropriate length 
+5 
+CO2 
+ 
+**********

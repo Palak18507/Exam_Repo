@@ -1,0 +1,115 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: Machine Learning Semester: 4 
+(May, 2025) 
+ 
+Subject Code: BAM 202 
+Subject:  Machine Learning 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain ordinal-categorical attribute in a Data Sample. 
+2.5 
+CO1 
+ 
+b) Explain the purpose of K-Cross Validation in ML Model. 
+2.5 
+CO1 
+ 
+c) Differentiate between Supervised and Unsupervised Learning 
+using suitable example. 
+2.5 
+CO2 
+ 
+d) How can we convert data into probabilities? 
+2.5 
+CO2 
+ 
+e) How the value of K is determined for a K-Mean Implementation 
+in ML? 
+2.5 
+CO3 
+ 
+f) Which among divisive and agglomerative clustering is better 
+from global optimization perspectives? 
+2.5 
+CO3 
+ 
+g) What do you mean by rejection of null hypothesis in hypothesis 
+testing? 
+2.5 
+CO4 
+ 
+h) What is K-Cross Validation? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a. Establish importance of Data Cleaning and Data Integration. 
+b. How feature extraction and Feature reduction approaches helps in 
+data preprocessing? 
+(5,5) 
+CO1,2 
+Q3 
+a. How statistical measures are used to identify the outliers? Explain. 
+b. How Data Integration is carried out to realize a data pre-processing 
+step?  
+(5,5) 
+CO1,2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Write a short note on the following: 
+a. LASSO Regression 
+b. RIDGE Regression 
+(5,5) 
+CO2 
+Q5 
+a. Drive the formula for optimizing the cost/loss function for the 
+Logistic Regression. 
+b. Explain one approach based on entropy for Decision Tree 
+Implementation. Which rules are used to label a leaf node with a class? 
+(5,5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a. How K-Means and Hierarchical Clustering compares on the following 
+aspects: Irregular Shaped Clusters, Outliers, Initialization of Centroids 
+and Optimizations? 
+b. How Dimensionality Reduction is realized through PCA? Derive a 
+Mathematical Equation considering Square Symmetric Matrix. 
+(5,5) 
+CO3 
+Q7 
+a. How Density based clustering scheme algorithm works?  Write 
+algorithm for one example scheme.  
+b. Derive the justification for EM based soft clustering. 
+(5,5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain how Random Forest and Ada Boost Algorithms works to realize 
+Bagging and Boosting Approaches of classification? 
+(10) 
+CO4 
+Q9 
+Write a short note on the evaluations of ML Models through: 
+a. Learning Curves 
+b. Ensemble Learning 
+(5,5) 
+CO4

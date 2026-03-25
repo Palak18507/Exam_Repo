@@ -1,0 +1,74 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ) (Semester: VI  ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 314 
+Subject: FPGA & Verification 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) List out the front end steps in FPGA design flow 
+2.5 
+Unit-1 
+ 
+b) What is Regression related to FPGA design environment 
+2.5 
+Unit-1 
+ 
+c) What are the benefits of logic simulation in FPGA design 
+2.5 
+Unit-2 
+ 
+d) Write a verilog code for half adder and draw the synthesize 
+diagram 
+2.5 
+Unit-2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain in detail building block architecture of FPGA 
+5 
+Unit-I 
+ 
+b) What are the key components make up the CLBs. Explain 
+functionality of each block 
+5 
+Unit-I 
+ 
+c) List the differences between FPGA and CPLD. Draw the 
+structural diagram of PLA 
+5 
+Unit-I 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Design a full adder and write the behavioral style verilog 
+program for this and verify 
+5 
+Unit-II 
+ 
+b) Explain logic simulation using FPGA in detail 
+5 
+Unit-II 
+ 
+c) Explain event vs process oriented simulation 
+5 
+Unit-II

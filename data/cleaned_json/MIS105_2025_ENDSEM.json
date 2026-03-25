@@ -1,0 +1,176 @@
+{
+  "paper_id": "MIS105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MIS105",
+    "subject_name": "Fundamentals of Information Security",
+    "program": "M.Tech(IT",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define the CIA triad of Network Security.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the use of Integer Factorisation in RSA.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define digital signature.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What are the properties of cryptographic hash function?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is specification-based intrusion detection modelling?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Briefly explain the 3 components of intrusion detection system.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is firewall?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is proxy firewall?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is hybrid access policy? Explain Chinese wall model in detail with suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Alice can use only the shift cipher on her computer to send a message to a friend. Shift Cipher: |P|=|C|=|K|=26 Encryption: c = mod 26 Decryption: p = mod 26 She thinks that her message will be more secure if she encrypts the message two times, each time with a different key. i) What is the equation for encryption and decryption now? ii) Is she right in her security assumption? Defend your answer.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define the type of attack in each of the following cases. Briefly explain why. 1) A student breaks into a professor’s office to obtain a copy of the next test. 2) A student sends thousands of emails per day to the school website server using a phony email address.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the role of salting in password security?",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How memory consuming password hashing algorithm resist dictionary attack? Explain with suitable example",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Diffie Hellman Key Exchange with suitable equations.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain Man-in-the-middle attack on DHKE with suitable equations.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Ransamware",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Stealth virus",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the lifecycle of a virus with the help of a pseudocode.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is confinement problem?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write short notes on: i) Virtual machine monitor ii) Sandboxing",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define DMZ server and justify its role in a computer network. Explain in detail the role of four servers residing inside the DMZ server.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+Course Name: B.Tech, 8th Semester 
+(May, 2025) 
+ 
+Subject Code: BEC 416 
+                                                   Subject:  Data Analytics with Python 
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Implement a Python module that includes functions to compute the 
+mean, median, and mode of any dataset of your choice. 
+ 
+CO1 
+ 
+b) What is inheritance? Write a Python program to define a class 
+Employee with attributes: name, age, and salary. Include methods to 
+display and update these attributes. Then, create subclasses 
+TeachingEmployee and NonTeachingEmployee that inherit from 
+Employee and add additional attributes: job_title and pay_grade. 
+ 
+CO1 
+ 
+c) Explain the difference between structured and unstructured data, 
+and provide example code to illustrate each. 
+ 
+CO2 
+ 
+d) Briefly describe the process of dataset generation. 
+ 
+CO2 
+ 
+e) Explain the concept of a multi-indexed DataFrame and demonstrate 
+how to create one with a suitable example in Python. 
+ 
+CO3 
+ 
+f) Describe the advantages of using specialized visualization tools over 
+basic tools. 
+ 
+CO3 
+ 
+g) Discuss various classification metrics used to evaluate a trained 
+model on test data. 
+ 
+CO4 
+ 
+h) Differentiate between the concepts of over-fitting and under-fitting 
+in machine learning models. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(a) Discuss the different types of exceptions that may occur during file 
+operations on a text file in Python. For each type of exception, provide 
+a brief explanation along with suitable example code to illustrate it.  
+ 
+(b) What is the purpose of the finally keyword in exception handling in 
+Python? 
+(7+3) 
+CO1 
+Q3 
+(a) Write a Python program to read the contents of a text file and print 
+each line one by one. 
+(b) Write a Python program to merge the contents of two text files into 
+a third file. 
+(4+6) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) Write a Python script to perform various data cleaning techniques 
+on a given dataset and save the cleaned data to a file named 
+“cleaned_dataset.csv”. 
+Name 
+Age 
+Gender 
+Score 
+Alice 
+25.0 
+F 
+85.0 
+BOB 
+30.0 
+M 
+NaN 
+alice 
+NaN 
+f 
+85.0 
+David 
+22.0 
+M 
+90.0 
+Eve 
+-5.0 
+F 
+70.0 
+Bob 
+30.0 
+M 
+NaN 
+NaN 
+27.0 
+F 
+88.0 
+BOB 
+30.0 
+M 
+NaN 
+(10) 
+CO2 
+Q5 
+(a)Create a dictionary ‘d’ to store the monthly expenditure data (in 
+dollars) for user ‘A’, where the keys are the month names and the 
+values are the corresponding expenditures. 
+January: 1200, 
+February: 1100, 
+March: 1450, 
+April: 1300, 
+May: 1600, 
+June: 1250 
+ 
+(1) Convert the dictionary d to a Pandas Series s1. 
+(2) Print the expenses sorted by amount. 
+(3) Print the month with the highest and lowest expenditure. 
+  
+(b) What are outliers? Discuss various methods used for detecting 
+outliers in a dataset. 
+(5+5) 
+CO2 
+                                                             UNIT III 
+ 
+CO Mapping 
+Q6 
+For the given dataset  
+data = { 
+    'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eva'], 
+    'Age': [25, 30, 35, 40, 29], 
+    'Gender': ['F', 'M', 'M', 'M', 'F'], 
+    'Salary': [50000, 70000, 60000, 90000] 
+} 
+Write a Python script to perform at least five key steps of Exploratory 
+Data Analysis on this dataset. 
+(10) 
+CO3 
+Q7 
+A health and wellness startup is analyzing data from wearable fitness 
+devices. The dataset (df) includes the following columns for 1,000 users 
+over a 3-month period: UserID, Date, Steps, CaloriesBurned, 
+ActiveMinutes, SleepHour, HeartRate. You have been asked to assist 
+their data science team in building visualizations to extract meaningful 
+insights to 
+ (a) Choose and create two different types of visualizations that help 
+identify trends or patterns in user activity over time. Explain your 
+choice of plots and what insights each one reveals. 
+ 
+ 
+(b) Using a suitable plot, determine if there is any correlation between 
+Active Minutes and Calories Burned. Justify your choice of visualization 
+and interpret the result. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Write a web scrapping script using requests and BeautifulSoup to: 
+ 
+Scrape top 100 books from a site like "books.toscrape.com" 
+ 
+Extract title, price, availability 
+ 
+Store the data in a pandas DataFrame 
+(10) 
+CO4 
+Q9 
+Write a program that: 
+ 
+Splits a dataset into train and test sets 
+ 
+Trains multiple models (Linear Regression and KNN,) 
+ 
+Evaluates them on accuracy and F1-score 
+ 
+Returns the best-performing model 
+(10) 
+CO4

@@ -1,0 +1,208 @@
+{
+  "paper_id": "BCS203_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS203",
+    "subject_name": "Discrete Structures",
+    "program": "B.Tech",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Identify the nature of the proposition S, whether it is Tautology/ Contingency/ Contradiction. S: →R)→→)",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw the Hasse Diagram of the following: 𝐷105, 𝑎𝑛𝑑 𝐷72",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Prove that group G is an Abelian group if and only if −1 = 𝑎−1𝑏−1, ∀ 𝑎, 𝑏 ∊𝐺.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "The chromatic number of the following graph is _______ Fig. Fig.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Let p, q, r, s represent the following propositions. p: x∈{8,9,10,11,12} q: x is a composite number r: x is a perfect square s: x is a prime number The integer x≥2 which satisfies: ¬∧) is ________.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The binary operator ≠ is defined by the following truth table. Identify the nature of the binary operator ≠, whether it is associative, commutative, or both?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Translate the following into propositional logic: i) not all rainy days are cold ii) None of my friends are perfect. Note: Where the variables are: rainy, cold, f: friend, p: perfect. 2",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Identify the following Boolean expressions which is/are NOT tautology?",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Using the principle of mathematical induction, Show that 22𝑛- 1 is divisible by 3.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the total number of relation on a set R with n elements which is antisymmetric but not reflexive.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Prove that the relation congruence modulo m on the set Z of all integers is an equivalence relation.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the following Sets with example:",
+          "marks": null
+        },
+        {
+          "subpart_id": "a",
+          "text": "Finite",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Infinite,",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Countable",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Uncountable.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define a Field. Prove that the set of integers 𝑍11 with addition and multiplication is a Field.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "State and prove Lagrange’s theorem for finite groups.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Prove that a group of prime order p is cyclic.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Let 𝐺 be the set of all positive rational numbers and * be the binary operation on G defined as 𝑎∗𝑏= 𝑎𝑏 7 , ∀𝑎, 𝑏 ∊𝐺. Prove that be an abelian group.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State and prove Euler’s formula for connected planar graphs: V−E+R= 2, where V, E, and F represent vertices, edges, and region, respectively.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The number of distinct minimum-weight spanning trees in the following graph is",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "G = is an undirected simple graph in which each edge has a distinct weight, and e is a particular edge of G. Which of the following statements about the minimum spanning trees of G is/are TRUE? I. If e is the lightest edge of some cycle in G, then every MST of G includes e. II. If e is the heaviest edge of some cycle in G, then every MST of G excludes e.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Prove that: Any planar graph can be colored using at most five colors such that no two adjacent vertices share the same color. 3",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

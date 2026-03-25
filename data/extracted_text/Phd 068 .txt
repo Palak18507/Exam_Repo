@@ -1,0 +1,204 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: Ph.D. Course Work 
+(May, 2025) 
+ 
+Subject Code: PHD 068 
+            Subject: Cyber Security 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+Define vulnerability and explain its impact in cyber security 
+2.5 
+CO1 
+b 
+Differentiate between IDS and IPS with examples 
+2.5 
+CO1 
+c 
+What are biometric authentication methods? Explain with advantages. 
+2.5 
+CO2 
+d 
+Explain the concept of IoT security and its challenges 
+2.5 
+CO2 
+e 
+Describe how blockchain can be used in securing digital transactions. 
+2.5 
+CO3 
+f 
+Define stylometry. How is it used in cybercrime investigations? 
+2.5 
+CO3 
+g 
+Discuss the management of digital forensic evidence. 
+2.5 
+CO4 
+h 
+What are cyber security awareness tips for common users? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+1. A vulnerability assessment scan of a corporate network yields the 
+following results for 5 hosts: 
+ 
+Host A: 3 critical, 2 high, 1 medium 
+ 
+Host B: 0 critical, 5 high, 3 medium 
+ 
+Host C: 2 critical, 1 high, 4 medium 
+ 
+Host D: 4 Critical, 1 high, 2 medium 
+ 
+Host E: 1 Critical,4 high,5 medium 
+Task: 
+Calculate the total number of vulnerabilities by severity level and 
+determine which host has the highest risk exposure based on a 
+weighted score: 
+ 
+Critical = 5 points 
+ 
+High = 3 points 
+ 
+Medium = 1 point 
+10 
+CO1 
+Q3 
+(a) Discuss different classifications of cyberattacks and malware with 
+examples. 
+(b) Explain the need for cybersecurity. Describe the architecture of an 
+information system and how it can be compromised. 
+10 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Discuss security challenges in mobile and cloud computing environments. 
+How can they be mitigated? 
+10 
+CO2 
+Q5 
+Explain various security models and mechanisms. Also, elaborate on social 
+media security threats. 
+10 
+CO2 
+ 
+ 
+ 
+2 
+ 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+You are given three suspect email samples believed to be written by the same 
+person. Stylometric features such as average word length, frequency of 
+function words, and punctuation usage are calculated as follows: 
+Feature 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Email 3 
+ 
+Anonymous 
+Email 
+Avg. Word Length 
+ 
+5.2 
+ 
+5.3 
+ 
+5.1 
+ 
+5.2 
+ 
+Function 
+Words 
+(%) 
+23.1 
+22.8 
+23.5 
+22.9 
+Commas per 100 
+words 
+4.5 
+4.6 
+4.4 
+4.7 
+ 
+Using Euclidean distance or cosine similarity, determine which known email 
+is most stylistically similar to the anonymous email and justify your choice. 
+Discuss its implications for author identification and cybercrime investigation. 
+10 
+CO3 
+Q7 
+A forensic analyst is analyzing reported phishing scams across different 
+platforms over a 6-month period. The data is as follows: 
+Platform 
+ 
+No. 
+of 
+Reports 
+Confirmed 
+Frauds 
+ 
+Avg. 
+Monetary 
+Loss per Fraud 
+(INR) 
+Email 
+ 
+120 
+ 
+90 
+ 
+8,000 
+ 
+Social Media 
+200 
+120 
+6500 
+SMS 
+80 
+50 
+7200 
+ 
+a) Calculate the fraud rate (%) for each platform. 
+b) Compute the total estimated monetary loss per platform. 
+c) If the trend continues, project the expected loss for the next quarter (3 
+months) assuming a 10% increase in fraud reports and constant fraud rate. 
+d) Based on the above, suggest which platform requires priority for awareness 
+and incident handling. 
+10 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the process of digital forensic investigation. What are the legal 
+challenges associated with it? 
+10 
+CO4 
+Q9 
+What is the IT Act 2000? Discuss key amendments and its relevance in today's 
+cybercrime landscape. 
+10 
+CO4

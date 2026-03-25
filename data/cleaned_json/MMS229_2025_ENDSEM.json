@@ -1,0 +1,112 @@
+{
+  "paper_id": "MMS229_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS229",
+    "subject_name": "Consumer Behaviour",
+    "program": "MBA",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Identify the innate and acquired needs that can be leveraged to create effective promotional strategies for the following products. Explain how each need can be applied to enhance the appeal of the products: i. Fitness Trackers ii. Electric Vehicles iii. Organic Food Products iv. Online Learning Platforms v. High-Performance Gaming Laptops 4",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Weber’s law? Explain its application in pricing strategy and packaging changes to create a favorable consumer reaction. 3",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "Amul Milk’s tagline “Amul doodh peeta hai India” relates to which aspects of consumer behaviour? 4",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the societal marketing concept and discuss the importance of integrating marketing ethics into a company’s philosophy and operations. 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define consumer reference group. What is the role of family in a consumer's purchase decision? Discuss the role of parental figures in advertisements, with two real-life examples to illustrate their impact. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "A furniture retailer is experiencing negative reviews online about product assembly difficulties. Discuss how understanding post- purchase behavior can help the retailer address customer dissatisfaction and improve brand loyalty. 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How can a career coaching startup use Maslow’s Hierarchy of Needs and McClelland’s Three Needs Theory to understand and attract young professionals? Compare how each theory would influence its marketing strategy. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "A skincare brand wants to introduce a new product range. How can classical and operant conditioning principles be applied to encourage consumer learning and build product loyalty? 2 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Does subliminal advertising work? Support your view.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "How do advertisers use contrast to ensure their ads are noticed? Would the lack of contrast between the ad and the medium in which it appears help or hinder the effectiveness of the ad. 3",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A luxury car brand wants to appeal to consumers with high self- confidence and a desire for status. How can understanding the personality traits of its target audience help shape its marketing strategy? 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Analyze the given advertisement and explain how different aspects of consumer behavior influence marketing strategies. Discuss the significance of understanding these behaviors for marketers in creating effective campaigns. 4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define Consumer attitude and its key characteristics. A sustainable clothing brand wants to increase its market share by appealing to environmentally conscious consumers. How can the company use the tri-component model of consumer attitude to influence consumer perceptions and encourage purchase decisions? Provide specific strategies for each component of the model. 4",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

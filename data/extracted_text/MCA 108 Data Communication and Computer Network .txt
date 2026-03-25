@@ -1,0 +1,119 @@
+(Please write your Enrollment Number)                                           Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: MCA   Semester: 2nd Sem 
+(May, 2025) 
+ 
+Subject Code: MCA  108 
+Subject: Data Communication and Computer Network  
+Time: 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between Bridge, Switch and Router. 
+2.5 
+CO1 
+ 
+b) Differentiate between LAN, MAN, and WAN. 
+2.5 
+CO1 
+ 
+c)  Compare and contrast CSMA/CD with CSMA/CA. 
+2.5 
+CO2 
+ 
+d) Explain the netstat and ifconfig commands with a suitable example. 
+2.5 
+CO2 
+ 
+e) Differentiate between network layer delivery and transport layer 
+delivery with the help of an example. 
+2.5 
+CO3 
+ 
+f) Draw and explain the frame format of Ethernet. 
+2.5 
+CO3 
+ 
+g) What is World Wide Web (WWW). How is HTTP related to WWW? 
+2.5 
+CO4 
+ 
+h)  Why is flow control needed and how is it different from congestion 
+control?  
+2.5 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+What are the factors that should be kept in mind while choosing a 
+suitable network topology? Explain any four topologies with suitable 
+diagrams along with their advantages and disadvantages.  
+(10) 
+CO1 
+Q3 
+(a) What do you mean by Link-to-Link Layers of OSI model? 
+Explain their function in brief. 
+(b) List and explain various types of Unguided media used for data 
+communication. 
+(5*2=10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+(a) What are the drawbacks of IPv4? Draw and explain the various 
+fields in the header format of IPv6. 
+(b) An organization is granted the block 130.34.12.64/26. The 
+organization needs four subnetworks, each with an equal 
+number of hosts. Design the subnetworks and find the 
+information about each network. 
+(5*2=10)  
+CO2 
+Q5 
+Explain the Distance Vector routing algorithm with a suitable example 
+and differentiate it with Link state routing algorithm. What is count-
+to-infinity problem and how it can be resolved? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+How does congestion affect the network performance? Explain the 
+leaky bucket and token bucket algorithm of congestion control with 
+their merits and demerits. 
+(10) 
+CO3 
+Q7 
+(a) Draw and explain the various fields in the header format of 
+TCP protocol. 
+(b) Explain the Go-Back-n ARQ method in detail. How is it 
+different from Selective repeat ARQ? 
+(5*2=10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+(a) Why do we need a DNS system when we can directly use an IP 
+address? Explain the Generic, Country, and Inverse domains 
+used in the Internet. 
+(b) Differentiate between Local login and remote login. Explain 
+how Telnet can be used for Remote login. 
+(5*2=10) 
+CO4 
+Q9 
+Write short note on any two of the following 
+(a) FTP 
+(b) SNMP  
+(c) Firewall 
+(5*2=10) 
+CO4

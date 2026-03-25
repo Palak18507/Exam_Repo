@@ -1,0 +1,145 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+Reappear  End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: <B.Tech. > 
+ (For students admitted before 2022) 
+ 
+ 
+Subject Code: BAS  102 
+Subject: Applied Mathematics II 
+Time :3 Hours 
+Maximum Marks :60 
+Note : Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) Write CR equations in polar form. 
+ 
+(b) Prove that of ∮
+𝑑𝑧
+𝑧−𝑎 = 2πi where C: |z-a|=r. 
+ 
+(c) Solve 
+𝑑2𝑦
+𝑑𝑥2 −4𝑦= 𝑥2.  
+ 
+ 
+(d)  Solve 𝑦′′ −𝑦′ −2𝑦= 𝑒3𝑥 by method of Undetermined    Coefficient. 
+ 
+(e)  Find L-1 (
+1
+√2𝑠+3). 
+ 
+(f) Express the following function in terms of unit step functions and find its Laplace 
+transform: 
+ 
+𝑓(𝑡) = {8,
+𝑡< 2
+6,
+𝑡> 2 
+ 
+(g)   Verify  the Cauchy-Riemann equation for the function  
+   f(z) = x2 – y2 +   x + i (2xy+y). 
+ 
+(h) Determine the order of the poles for the function𝑓(𝑧) = 
+𝑠𝑖𝑛 𝑧
+𝑧2 − 𝑧 . 
+UNIT-I 
+Q2 
+Evaluate ∫
+(𝑥2 −
+1+𝑖
+0
+iy) dz along the path y=x 
+(10)  
+ 
+Q3 
+Show that the function f(z)=√|𝑥𝑦| is not analytic at the origin, although CR 
+equations are satisfied. 
+ 
+(10) 
+                                                                UNIT-II 
+Q4 
+(a) Solve 
+𝑑2𝑦
+𝑑𝑥2 −2
+𝑑𝑦
+𝑑𝑥= 𝑒𝑥sin𝑥 by method of variation   of parameters. 
+ 
+(b) Solve (2𝑥+ 3)2 𝑑2𝑦
+𝑑𝑥2 −(2𝑥+ 3) 𝑑𝑦
+𝑑𝑥−12𝑦= 6𝑥; 
+𝑥≠−3
+2. 
+ 
+(5*2=10) 
+Q5 
+(a) Solve 𝑥2 𝑑2𝑦
+𝑑𝑥2 + 5𝑥
+𝑑𝑦
+𝑑𝑥+ 4𝑦= 𝑥𝑙𝑜𝑔𝑥. 
+ 
+(b) Solve the simultaneous equations 
+𝑑𝑥
+𝑑𝑡= 7𝑥−𝑦,
+𝑑𝑦
+𝑑𝑡= 2𝑥+ 5𝑦.         
+ 
+(5*2=10) 
+2 
+ 
+UNIT-III 
+Q6 
+(a) Find the laplace transform of e-t sint u(t-𝜋). 
+ 
+(b) Obtain the inverse Laplace transform of 
+𝑠 + 1
+𝑠2 + 2𝑠 . 
+(5*2=10) 
+Q7 
+(a) Use Convolution theorem to find L-1 {
+𝑎2
+𝑠 (𝑠 + 𝑎)2}. 
+ 
+(b) Solve the initial value problem  
+ 
+2𝑦′′ +  5𝑦′+ 2y = 𝑒−2𝑡,           y(0) = 1,    y’(0) = 1,   
+ 
+               Using the Laplace transforms.  
+ 
+(5*2=10) 
+UNIT-IV 
+Q8 
+(a) Find the harmonic conjugate and the analytic function f(z) of the 
+function u(x,y) = x3 – 3xy2 – 5y . 
+ 
+(b) Evaluate ∮
+𝑧−3
+𝑧2 + 2𝑧 +5
+𝐶
+𝑑𝑧,  where C is the circle |z+1-i| = 2 
+ 
+(5*2=10) 
+Q9 
+(a) Expand  𝑓(𝑧) = 
+1
+𝑧(𝑧−1) in a Laurent series valid for  
+i. 1 < |𝑧−2| < 2. 
+(b) Evaluate ∮
+1
+(𝑧−1)2(𝑧−3)
+𝐶
+𝑑𝑧 , by residue theorem,where 
+i. 
+the contour C is the rectangle defined by x = 0, x = 4, y = -1, 
+y = 1, 
+ii. 
+the contour C is the circle |z| = 2. 
+ 
+ 
+(5*2=10)

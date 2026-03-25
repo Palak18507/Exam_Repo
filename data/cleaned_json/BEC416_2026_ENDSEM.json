@@ -1,0 +1,118 @@
+{
+  "paper_id": "BEC416_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC416",
+    "subject_name": "Data Analytics with Python",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Implement a Python module that includes functions to compute the mean, median, and mode of any dataset of your choice.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is inheritance? Write a Python program to define a class Employee with attributes: name, age, and salary. Include methods to display and update these attributes. Then, create subclasses TeachingEmployee and NonTeachingEmployee that inherit from Employee and add additional attributes: job_title and pay_grade.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the difference between structured and unstructured data, and provide example code to illustrate each.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Briefly describe the process of dataset generation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the concept of a multi-indexed DataFrame and demonstrate how to create one with a suitable example in Python.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe the advantages of using specialized visualization tools over basic tools.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Discuss various classification metrics used to evaluate a trained model on test data.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Differentiate between the concepts of over-fitting and under-fitting in machine learning models.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the different types of exceptions that may occur during file operations on a text file in Python. For each type of exception, provide a brief explanation along with suitable example code to illustrate it. What is the purpose of the finally keyword in exception handling in Python?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Write a Python program to read the contents of a text file and print each line one by one. Write a Python program to merge the contents of two text files into a third file.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Write a Python script to perform various data cleaning techniques on a given dataset and save the cleaned data to a file named “cleaned_dataset.csv”. Name Age Gender Score Alice 25.0 F 85.0 BOB 30.0 M NaN alice NaN f 85.0 David 22.0 M 90.0 Eve -5.0 F 70.0 Bob 30.0 M NaN NaN 27.0 F 88.0 BOB 30.0 M NaN",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Create a dictionary ‘d’ to store the monthly expenditure data for user ‘A’, where the keys are the month names and the values are the corresponding expenditures. January: 1200, February: 1100, March: 1450, April: 1300, May: 1600, June: 1250 Convert the dictionary d to a Pandas Series s1. Print the expenses sorted by amount. Print the month with the highest and lowest expenditure. What are outliers? Discuss various methods used for detecting outliers in a dataset.",
+      "marks": 1.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "For the given dataset data = { 'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eva'], 'Age': [25, 30, 35, 40, 29], 'Gender': ['F', 'M', 'M', 'M', 'F'], 'Salary': [50000, 70000, 60000, 90000] } Write a Python script to perform at least five key steps of Exploratory Data Analysis on this dataset.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "A health and wellness startup is analyzing data from wearable fitness devices. The dataset includes the following columns for 1,000 users over a 3-month period: UserID, Date, Steps, CaloriesBurned, ActiveMinutes, SleepHour, HeartRate. You have been asked to assist their data science team in building visualizations to extract meaningful insights to Choose and create two different types of visualizations that help identify trends or patterns in user activity over time. Explain your choice of plots and what insights each one reveals. Using a suitable plot, determine if there is any correlation between Active Minutes and Calories Burned. Justify your choice of visualization and interpret the result.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Write a web scrapping script using requests and BeautifulSoup to:  Scrape top 100 books from a site like \"books.toscrape.com\"  Extract title, price, availability  Store the data in a pandas DataFrame",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write a program that:  Splits a dataset into train and test sets  Trains multiple models  Evaluates them on accuracy and F1-score  Returns the best-performing model",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

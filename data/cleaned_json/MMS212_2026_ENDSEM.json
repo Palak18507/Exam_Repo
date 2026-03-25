@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS212_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS212",
+    "subject_name": "Derivatives and Risk Management",
+    "program": "< MBA>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the concept of a forward contract and give an example of how it is used in financial markets. CO -1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between hedging and speculation with examples CO – 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What factors influence the pricing of interest rate futures? CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is a short hedge using futures? Provide an example of when it would be used. CO – 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is the binomial option pricing model? Mention its basic steps. CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What does the term \"underlying asset\" mean in options trading? CO – 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What does Value at Risk measure, and what are its key limitations? CO – 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is the primary objective of risk management in financial markets? CO - 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the different types of financial risks faced by firms? Explain how derivatives can be used to hedge credit risk, currency risk, and interest rate risk. CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Compare and contrast hedge funds and mutual funds with reference to their structure, investment strategies, regulatory environment, risk levels, and typical investor profiles. Along with the relevant examples. CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss its application in portfolio and commodity risk management, highlighting the risks and benefits of using imperfect hedges. CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is hedging? Explain how a short hedge and a long hedge using futures work, with suitable examples. CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the concept of forward-spot parity. How does this relationship help in the pricing of options on underlying assets? Along with the examples. CO - 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the basic structure of an option contract. Compare and contrast call options and put options, including their payoffs, with appropriate examples. CO - 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Identify and explain the different types of financial risks. Provide examples of how these risks can impact a company’s operations and financial performance. CO – 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Describe the various hedging techniques available for managing financial risks. Discuss the advantages and disadvantages of using futures, options, and forward contracts in hedging strategies. CO - 3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

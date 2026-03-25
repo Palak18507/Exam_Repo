@@ -1,0 +1,105 @@
+{
+  "paper_id": "MCA201_2025_SUPPLEMENTARY",
+  "paper_metadata": {
+    "subject_code": "MCA201",
+    "subject_name": "Design and Analysis of Algorithms",
+    "program": "<MCA>",
+    "academic_year": "2024-2025",
+    "exam_type": "Supplementary",
+    "exam_name": "Supplementary Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find the minimum spanning tree using Kruskal’s Algorithm.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between Divide and Conquer and Dynamic Programming algorithm design approaches, with suitable example.",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "How would you solve a 4 queen’s problem?",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Find the length of Longest Common Subsequence for the texts X = { 1,0,0,1,0 }. Y = { 0,1,0,1,1,0 }",
+          "marks": 4.0
+        },
+        {
+          "subpart_id": "e",
+          "text": "Compare and contrast the naïve, Rabin-Karp Algorithm and Knuth-Morris Pratt algorithm string matching algorithms in terms of their time complexities.",
+          "marks": 4.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Strassen’s matrix algorithm and multiply the matrices using the same. A = { {1,2,}, {3,4}} and B = {{5,6},{7,8}} Give the upper bound notation for the following using Master’s theorem T = 5T + n^2 T = T + 1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the Maximum sum subarray problem using divide and conquer approach. Find the MSS for array : 3, -2, 5, -1, -1. Solve the following using Recursive Tree and Master’s theorem 1. T = log + T 2. T = 2T +1",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Find a schedule for the following activities so that maximum activities can be completed. Start time Si= {1,2,3,4,7,8,9,9,11,12,10) and finish time Fi={3,5,4,7,10,9,11,13,12,14,11}. Find optimal parenthesization of matrix-chain product whose sequence of dimensions is . Also find the complexity.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Find an optimal prefix code using Huffman Coding for the following alphabets with given frequencies: { a: 1, b: 1, c: 2, d: 3, e: 5, f: 8, g: 13, h: 21} For given 4 jobs, the deadlines Di { 2, 1, 2, 1} and the profits Pi = {100, 10, 15, 27}. Find a schedule of jobs that yields maximum profit using Greedy approach.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Find the Dijkstra’s shortest path for the following graph, considering 1 as source. Modify the algorithm to find the LONGEST path and show its working.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the Prim’s algorithm for finding minimum cost spanning tree with a suitable example and analyze its time complexity",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Find the pattern : IG in the text: IGDTUW using Naïve string matching and Rabin- karp algorithms and KMP algorithms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Prove the NP-Completeness for Clique problem with the help of an example.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

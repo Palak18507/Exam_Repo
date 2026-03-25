@@ -1,0 +1,101 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester:2 
+(May, 2025) 
+ 
+Subject Code: BCS 102 
+Subject: Web Application Development 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What are variables in JavaScript? Give an example. 
+ 
+ 
+b) How to preserve white space in XHTML? 
+ 
+ 
+c) What is the difference between <p> and <br> tags? 
+ 
+ 
+d) List two advantages of using CSS in web development. 
+ 
+ 
+e) What is the role of PHP in server-side scripting? 
+ 
+ 
+f) What are the different levels of heading in HTML? 
+ 
+ 
+g) Explain GET and POST request methods. 
+ 
+ 
+h) Explain form. Explain action and method attribute of form. 
+ 
+UNIT I 
+ 
+Q2 
+Write an HTML document to design a student registration form that includes the 
+following fields: 
+ 
+Full Name 
+ 
+Email 
+ 
+Gender (radio buttons) 
+ 
+Course (drop-down list) 
+ 
+Password 
+ 
+Submit and Reset button 
+(10) 
+Q3 
+Explain the following HTML components with suitable examples: 
+a) Image maps 
+b) Tables and Frames 
+c) Adding multimedia elements 
+d) Alignment and font customization using tags 
+(10) 
+UNIT II 
+ 
+Q4 
+a) Explain how XML differs from HTML with an example. 
+b) What are DTD and XML Schemas? Describe with examples. 
+c) Discuss how XSLT is used to transform XML documents. 
+(10) 
+Q5 
+a) What is CSS? Explain its types with syntax. 
+b) Describe the DOM and how it helps in accessing and modifying HTML elements 
+dynamically. 
+(10) 
+UNIT III 
+ 
+Q6 
+a) Write a JavaScript program to validate a form that collects a user’s name and age. 
+b) Explain JavaScript functions, conditions, and loops with examples. 
+(10) 
+Q7 
+a) What is AJAX? Explain its working with a simple example. 
+b) Differentiate between jQuery and AngularJS in the context of AJAX-based 
+applications. 
+(10) 
+UNIT IV 
+ 
+Q8 
+a) Write PHP code to connect to a MySQL database and display records from a table 
+named students. 
+b) Explain the use of phpMyAdmin in managing databases. 
+(10) 
+Q9 
+a) What is a CMS? List and explain the benefits of using WordPress and Drupal. 
+b) Discuss the structure of a WordPress theme and the role of plugins in site 
+customization. 
+(10)

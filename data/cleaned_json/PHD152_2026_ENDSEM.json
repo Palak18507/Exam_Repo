@@ -1,0 +1,103 @@
+{
+  "paper_id": "PHD152_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD152",
+    "subject_name": "Advances in Additive Manufacturing of Materials",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a List out types of Binder jet AM 2.5 b List out steps in design for AM 2.5 c How AM of soft materials different from hard materials? 2.5 d How material viscosity affects AM. 2.5 e Briefly explain the various types of Regression algorithms in Machine Learning. 2.5 f Differentiate SLA and SLS in rapid prototyping 2.5 g What are some of the current challenges faced by 3D printing machines, and what are the potential future perspectives to overcome these challenges? 2.5 h What are the clinical application of 3D extrusion Printing 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the working of Binder jet AM process along with example. What are the advantages and disadvantages of BJAM process? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain how processing parameter of Additive manufacturing effect the structure property relationship of produced part 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the significance of additive manufacturing of soft materials. Discuss the key material requirements, challenges, and commonly used AM techniques for printing soft materials. Support your answer with suitable examples 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define the concept of Regenerative Engineering . Explain how Additive Manufacturing supports and enhances RE, particularly in the development of biomimetic structures and tissue scaffolds. Provide relevant examples. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Explain the concepts of Regression and Classification algorithms in Machine Learning. Discuss their differences, types of problems they solve, and provide examples of algorithms used for each type. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the various applications of Artificial Intelligence and Machine Learning in 3D printing. Explain how AI/ML techniques are used to optimize design, improve printing processes, and enhance the quality of printed objects. Explain using suitable example 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Based on the regression equation, explain how each variable affects surface roughness.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Which variables are statistically significant at a 5% significance level? Justify your answer.",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "If the engineer wants to minimize surface roughness, what parameter adjustments would you recommend based on this model?",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain what an R2R^2R2 value of 0.76 means in this context.",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "Name one regression diagnostic method the engineer should use to ensure the model's validity, and explain why.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Write short note on emerging application of Additive manufacturing and Briefly explain the challenges in additive machining for these emerging applications. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "paper_id": "BCS303_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS303",
+    "subject_name": "Theory of Computation",
+    "program": "<B.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why a* b* is regular but not an bn? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define Deterministic Finite Automata ? How is it different from Non Deterministic Finite Automata . CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Derivation Tree and its types? Discuss with an example. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define Context Free Grammar. Create a CFG for {anbn : n>o} CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Define the term ambiguity and explain with the help of an example grammar? CO 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Define Unrestricted Grammar . Write about the machine that accepts the UG. CO 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is halting problem, discuss about it briefly? CO 3",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "With neat diagram discuss about Linear Bounded Automata. CO 1",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Design a DFA for the Language accepting strings starting with ‘aba’ and ending with ‘bb’ over the alphabet Σ = {a, b}. Check whether the DFA accepts the strings: abaabb, abbbaab, ababa. CO 2 & CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Discuss the step by step procedure followed in minimization of Deterministic Finite Automata and minimize the following finite automata. 0 1 q0 q1 q4 q1 q5 q2 *q2 q0 q2 q3 q6 q4 q4 q2 q5 q5 q5 q3 q6 q5 q2 Find out whether the minimized DFA accepts the following strings: 0010, 1101, 10010. CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define a Pushdown Automata . Design a PDA which accepts the Language L = {0n1n/n > 1} over Ʃ = {0, 1}. CO 1 & CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is Chomsky Normal Form ? Convert the following Context Free Grammar to CNF? SABa / BBb / DB / DA Aaab / bba / a BAc / C /b Cc / d / F / H Dd / ɛ CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Define pumping Lemma for Context Free Language. And check whether the language L = { 0n1n2n3n/ n>1} is context free or not. CO 1 & CO 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Design a TM for the Language L = {anbncn / n>1}. CO 1 & CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is Finite state Transducer? Explain the step by step procedure followed for converting a Mealy Machine to Moore Machine. Convert the following Mealy Machine to Moore Machine. Present state Next state Input a=0 Input a=1 State output State output q1 q3 0 q2 1 q2 q1 0 q4 0 q3 q2 1 q1 1 q4 q4 1 q3 0 CO 1 & CO 3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss about Complexity classes P and NP. Define a Moore Machine . Convert the following Moore Machine to Mealy Machine. Present State Next state Output a=0 a=1 q0 q3 q1 0 q1 q1 q2 1 q2 q2 q3 0 q3 q3 q0 0 q4 q0 q4 1 CO 1 & CO 3",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

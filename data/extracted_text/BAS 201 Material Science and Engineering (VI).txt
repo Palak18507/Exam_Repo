@@ -1,0 +1,195 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech. >, Semester:<3rd > 
+(December, 2024) 
+ 
+Subject Code: BAS 201                                         
+ Subject:  Material Science and Engineering 
+Time :3 Hours  
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+Each question is 2.5 marks 
+ 
+a) Compare the hardness, electronic conductivity, thermal conductivity and temperature 
+stability of polymer, metal and ceramic materials. Which material is used to make excellent 
+brake pads in the automobile sector?    
+ 
+b) What is a polymer? What is the difference between thermoplastic and thermoset polymers? 
+Give one example.   
+ 
+c) Describe Hall Effect and explain how it helps to identify the type of charge carriers in a 
+material.   
+ 
+d) What is the piezoelectric effect? Discuss its application.   
+ 
+e) What are the chromic materials? Discuss any one application of photochromic material.   
+ 
+f) What do you mean by photo-conducting material? How are they useful for making 
+photodetectors?  How will you select materials for solar applications? 
+ 
+ 
+g) What is AFM?  What is its application?  Which material is used for making AFM tips?  
+ 
+h) What is the difference between a light microscope and SEM? Which one is used for taking 
+measurements for nanomaterials and why?   
+ 
+ 
+UNIT I 
+Q2 
+ 
+a) 
+Dielectric materials come under which category, metallic, semiconductor, or ceramic? Discuss 
+the application of dielectric materials. Compare the properties of metal, semiconductor and 
+ceramic material.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 (1+2+2) 
+ 
+b) 
+Why is glass used for window panes? Glass comes under which material category? Which 
+materials are used for storing acids in the chemical lab and why? Discuss their properties and 
+other applications.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 (1+1+3) 
+ 
+Q3 
+ 
+a) 
+Can a composite material exhibit the electric conducting properties?  Comment. What are the 
+advantages of using polymer composites for making mobile phone outer case as compared to 
+metal?   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     5 (2+3) 
+ 
+b) 
+What is nanocomposite? What is the role of matrix and reinforcement in composites?  Discuss 
+in detail.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+      5 (2+3) 
+ 
+UNIT II 
+Q4 
+ 
+(a) 
+Differentiate between the following:- 
+(i) 
+Ferromagnetism and Ferrimagnetism 
+(ii) Intrinsic and Extrinsic Semiconductors 
+ 
+ 
+ 
+ 
+5 (2.5+2.5) 
+ 
+(b) 
+What do you understand by soft and hard magnetic material?  What is spintronics? What is 
+the GMR effect? Discuss in detail.  
+ 
+ 
+ 
+ 
+ 
+ 5 (2+1+2) 
+ 
+Q5 
+ 
+(a) 
+What is diamagnetism? Discuss the classical theory of diamagnetism. How you will identify the 
+diamagnetic material based on the susceptibility value?   
+ 
+ 
+  5 (1+3+1) 
+ 
+(b) 
+Explain the Ferri-Dirac distribution function. What is Fermi Energy? How does the Fermi 
+Energy Level vary with temperature in intrinsic seminconductor?                      
+   5 (1+1+3) 
+ 
+UNIT III 
+Q6 
+ 
+(a) 
+What is LED? Discuss the working principle of LED in detail.                                             5 (1+4) 
+ 
+(b) 
+What is the shape memory effect? What are shape memory alloys, explain their properties 
+and their working principle.                                                                                                     5 (2+3) 
+ 
+Q7 
+ 
+(a) 
+What are polymeric implant materials? Write the name of any two bio-compatible polymers. 
+Which properties will you use to decide the selection of these materials?                   5 (2+1+2) 
+ 
+(b) 
+ What is LCD? How it is different from LED? Discuss the working of LCD. Why polarizer sheets 
+are used in LCD?                                                                                                                    5 (1+1+2+1) 
+      
+ 
+UNIT IV 
+Q8 
+ 
+(a) 
+To find out the miller indices corresponding to the crystalline planes in a material, which 
+instrument you will use? Explain its construction and working principle in detail.                    5 
+ 
+(b) 
+Explain the working principle of a Transmission Electron Microscope (TEM).  Discuss how the 
+interaction of electrons with the sample leads to formation of an image.                                   5 
+ 
+Q9 
+ 
+(a) 
+For selecting materials for solar application, an optical band gap of the material is required, 
+which instrument is used for finding an optical band gap? Discuss its working principles and 
+construction.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    5 
+ 
+(b) 
+For testing the high-temperature stability of the material which instrument is used? Discuss 
+its construction and working? Which type of crucibles are required for this study?  
+    5

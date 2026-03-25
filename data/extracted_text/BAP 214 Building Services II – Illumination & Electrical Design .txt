@@ -1,0 +1,148 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination (May, 2025) 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B. Arch. Semester: 4th Sem 
+(Calculators are allowed for solving the Questions)  
+(Annexure is provided for Solving Q 5 and Q 7) 
+ 
+Subject Code: BAP 214 
+Subject: Building Services II – Illumination & Electrical Design 
+Time: 3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Define Maintenance Factor & Utilization Factor. What are these 
+‘factors’ used for? 
+2.5 
+CO1 
+ 
+b) Define (i) Illuminance (ii) Luminous Intensity. Also mention the 
+measurement units for both the terms 
+2.5 
+CO1 
+ 
+c) What is a “unit” for Power Consumption and how is it calculated? 
+2.5 
+CO2 
+ 
+d) What is the function of a ‘transformer’? Mention the difference 
+between ‘step-up’ and ‘step-down’ transformers & which points are 
+they used in the electricity distribution network? 
+2.5 
+CO2 
+ 
+e) Which of the two is higher: Total load or Demand load? What factor 
+is used to determine the relation between these two? 
+2.5 
+CO3 
+ 
+f) A Single Pole Neutral electric circuit has an appliance with rated 
+power of 750 Watts. If the voltage for the circuit is 230 Volts, 
+considering a power factor of 0.8, what will the current drawn through 
+the appliance be (in Amperes)?  
+2.5 
+CO3 
+ 
+g) Mention any THREE electrical appliances for which star rating 
+standards are given by BEE, GoI, along with the respective parameters 
+used for such grading.  
+2.5 
+CO4 
+ 
+h) What is the function of an ‘Inverter’ in Solar Photovoltaic Plant? 
+2.5 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+(i) “For a given built space at a given location with defined climate, at 
+a given time, the daylight factor is not same for different points in the 
+interior”. Is this statement TRUE or FALSE? Give an explanation. 
+(ii) For each of the factors given below, identify if they govern the 
+daylight factor or not. If yes, which component of daylight factor do 
+they influence the most? [FACTORS: Surface finish of surrounding 
+buildings, Architectural light shelf, Room interior wall finish]   
+(10) 
+CO1 
+Q3 
+An area of 15 m x 15 m is to be illuminated to 500 lux. Lighting fixtures 
+used to achieve this illumination are ceiling mount with 2500 lumen 
+flux output each. Considering a utilization factor of 0.8 and 
+maintenance factor of 0.7, (i) calculate the number of lamps required. 
+(ii) Recommend the lamp layout with the number of rows and columns 
+of lamps for the space (iii) Calculate the lamp spacing in the 
+recommended layout (iv) If lamps of flux output 3000 lumen are used 
+(instead of 2500 lumen), what will the decrease in number of required 
+lamps be? (Consider all other aspects remain the same) 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain the wiring configurations of a one-way switch and a two-way 
+switch, with the help of relevant diagrams. Give TWO examples for the 
+application of each of the two types of switches mentioned above. 
+(10) 
+CO2 
+Q5 
+Electrical layout for a flat is given in the Annexure. Considering the 
+given layout, powers & loads, average daily usage time, calculate the 
+Annual Units of Electricity Consumption for the flat in a non-leap year. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(i) Write down the key differences between SPN electrical circuit and 
+TPN electrical circuit. 
+(ii) A TPN electric circuit with a 3 horsepower (rated power) motor is 
+subjected to the standard voltage in India. Considering a power factor 
+of 0.8 and 1 horsepower = 746 Watts, calculate the current drawn 
+through the circuit (in Amperes).   
+(10) 
+CO3 
+Q7 
+A residential building with 6 floors having one flat per floor has typical 
+layout and electrical fixtures as shown in the Electrical Plan (given in 
+Annexure). Also consider the additional loads given. Calculate (i) Total 
+load of each flat (in kW) (ii) Demand load for each flat (in kW) 
+(considering a demand factor of 0.7) (iii) Total demand load of building 
+(in kW) (iv) Considering a power factor of 0.8 and 20% safety margin, 
+calculate the minimum Transformer ‘kVA’ rating required   
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the key aspects in design of Roof-top Solar Photovoltaic Plant 
+for buildings, outlining the steps in design including panel and inverter 
+types. Mention the main expenses and returns for SPV plant. Define 
+terms (i) RoI and (ii) Payback period which are used to assess 
+investment in SPV plant 
+(10) 
+CO4 
+Q9 
+(i) Define Energy Performance Index (EPI) which is used for star rating 
+of buildings in India. Also mention its measurement unit 
+(ii) A Medium category office building in Warm and Humid climate has 
+80% of total built-up air-conditioned. Using the standard table given 
+below, calculate the ‘Lower limit’ and ‘Upper limit’ of the EPI values for 
+the building to obtain a 4-star rating as per BEE Guidelines. 
+ 
+(10) 
+CO4 
+ 
+ 
+ 
+ANNEXURE

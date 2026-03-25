@@ -1,0 +1,91 @@
+{
+  "paper_id": "BIT102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT102",
+    "subject_name": "Object Oriented Programming",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find out the output of the following C++ code: #include<iostream> using namespace std; int main { int a=18, b=9, c,d, e=10; c=b++; d=b; cout << ; cout << ; cout << ; cout << ; return 0; } Justify your answer.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between C and C++ programming language.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Consider the following C++ code: #include<iostream> class Test { public: Test { cout<<”Constructor called\\n”; } ~Test { cout<<”Destructor called\\n”; } void display { cout<<”Display function\\n”; } }; Int main { Test t1; t1.display; return 0; } Write the output of the program with explanation.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is the use of private and public access specifier? Explain with one suitable programming example.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the different characteristics of Object-Oriented Programming? Discuss any two characteristics with programming example. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a C++ program to print a factorial of a given number. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is inline function? What circumstances lead to its frequent usage in programming? Provide an appropriate C++ programming code to illustrate. 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write a C++ Program to Implement a Class STUDENT having Following Members: 1) Member variables: Name of the student, Marks of the student , Total marks obtained 2) Member functions: assign – to assign initial values, compute – to compute Total marks, display – to display the details Consider the access specifier and data types of the variables as per your convenience to justify the output of the program. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the use of friend function in OOP with proper programming example. 5",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write the operator overloading program with C++ to overload unary decrement operator. 5",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

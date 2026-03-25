@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAS102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS102",
+    "subject_name": "Applied Physics",
+    "program": "B. Tech",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Two polaroids are initially aligned to allow maximum transmission of an unpolarized incident beam. By what angle should one polaroid be rotated to reduce the transmitted intensity to one-fourth of the incident light's original intensity? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the phenomenon of double refraction with the help of suitable diagram. Why is double refraction important in optics? 1",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is displacement current? Explain the difference between conduction current and displacement current. 2",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "State and explain the Poynting Theorem. 2",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive an expression for the conditions of constructive and destructive interference in parallel thin films for the reflected light with the help of suitable diagram. Given that the refractive index of a thin soap film with uniform thickness is 1.4, calculate the minimum film thickness required to produce an interference maximum in the reflected light for a wavelength of 546nm incident normally. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is a diffraction grating? Draw and derive an expression for the Fraunhofer diffraction intensity pattern of an ideal grating. 1",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Distinguish between the following concepts: Resolving Power and Dispersive Power of a grating Fresnel and Fraunhofer Diffraction 1",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "A plane electromagnetic wave in free space has electric field , 𝐸⃗ = 𝐸0𝑐𝑜𝑠 [ 𝑘 2 + 𝜔𝑡] 𝑖̂ , where E0 is a constant. Find the corresponding magnetic field 𝐵⃗ and Poynting vector 𝑆 . 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Derive an expression for equation of continuity. State its significance. A cylindrical conductor with a varying cross-sectional area carries a steady current of 5 A. At a point in the conductor, the cross-sectional area is 4 mm2, and the current density at that point is 6×106 A/m2. Find the current density at a point where the cross-sectional area is reduced to 2 mm2, assuming steady current and applying the equation of continuity. 2",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Derive the four Maxwell’s equations in their differential form. Also explain the significance of each equation. 2",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

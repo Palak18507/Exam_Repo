@@ -1,0 +1,94 @@
+{
+  "paper_id": "PHD003_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD003",
+    "subject_name": "Nanostructures and Nanomaterials",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Answer the following questions CO Mapping a What is meant by \"Quantum confinement\" in nanomaterials? How does it affect their electronic properties? 2.5 b Explain The Following Terms Hysteresis Loop Coercivity 2.5 c What information can be obtained from the absorption spectrum of a nanoparticle? Explain how the peak position relates to particle size. 2.5 d What is a \"defect\" in the context of nanomaterials? Briefly explain how defects influence their mechanical properties. 2.5 e How does the use of grain boundaries affect the thermal properties of nanomaterials? 2.5 f Differentiate between bright-field and dark-field imaging in TEM. 2.5 g What type of gas is commonly used in BET measurements, and why? Mention two limitations of the BET method. 2.5 h Why is Auger Electron Spectroscopy considered a surface-sensitive technique? 2.5",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss how the unique properties of nanomaterials change when transitioning from nanoscale to bulk scale. Explain the factors influencing these changes with suitable examples from mechanical, optical, and electronic properties. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Classify and define the different types of defects that can occur in nanomaterials, and briefly explain how these defects influence the electronic, mechanical, and thermal properties of these nanomaterials. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Define the term Density of States . Derive its expression as a function of energy for 1D, 2D, and 3D materials separately. Sketch and compare the graphs of Density of States vs Energy for all the systems. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Describe the significance of grain boundaries in nanomaterials and their impact on material properties. How do the small grain sizes in nanomaterials alter the mechanical, electrical, and thermal properties compared to coarse-grained materials? Discuss grain boundaries in controlling nanomaterials' behavior under different loading conditions. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain how TEM works in simple terms. How does it differ from a regular light microscope? 10",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss why preparing the sample correctly is so important for TEM. What problems can happen if the sample isn't prepared well?",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe how TEM helps study materials like metals for supercapacitors and batteries. Give one example of how TEM has been used in real research.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is the significance of studying surface characterization techniques? Write down the principle and applications of the Brunauer-Emmett- Teller Technique. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Describe the principle of photoelectron spectroscopy for chemical analysis of surfaces. Also, describe the information that is typically obtained using XPS and the advantages of using this experimental technique. Why is the XPS technique surface sensitive? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Compare and contrast brittle fracture and ductile fracture in materials. In your answer, explain the mechanisms, visual features , energy absorption characteristics, and conditions under which each type of fracture occurs. Provide real-world examples where understanding these differences is critical in material selection or failure analysis. 10",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

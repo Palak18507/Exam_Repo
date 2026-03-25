@@ -1,0 +1,142 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: Second 
+(May, 2025) 
+ 
+Subject Code: AMC 102 
+Subject: Business Statistics 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Explain the significance of standard deviation in real-life data 
+analysis. 
+1 
+ 
+b) Calculate Mean, Median, and Mode for the following dataset: 3, 7, 
+5, 9, 7, 5, 6 
+1 
+ 
+c) List the assumptions of a simple linear regression model. 
+2 
+ 
+ 
+d) In what situations is Spearman’s rank correlation preferred over 
+Pearson’s? 
+2 
+ 
+e) Explain the additive and multiplicative models of time series 
+analysis.  
+3 
+ 
+f)  Discuss the difficulties in constructing index numbers. 
+3 
+ 
+g)  Define conditional probability with an example. 
+4 
+ 
+h) Why the normal distribution is considered important in statistics? 
+4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+a) Explain the four levels of measurement—nominal, ordinal, 
+interval, and ratio—with appropriate examples. 
+b) Discuss the properties, merits, and demerits of Mean, Median, 
+and Mode. When should each be used? 
+ 
+1 
+Q3 
+a) For the following data, calculate Range, Quartile Deviation 
+and Mean Deviation: 
+10, 20, 30, 40, 50, 60, 70 
+b) Find the Standard Deviation and Coefficient of Variation for: 
+14, 18, 20, 22, 24, 26, 30 
+ 
+1 
+UNIT-II 
+ 
+Q4 
+a) Define regression analysis. How does it differ from 
+correlation? What are its major applications? 
+b) What is the standard error of estimate? How is it used in 
+assessing regression model accuracy? 
+ 
+2 
+Q5 
+a) From the data: 
+X: 2, 4, 6, 8, 10 
+Y: 3, 5, 7, 9, 11 
+Find the regression equation of Y on X. Using the regression equation 
+predict the value of Y when X = 12. 
+b) If regression coefficient of Y on X is 0.8 and X on Y is 0.6, find 
+the value of r and interpret it. 
+ 
+2 
+UNIT-III 
+ 
+Q6 
+a) Explain the method of least squares for measuring trends in 
+time series data. 
+b) Differentiate between weighted and unweighted index 
+numbers. Why are weights necessary? 
+ 
+3 
+2 
+ 
+Q7 
+Fit a straight-line trend to the following data using the least squares 
+method: 
+ 
+Year 
+2016 
+2017 
+2018 
+2019 
+2020 
+Sales 
+(₹000) 
+200 
+220 
+250 
+270 
+300 
+    
+  
+    
+ 
+ 
+3 
+UNIT-IV 
+ 
+Q8 
+a) Explain the Binomial distribution—its assumptions, characteristics, 
+and applications. 
+b) What is the Central Limit Theorem? Explain its significance in 
+sampling and statistical inference. 
+ 
+4 
+Q9 
+a) A bag contains 6 red balls, 4 green balls, and 5 blue balls. One 
+ball is drawn at random. What is the probability that the ball 
+is:(a) red (b) green or blue(c) not red? 
+b) A company has two plants. 
+Plant A produces 60% of the total output; defect rate = 2% 
+Plant B produces 40% of the output; defect rate = 5%.  
+If a product is found to be defective, what is the probability 
+that it came from Plant B? 
+ 
+4

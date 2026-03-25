@@ -1,0 +1,93 @@
+(Please write your Enrollment Number)                      Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ) (Semester:   6    ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BCS 306  
+Subject: Compiler Design 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) What is CFG? In which phase of compiler CFG is used? Discuss 
+about the difference between Leftmost Derivation and Rightmost 
+Derivation with suitable example. 
+ 
+CO1 
+ 
+b) With a neat diagram discuss about bootstrapping and its uses.   
+ 
+CO1 
+ 
+c) What are the rules useful to find FIRST and FOLLOW, explain 
+with suitable example.  
+ 
+CO2 
+ 
+d) What is parsing? Briefly discuss about different types of parsing 
+techniques.  
+ 
+CO1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss about different Phases of a compiler with a neat 
+diagram.  
+ 
+CO1  
+ 
+b) What is the role of Lexical Analyzer? Discuss about Input 
+Buffering and its uses.  
+ 
+CO1 
+ 
+c) Define Ambiguity. Check whether the following grammars are 
+ambiguous or not.  
+Grammar 1: 
+AAA/(A)/a 
+Grammar 2:  
+EEE/AB 
+AAa/a 
+BBb/b 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Discuss about Recursive Descent Parser (RDP) and design RDP 
+for the following grammar.  
+SAA  
+AaA  
+Ab 
+ 
+CO1 & CO2 
+ 
+b) Discuss about closure and goto operations with suitable 
+example, and Construct LR(0) items sets for the following 
+grammar.  
+ABB 
+BcB/d 
+ 
+CO2 
+ 
+c) Construct the SLR parse table for the following grammar. 
+ScAd 
+Aab/e 
+And parse the string:   cabd 
+ 
+CO3

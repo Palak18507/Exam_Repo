@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester:5 
+(December, 2024) 
+ 
+Subject Code: AMC 105 
+Subject: Computer Application in Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+a) What is an operating system? Mention two of its main functions. 
+ 
+ 
+b) Differentiate between wired and wireless networking 
+ 
+ 
+c) Name two AI-based applications and briefly explain their functions. 
+ 
+ 
+d) Explain the concept Quantum Computing with an example. 
+ 
+ 
+e) What is the role of antivirus software in maintaining IT security? 
+ 
+ 
+f) Define encryption and decryption and explain their role in data security. 
+ 
+ 
+g) What is Structured Query Language (SQL) 
+ 
+ 
+h) What do you understand by the term NPV and IRR and how it is calculated in 
+Excel 
+ 
+UNIT I 
+ 
+Q2 
+Provide an overview of statistical and data analytics programming 
+languages/software (e.g., SPSS, R, Python). Highlight their applications in data 
+analysis. 
+(10) 
+Q3 
+Explain the different classifications of computers (Supercomputers, Mainframes, 
+Minicomputers, Workstations, Servers, Personal Computers, and Embedded 
+Devices) with examples and their applications. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the role of Internet of Things (IoT) in creating smarter systems. Provide 
+examples to illustrate its applications. 
+(10) 
+Q5 
+Describe the importance of Virtual Reality (VR) in modern industries. Provide 
+examples of its applications in education, healthcare, and entertainment. 
+(10) 
+UNIT III 
+ 
+Q6 
+Describe Big Data Analytics and its role in the Fourth Industrial Revolution. 
+Provide relevant examples of its applications. 
+(10) 
+Q7 
+Discuss the role and importance of Management Information Systems (MIS) and 
+Decision Support Systems (DSS) in business management. 
+(10) 
+UNIT IV 
+ 
+Q8 
+What is What-if Analysis in Excel? Discuss its tools, including Goal Seek, Scenario 
+Manager, and Solver, with examples of their practical applications. 
+(10) 
+Q9 
+Explain the use of Pivot Table Reports and Pivot Chart Reports in data 
+summarization and visualization. Provide examples to illustrate their importance. 
+(10)

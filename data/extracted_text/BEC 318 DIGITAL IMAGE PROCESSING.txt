@@ -1,0 +1,176 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: 6) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 318 
+Subject: DIGITAL IMAGE PROCESSING 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Use discrete Fourier transform to construct 2D DFT for a 4x4 
+image given below. Assume that indices start from (0,0) 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+ 
+CO2 
+ 
+b) Find the transfer function y = g(r) which goes from pr(r) = 
+2 − 2r and a flat pixel distribution py(y) = constant 
+ 
+ 
+CO1 
+ 
+c) Describe the following mathematical operations on digital 
+images with relevant expressions and diagrams. 
+a)Arithmetic operations 
+b) Linear versus Nonlinear Operations 
+ 
+ 
+CO1 
+ 
+d) Determine the median value of the marked pixels of the given 
+matrix using 3 x 3 mask.  
+F=⌊
+18
+22
+33
+33
+𝟏𝟐𝟖
+24
+22
+19
+32
+18
+22
+33
+   110
+𝟏𝟖
+14
+22
+19
+32
+⌋ 
+ 
+ 
+CO3 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Explain the histogram equalization operation in image 
+enhancement with necessary expressions. Hence, perform 
+the histogram equalization of the following image 
+10 
+10 
+8 
+8 
+7 
+0 
+1 
+1 
+1 
+2 
+5 
+6 
+7 
+8 
+1 
+10 
+10 
+10 
+10 
+15 
+14 
+12 
+14 
+14 
+12 
+11 
+10 
+9 
+4 
+4 
+5 
+5 
+6 
+6 
+1 
+ 
+ 
+ 
+CO3 
+ 
+b) Determine the correlation between two images 
+A=[3 1, 2 4] and B=[1 5, 2 3]. 
+ 
+ 
+CO1 
+ 
+c)Consider the following 4x4 image of 4 bit/pixel 
+𝑓(𝑚, 𝑛) = [
+5  4  8  12
+3   2   5   7
+10  12  8  7
+4   5   3   2
+]. Perform the contrast stretching of the 
+image f(m,n) using the transformation 𝑔(𝑚, 𝑛) =
+𝑓(𝑚,𝑛)−𝑓𝑚𝑖𝑛
+𝑓𝑚𝑎𝑥−𝑓𝑚𝑖𝑛×
+14 
+ 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a)    How do you compare Image enhancement vs Image 
+restoration? Derive laplacian operator for high pass filtering 
+and show its application 
+ 
+ 
+CO3 
+ 
+b) Define 4- connectivity, 8-connectivity and m-connectivity with 
+an example. Consider the following 4 bit 4x4 image segment 
+and perform the low pass filtering using 3x3 average mask. 
+Also discuss what changes will happen to the image. Consider 
+all border pixels are padded with intensity value 1 
+ 
+ 
+CO3 
+ 
+c)   Explain basic steps for filtering of image in frequency domain. 
+What are the filter mask used for low pass filtering and high 
+pass filtering? 
+ 
+CO3

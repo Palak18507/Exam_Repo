@@ -1,0 +1,104 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester:2nd 
+(May, 2025) 
+ 
+Subject Code: BAI 102 
+Subject:  IT Workshop 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) Write short notes on the following: a) Vectors b) Data Frames. 
+2.5 
+Co-2 
+ 
+b) Why is data visualization important before and after analysis? Give 
+an example chart to support your answer. 
+2.5 
+Co-2 
+ 
+c) Explain the fundamental features of R and its advantages. 
+2.5 
+Co-1 
+ 
+d) How do you assign values to variables in R, give any 2 example? 
+2.5 
+Co-2 
+ 
+e) Write an R program to summarize and clean a dataset. 
+2.5 
+Co-3 
+ 
+f) How can you modify chart features like title, color, and legend in R 
+plots? Mention commonly used functions. 
+2.5 
+Co-2 
+ 
+g) What are attributes in R. 
+2.5 
+Co-1 
+ 
+h) What is smoothening? 
+ 
+Co-1 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Illustrate the use of R for performing standard arithmetic functions with 
+suitable examples. 
+(10) 
+Co-1 
+Q3 
+Explain the steps involved in installing R and RStudio. How can a user 
+create their first working environment in R? 
+(10) 
+Co-2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Using R, create a matrix and a data frame. Illustrate how to use indexing 
+to access elements from them 
+(10) 
+Co-2 
+Q5 
+How do you read and write external data in R (CSV/Excel)? Write the 
+code to perform these operations. 
+(10) 
+Co-3 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain how to analyze relationships between categorical and 
+numerical data in R. Mention suitable statistical functions used. 
+(10) 
+Co-3 
+Q7 
+Using a sample dataset, demonstrate how to conduct Analysis of 
+Variance (ANOVA) with the aov() function in R. Explain the significance 
+of the results. 
+(10) 
+Co-4 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Visualize 3D data using the scatterplot3d or plotly library. 
+(10) 
+Co-4 
+Q9 
+Demonstrate how to create bar, pie, and scatter plots in R. Include 
+syntax and explain the purpose of each chart. 
+(10) 
+Co-4

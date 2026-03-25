@@ -1,0 +1,101 @@
+{
+  "paper_id": "BMS106_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS106",
+    "subject_name": "Macro Economics",
+    "program": "BBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Gross Domestic Product and National Income.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the components of aggregate demand in the simple Keynesian model.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the properties of the IS and LM curves?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the Phillips Curve.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the Classical theory of income and employment. What are its major assumptions?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How do fiscal and monetary policies affect the classical model of the economy?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "How is equilibrium income determined in the Keynesian framework? What happens when aggregate demand changes?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Define and differentiate between investment multiplier, government expenditure multiplier, and tax multiplier.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "How equilibrium income and interest rate is determined using the IS- LM model?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain the derivation and properties of the Keynesian aggregate demand curve.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What are the key instruments of monetary control used by central banks? How do they influence money supply?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Define the Balance of Payments account. How do monetary and fiscal policies affect the exchange rate in an open economy?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

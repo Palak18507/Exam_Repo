@@ -1,0 +1,91 @@
+{
+  "paper_id": "BAI418_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI418",
+    "subject_name": "Recent Trends in AI",
+    "program": "B. Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What do you mean by Dimensionality reduction? Why is it required?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is BERT? Explain its working.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the applications of Computer Vision.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How is GAN utilized in Audio generation? Explain with the help of block diagram. Give some examples of the GAN types utilized for Audio generation and translation.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw and explain the block diagram of canonical AI architecture.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the process of knowledge discovery in databases with the help of a diagram.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Draw a comparison chart for AI, ML, and DL based on its meaning, characteristics, types, and futuristic issues.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is GAN? Draw and explain the architecture of GAN.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the different AI-based classification methods in smart grids? Explain in detail.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "How do smart traffic management and smart parking contribute to building a smart city? Explain in detail. What are the other components involved in building a smart city?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

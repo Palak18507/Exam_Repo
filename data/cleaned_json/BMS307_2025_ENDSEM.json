@@ -1,0 +1,121 @@
+{
+  "paper_id": "BMS307_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMS307",
+    "subject_name": "International Financial Management",
+    "program": "BBA",
+    "semester": 5,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between foreign direct investment and foreign portfolio investment?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the goals and functions of World Bank?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between a spot market and a forward market in forex?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How is an indirect quotation different from a direct quotation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is ADR?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Distinguish between Eurobond and Foreign bond.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What factors deserve consideration in multinational capital budgeting that are not normally relevant for purely domestic project?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are the major motives for foreign direct investment?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Define and explain the theory of comparative advantage.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are the modes of expansion of business internationally?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the structure and functioning of the Foreign Exchange Market.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the concept of covered interest arbitrage.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Assume that foreign subsidiary of a US multinational company has the following: Cash = FC100 Account receivable = FC150 Inventory = FC200 Fixed assets = FC250 Current liabilities = FC100 Long term debt = FC300 Net worth = FC300 Let us further assume that the historical exchange rate is $2 = FC1, the current exchange rate is $1 = FC1. Illustrate the effect of each of translation method on the balance sheet. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Elucidate the forward market hedging technique to manage the transaction exposure with suitable example.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "A company is considering a new project that requires an initial investment of $1,000,000 and is expected to generate $200,000 in annual cash flows for the next 6 years. The company will finance the project with $500,000 in debt at an interest rate of 5%. The company’s tax rate is 30%, and the equity cost of capital is 10%. Calculate the APV of the project.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "How can an MNC implement leading and lagging techniques for optimizing cash flow movements?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

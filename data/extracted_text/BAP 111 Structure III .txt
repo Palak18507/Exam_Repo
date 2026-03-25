@@ -1,0 +1,73 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<>, Semester:<> 
+(December, 2024) 
+ 
+Subject Code: BAP 111 
+Subject: Structure III 
+Time :3 Hours 
+Maximum Marks :60 
+Note:Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a) 
+Define Lateral loads on a building. 
+ 
+(b) Explain wind load on buildings. 
+ 
+(c) 
+Define moment and couple. 
+ 
+(d) Explain Different types of load on building. 
+ 
+(e) 
+Explain Moment of force. 
+ 
+ 
+(f) 
+Explain various stages in structural engineering for design of residential 
+project. 
+ 
+(g) 
+Define “centre of gravity” of plane section? 
+ 
+(h) 
+Explain parallelogram law of forces. 
+UNIT-I 
+Q2 
+Find the moment of inertia of a channel section about its centre of 
+gravity if the dimensions are 300mm x 200mm x 20mm.  
+(10) 
+Q3 
+Define the term “Moment of Inertia” of a section. Give expression for 
+Moment Of Inertia rectangle & Circular Section about their both axis.     
+(10) 
+UNIT-II 
+Q4 
+Explain the terms :  
+(i) Explain Stress and Strain in member        
+(ii) Resolution of force                                           
+(10) 
+Q5 
+Explain Young’s modules of Elasticity. 
+(10) 
+UNIT-III 
+Q6 
+Write a note on concept of load bearing wall and framed systems. 
+(10) 
+Q7 
+Explain Form Active and Vector Active Systems 
+(10) 
+UNIT-IV 
+Q8 
+Explain different types of connections.  Describe advantages and 
+disadvantages of welded connections.   
+(10) 
+Q9 
+Explain evolution of structures through time.  
+(10)

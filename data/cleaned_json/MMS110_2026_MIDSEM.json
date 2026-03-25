@@ -1,0 +1,38 @@
+{
+  "paper_id": "MMS110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS110",
+    "subject_name": "Knowledge & Intellectual Capital Management",
+    "program": "MBA",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write short note on the following CO Concept of Knowledge Management Knowledge Economy Knowledge Drivers Importance of Knowledge Centric Organizations",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "UNIT-1 CO Explain the applications of knowledge management in manufacturing industry with examples. How would you describe the evolution of Knowledge Management? Explain key challenges in front of Knowledge management",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "UNIT-2 CO Explain different types of knowledge with its implications for KM. Explain SECI model of Knowledge creation in an organization Ms. Rani, a research scholar suggests that the privileging and prioritizing of what she calls expert or theoretical knowledge can result in local, contextual tacit know ledge becoming so marginalized that it can be often neglected if not ignored. One of the most vivid organizational examples she gives to illustrate her argument concerns the knowledge of some delivery drivers employed by a bakery. The owners of the bakery decided that they wanted to better understand the changing nature of the tastes and demands of the final customers who bought their goods . Despite of the fact that the some of the bakery’s own employees arguably possessed such knowledge, through the Ongoing conversations they had with the shops’ owners that happened when their deliveries were made, this source of knowledge wasn’t used. Instead, the bakery’s owner spent a significant amount of money employing external consultants to conduct some market research. For Rani, the reason that the delivery driver’s knowledge was overlooked and not used was due to its character. Fundamentally, this knowledge was tacit, subjective, experience based and content specific and was possessed by the workers low down in the organizational hierarchy. For the owners of the bakery this was regarded as a less legitimate and less objective form of knowledge to that which the market research consultants could provide . Rani suggests that this is far from an isolated example and that the privileging of theoretical knowledge over local contextual, tacit knowledge is an attitude which is prevalent in many, if not majority of the organizations. Questions: Do you agree with this conclusion regarding the dominance of this perspective? Do you think potentially important and useful knowledge is overlooked and neglected due to its tacit, contextual and experiential character Note: Q. 1 is compulsory.",
+      "marks": null,
+      "subparts": []
+    }
+  ]
+}

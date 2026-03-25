@@ -1,0 +1,90 @@
+{
+  "paper_id": "BAI110_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAI110",
+    "subject_name": "Programming with Python",
+    "program": "B.Arch. / B.Tech",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "WAP to accept reverse a list of numbers and to remove even numbers from the list.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain polymorphism.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between object oriented and procedural programming?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "WAP to find median in a list without using inbuilt method.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain different data types in python.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Define recursion with an example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is inheritance explain with example.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Difference between list and tuple.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain operations on set with example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "WAP to create a dictionary of countries and their capitals and define functions to add item ,delete item and view dictionary.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

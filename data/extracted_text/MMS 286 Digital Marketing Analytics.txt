@@ -1,0 +1,63 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: MBA) (Semester:  4th ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: MMS 286 
+Subject: Digital Marketing Analytics 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note:Q1 is compulsory. Attempt any twoparts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+ 
+a) Explain microanimations and microinteractions in DCX management 
+with the help of an example. 
+ 
+ 
+b) Explain the three stages of search engine search process. 
+ 
+ 
+c) What is a dynamically rendered webpage? Give an example 
+ 
+ 
+d) What is keyword density and keyword stuffing? Discuss an alternative 
+to avoid keyword stuffing. 
+ 
+UNIT I 
+ 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Explain the difference between paid, owned, and earned media. How 
+can each be leveraged for maximum brand visibility? Give examples 
+ 
+ 
+b) What is Digital Customer Experience (DCX) Management? Discuss 
+some principles associated with it. 
+ 
+ 
+c) Analyse how e-CRM data (from Hubspot or any other platform) can 
+lead to more personalised marketing strategies. Suggest atleast five 
+use cases. 
+ 
+UNIT II 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) What are the three stages in a search analytics process? Discuss some 
+of the measured to be taken for “on page optimization” 
+ 
+ 
+b) What is Google Search Console and how is it different from Google 
+Analytics? List 5 benefits of using  Google Search Console 
+ 
+ 
+c) Discuss sentiment analysis, topics and trend mining, intention mining, 
+& concept mining with examples.

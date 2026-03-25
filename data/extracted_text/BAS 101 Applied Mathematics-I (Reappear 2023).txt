@@ -1,0 +1,188 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech>, Semester:<1> 
+(December, 2024) 
+ 
+Subject Code: BAS 101 
+Subject: Applied Mathematics-I 
+ (Reappear for 2021 and earlier batches) 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Find the eigenvalues of  𝐴= [
+3
+1
+4
+0
+2
+6
+0
+0
+5
+]. 
+ 
+CO2 
+ 
+b) Illustrate linear transformation. 
+ 
+CO2 
+ 
+c) Test the convergence of ∑
+1
+𝑛+10. 
+ 
+CO1 
+ 
+d) Write the Euler’s formula for Fourier coefficients in a Fourier 
+Series.. 
+ 
+CO1 
+ 
+e) Find extrema of the function  𝑓(𝑥, 𝑦) = 𝑥2 + 𝑦2.  
+ 
+CO1 
+ 
+f) Solve 
+lim
+(𝑥,𝑦)→(5,−3) 
+3𝑥+2𝑦
+𝑥+𝑦+1 . 
+ 
+CO1 
+ 
+g) Evaluate ∫
+𝐹⃗ . 𝑑𝑟⃗
+𝑐
+ for 𝐹⃗= 2 𝑥𝑦 𝑖̂ + +3 𝑗̂ from (0,0) to (1,1) 
+along a curve 𝑦= 𝑥. 
+ 
+CO5 
+ 
+h) Check whether 𝐹⃗= (𝑦2 −2𝑥)𝑖̂ + (3𝑥𝑧+ 2𝑥 𝑦)𝑗̂ +
+3𝑥𝑦−2𝑥𝑧+ 2𝑧) 𝑘̂ is solenoidal or not. 
+ 
+CO5 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+State Cayley – Hamilton theorem. Verify Cayley – Hamilton theorem 
+for   𝐴= ⌈
+2
+1
+1
+0
+1
+0
+1
+1
+2
+⌉.  Prove that  
+ 𝐴8 −5𝐴7 + 7𝐴6 −3𝐴5 + 𝐴4 −5𝐴3 + 8𝐴2 −2𝐴+ 𝐼= ⌈
+8
+5
+5
+0
+3
+0
+5
+5
+8
+⌉ . 
+(10) 
+CO2 
+Q3 
+Find value of λ for which the following system of equations is consistent 
+and has non-trivial solutions. Solve equations for such values of λ. 
+(λ −1)𝑥+ (3λ + 1)𝑦+ 2λ𝑧= 0, 
+(λ −1)𝑥+ (4λ −2)𝑦+ (λ + 3)𝑧= 0, 
+2𝑥+ (3λ + 1)𝑦+ 3(λ −1)𝑧= 0. 
+(10) 
+CO2 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Determine whether the given sequence, whose 𝑛𝑡ℎ term  
+ 𝑎𝑛=
+𝑛2+(−1)𝑛
+𝑛3+2𝑛 , is convergent or divergent. 
+b) Discuss the convergence of the infinite series: 
+(5+5) 
+CO1 
+                   
+𝑥
+1+𝑥+
+𝑥2
+1+𝑥2 +
+𝑥3
+1+𝑥3 + ⋯ 
+ 
+Q5 
+Given that the series  sin 𝑥= 𝑥−
+𝑥3
+3 ! +
+𝑥5
+5 ! −
+𝑥7
+7 ! +
+𝑥9
+9 ! −
+𝑥11
+11 ! + ⋯ 
+Converges to sin 𝑥  for all 𝑥. 
+a) Find the first six terms of a series for cos 𝑥. For what values of 
+𝑥 should the series converge? 
+b)  Calculate the first six terms of a series for 2 sin 𝑥cos𝑥. 
+(10) 
+CO1 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+State and prove Euler’s theorem for a homogeneous function 𝑢(𝑥, 𝑦). 
+Verify Euler’s theorem for  𝑢=
+𝑥
+𝑦+
+𝑦
+𝑧+
+𝑧
+𝑥. 
+(10) 
+CO4 
+Q7 
+Given that 𝑓(𝑥, 𝑦) = 𝑥+ 𝑐𝑜𝑠(𝜋𝑦) + 𝑥 𝑙𝑜𝑔 (𝑦). Find the quadratic 
+approximation of function 𝑓(𝑥, 𝑦) about the point (3,1).  
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Evaluate the integral by changing the order of integration 
+∫∫
+dy dx
+√2x−x2
+0
+𝟏
+𝟎
+ 
+(10) 
+CO5 
+Q9 
+State Gauss’ s divergence theorem. Using this, evaluate ∬
+ 𝐹⃗ . 𝑑𝑆⃗
+𝑆
+ ,  
+where  𝐹⃗= 4 𝑥 𝑖̂ −2 𝑦2𝑗̂ + 𝑧2 𝑘̂ and 𝑆 is the surface bounded the 
+region 𝑥2 + 𝑦2 = 4, 𝑧= 0 and 𝑧 =  4. 
+(10) 
+CO5

@@ -1,0 +1,98 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+                             (Course Name B.Tech.) (Semester 1st  - Reappear ) 
+(March, 2025) OFFLINE mode 
+ 
+ 
+Subject Code: BMA 110 
+Subject: Engineering Mechanics 
+Time : 1.5Hours 
+Maximum Marks : 30 
+ 
+ 
+ 
+ 
+Q1 
+(2.5*4) 
+CO 
+(a) Draw the free body diagram of the sphere supported as shown in Figure 1. 
+                                          
+ 
+CO1 
+(b) Define Cone of Friction.  
+CO1 
+ Locate the Centroid of the lamina shown in Figure 2. 
+5 cm  
+ 
+ 
+ 
+10 cm  
+5 cm  
+  
+            
+                                               15cm 
+Figure 2 
+ 
+CO3 
+Explain the perfect, deficient and redundant frame. 
+CO3 
+ 
+Q2 (Attempt any Two Parts )     UNIT-1  
+(5,5) 
+CO 
+(a) Two forces, P and 2P, have a resultant of 260 N. If the direction of the larger force 
+is reversed and the other remains unaltered, the resultant becomes 180 N. Determine 
+the magnitude of the two forces and the angle between them. 
+ 
+ 
+CO1 
+ 
+ 
+ 
+Note: Q. 1 is compulsory.  
+ 
+(b) A roller of weight 600N rests on a smooth inclined plane and is kept free from 
+rolling down by a string as shown in the Figure 3. Work out tension in the string 
+and reaction at the point of contact. 
+ 
+     
+                                                     
+ 
+                                                                             Figure 3  
+ 
+CO1 
+(c) A uniform ladder of mass 20 kg and length 5 m is placed against a smooth and 
+frictionless vertical wall with its lower end 3.5 m away from the wall. If the ladder is 
+just to slip, determine the coefficient of friction between the ladder and the floor. 
+ 
+ 
+CO3 
+ 
+Q3 
+ (Attempt any  Part )     UNIT-2  
+(10) 
+CO 
+(a) A rectangle has width ‘b’ and height h  ’. Calculate the centroid for the of the 
+rectangle.  
+ 
+CO1 
+(b) Determine the moment of Inertia Ixx and Iyy of the plane area shown in Figure 4 
+about its centroidal axes. 
+                 
+          
+    
+ 
+                                    
+        
+                                                                         Figure 4  
+ 
+CO4 
+(c) Determine the forces in each member of the truss loaded as shown in Figure 5 
+                                            
+ 
+                                             Figure 5  
+ 
+CO4

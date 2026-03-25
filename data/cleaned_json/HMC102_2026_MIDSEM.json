@@ -1,0 +1,91 @@
+{
+  "paper_id": "HMC102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "HMC102",
+    "subject_name": "Soft Skills and Personality Development",
+    "program": "B. Tech.",
+    "semester": 2,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Five essential soft skills for professional growth",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Stress management techniques for students",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Impact of power dressing",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Traits of Empathetic Professionals",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Imagine you have several academic tasks with varying deadlines and complexities. How would you use the Eisenhower technique to prioritize these tasks effectively? In your explanation, discuss how the four quadrants of the Eisenhower Matrix—apply to the tasks at hand. Reflect on how this method shows your understanding of time management and helps reduce stress while increasing productivity.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Imagine you are preparing for an important job interview or considering a significant career opportunity. How would you use SWOT analysis to thoroughly evaluate your strengths, such as skills and achievements, identify areas where you need improvement, explore potential opportunities the role or career path might offer, and recognize possible challenges or threats that could impact your success? How would this analysis guide your preparation and decision- making process?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "In what ways do the five fundamental personality traits significantly shape the development of an appealing and impactful personality?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How can we effectively approach conflict resolution? Discuss this concept in relation to the Thomas-Kilmann Model.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "What are the key skills for building relationships? How can developing them improve personal and professional interactions?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the key competencies necessary for effective public speaking? Discuss with relevant examples.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B Tech >, Semester:<I>, Batch <2024> 
+(December, 2024) 
+ 
+Subject Code: BAS 102 
+Subject: Applied Physics 
+Time :3 Hours 
+Maximum Marks :60 
+Constants: Planck’s constant=6.626 × 10-34 m2 kg / s, Mass of proton= 1.67× 10-27 Kg, Mass of electron= 
+1.6× 10-31 Kg 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+a 
+For a plane transmission grating with 5000 lines/cm, find the absent 
+order spectra if the width of the opacity is twice that of the 
+transparency? 
+ 
+CO1 
+b 
+A parallel beam of monochromatic light is normally incident on a plane 
+transmission grating having 12,000 lines per cm. The second order 
+spectral line is observed at an angle 45°. Find the wavelength of light 
+used? 
+ 
+CO1 
+c 
+Describe the properties and physical significance of Displacement 
+current vector. 
+ 
+CO2 
+d 
+Visible light of frequency ω ≈ 1015 s−1   is made to shine on a metal having 
+conductivity σ ≈ 107 S m−1. Assuming µ ≈ µ0 for the metal, find the depth 
+at which the current density of incident light   would drop down to 37% 
+of its value at the metal surface.  
+ 
+CO2 
+e 
+Plot the first three quantum states, ψn(x) and the corresponding 
+probability density distribution functions  |ψn(x)|2 for a quantum 
+particle trapped in a 1-D box for principal quantum numbers n=1and 2.  
+ 
+CO3 
+f 
+Calculate de Broglie wavelength (in Å) of a proton whose kinetic energy 
+is 2.0 MeV.  
+ 
+CO3 
+g 
+A laser light with wavelength 770 nm has coherence length 
+10.2×10–4m. Find the number of oscillations corresponding to the 
+coherence length and  the coherence time. 
+ 
+CO4 
+h 
+An optical signal at specific wavelength has a loss of 55% of its 
+power after travelling 3.5 Km. Calculate the attenuation in db/km 
+in this fiber. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2a 
+Derive Fresnel’s Diffraction at a straight edge for a line source. 
+Show the graphical representation of the diffraction pattern in the 
+illuminated and the geometrical shadow regions. 
+(5) 
+CO1 
+b 
+Obtain the condition of bright fringes when interference of light occurs 
+by reflected ray in a parallel thin film. Why the reflected and 
+transmitted fringes are complementary to each other? 
+(5) 
+CO1 
+Q3a 
+Derive the intensity distribution for a single slit Fraunhoffer 
+Diffraction. Show that the relative intensities of first two 
+successive maximas are in the ratio  1: 4/9π2 : 4/25 π2 and so on. 
+Show a plot of the  diffraction pattern.  
+(7) 
+CO1 
+2 
+ 
+b 
+The sodium doublet lines have wavelengths 5890 Å and 5896 Å. Find 
+the resolving power of the grating that can resolve the doublet in first 
+order. 
+(3) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 a 
+Write the four Maxwell’s equations in integral form giving physical 
+interpretation of each equation. 
+(6) 
+CO2 
+b 
+Two EM waves travel in opposite directions to form a standing wave. 
+The electric and magnetic field vectors of the standing wave are given 
+by Ey( x, t) = 2Eo Cos (kx) Cos (ꞷt)    and Bz( x, t) = 2BoSin (kx) Sin 
+(ꞷt).Calculate the time average of the Poynting vector of the resultant 
+wave. What do we infer from the result? 
+(4) 
+CO2 
+Q5 a 
+Under what conditions does Ampere’s circuital law fail? How did 
+Maxwell modify Ampere’s circuital law to account for these cases?  
+(5) 
+CO2 
+b 
+Derive the differential equations for propagation of electric and 
+magnetic field vectors of an EM wave in an isotropic dielectric medium 
+(ε,µ). Find the impedance offered by the dielectric medium and speed 
+of light in the given medium. 
+(5) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6a 
+Describe the properties of wave function. Normalise the given 
+Wave function :  𝜓(𝑥) = {𝐴sin(2𝑥) , −𝜋≤𝑥≤𝜋
+0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+} 
+(5) 
+CO3 
+b 
+The position and momentum of a 1.0 keV electron are simultaneously 
+measured. If the position is located within a 1 Å wave packet, what is 
+the percentage of uncertainty in momentum? 
+ 
+(5) 
+CO3 
+Q7a 
+ Derive the normalized wave function of an electron trapped in an 
+infinite potential well and show that quantum mechanically such a 
+particle acquires only discrete energy values.  
+(5) 
+CO3 
+b 
+An electron is constrained to move in a one dimensional box of 
+Length(L) 0.1 nm. Find the first two energy Eigen values (in eV) and the 
+corresponding de-Broglie wave lengths (in nm).  
+(5) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8a 
+Establish a relationship between the Einstein’s Coefficients for 
+spontaneous and stimulated emissions in a LASER system.   
+(5) 
+CO4 
+b 
+Classify the multimode optical fibers on the basis of refractive index 
+profile of the core, comparing the advantages/disadvantages of both.  
+(5) 
+CO4 
+Q9a 
+An optical fiber has the refractive index of the core and cladding as 
+1.545 and 1.495 respectively. Calculate its critical angle, numerical 
+aperture and acceptance angle?  
+ 
+(5) 
+CO4 
+b 
+Explain the working of a He Ne Laser with its energy level diagram. 
+(5) 
+CO4

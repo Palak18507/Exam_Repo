@@ -1,0 +1,91 @@
+{
+  "paper_id": "AMC202_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC202",
+    "subject_name": "Research Methodology",
+    "program": "BBA",
+    "semester": 4,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain Type I and Type II Errors",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss different types of hypotheses with examples",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the Likert scale used for in business research?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain the term ‘uni-dimensional scale’ with an example.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the importance of a literature review in business research. How is it used to identify research gaps and develop hypotheses?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss the relationship between research problems and research objectives. How can clearly defined research objectives improve the quality of research outcomes in a business setting?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is a hypothesis? Discuss the role of hypotheses in testing theoretical concepts and guiding business research.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare primary and secondary sources of data collection. What are the advantages and disadvantages of each in business research, and when should each be used?",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain the different measurement scales: nominal, ordinal, interval, and ratio with examples",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Discuss the advantages and challenges of using digital tools such as online surveys, mobile apps for data collection in business research. How does technology change the way data is gathered and processed?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

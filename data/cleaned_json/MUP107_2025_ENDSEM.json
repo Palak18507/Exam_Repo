@@ -1,0 +1,121 @@
+{
+  "paper_id": "MUP107_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MUP107",
+    "subject_name": "Infrastructure and Mobility Planning",
+    "program": "M.Plan",
+    "semester": 3,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "CPHEEO",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Distribution losses in water supply",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Decentralized Wastewater Treatment Systems",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Power distribution network",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Waste management principles",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Evolution of transport modes",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Relationship between urban form and Transport patterns",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Traffic and transportation surveys",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What are the different elements of urban infrastructure? Briefly discuss the data required for provision and planning of urban networks and services.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "What are the principles of resource distribution in a space? Discuss briefly the types and hierarchical distribution of services.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "What is the process of supply of water from source to a residential accommodation in an urban area? Also, discuss the best practices to reduce water demand in a building.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the process of planning for Stormwater management in an Urban area? Discuss the best practices in brief.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the different types of Municipal Waste? Briefly discuss the planning provisions and management issues related to Municipal waste management in India.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "How do we identify vulnerable locations for Fire hazard? Discuss the methods of firefighting and planning provisions for Fire hazards.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the basic principles of transport infrastructure design. Also, briefly discuss the hierarchy, capacity and geometric design elements of roads and intersections.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the urban transport planning process in brief. Also, discuss the environmental and safety issues that must be considered by a planner.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

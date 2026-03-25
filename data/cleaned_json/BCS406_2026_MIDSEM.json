@@ -1,0 +1,71 @@
+{
+  "paper_id": "BCS406_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BCS406",
+    "subject_name": "Natural Language Processing",
+    "program": "B. Tech",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define Natural Language Processing and explain its significance in analysis of Data. Can NLP handle Structured Data? Why/Why not?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the difference between “stemming” and “Lemmatization? Explain using example.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are the common challenges faced in NLP? Discuss briefly using examples.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is parsing? Is it always possible to remove the ambiguity of the grammar? Discuss.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a phrase? Discuss various types of phrases with examples, occurring in English Language. What is a Phrase structed Grammar? Generate a leftmost derivation and rightmost derivation and parse tree for the language “abbbb”",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is ability link, functional link and capability link in Wordnet? Give examples of each? Identify the types of Wordnet relations Fruit- Apple Computer- Keyboard Shouting – speaking Cobbler- shoe repairing Infancy-young age -old age",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

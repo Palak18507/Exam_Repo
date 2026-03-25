@@ -1,0 +1,91 @@
+{
+  "paper_id": "BIT406_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BIT406",
+    "subject_name": "Information Retrieval",
+    "program": "B. Tech.",
+    "semester": 8,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain difference between Data retrieval and Information retrieval.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is Information Retrieval? Explain the history of Information Retrieval.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "List various issues in information retrieval system.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Explain different applications of LSI",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe Vector Space Model with example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Elaborate the technique of Query Expansion for improving the performance of search engines.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are forces work behind the E-commerce and how?",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain about Latent Semantic Indexing method with example.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the Singular Value Decomposition technique for semantic structure.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Describe Probabilistic Analysis of LSI.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    }
+  ]
+}

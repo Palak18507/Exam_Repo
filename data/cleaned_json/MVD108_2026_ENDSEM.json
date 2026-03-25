@@ -1,0 +1,86 @@
+{
+  "paper_id": "MVD108_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MVD108",
+    "subject_name": "Semiconductor memory Design",
+    "program": "<M.Tech>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping In semiconductor memories, explain below architecture with its name and functionality",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT 4",
+      "question_text": "How two decoder below differ in their functionality? What are names of each circuit and why? Which circuit is better and why?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3a",
+      "unit": "UNIT 4",
+      "question_text": "How the circuit shown works? List and explain some basic requirements for a good memory cell and basic requirements to sense the signal from memory cell",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3b",
+      "unit": "UNIT 4",
+      "question_text": "How DRAM cell development happened. How three transistor and one transistor cell in DRAM differ from each other? CO Mapping2",
+      "marks": 5.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT 4",
+      "question_text": "How EEPROM is different from EPROM? What is the need of EEPROM over EPROM?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT 4",
+      "question_text": "Explain Silicon Oxide Nitride Oxide Semiconductor memories CO Mapping3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT 4",
+      "question_text": "What is that phenomena when a SHORT occurs in gate oxide between Mosfet gate and underlying Silicon substrate? What are the two techniques to analyse Gate Oxide Failures?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT 4",
+      "question_text": "What happens when you try to scale down geometry of a memory device for higher density? What kind of degradation occurs? CO Mapping4",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT 4",
+      "question_text": "Explain radiation effects in FRAM? How FRAM is different from EEPROMS?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT 4",
+      "question_text": "Write short note on memory hybrids.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

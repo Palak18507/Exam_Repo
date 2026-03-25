@@ -1,0 +1,104 @@
+{
+  "paper_id": "PHD143_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD143",
+    "subject_name": "Image Processing using Python",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Compare and contrast the usage of PIL, OpenCV, and scikit-image libraries in Python. Highlight strengths and use-cases. 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the steps involved in applying geometric transformations such as scaling and rotation using OpenCV. 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is the difference between edge detection and feature extraction in image analysis? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "d) What is the purpose of transfer learning in medical image classification, and which pre-trained models are commonly used? 4",
+          "marks": null
+        },
+        {
+          "subpart_id": "e",
+          "text": "In the context of image steganography, what is LSB substitution? 4",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Discuss the role of Laplacian filter for image sharpening and provide a code-based example in Python. Explain the concept of morphological operations in image processing. Illustrate dilation and erosion using suitable diagrams or code examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Describe the process of performing histogram analysis of an image using OpenCV. What insights can be derived from the shape of a histogram? Explain the purpose of histogram equalization in image processing.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Compare and contrast inverse filtering and Wiener filtering as image restoration techniques. Under what conditions is Wiener filtering preferred?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is the role of image segmentation in object recognition? Explain the Watershed algorithm and how it helps in separating overlapping objects.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What are the common filtering techniques used for noise reduction in medical images, and how do they affect segmentation accuracy?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Describe the architecture of a basic CNN model used for medical image classification in TensorFlow. Discuss the preprocessing and normalization techniques applied to CT or MRI scans before inputting them into a deep learning model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Briefly differentiate between lossless and lossy image compression with examples of each. Why is the Discrete Cosine Transform preferred in JPEG compression over other transforms like Fourier or Sine?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Discuss and compare spatial-domain and transform-domain steganography techniques. What is the primary advantage of wavelet-based compression over block-based techniques like JPEG in preserving image features?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

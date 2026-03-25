@@ -1,0 +1,100 @@
+(Please write your Enrollment Number)                                        Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS) (SUBJECTIVE TYPE) (Offline) 
+Course Name: B. Tech, Semester: 7th  
+(December, 2024) 
+ 
+Subject Code: BAI 415 
+Subject: Recent Trends in AI 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+Q1 
+ 
+(4*5=20) 
+CO Mapping 
+a) 
+How do AI tools enhance decision-making processes in business 
+environments? 
+(04) 
+CO1 
+b) 
+Define Artificial Intelligence and differentiate it from natural intelligence. 
+(04) 
+CO1 + CO2 
+c) 
+Describe a real-world application that effectively integrates AI, Big Data, 
+and Cloud Computing. 
+(04) 
+CO2 
+d) 
+Define Computer Vision in the context of AI. 
+(04) 
+CO3 
+e) 
+What is a Geographical Information System and how is AI utilized? 
+(04) 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss the impact of AI technologies and evaluate their roles in:  
+a) Autonomous vehicles 
+b) Cybersecurity  
+(10) 
+CO1 
+Q3 
+Discuss the different steps of AI in detail with flow diagram. 
+(10) 
+CO1 
+UNIT - II 
+ 
+CO Mapping 
+Q4 
+a) Compare the effectiveness of AI in Cloud computing and Big data. 
+b) Outline the challenges involved in developing an AI solution for big 
+data. 
+(10) 
+CO2 
+Q5 
+a) Compare the functionalities of AI and Deep Learning in the context 
+of Knowledge Discovery. 
+b) Analyze the challenges of integrating machine learning with existing 
+IT systems. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+a) Compare the functionalities and applications of GAN in media versus 
+security systems. 
+b) Propose a new model for using AI to automate and optimize public 
+transportation in megacities. Discuss the usage of AI in public 
+transportation in detail. 
+(10) 
+CO3 
+Q7 
+a) Describe the integration of AI in Smart Grid technologies and its 
+impact on energy management. 
+b) Evaluate the challenges of using AI in smart vehicles. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Describe the integration of AI and explain its impact: in 
+a) Security Systems  
+b) Supply Chain Management 
+(10) 
+CO4 
+Q9 
+Discuss the role of AI in improving:  
+a) Healthcare Diagnostics and Patient Care 
+b) Transforming Communication and Computing Technologies 
+(10) 
+CO4

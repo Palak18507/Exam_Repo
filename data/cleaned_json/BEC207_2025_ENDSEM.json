@@ -1,0 +1,79 @@
+{
+  "paper_id": "BEC207_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC207",
+    "subject_name": "DIGITAL ELECTRONICS",
+    "program": "BTECH",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Convert Y = into standard POS form, where =bar. ALL 4 UNITS Why NAND and NOR are called Universal gates. Simplify F = X' + X where =bar. What is the difference between PAL and PLA? What do you understand by a Decoder? Draw the circuit diagram. What are the two De-Morgan’s theorems. Explain the difference between DRAM and SRAM. What is the difference between Flip-Flop and Logic gate? CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Design a combinational circuit with three inputs and one output, such that the output is 1 when the binary value of the inputs is less than 3. The output is 0 otherwise. Show all steps.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT 1",
+      "question_text": "Simplify the following Boolean expression below, using three- variable maps, where =bar. Also, draw the final circuit using logic gate. F= X'Y + YZ' + Y'Z'. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT 1",
+      "question_text": "A sequential circuit has three flip-flops A, B, C; one input x_in; and one output y_out. The state diagram is shown in Fig. below. The circuit is to be designed by treating the unused states as don’t-care conditions. Analyze the circuit obtained from the design to determine the effect of the unused states, using D flip-flops in the design.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT 2",
+      "question_text": "What is a Shift Register and its various types? List out its applications. Explain Serial-In-Serial-Out shift register using Truth Table and Circuit. 2 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT 2",
+      "question_text": "Write notes on binary weighted DAC and 2R-R ladder, with proper diagram and examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT 3",
+      "question_text": "Give a classification of digital logic families and their characteristics. Why CMOS Logic families is preferred logic for low power circuit designs? CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT 3",
+      "question_text": "What is the difference between serial and parallel transfer? Explain how to convert serial data to parallel and parallel data to serial. What type of register is needed?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT 3",
+      "question_text": "Write short notes on PLA, ROM, RAM, and PLA with diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "BAM302_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM302",
+    "subject_name": "Reinforcement Learning",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Write the Bellman equation for a Markov Reward Process and explain its significance. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Differentiate between policy iteration and value iteration. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are k-step estimators in Reinforcement Learning? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is On-policy learning and Off-policy learning? Provide examples of each. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "How do Approximation Methods improve the efficiency of value function representation? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "What are Eligibility Traces, and what are their advantages? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What are Goals and Rewards in reinforcement learning? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "c 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain in detail the components of a Markov Decision Process . How do MDPs model the environment in Reinforcement Learning, and how do they differ from a Markov Chain?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "How does Dynamic Programming solve Markov Decision Processes, and what are its strengths and limitations? What is the importance of convergence in Dynamic Programming, and how is contraction mapping used to prove convergence?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Discuss in detail the TD, TD, and TD methods, and compare their performance for model-free prediction. When should each of these methods be used?",
+      "marks": 0.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain the Monte Carlo method, its advantages and disadvantages. Differentiate between First Visit and Every Visit Monte Carlo method, and describe how Monte Carlo control improves policies over time.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Discuss the Gradient MC algorithm along with its advantages and disadvantages. Differentiate between Gradient MC and TD methods and explain how these methods approach the problem of value estimation.",
+      "marks": 0.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What is Experience Replay in Deep Q-Networks? How does it improve the learning process in deep reinforcement learning? What are the challenges associated with function approximation in reinforcement learning, and how are they addressed?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Discuss the k-armed Bandit problem. What are the different strategies to solve it and how do they compare in terms of the exploration- exploitation trade-off?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "What is the naïve REINFORCE algorithm, how does it work, and what are the challenges and limitations of using this algorithm?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

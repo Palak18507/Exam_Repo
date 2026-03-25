@@ -1,0 +1,79 @@
+{
+  "paper_id": "MCS105_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MCS105",
+    "subject_name": "Advanced Data Structures and Algorithms",
+    "program": "<M.Tech>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "In what scenarios would a linked list outperform an array in terms of time complexity, and what are the trade-offs in terms of memory usage and access time? Find the time complexity of given algorithm below: for { for { k = k + 1; } } How does the time complexity of DFS change depending on whether the graph is represented as an adjacency matrix or adjacency list? In which type of graph would you prefer Kruskal's algorithm over Prim's algorithm? How does the Quick Sort algorithm use divide-and-conquer, and what is its average-case time complexity? Differentiate between greedy strategy and dynamic programming strategy. What is the maximum number of children a node in a B-tree of order m can have? How P, NP, NP-Complete and NP-Hard problems are computationally related to each other?",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Compare the time complexity of the following two recurrences using the Master Theorem: 𝑇 = 2𝑇 + 𝑛 and 𝑇 = 3𝑇 + 𝑛2. Which one has a faster time complexity? Solve the recurrence : 𝑇 = 4𝑇 + 𝑛2. What is the total cost at each level in the recursion tree, and what is the overall time complexity?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Given the following sequence of numbers: 100, 50, 150, 25, 75, 200, 125, 30, 60, 20, 90, 80, 10, 35, 45, 95, 85, 110, 170, 130. Insert the numbers sequentially into an empty AVL Tree. After each insertion, show the structure of the AVL Tree, and indicate when rotations occur. After all insertions, calculate the height of the final AVL tree.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Consider a weighted undirected graph given below. Calculate the cost of minimum spanning tree of the given graph below using Prim’s and Kruskal’s Algorithms.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "What do you mean by topological sorting? Perform topological sorting for given graph:",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "How does the Dijkstra's Algorithm utilize a greedy approach to find the shortest path in a graph? Perform the Dijkstra's Algorithm on given graph below considering source as S.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "What do you mean by Naïve string-matching algorithm? Explain the working of any string-matching algorithm using a suitable example that necessarily involves 𝑂 computation cost. You can assume the size of pattern ′𝑚′ is smaller than size of text ′𝑛′.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Given the following sequence of numbers: 10, 20, 5, 15, 30, 25, 35, 40, 50, 60, 45. Insert the numbers sequentially into an empty B-Tree with a minimum degree of 3. After each insertion, show the resultant structure of the B-Tree. After all insertions, delete the key 25 from the final B-Tree. Show the structure of the tree after deletion and explain any necessary node merging or redistribution.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Choose any NP-Complete problem of your own choice and perform followings: Prove logically/mathematically that the problem is NP-Complete. Discuss any existing solution to the above chosen NP-Complete problem.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "paper_id": "BMA101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA101",
+    "subject_name": "Elements of Mechanical Engineering and Workshop",
+    "program": "B.Tech (MAE",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1.",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are the primary differences between Cast Iron and Steel in terms of compositing and properties?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the deference between Arc Welding& Gas Welding?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "State the first law of Thermodynamic and provide an example?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Brief about simple vapor compression Refrigeration cycle.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is COP and list of Refrigerator?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Which is more environment friendly & efficient 2 stroke engine and 4 stroke engine.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define and explain the Poisson’s Ratio.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What do you understand by True Stress and True Strain?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is casting defect? Explain the various types of casting defects with suitable diagrams and examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Draw and explain various types of patterns. Discuss the electric Arc Welding suitable diagram.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Briefly explain Vapour Compression Refrigeration System with suitable examples. Draw and explain basic Structure of I.C. Engines. Draw and explain Four-stroke Spark Ignition Engine",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Write the Comparison between Four Strokes and Two Strokes Engines Write the Comparison Between S.I. and C.I. Engines Write Comparison Between Otto Cycle and Diesel Cycle with suitable diagrams. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw and explain Steam Engines.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw and explain Rankine Cycle used in steam power plant.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Gas Turbine? Write Classification of Gas Turbine.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Draw and explain Joule or Brayton Cycle used in Gas Power Plant.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define the following terms Elasticity & Plasticity Hooke’s law & factor of safety Lateral & longitudinal Strains",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Brief about work in a Carnot Engine and Network done by the Carnot Engine? Brief about mechanical properties of materials?",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

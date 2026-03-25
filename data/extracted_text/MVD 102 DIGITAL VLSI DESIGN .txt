@@ -1,0 +1,123 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: M.Tech, Semester:2 
+(May, 2025) 
+ 
+Subject Code: MVD 102 
+Subject: DIGITAL VLSI DESIGN 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) How does scaling in CMOS technology affect MOSFET 
+parameters such as threshold voltage, leakage, and short-
+channel effects? 
+2.5 
+ 
+ 
+b) What factors influence the threshold voltage (Vth ) of 
+MOSFET? 
+2.5 
+ 
+ 
+c) What are the different components of power dissipation in a 
+CMOS inverter? Explain. 
+2.5 
+ 
+ 
+d) Discuss the impact of transistor sizing on propagation delay in 
+CMOS inverters 
+2.5 
+ 
+ 
+e) What is the function of an ALU in a processor? 
+2.5 
+ 
+ 
+f) What is the difference between an array multiplier and a 
+Booth multiplier?  
+2.5 
+ 
+ 
+g) Explain the concept of precharge and evaluation phases in 
+dynamic logic circuits.  
+2.5 
+ 
+ 
+h) Compare NMOS, PMOS, and CMOS logic in terms of power 
+dissipation, speed, and area efficiency. 
+2.5 
+ 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Derive the current-voltage (I-V) characteristics of a MOSFET. Provide 
+detailed equations for both linear and saturation regions, and explain 
+how device parameters influence these characteristics. 
+(10) 
+ 
+Q3 
+Explain the short-channel effects observed in scaled-down MOSFETs. 
+Describe issues such as drain-induced barrier lowering (DIBL) and 
+velocity saturation. 
+(10) 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What is the propagation delay in a CMOS inverter? Explain the factors 
+that affect propagation delay and derive the expressions for rise time 
+(Tplh) and fall time (Tphl). 
+(10) 
+ 
+Q5 
+Derive the voltage transfer characteristic (VTC) of a CMOS inverter 
+and explain how its shape influences digital circuit performance. 
+Discuss the role of threshold voltage in determining the switching 
+point. 
+(10) 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) Design D Flip Flop with static CMOS implementation and 
+transmission gate approach. 
+(b) Discuss the cascading issues in dynamic logic gates. How does 
+domino logic solve the problem of charge leakage and signal 
+degradation? 
+(5) 
+ 
+ 
+ 
+(5) 
+ 
+Q7 
+Compare pseudo-nMOS logic with static CMOS logic in terms of noise 
+margin, power efficiency, transistor count, and scalability. Under what 
+design scenarios is pseudo-nMOS preferable despite its disadvantages? 
+(10) 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Explain the basic structure and operation of a Static 6 transistor RAM 
+(SRAM) cell. How does it perform read and write operations? Discuss 
+the advantages and disadvantages of SRAM over DRAM. 
+(10) 
+ 
+Q9 
+Explain the working principle of a shift-and-add multiplier. Draw a block 
+diagram and describe the steps involved in multiplying two binary 
+numbers. 
+(10)

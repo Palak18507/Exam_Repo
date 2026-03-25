@@ -1,0 +1,163 @@
+{
+  "paper_id": "BAM306_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAM306",
+    "subject_name": "Computer Vision",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Define computer vision and list any two of its real-world applications. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is the role of loss function in classification tasks? Explain with an example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain the architectural components of a CNN. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is transfer learning? How does it benefit computer vision models? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Describe the working of image captioning using CNN-RNN pipeline. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Describe the function of self-attention in transformer-based models for vision tasks. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is semantic segmentation? Illustrate with a practical example. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What are dataset biases in computer vision? How do they affect model performance? 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Explain the data-driven approach in computer vision alongwith mathematical for mutation. Briefly describe how stochastic gradient descent works in optimizing a loss function. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain backpropagation using a simple example with numerical values.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Mention two major challenges in optimizing neural networks. 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the architecture of AlexNet. How do pooling and convolution layers sharing improve CNN performance? 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "What is batch normalization? Why is it important? Compare VGG-16 and InceptionNet alongwih architectural differences. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is attention in deep learning? Differentiate between soft and hard attention. Describe the components of a transformer block. 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the role of transformers in image captioning.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does the encoder-decoder structure work in vision tasks? 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain the use of Siamese Networks in face recognition.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "List and explain any two image data augmentation techniques. 10",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What are GANs? Briefly explain their structure with an application.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Discuss how bias in training data can impact facial recognition systems. 10",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

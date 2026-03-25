@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP110_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP110",
+    "subject_name": "History of Architecture II",
+    "program": "<B.Arch.>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Briefly describe the Megaron. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Give a very brief account of the influence of geography, climate and light in Greek architecture. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Briefly describe the contribution of the Roman civilization to architectural building material. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Give a very brief architectural account of a Roman Villa. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What are the salient features of Early Chalukyan Temple Architecture? 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Give a very brief account of Mahabodhi Temple established in 3rd Century. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "List atleast 3 attributes for the survival of any civilization. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Very briefly mention the 3 main types of collapse. 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Elaborate the architectural principles and design of the Parthenon. Draw neat sketch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Briefly describe the various architectural typology found in Greek Architecture. Support your answer through neat sketches.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Elaborate the architectural principles and design of the Pantheon.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Briefly describe the various architectural typology and types of buildings found in Roman Architecture. Support your answer through neat sketches.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Describe in detail the Durga Temple at Aihole.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are structural temples? Describe the Lad Khan Temple at Aihole.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain the various factors & parameters in detail leading to the collapse of Roman Empire.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the various factors & parameters in detail leading to the collapse of Mesopotamia Civilization.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

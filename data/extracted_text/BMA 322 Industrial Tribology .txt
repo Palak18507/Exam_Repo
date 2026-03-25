@@ -1,0 +1,80 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-TermExamination 
+(CBCS)(Subjective type)(OffLine) 
+Course Name:<B.Tech>, Semester:<6th> 
+(May, 2025) 
+ 
+Subject Code: BMA 322 
+Subject: Industrial Tribology 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+ 
+(a)  What is tribology and its applications? Explain. 
+ 
+(b)  Explain the various functions of Lubricant Additives. 
+ 
+(c) Explain the friction and give the classification of frictional contacts. 
+ 
+(d)  Explain Petroff's relation for power loss in journal bearing. 
+ 
+(e) Explain the main causes of friction. 
+ 
+(f) List the various applications of sliding contact and rolling contact bearings. 
+ 
+(g) What is Sommerfeld number? What is its significance? 
+ 
+(h) List the advantages of thrust bearings with suitable examples. 
+ 
+ 
+UNIT-I 
+Q2 
+What are the factors affecting the performance of lubricant? Explain the 
+various properties of lubricant. 
+(10) 
+Q3 
+What are the consequences of unsatisfactory lubrication systems? Explain the 
+various lubricant supply systems.  
+(10) 
+UNIT-II 
+Q4 
+What are causes of friction? Explain the theory of adhesion friction given by 
+Bowden and Tabor and how Tabor validated this theory. 
+(10) 
+ 
+Q5 
+Explain the adhesive and abrasive wear with suitable examples in detail. 
+(10) 
+UNIT-III 
+Q6 
+Derivethe two-dimensional Reynolds equation for the incompressible flow of 
+lubricant in journal bearing. 
+(10) 
+Q7 
+Explainthe general steps with expressions for designing the journal bearing. 
+ 
+OR 
+ 
+A hydrodynamic slider is 100mm long (in the direction of motion) and has 
+infinite width. The maximum and minimum oil film thicknesses are 200 microns 
+and 100 microns respectively. If the viscosity of lubricant is 0.05Pas and speed 
+of the slider is 15m/sec. Determine the maximum pressure and the load 
+capacity per cm width of the slider.  
+(10) 
+UNIT-IV 
+Q8 
+Why flat plate thrust bearing over tilting pad thrust bearing is preferred? 
+Explain in detail. 
+OR 
+What is need of thrust bearing? Describe different types of thrust 
+bearingsalong with their applications. 
+(10) 
+Q9 
+Derive an equation of pressure distribution and load carrying capacity of tilting 
+pad thrust bearing. 
+(10)

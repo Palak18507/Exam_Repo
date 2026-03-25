@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)                                    Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(Offline) 
+Course Name: B.B.A, Semester: III 
+(November-December, 2024) 
+ 
+Subject Code: AMC-203 
+Subject: Operations Management 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q.1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Business cannot survive without proactive operations 
+management. Discuss  
+1 
+ 
+(b) 
+How does operation strategy support manufacturing sector? 
+1 
+ 
+(c) 
+How corporate, business and operation strategies are linked? 
+2 
+ 
+(d) 
+Discuss concept of scheduling in services. 
+2 
+ 
+(e) 
+Discuss various flow involved in a supply chain and their 
+importance. 
+3 
+ 
+(f) 
+Discuss various costs associated with inventory. 
+       3 
+ 
+(g) 
+Explain Deming’s PDCA Model. 
+       4 
+ 
+(h) 
+Discuss 5Cs of TQM. 
+       4 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+What do you understand by operations management?  
+Discuss various critical decisions taken by operation 
+manager. 
+(10) 
+ 1 
+Q3 
+Discuss role of operation strategies in smooth running of a 
+business enterprise. 
+(10) 
+             1 
+UNIT-II 
+CO Mapping 
+Q4 
+What is Business Process Modelling?  Compare and contrast 
+physical and logical databases.  Discuss the importance of 
+relational databases in business process management. 
+(10) 
+2 
+Q5 
+“Scheduling is a short-term planning tool.”  What is 
+difference between loading and sequencing? 
+(10) 
+2 
+UNIT-III 
+CO Mapping 
+Q6 
+Explain the phenomenon of Bullwhip Effect in supply chain 
+management.  What are the critical decision-making areas in 
+supply chain? 
+(10) 
+3 
+Q7 
+Factory uses annually 24000 units of raw material which  
+Costs Rs 1.25 per unit. Ordering cost is Rs 25 per order and  
+carrying cost is 6% per year of unit price. 
+(a) Find EOQ and total inventory cost including cost of 
+ material. 
+(b) The factory works for 320 days a year.  If the  
+procurement time is 10 days find ROL, the maximum and 
+average inventories. 
+(10) 
+3 
+UNIT-IV 
+CO Mapping 
+Q8 
+What is quality?  How good or bad quality affects operations 
+of a business? Discuss various costs associated with quality 
+with suitable examples 
+(10) 
+        4 
+Q9 
+Write a short note on Total Productive Maintenance.     
+(10) 
+        4

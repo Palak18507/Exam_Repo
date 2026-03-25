@@ -1,0 +1,55 @@
+{
+  "paper_id": "BEC306_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BEC306",
+    "subject_name": "VLSI Design",
+    "program": "B. Tech. ECE/ECE AI",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "MOSFETs are said to be more efficient than BJTs. Justify the answer.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw V-I characteristics of NMOS transistor. Explain its operation. Derive the drain to source current equation in saturation and resistive region.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Why nMOS transistor is selected as Pull-Down transistor. Explain with diagram.",
+          "marks": 10.0
+        }
+      ]
+    }
+  ]
+}

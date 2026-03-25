@@ -1,0 +1,143 @@
+{
+  "paper_id": "PHD153_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD153",
+    "subject_name": "Machine Learning Using Python Programming",
+    "program": "<PHD>",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "What is the basic difference between Regression and Classification problems? 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain K-Fold Cross Validation and its role in model evaluation. 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "Define the ROC curve. What does AUC represent? 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "Explain the K-nearest Neighbor learning Algorithm and discuss the major drawbacks of it 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the concept and role of Support Vector Machine in Classification. 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is clustering and why is it useful? 2.5",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "h",
+          "text": "Discuss evaluation parameters for Machine Learning. 2.5",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Describe the overall architecture of a machine learning system. What are the main components and stages involved, from data collection and feature selection to model training, evaluation, and prediction? Explain the role of each phase with relevant examples.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Describe the significance of data preprocessing in ML. Explain techniques used for feature scaling, handling missing values, and detecting outliers. B) What is the role of feature encoding in machine learning? Compare One-Hot Encoding and Label Encoding with advantages and disadvantages.",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Compare and contrast linear regression and logistic regression with respect to the following aspects: 1. The type of dependent variable they model and their typical applications. 2. The mathematical form of their respective models . The cost functions used for training each model and why different cost functions are needed.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Explain how a decision tree selects the best attribute for splitting, and illustrate the process with a simple example. 2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is a Naïve Bayes Classifier?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "You have to predict a car is stolen or not with feature set {Red Domestic SUV } based on given data:",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "What are ensemble methods in machine learning, and how do they enhance the performance of classifiers? Explain key ensemble techniques such as bagging, boosting with suitable examples. Also, discuss their benefits and challenges in practical applications.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "What is the Curse of Dimensionality? Discuss the need of Dimension reduction in terms of Generalization, Overfitting and Complexity of model.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is K-Means clustering? Briefly explain its working steps and mention one advantage and one limitation.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Solve K-Means clustering to cluster the data into two groups. Assume cluster centroids are m1=2 and m2=4.The distance function used is Euclidean distance. Data points are: { 2, 4, 10, 12, 3, 20, 30, 11, 25 }",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

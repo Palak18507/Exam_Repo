@@ -1,0 +1,131 @@
+{
+  "paper_id": "AMC301_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC301",
+    "subject_name": "Operations Research",
+    "program": "BBA",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Enumerate with brief description some of the techniques of Operations Research.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "b",
+          "text": "Describe the importance of OR in decision-making process.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "c",
+          "text": "Under what conditions can linear programming be used for optimization problems?",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "d",
+          "text": "State advantages and limitations of linear programming.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "e",
+          "text": "What do you mean by an unbalanced transportation problem and explain how to convert the unbalanced transportation problem into a balanced one.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "f",
+          "text": "Explain the difference between a transportation problem and an assignment problem.",
+          "marks": 2.857142857142857
+        },
+        {
+          "subpart_id": "g",
+          "text": "Construct the network for the project whose activities and their relationships are as given below: Activities: A, D, E can start simultaneously; B, C > A; G, F > D, C; H > E, F",
+          "marks": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "List any three operations research techniques and state in what conditions they can be used.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain various types of OR models and indicate their application top production, inventory and distribution systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "A dairy feed company may purchase and mix one more of the three types of grains containing different amounts of nutritional elements. The data is given in the Table below. The production manager specifies that any feed mix for his livestock must meet at least minimal nutritional requirements, and seeks the least costly among all such mixes. One unit weight of Min Requirements Item Grain1 Grain2 Grain3 Nutritional Ingredients A 2 3 7 1250 B 1 1 0 250 C 5 3 0 900 Cost/Unit D 6 25 1 232.5 Weight 41 35 96 Analyse the situation to recognise the key decision objective, alternatives and restrictions. Formulate a linear programming model for the problem. 2",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Apply simplex method to solve the following LPP Maximise z = 30 x1 + 23x2 + 9x3, subject to 6x1 + 5x2 + 3x3 ≤ 26, 4x1 + 2x2 + 5x3 ≤ 7, every xj ≥ 0",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Goods have to be transported from factories F1, F2, F3 to warehouses W1, W2, W3 and W4. The transportation cost per unit, capacities and requirement of the warehouses are given in the Table. Find the distribution with minimum cost. Obtain an Initial Basic Feasible Solution to the following transportation problem.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Explain Hungarian – Method and the Steps involved in this method.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Explain difference between PERT and CPM for Project Management and give suitable examples for both.",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Draw the arrow diagram.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Identify the critical path and find the total project duration.",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Determine total, free and independent floats.",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

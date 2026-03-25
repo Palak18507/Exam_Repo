@@ -1,0 +1,134 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:B.Tech, Semester:<> 
+(December, 2024) 
+(Reappear till 2023 batches) 
+ 
+Subject Code: BAS 103 
+Subject: Applied Physics-I 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+CO Mapping 
+ 
+a) Differentiate between central and non-central forces with examples. 
+ 
+CO 1 
+ 
+b) A quartz crystal has an ordinary refractive index (𝑛𝑜) of 1.544 and an 
+extraordinary refractive index (𝑛𝑒) of 1.553. Calculate the minimum 
+thickness required for the crystal to act as a quarter-wave plate for light 
+of wavelength 589 nm. 
+ 
+CO 2 
+ 
+c) Explain Heisenberg's Uncertainty Principle. Show that an electron 
+cannot be localized within the nucleus of an atom. 
+ 
+CO 3 
+ 
+d) In an optical fiber, the refractive index of the core is 𝑛1 = 1.48 and the 
+refractive index of the cladding is 𝑛2 = 1.46. Calculate the numerical 
+aperture and the acceptance angle (in degrees) for the fiber. Assume the 
+light is propagating in air. 
+ 
+CO 4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Obtain the differential equation of motion for a damped Harmonic 
+Oscillator. Discuss the solution of this equation for the underdamped, 
+critically damped, and over damped cases.  
+ 
+b) A mass-spring system with a damping coefficient 𝑏= 5kg/s, mass 𝑚=
+2kg, and spring constant 𝑘= 50N/m is released from rest. Determine 
+whether the system is underdamped, critically damped, or over-damped. 
+(7,3) 
+CO 1 
+Q3 
+a) Write down the differential equation of motion for a forced harmonic 
+oscillator and obtain the expressions for its amplitude and phase in 
+steady state. Explain the variation of amplitude of the oscillator with the 
+frequency of applied periodic force? 
+ 
+b) A system undergoing forced oscillation has a natural frequency of 5 
+Hz and a damping constant of 0.2. If the quality factor of the system is 
+25, calculate the relaxation time. 
+(7,3) 
+CO 1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+a) Derive an expression for intensity distribution on the screen due to 
+Fraunhofer diffraction from a slit of width a. Also draw the diffraction 
+pattern. 
+ 
+b) A thin film of oil (refractive index 𝑛𝑜= 1.4) is spread on the surface of 
+water (𝑛𝑤= 1.33) and is illuminated with monochromatic light of 
+wavelength 𝜆= 500nm in air. Draw a neat ray diagram to show 
+interference due to the thin film. If the thickness of the oil film is 𝑡= 100 
+nm, determine whether constructive or destructive interference occurs 
+in the reflected light. Discuss the effect of increasing the refractive index 
+of the oil on the interference pattern. 
+(5,5) 
+CO 2 
+Q5 
+a) Derive an expression for the intensity distribution on the screen due 
+to Fresnel diffraction from a straight edge. Explain the nature of the 
+diffraction pattern in the shadow region. 
+ 
+b) Differentiate between the following: 
+     (i) Division of wavefront and Division of amplitude 
+     (ii) Spatial and Temporal Coherence 
+ 
+(6,4) 
+CO 2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A particle is confined in a one-dimensional infinite potential well of width 
+L. Solve the time-independent Schrödinger equation to obtain the 
+normalized wave function. Show that the allowed energy levels are 
+discrete and derive the expression for the energy levels. 
+ 
+(10) 
+CO 3 
+Q7 
+a) State and explain the postulates of Quantum Mechanics. Discuss the 
+concept of the wave function and its physical significance. What are the 
+properties of wave function? 
+ 
+b) An electron is accelerated through a potential difference of 150 V. 
+Calculate its de Broglie wavelength. 
+(6,4) 
+CO 3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+a) Explain the principle of operation of a LASER. With the help of relevant 
+diagrams discuss the essential components of a LASER system, including 
+the working of each component. 
+ 
+b) Derive the relation between Einstein’s A and B coefficients and discuss 
+their role in the processes of absorption, spontaneous emission, and 
+stimulated emission. 
+(5,5) 
+CO 4 
+Q9 
+a) Describe the working of a He-Ne laser. Draw relevant energy level 
+diagram to illustrate the transitions involved in the operation of the laser. 
+ 
+b) Draw and explain the schematic of an optical fiber communication 
+system. Discuss the roles of each component in the system. 
+(5,5) 
+CO 4

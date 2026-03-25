@@ -1,0 +1,93 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: BBA, Semester: V 
+(December, 2024) 
+ 
+Subject Code: BMS 333 
+Subject: Marketing Analytics  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(5*4=20) 
+ 
+a) Define the following marketing metrics: 
+ Customer Acquisition Cost (CAC) 
+ Return on Marketing Investment (ROMI) 
+ 
+ 
+b) Why is discounting future revenues important when calculating customer 
+lifetime value (CLTV)? 
+ 
+ 
+c) What is conjoint analysis, and why is it used in market research? 
+ 
+ 
+d) How did Medfirst India underutilize data analytics in its decision-making 
+processes? 
+ 
+UNIT I 
+ 
+Q2 
+How can a business use marketing metrics to improve its campaign 
+effectiveness? Provide examples. 
+(10) 
+Q3 
+A marketing team wants to evaluate the success of a content marketing 
+strategy. Suggest three key metrics they should track and why. 
+(10) 
+UNIT II 
+ 
+Q4 
+Explain the components and steps involved in calculating customer lifetime 
+value (CLTV). 
+(10) 
+Q5 
+A dataset has three attributes: price, rating, and sales volume. Describe how 
+you would process the data for K-Means clustering. 
+(10) 
+UNIT III 
+ 
+Q6 
+Given the following part-worth utilities for a product: 
+ Attribute 1 (Color): Red = 10, Blue = 15 
+ Attribute 2 (Price): ₹ 500 = 20, ₹ 1000 = 10 
+a) Calculate the total utility for a product that is Blue and costs ₹ 500. b) 
+Calculate the total utility for a product that is Blue and costs ₹ 1000.  
+(10) 
+Q7 
+Imagine you are conducting a conjoint analysis for a coffee brand. List three 
+potential attributes and levels you would include in the study. Justify the 
+choice.  
+(10) 
+UNIT IV 
+ 
+Q8 
+"MFI launched its marketing campaigns across all channels. In order to 
+maximize reach, all campaigns were nationwide and did not specifically target 
+(10) 
+any geographical areas. The expectation was that the campaigns via various 
+channels would bring prospective customers to the website and that the website 
+would play the pivotal role in conversion. They found that the bulk of the 
+business came from four or five Tier 1 cities, with the majority of the buyers 
+being smaller hospitals and clinics." 
+ 
+Why was the decision to launch nationwide marketing campaigns without 
+targeting specific geographical areas a challenge for Medfirst India?  
+Q9 
+“Despite these mishaps, a wealth of data flowed into the MFI data dashboard. 
+For instance, MFI was able to analyze regional and state revenues and average 
+order values. MFI could have analyzed the performance of individual campaigns, 
+including customer acquisition costs, conversion rates, and the effectiveness of 
+specific channels such as PPC and Facebook ads. However, they missed out on 
+analyzing customer behavior metrics such as bounce rates and session 
+durations, which could have provided deeper insights." 
+ 
+Despite data mismanagement, how did the availability of regional and state 
+revenue data provide Medfirst India with valuable insights? How could these 
+insights have been better leveraged to optimize marketing efforts? 
+(10)

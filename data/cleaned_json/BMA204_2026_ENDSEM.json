@@ -1,0 +1,201 @@
+{
+  "paper_id": "BMA204_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BMA204",
+    "subject_name": "Theory of Machines",
+    "program": "TOM",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Off-line",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "b",
+          "text": "What is a Cam? Give at-least 2 examples where cam and follower mechanism can be used.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is Grashof’s Law? Explain with an example for a 4 bar mechanism having link length- 5mm, 7 mm, 11 mm, 12 mm, all connected through revolute pairs and one link is fixed.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "d",
+          "text": "Differentiate between free vibrations and forced vibrations.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is a Reverted Gear Train. Make a neat figure and derive relation for Gear Ratio.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "f",
+          "text": "Make a neat sketch and show following for an external toothed profile of a gear:",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "a",
+          "text": "Face,",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "b",
+          "text": "Flank,",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "c",
+          "text": "Addendum,",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "d",
+          "text": "Dedendum,",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "d",
+          "text": "Tooth Space.",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is meant by balancing of rotating masses in machines? Why is it necessary to balance rotating parts?",
+          "marks": 1.6666666666666667
+        },
+        {
+          "subpart_id": "h",
+          "text": "How does gyroscope help in making a ship stable? CO Mapping",
+          "marks": 1.6666666666666667
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "State Grublers rule for determining the degree of freedom of a mechanism. Explain with an example and a neat sketch, where Grubler’s rule fail.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "What is meant by 2R-2P mechanism? Draw a neat and labelled diagram of an Oldham’s coupling. Explain its working.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain procedure to find velocity of a link / mechanism by relative velocity method.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "In a 4 bar slider crank mechanism for a reciprocating piston, crank length is 15cm, connecting rod is 60 cm and angular velocity of crank is 200 rpm. Find the angular velocity of the connecting rod with any one method Instantaneous Centre method, or Relative velocity method. CO Mapping",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "A cam is to give the following motion to a knife-edged follower : 1. Outstroke during 80° of cam rotation ; 2. Dwell for the next 30° of cam rotation ; 3. Return stroke during next 60° of cam rotation, and 4. Dwell for the remaining degrees of cam rotation. Fig. 1 The stroke of the follower is 50 mm and the minimum radius of the cam is 50 mm. The follower moves with uniform velocity during both the outstroke and return strokes. Draw the profile of the cam when- the axis of the follower passes through the axis of the cam shaft, and the axis of the follower is offset by 20 mm from the axis of the cam shaft.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Derive the relation for natural frequency of free transverse vibrations for a shaft of weight W, which is deflected by distance ‘x’ and it vibrates?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "A cantilever shaft 50 mm diameter and 300 mm long has a disc of mass 100 kg at its free end. The Young’s modulus for the shaft material is 200 G N/m^2. Determine frequency of longitudinal and transverse vibrations of the shaft. CO Mapping",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is Klein’s velocity diagram? Describe with a neat sketch the method of constructing Klein’s velocity diagram for a reciprocating engine mechanism.",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "The gearing of a machine tool is shown in Fig.2 The motor shaft is connected to gear A and rotates at 975 r.p.m. The gear wheels B, C, D and E are fixed to parallel shafts rotating together. The final gear F is fixed on the output shaft. What is the speed of gear F? The number of teeth on each gear are: A=20, B=50, C=25, D=75, E=26, F=65.",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "In an epicyclical gear train refer fig 3, an arm carries two gears A and B having 36 and 45 teeth respectively. If the arm rotates at 150 r.p.m. in the anticlockwise direction about the centre of the gear A which is fixed, determine the speed of gear B. If the gear A instead of being fixed, makes 300 r.p.m. in the clockwise direction, what will be the speed of gear B? CO Mapping",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain the effect of the Gyroscopic Couple on an Aeroplane in following cases: Whose propeller rotates in clockwise direction when seen from rear end and aeroplane turns towards right? Whose propeller rotates in clockwise direction when seen from rear end and aeroplane turns towards left? Explain",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is meant by balancing of rotating masses in machines? Why is it necessary to balance rotating parts?",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Four masses m1, m2, m3 and m4 are 200 kg, 300 kg, 240 kg and 260 kg respectively. The corresponding radii of rotation are 0.2 m, 0.15 m, 0.25 m and 0.3 m respectively and the angles between successive masses are 45°, 75° and 135°. Find the position and magnitude of the balance mass required, if its radius of rotation is 0.2 m. Fig. 2",
+          "marks": 5.0
+        }
+      ]
+    }
+  ]
+}

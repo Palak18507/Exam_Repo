@@ -1,0 +1,106 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 6 
+(May, 2025) 
+ 
+Subject Code: BEC 318 
+Subject: Digital Image Processing 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What is image restoration? How is it different from image 
+enhancement? 
+ 
+CO1 
+ 
+b) What do you mean by image sampling and quantization? 
+ 
+CO1 
+ 
+c) What are the principal sources of noise in digital images? 
+ 
+CO2 
+ 
+d) Is the Rayleigh distribution symmetric? How is the PDF of Rayleigh 
+noise represented? 
+ 
+CO2 
+ 
+e) What is chromaticity and trichromatic coefficients? 
+ 
+CO3 
+ 
+f) What is color transformation? Give the expression for color 
+transformation. 
+ 
+CO3 
+ 
+g) Explain the concept of string matching in structural methods. 
+ 
+CO4 
+ 
+h) Explain the terms patterns, pattern classes, and pattern vectors. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Draw and explain the block diagram of the components of a general-
+purpose image processing system. 
+(10) 
+CO1 
+Q3 
+Explain the power law transformation and the piecewise-linear 
+transformation. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+What do you mean by image sharpening? How is it carried out using 
+frequency domain filters? 
+(10) 
+CO2 
+Q5 
+Explain Wiener filtering. How is the constrained least squares filter 
+advantageous as compared to the Wiener filter? On what basis is the 
+optimality criterion for restoration using the Wiener filter 
+determined? 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+What is spatial redundancy? Give examples of compression 
+techniques that explore spatial redundancy. 
+(10) 
+CO3 
+Q7 
+What is image segmentation? Why is it required? What are the 
+general approaches to image segmentation? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+What is Morphology? What is a structuring element? Explain the steps 
+involved in Morphological Image Processing. 
+(10) 
+CO4 
+Q9 
+Explain the concept of object recognition based on Decision-Theoretic 
+Methods. 
+(10) 
+CO4

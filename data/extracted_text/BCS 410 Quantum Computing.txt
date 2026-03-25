@@ -1,0 +1,72 @@
+(Please write your Enrollment Number) 
+Enrollment No. 
+ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. ) (Semester : 8th  ) 
+(March, 2025) OFF LINE mode 
+ 
+Time : 1 ½Hours 
+Maximum Marks : 30 
+ 
+ 
+Q1 
+ 
+(2.5*4) 
+ 
+ 
+(a) Differentiate between classical computing, supercomputing and 
+quantum computing. 
+UNIT-1 
+CO1 
+ 
+(b) Consider the state |ψ> = 0.8 |0> - 0.4 |1>. What is the probability of 
+finding this state in state |0> and |1> respectively upon measurement. Is 
+this qubit a valid state? Justify 
+UNIT-1 
+ 
+(c) Explain in detail the Bloch sphere with proper equations and diagram? 
+Differentiate between pure quantum state and mixed state. 
+UNIT-2 
+CO2 
+ 
+(d) What do you understand by the term Hermitian conjugate? Explain 
+with an example 
+UNIT-2 
+ 
+ 
+Q2 
+(Attempt any Two Parts )     UNIT-1 (CO1) 
+(5,5) 
+ 
+(a) Given a basis set {|a>,|b>,|c>} in C3 Hilbert space. A quantum state is defined as |𝜓⟩=
+1
+√4 |𝑎⟩−𝑖√5
+√12 |𝑏⟩+
+1
+√3 |𝑐⟩ . Is this state Normalized? 
+(b) If a measurement is made, find the probability of finding the arbitrary state in state |b>. 
+ 
+(b) Explain the concept of eigenvalues and eigenvectors in quantum computing with 
+derivations and relevant examples. 
+ 
+(c) What are the different types of operators defined in quantum computing? Give necessary 
+explanation to uniquely identify Unitary operator with example. 
+ 
+Q3 
+  (Attempt any Two Parts )     UNIT-2 (CO2) 
+(5,5) 
+ 
+(a) What are quantum gates, give mathematical explanation and how do they alter the state of 
+a qubit in quantum computing? Explain the function of the Pauli gates on a qubit states {|0> 
+and |1>} . 
+ 
+(b) Describe the principles of quantum mechanics used to govern the quantum computation. 
+ 
+(C) How can you physically realize bits and qubits? What do you understand by the terms basis 
+and dimensions. Give mathematical proof of the change of computational basis from one basis 
+set to other. 
+ 
+Note: Q. 1 is compulsory.  
+Subject: Quantum Computing 
+Subject Code: BCS 410

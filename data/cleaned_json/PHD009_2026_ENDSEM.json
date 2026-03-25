@@ -1,0 +1,189 @@
+{
+  "paper_id": "PHD009_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD009",
+    "subject_name": "Linear Programming Problems",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "s.t., 0 , , 2 , 0 ,3 3 2 ,3 2 1 1 2 1 2 1 2 1          x x x x x x x x x . 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Compute all the basic feasible solutions of the system of linear equations 4𝑥1 + 2𝑥2 + 𝑥3 = 7 −𝑥1 + 4𝑥2 + 2𝑥3 = 14 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Write the dual of the problem: 3 2 1 x x 2 x z Max    , 0 , 0 , 2 2 ,1 , 2 ., . 2 1 3 2 1 3 2 1 3 2 1            x x x x x x x x x x x t s 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Write a short note on two phase method. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "What is an Integer Programming Problem? Explain its various types. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "In a Branch and Bound tree, a node gives a solution x1 = 2.5, x2 =3 with optimal value 22. List the two sub-problems formed by branching x1. Also, define fathomed node. 2.5",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Define a balanced transportation problem. Using the North-West Corner Rule, find the initial basic feasible solution for the following transportation problem: D1 D2 Supply S1 4 3 10 S2 2 1 15 S3 1 5 25 Demand 25 25",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Solve the following game A\\B I II III I 6 8 6 II 4 12 2 2.5",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "XYZ company during the financial season combines two items A and B to form gift packs. Each pack must weigh 5 kg and should contain at least 2 kg of A and not more than 4 kg of B. The net contribution to the company is Rs. 10 per kg of A and Rs. 12 per kg of B. The company wants to determine the optimum mix. Formulate the above as a linear programming problem to maximize net contribution per pack and solve the same using the appropriate method.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Show that the following problem and its dual are infeasible. 0 x , x , 1 x 2 x 4 , 2 x x 2 t/ s , x 6 x 8 z Max 2 1 2 1 2 1 2 1        ",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Use the simplex method to show that the following problem has unbounded solution: Max 0 , , , 0 ,3 4 3 .. , 3 2 1 3 2 1 2 1 2 1          x x x x x x x x t s x x z .",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Write a short note on degeneracy in Linear programming problem.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "How much 𝑐2 be varied without affecting the optimal solution? Find the optimum solution when 𝑐2 = 1",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Find the range on 𝜆 for which the given basis is still optimal if the original vector b is replaced by 𝒃+ 𝝀𝒃∗ where 𝒃∗= [ 1 −1] and −∞< 𝜆< ∞. Also find the optimal solution when 𝜆= 1 2 formed the initial basis).",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Find the optimal solution when a new constraint 𝑥1 + 𝑥2 ≥2 is added to the original problem. 𝑐𝑗 2 3 1 0 0 Basis 𝑥1 𝑥2 𝑥3 𝑥4 𝑥5 Constants 𝑥1 1 0 -1 3 -1 1 𝑥2 0 1 2 -1 1 2 𝑧𝑗−𝑐𝑗 0 0 3 3 1 Z=8",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What conclusion can you draw from the tableau.",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "Update the table if b is changed to 𝑡 , what do you infer now?",
+          "marks": null
+        },
+        {
+          "subpart_id": "c",
+          "text": "Identify the redundant constraint and hence find the new optimal basic feasible solution of the reduced problem?",
+          "marks": null
+        },
+        {
+          "subpart_id": "d",
+          "text": "Does the addition of the constraint 𝑥1 + 𝑥2 = 3 in the reduced problem affects the solution? If yes, then find the optimal basic feasible solution.",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Solve the following integer linear programming problem graphically using branch and bound method. Draw tree with proper branch constraint, node with basic feasible solution space and value of objective function z & decision variables . 1 2 1 2 1 2 1 2 Min 3 4 . . 3 12; 3 11 66 , 0 integer z x x s t x x x x x x and         10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Solve the following Integer Programming Problem using Gomory’s cutting plane algorithm 𝑀𝑎𝑥 𝑍= 2𝑥1 + 3𝑥2 Subject to 𝑥1 + 3𝑥2 ≤9 3𝑥1 + 𝑥2 ≤7 𝑥1 − 𝑥2 ≤1 𝑥1 , 𝑥2 ≥0 and integers 10",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Solve the following transportation problem by VAM and check optimality by MODI method. Give the alternate optimal solution if it exists. There are five persons and five jobs. The cost of performing different jobs by different persons are given in the following table. Find an assignment to minimize total cost. 1 2 3 4 5 1 5 3 4 7 1 2 2 3 7 6 5 3 4 1 5 2 4 4 3 8 1 2 3 5 4 2 5 7 1 Warehouse Factories I II III Availability A 11 13 18 250 B 10 9 5 300 C 12 8 14 150 Requir ements 200 225 275",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Attempt all parts.",
+      "marks": null,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Find initial BFS by VAM and check optimality by MODI method To From I II III Availability A 2 7 4 5 B 3 3 7 8 C 5 4 1 7 D 1 6 2 14 Requirements 7 9 18",
+          "marks": null
+        },
+        {
+          "subpart_id": "b",
+          "text": "The pay-off matrix for A in a two person zero-sum game is given below. Determine the value of the game and the optimal strategies for both players A\\B I II III I -1 2 1 II 1 -2 2 III 3 4 -3",
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

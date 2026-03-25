@@ -1,0 +1,75 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester:  2 ) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 104 
+Subject: Network Analysis and Synthesis 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+ 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Define Kirchhoff’s current and voltage law.  
+CO1 
+ 
+b) Find the equivalent resistance between the terminal A and B. 
+ 
+CO2 
+ 
+c) Define initial value and final value theorem. 
+CO2 
+ 
+d) Define unit step, unit ramp and unit impulse signals. 
+CO1 
+UNIT I 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Derive expression for conversion of resistive delta network to resistive star 
+network. 
+CO2 
+ 
+b) Define Maximum Power transfer theorem. What value of resistance R may 
+be connected in the below circuit so that Maximum Power transfer takes 
+place through it? Obtain the value of maximum power transferred. 
+ 
+CO3 
+ 
+c) Find the value of current flowing in the resistance 100 Ohm (R3)? 
+ 
+CO3 
+UNIT II 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) For the circuit shown below the switch is at S1 and it achieved steady state. 
+Now at t=0, the switch is moved to position S2, derive the expression of current 
+flowing in the circuit.  
+ 
+CO2 
+ 
+b) In the network shown in figure below, the switch K is moved from position ‘b’ 
+to ‘a’ at t=0. Find the Particular solution for Current i(t). 
+ 
+CO2 
+ 
+d) In the circuit shown in figure below, V=10V, R=10Ω, L=1H. C=10µFand 
+Vc(0)=0. Find the value of 𝑖(0+),  
+𝑑𝑖(0+)
+𝑑𝑡 and 
+𝑑𝑖2(0+)
+𝑑𝑡2 . 
+ 
+CO2

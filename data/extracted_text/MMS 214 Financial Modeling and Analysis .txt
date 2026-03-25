@@ -1,0 +1,122 @@
+(Please write your Enrollment Number)                    Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<MBA>, Semester:<4> 
+(May 2025) 
+ 
+Subject Code: MMS 214 
+Subject: Financial Modeling and Analysis 
+Time :3 Hours 
+Maximum Marks: 60 
+ 
+Note: Q1 is compulsory. Attempt one question each from Units I, II, III & IV. 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) What are the key principles of financial modeling? 
+ 
+CO1 
+ 
+b) Define financial modeling. How is it different from traditional 
+accounting? 
+ 
+CO1 
+ 
+c) Differentiate between deterministic and stochastic models. 
+ 
+CO2 
+ 
+d) What is a stochastic error term, and why is it important? 
+ 
+CO2 
+ 
+e) Why is hypothesis testing important in regression models? 
+ 
+CO3 
+ 
+f) What does the Mean Squared Error (MSE) indicate in forecasting? 
+ 
+CO3 
+ 
+g) What is an Error Correction Model (ECM)? 
+ 
+CO4 
+ 
+h) Explain the difference between ARCH and GARCH models. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+a) Write down the steps used to apply goal seek in excel with 
+example. 
+b) ABC corporation has a stock price PO=50. 
+The firm has just paid a divided (DO) of Rs.3/- per share, and 
+shareholders think that this dividend win grow by a rate of 5% 
+per year. 
+ 
+Use the Gordon dividend Model to calculate the cost of equity of 
+ABC. 
+(10) 
+CO1 
+Q3 
+Compare and contrast different modeling practices and principles in 
+financial decision-making. How do they impact business strategies? 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Many financial models assume that estimators are unbiased and 
+efficient. However, in real-world data, these assumptions often fail. How 
+would you adjust financial models to account for these deviations? 
+(10) 
+CO2 
+Q5 
+The mean score of 64 mentally challenged students in a test was found 
+to be 67.5.  It is known that the population is normally distributed with a 
+variance of 9.  Test the hypothesis that the mean score is 69.5 at the 0.01 
+level of significance. 
+ 
+Value of z test of alpha 0.01 
+One tail: 2.33, - 2.33 
+Two tail: 2.58 – 2.58. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+If you were tasked with creating a new forecasting method that 
+surpasses the accuracy of traditional regression models, what new 
+techniques or hybrid approaches would you propose? 
+(10) 
+CO3 
+Q7 
+A company’s stock price regression model shows a high R-squared value, 
+but investors continue to make losses based on its predictions. What 
+potential flaws could be causing this discrepancy? Support your answer 
+with proper justification. 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Given that financial markets are often influenced by sudden, 
+unpredictable events (such as political upheaval or technological 
+disruption), is it even possible to build a genuinely reliable time series 
+model? Why or why not? 
+(10) 
+CO4 
+Q9 
+Explain the following in brief (Any 2) 
+a) ARCH Model 
+b) AR Model 
+c) GARCH Model 
+(10) 
+CO4

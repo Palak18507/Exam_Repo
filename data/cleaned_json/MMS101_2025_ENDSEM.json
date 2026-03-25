@@ -1,0 +1,120 @@
+{
+  "paper_id": "MMS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "MMS101",
+    "subject_name": "Management Process and Organisational Behaviour",
+    "semester": 1,
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Imagine you are designing an organizational structure for a technology company. What key elements would you consider?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How can a manager use group dynamics to improve team performance?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Explain how managerial ethos contributes to effective leadership.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "Why is planning considered the foundation of management activities?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "John is a project manager at a tech company. He thrives in high-pressure situations and constantly seeks to take on more work, often working overtime. He is highly competitive, constantly pushing himself and his team to meet tight deadlines, and rarely takes time for relaxation. John has a hard time delegating tasks and prefers to do everything himself to ensure perfection. However, this sometimes leads to him becoming stressed and occasionally irritable when things don’t go according to plan. Identify and briefly explain the personality type or trait displayed by John.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "Discuss how values and attitudes influence an individual’s behavior in the workplace. Provide an example to illustrate how these factors can impact decision-making or teamwork.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "Explain the difference between programmed and non-programmed decisions in management. Provide an example of each type of decision in a business context.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "Explain the concept of organizational change. How does it differ from organizational development? Illustrate with an example.",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "You are hired as a manager in a manufacturing company. How would you apply classical and modern management approaches to improve efficiency and employee morale?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "”Management is both an art and a science.” Analyze this statement with suitable examples from managerial practices.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the six key elements of organizational design. How would you apply these elements to create an effective structure for a rapidly growing e-commerce company?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "Budgetary and non-budgetary control techniques play a critical role in organizational success. Discuss their importance and give examples of how these techniques are used in financial planning? ,",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "Riya, a software developer in your company, has been underperforming recently. After a discussion, you realize that her lack of motivation stems from feeling stuck in her role with no opportunities for growth or advancement. She mentioned that while she values the salary and job security, her desire for personal development and recognition is unmet. Identify and explain the most appropriate motivation theory to analyze Riya’s situation. Explain how this theory applies to her case and suggest specific actions you would take to motivate her based on this framework.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "You are managing a team where interpersonal dynamics have led to constant conflicts between team members. How would you apply your understanding of group dynamics and conflict management techniques to resolve the conflicts and improve team cohesion?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "An organization is facing challenges with employee stress as a result of the rapid pace of change and uncertainty in the workplace. Evaluate the causes of stress in this scenario and analyze the steps that management can take to reduce stress and support employees through the change process.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain the relationship between organizational culture and organizational change. How can an organization’s culture act as a barrier or facilitator during a change process? Provide examples from real-world organizations to support your answer.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

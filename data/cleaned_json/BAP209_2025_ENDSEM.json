@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAP209_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP209",
+    "subject_name": "Structure III",
+    "program": "<B.Arch.>",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Write short note on Bending Equation in Beam. What are merits & demerits of steel roof trusses? Write short note on Moment Area Method. Write short note on Conjugate Beam Method? What is bending moment of simply supported beam with point load & uniformly distributed load. Explain wind forces acting of steel roof trusses. What is asymmetrical section of a Beam? Define shear force and shear force diagram",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Draw structural framing of industrial building.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Explain analysis of truss by method of joints.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "Explain bending stress in beams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Explain shear stress distribution in sections.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Calculate moment of resistance of steel beam having span = 8m and UDL = 40Kn/m Adopt allowable bending stress = 165 N/mm2. Modulus of section = 3060 cm3",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "Check steel beam ISMB600 for shear having span 6m and point load at centre 50 KN. Web thickness = 10.5 mm. Draw B.M & shear forces diagrams.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Explain Double Integration method of calculation of deflection in beams. Draw neat sketch to support your answer.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Calculate and check deflection of simply supported beam having span 7m and udl = 50Kn/m. Modulus elasticity E = 200000 N/mm2. Moment of Inertia Ixx = 728670000 mm4.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

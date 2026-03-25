@@ -1,0 +1,79 @@
+{
+  "paper_id": "BAS101_2025_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "BAS101",
+    "subject_name": "APPLIED MATHEMATICS-I",
+    "program": "<B.Tech. >",
+    "academic_year": "2024-2025",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "CO Mapping Find the characteristic polynomial and eigen values of the matrix 𝐴= [ 5 −6 −6 −1 4 2 3 6 −4 ] Determine the rank of the matrix using elementary row operations 𝐴= [ 1 1 −1 2 −3 4 2 −2 3 ] Find the approximate value of √[2 + 2 + 2] Use the Limit Comparison Test to determine the convergence or divergence of the series ∑ 𝑛3 + 2𝑛 𝑛4 + 3𝑛2 + 1 ∞ 𝑛=1 Find the 𝑛𝑡ℎderivative of 1 2𝑥+ 3 Test the continuity of the function 𝑓 = { 𝑥2 −𝑦2 𝑥2 + 𝑦2 𝑖𝑓 ≠0 0 𝑖𝑓 = 0 at the point Evaluate ∬ 𝑥𝑦 √1−𝑦2 𝑅 𝑑𝑥 𝑑𝑦 over the region in the first quadrant of the circle 𝑥2 + 𝑦2 = 1 Evaluate the double integral ∬𝑒𝑥+3𝑦 𝑑𝐴 over the region 𝑅 bounded by the graphs of 𝑦= 1, 𝑦= 2, 𝑦= 𝑥 and 𝑦= −𝑥+ 5. CO Mapping",
+      "marks": 20.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q2",
+      "unit": null,
+      "question_text": "Check the linear dependence and independence of the vectors [1, 4, 1,-2], [-1, 1, 1, -1], [3, 2, -1, 0], [2, 3, 0, -1] and find the relation between them, if it exists. Solve the system of linear equations using Gauss Jordon Method 𝑥+ 2𝑦+ 3𝑧= 6 2𝑥−3𝑦+ 2𝑧= 14 3𝑥+ 𝑦−𝑧= −2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": null,
+      "question_text": "Find the diagonal form of the matrix 𝐴 and its corresponding eigenvalues and eigenvectors 𝐴= [4 1 2 3] Show that if 𝐴 and 𝐵 are two non-singular matrices of the same order then −1 = 𝐵−1𝐴−1. Also verify it for 𝐴= [ 1 1 2 1 9 3 1 4 2 ] and 𝐵= [ 1 2 0 2 3 −1 1 −1 3 ] CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": null,
+      "question_text": "State and explain the Ratio Test for convergence. Use the Ratio Test to determine the convergence or divergence of the series ∑3𝑛 𝑛! ∞ 𝑛=1 If 𝑦= tan−1 𝑥, prove that 𝑦𝑛+2 + 2𝑥𝑦𝑛+1 + 𝑛𝑦𝑛= 0.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": null,
+      "question_text": "Define an absolutely convergent series. Prove that the series ∑cos 𝑛𝑥 𝑛2 ∞ 𝑛=1 is absolutely convergent. ∑ 2.4.6… 3.5.7… ∞ 𝑛=1 𝑥 CO Mapping",
+      "marks": null,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": null,
+      "question_text": "Check for limit and continuity of the function at point 𝑓 = { 𝑥3 −𝑦3 𝑥+ 𝑦 𝑖𝑓 𝑥+ 𝑦≠0 0 𝑖𝑓 𝑥+ 𝑦= 0 Trace the curve 𝑥𝑦2 = 4𝑎2",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": null,
+      "question_text": "State Euler’s theorem. If 𝑢= log , then prove that 𝑥𝜕𝑢 𝜕𝑥+ 𝑦𝜕𝑢 𝜕𝑦= 1. Discuss the extreme values of 𝑓 = 𝑥3 + 𝑦3 −3𝑎𝑥𝑦. CO Mapping",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": null,
+      "question_text": "Evaluate the integral ∫∫ 1 √9 −𝑥2 −𝑦2 𝑑𝑥 𝑑𝑦 √4−𝑦2 0 2 0 by changing to polar coordinates. Find the volume of the tetrahedron with vertices , , , and .",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": null,
+      "question_text": "Find the area bounded by the parabola𝑦2 = 4𝑎𝑥 and its latus rectum Evaluate ∫ 𝑦2 3 𝑦=1 𝑑𝑦∫ 𝑥 2 𝑥=0 𝑑𝑥∫ 𝑧 𝑑𝑧 2 𝑧=1",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

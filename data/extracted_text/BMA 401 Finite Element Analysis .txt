@@ -1,0 +1,150 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Tech.>, Semester:<VII> 
+(December, 2024) 
+ 
+Subject Code: BMA-401 
+Subject: Finite Element Analysis 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it.  
+ 
+Q1 
+Answer the following briefly: 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) State the principle of minimum potential energy in detail. 
+ 
+CO1 
+ 
+b) Explain element stiffness matrix. 
+ 
+CO1 
+ 
+c) Explain isoparametric formulation. 
+ 
+CO2 
+ 
+d) Write the expression for cubic shape functions with explanation. 
+ 
+CO2 
+ 
+e) What is sub-parametric element? Explain with the help of an 
+example. 
+ 
+CO3 
+ 
+f) What are scalar field problems? Give one example. 
+ 
+CO3 
+ 
+g) Difference between lumped and consistent mass matrices 
+ 
+CO4 
+ 
+h) Explain the plane frame. 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+ 
+(5,5) 
+ 
+ 
+a) Write the steps to solve an engineering problem using Finite 
+Element Analysis. 
+ 
+ 
+ 
+b) Determine the displacements of nodes of the spring system shown 
+in Fig. 1 
+ 
+Fig. 1 
+ 
+ 
+Q3 
+ 
+(5,5) 
+ 
+ 
+a) With the help of an example, discuss briefly the Rayleigh Ritz 
+method used in finite element formulation. 
+ 
+ 
+ 
+b) Determine the displacements of nodes of the spring system as 
+shown in Fig. 2. 
+ 
+Fig. 2 
+ 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Consider the bar shown in Fig. 3. Determine the nodal displacements, 
+element stresses, and support reactions.  
+(10) 
+ 
+60 N/mm
+50 N/mm
+75 N/mm
+ 
+Fig. 3 
+Q5 
+Consider the bar shown in Fig. 4. An axial load P = 200 kN is applied as 
+shown. Determine the nodal displacements, stress in each material 
+and reaction forces. 
+ 
+Fig. 4 
+(10) 
+ 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+A composite wall consists of three materials, as shown in Fig. 5. The 
+outer temperature is T0 =200C. Convection heat transfer takes place 
+on the inner surface of the wall with T = 8000C and h= 25 W/m2.°C. 
+Determine the temperature distribution in the wall. 
+ 
+Fig. 5 
+(10) 
+ 
+Q7 
+Write the shape functions for the following: 
+a) 6-noded triangle 
+b) 8-noded quadrilateral 
+(10) 
+ 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+A three-span beam is shown in Fig. 6. Given E=200 GPa, I=500x104 
+mm4. Determine: 
+(a) slope at B, C, D and E and  
+(b) vertical deflection at B and at the mid-point of the distributed 
+load.  
+ 
+Fig. 6 
+(10) 
+ 
+Q9 
+With the help of suitable example, discuss how dynamic analysis is 
+done using finite element formulation  
+(10) 
+ 
+ 
+200 mm
+300 mm
+1800 mm2
+1200 mm2

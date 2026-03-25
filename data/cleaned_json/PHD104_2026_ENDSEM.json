@@ -1,0 +1,99 @@
+{
+  "paper_id": "PHD104_2026_ENDSEM",
+  "paper_metadata": {
+    "subject_code": "PHD104",
+    "subject_name": "Academic Writing",
+    "academic_year": "2025-2026",
+    "exam_type": "EndSem",
+    "exam_name": "End-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What is the difference between academic and research writing? 5 C01",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Explain author metrics and their significance in research evaluation. 5 C02",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "c",
+          "text": "What are literature management tools? Give examples. 5 C03",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "d",
+          "text": "List three major challenges in Indian academic writing. 5 C04",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "You are tasked with writing a research article in your field. How would you ensure your writing aligns with academic style? C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Your professor asks you to review a poorly written research report. How will you apply the rules of academic writing to improve it? C01",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Suppose you are reviewing a thesis and detect signs of plagiarism. How would you use tools to confirm and address the issue? C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "As a researcher aiming to publish in a reputed journal, how would journal metrics guide your journal selection? C02",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "While writing a review paper, how will you make use of citation management tools like Mendeley or Zotero? C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "You have to write a literature review for your dissertation. How would you go about identifying relevant literature and organizing your review? C03",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Suppose you are collaborating with peers for an empirical study. How would you manage your time and team efficiently? C04",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Draft a one-page research proposal for a study on “Digital Education and Rural Students in India.” C04",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

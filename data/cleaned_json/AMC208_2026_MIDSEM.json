@@ -1,0 +1,59 @@
+{
+  "paper_id": "AMC208_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "AMC208",
+    "subject_name": "Disaster Management",
+    "program": "BBA",
+    "semester": 3,
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Resilience in Disaster Management",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Risk Assessment",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define Avalanche",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "What is Biological Weapon",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt any two parts What is the goal of disaster management? What is the difference between hazard and disaster? Explain with examples Analyze the factors that affects vulnerability",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt any two parts What is ‘Cyclone’? Discuss few points of preparedness for disaster management of earthquake. Discuss the event of ‘Sumatra Tsunami’ and also discuss the lesson learnt from this event. How disaster impact the development activities in the society",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

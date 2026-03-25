@@ -1,0 +1,79 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<M.Tech>, Semester:<1> 
+(December, 2024) 
+ 
+Subject Code: MIS 107 
+Subject: Cyber Security and Forensics 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+ 
+a) Explain Computer Security Incident with examples. 
+ 
+ 
+b) Differentiate between posturing, tactical, and strategic. 
+ 
+ 
+c) What are the key objectives of live data collection in Windows forensics? 
+ 
+ 
+d) List two tools used for data acquisition in digital forensics and briefly explain 
+their purpose. 
+ 
+ 
+e) Define Digital Evidence and provide two examples. 
+ 
+ 
+f) What is the primary goal of validating forensic data? 
+ 
+ 
+g) Explain the Indian IT Act. 
+ 
+ 
+h) Explain Email Forensics. 
+ 
+UNIT I 
+ 
+Q2 
+What is Incident Response? Explain the Incident Response Process.  
+(10) 
+Q3 
+What is Cybersecurity? Explain the various types of cybercrimes.  
+(10) 
+UNIT II 
+ 
+Q4 
+Discuss the steps for preserving and collecting digital evidence from electronic 
+media while maintaining its integrity. 
+(10) 
+Q5 
+Compare the methodologies of live data collection in Windows and Unix systems, 
+emphasizing the challenges and tools used for each. 
+(10) 
+UNIT III 
+ 
+Q6 
+Explain the methodologies of Network Forensics and their applications in detecting 
+cybercrime. 
+(10) 
+Q7 
+What is Information Warfare, and how does it differ from traditional warfare? 
+Discuss its arsenal and tactics. 
+(10) 
+UNIT IV 
+ 
+Q8 
+What is messenger analysis? Discuss its role in forensic investigations involving 
+instant messaging platforms. 
+(10) 
+Q9 
+Explain the various Software and Hardware Computer forensic tools. 
+(10)

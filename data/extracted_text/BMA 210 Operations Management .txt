@@ -1,0 +1,185 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Sem: 4 
+(May, 2025) 
+ 
+Subject Code: BMA 210 
+Subject: Operations Management 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. Assume suitably 
+missing data if any and highlight it. 
+ 
+Q1 
+Answer the following questions 
+(2.5*8=20) 
+CO Mapping 
+a 
+List five principles of management. 
+ 
+CO1 
+b 
+What is the difference between partial productivity and total factor 
+productivity? 
+ 
+CO1 
+c 
+Differentiate between prediction and forecasting. 
+ 
+CO2 
+d 
+What are therbligs used for? Explain any one therblig. 
+ 
+CO2 
+e 
+What is material requirement planning? 
+ 
+CO3 
+f 
+What is the purpose of safety stock? 
+ 
+CO3 
+g 
+What are the advantages of ABC analysis in case of selective control of 
+inventories? 
+ 
+CO4 
+h 
+What is the need of industrial maintenance?  
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Discuss briefly different types of Plant Layout along with their 
+applications. 
+ 
+CO1 
+Q3 
+Discuss briefly different types of Organization structures. List the 
+advantages, limitations of each. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+The following data refers to the study conducted for an operation. 
+Table 1 shows actual time for elements in minutes: 
+Table 1 
+Cycle elements 
+1 
+2 
+3 
+4 
+5 
+1 
+2.5 
+2.1 
+2.2 
+5.4 
+2.5 
+2 
+6.2 
+6.0 
+6.1 
+5.9 
+5.9 
+3 
+2.3 
+2.0 
+2.1 
+2.1 
+2.2 
+4 
+2.4 
+2.1 
+2.8 
+3.0 
+2.3 
+ 
+(i) Element 2 is a machine element. 
+(ii) Consider the observations as abnormal and delete the same if they 
+are more than 2 % of average time of that element. 
+(iii) Take performances rating as 120. 
+(iv) Take personal allowance of 30 minutes in a shift of 8 hours. 
+(v) Other allowances: Fatigue allowance-15%, contingency allowance -
+2%.  
+Determine the following: 
+(a) Normal time 
+(b) Standard time of operation and  
+(c) production (no. of jobs produced) per 8 hours shift. 
+(10) 
+CO2 
+Q5 
+The data given in Table 2 refers to the past sales of production unit for 
+last ten years. Forecast the demand for the next three years using least 
+square method. 
+Table 2 
+Year 
+Sales (in thousands) 
+2015 
+40 
+2016 
+43 
+2017 
+47 
+2018 
+49 
+2019 
+52 
+2020 
+56 
+2021 
+58 
+2022 
+60 
+2023 
+65 
+2024 
+68 
+ 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+(a) The annual demand for a particular part is 10,000 units. The 
+cost per unit is Rs. 2 and it costs Rs. 36 to place an order and to 
+process the delivery. The inventory carrying cost is estimated 
+at 9 per cent of average inventory investment. Determine  
+(i) 
+Economic order quantity  
+(ii) 
+Optimum number of orders to be placed per annum 
+(iii) 
+Minimum total cost of inventory per annum 
+(6) 
+CO3 
+ 
+(b) Discuss briefly the factors influencing make or buy decision. 
+(4) 
+ 
+Q7 
+Explain briefly the different costs associated with production. Why is it 
+necessary to analyze production costs? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Discuss briefly different types of maintenance used in industry. 
+Differentiate between preventive and breakdown maintenance.  
+(10) 
+CO4 
+Q9 
+Write short notes on: 
+(a) Failure analysis 
+(b) Organization for maintenance department 
+(10) 
+CO4

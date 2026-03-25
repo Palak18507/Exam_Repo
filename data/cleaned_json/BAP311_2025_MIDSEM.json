@@ -1,0 +1,120 @@
+{
+  "paper_id": "BAP311_2025_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "BAP311",
+    "subject_name": "Building Services -III(HVAC",
+    "program": "B.Arch.",
+    "academic_year": "2024-2025",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "3 Hours",
+    "max_marks": 60
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 20.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "What does the Wall–to–Window Ratio mean?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "How does the wall insulation affect the overall energy performance of the building?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "What is mechanical ventilation, and why is it necessary in modern buildings?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "d",
+          "text": "How does an exhaust ventilation system improve IAQ in the building?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "e",
+          "text": "Write four main components in the Airconditioning.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "f",
+          "text": "In what type of climate air coolers are most effective?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "g",
+          "text": "What is Demand Base Ventilation?",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "h",
+          "text": "What is solar-based Air conditioning?",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "What is a psychometric chart? Explain various terms in a psychometric chart with a sketch.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT I",
+      "question_text": "Explain the relationship between the building envelope and the air-conditioning system.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q4",
+      "unit": "UNIT II",
+      "question_text": "Explain the primary methods of air conditioning used in buildings. Additionally, highlight the differences between a Split Air Conditioner and a Central Air Conditioning System.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q5",
+      "unit": "UNIT II",
+      "question_text": "How does Delhi's poor outdoor air quality affect indoor air cleanliness? What types of air filtration systems and equipment can help mitigate these effects and improve indoor air quality effectively?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q6",
+      "unit": "UNIT III",
+      "question_text": "What is an Air Handling Unit , and what role does it play in an HVAC system? List the main components of an AHU and briefly describe the function of each component.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q7",
+      "unit": "UNIT III",
+      "question_text": "Discuss the challenges of incorporating duct systems with other building services, such as electrical conduits, plumbing, and fire suppression systems.",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q8",
+      "unit": "UNIT IV",
+      "question_text": "Define direct evaporative cooling and indirect evaporative cooling. How do they differ in terms of process and application?",
+      "marks": 10.0,
+      "subparts": []
+    },
+    {
+      "question_id": "Q9",
+      "unit": "UNIT IV",
+      "question_text": "Explain with a neat diagram how a vapour absorption refrigeration system operates using the water-ammonia pair.",
+      "marks": 10.0,
+      "subparts": []
+    }
+  ]
+}

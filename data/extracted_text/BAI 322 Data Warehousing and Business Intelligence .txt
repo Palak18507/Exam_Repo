@@ -1,0 +1,117 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech, Semester: 6 
+(May, 2025) 
+ 
+Subject Code: BAI 322 
+Subject: Data Warehousing and Business Intelligence 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Differentiate between a database system and a data warehouse. 
+ 
+CO1 
+ 
+b) What is ETL? Explain each component. 
+ 
+CO1 
+ 
+c) Define star schema with an example. 
+ 
+CO2 
+ 
+d) What is OLAP? List its types and key characteristics. 
+ 
+CO2 
+ 
+e) Define data mining and explain the role of KDD. 
+ 
+CO3 
+ 
+f) Discuss the importance of data mining in business decision-making. 
+ 
+CO3 
+ 
+g) Write a short note on outlier analysis. 
+ 
+CO4 
+ 
+h) What are the benefits of using association rule mining? 
+ 
+CO4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain the architecture of a data warehouse. Discuss the three-tier 
+architecture and the role of metadata in detail. 
+(10) 
+CO1 
+Q3 
+Discuss data pre-processing in detail. Explain data cleaning and data 
+transformation with suitable examples. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Define dimensional modeling. Explain STAR, Snowflake, and Fact 
+Constellation schemas with appropriate diagrams. 
+(10) 
+CO2 
+Q5 
+What are OLAP operations? Describe with suitable examples: drill-
+down, roll-up, slice, dice, and pivot. 
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Differentiate classification and prediction in data mining. How does 
+decision tree induction work? Illustrate with an example. 
+(10) 
+CO3 
+Q7 
+What is KNN algorithm? Explain its working and use cases. Compare it 
+with Decision Tree classification. 
+(10) 
+CO3 
+ 
+ 
+CO Mapping 
+Q8 
+What is clustering in data mining? Explain the K-Means algorithm with 
+an example. Mention its limitations. 
+(10) 
+CO4 
+Q9 
+What will be the association rules using Apriori Algorithm: 
+Given the following transactions: 
+TID 
+Items 
+T1 
+A, B, C 
+T2 
+A, C 
+T3 
+A, D 
+T4 
+B, E 
+T5 
+A, B, C, E 
+T6 
+B, C 
+Support : 50% 
+Confidence: 75% 
+(10) 
+CO4

@@ -1,0 +1,206 @@
+1 
+ 
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.TECH, Semester: 3 
+(December, 2024) 
+ 
+Subject Code: BAS 205 
+Subject: Numerical Techniques for Engineers  
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO Mapping 
+ 
+a) Perform three iterations of Newton’s Raphson method with 
+initial iteration 𝑥0 = 2.1  to obtain the approximate root of 
+the equation  𝑒𝑥−4𝑥= 0. 
+ 
+1 
+ 
+b) Find the absolute error of the number 𝑋= 0.00545828 when  
+(i) 
+Truncated to three decimal digits 
+(ii) 
+Rounded off to three decimal digits 
+ 
+1 
+ 
+c) Find the condition number of the system  
+[2.1
+1.8
+6.2
+5.3] [𝑥1
+𝑥2] = [2.1
+6.2] 
+Using the Spectral norm. 
+(Note: Spectral norm is defined as ‖𝐴‖ = √𝜆 , where 𝜆=
+𝜌(𝐴∗𝐴),  𝜌 denotes spectral radius and 𝐴∗ denotes conjugate 
+transpose of 𝐴). 
+ 
+2 
+ 
+d) Obtain the LU decomposition of the matrix 
+[
+3
+2
+1
+1
+2
+3
+3
+2
+1
+] 
+ 
+2 
+ 
+e) Find the Newton’s divided difference interpolating polynomial 
+of degree atmost 2 such that 𝑓(0) = 1, 𝑓(1) = 3, 𝑓(3) = 55. 
+ 
+3 
+ 
+f) Obtain the forward difference interpolation polynomial for 
+the following data: 
+𝑥 
+0 
+1 
+2 
+3 
+𝑓(𝑥) 
+1 
+2 
+1 
+10 
+Hence find 𝑓(0.5). 
+ 
+3 
+ 
+g) Obtain the approximate value of 𝑦(1.2) for the IVP  
+𝑦′ = −2𝑥𝑦2,
+𝑦(1) = 1 
+Using Euler’s method with step size ℎ= 0.1 
+ 
+4 
+ 
+h) Solve the IVP 𝑦′ = 𝑥(𝑦−𝑥), 𝑦(2) = 3 in the interval [2,2.4] 
+using Runge-Kutta fourth order method with the step size ℎ=
+0.2 
+ 
+4 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Define order of convergence. Derive the order of convergence of 
+Secant method. Perform four iterations of the secant method to 
+obtain the smallest positive root of 𝑓(𝑥) = 𝑥3 −5𝑥+ 1 = 0. 
+(10) 
+1 
+Q3 
+The equation 𝑓(𝑥) = 𝑥3 −𝑥2 + 16𝑥−12 = 0 has a double root at 
+𝑥= 2. Starting with the initial approximation 𝑥0 = 1, find the root 
+correct to 3 decimal places using the General Newton-Raphson 
+method with multiplicity 2. Conclude that the Generalized newton 
+method converges more rapidly than the Newton Method. 
+ 
+(10) 
+1 
+2 
+ 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Consider the following system of linear equations 
+𝑥1 −3𝑥2 + 𝑥3 = 5 
+𝑥1 + 2𝑥2 + 4𝑥3 = 7 
+3𝑥1 −𝑥2 + 𝑥3 = 5 
+(i) 
+Perform 5 iterations of the Gauss Seidel iterative method 
+with initial approximation [0, 0, 0], show that the method 
+is diverging for the given system. 
+(ii) 
+State the sufficient convergence condition for the Gauss 
+Seidel iterative method. Rearrange the equations such 
+that the system satisfies the convergence condition. 
+ 
+(6+4) 
+2 
+Q5 
+Find the largest eigenvalue in modulus and the corresponding 
+eigenvector of the matrix 
+[
+−15
+4
+3
+10
+−12
+6
+20
+−4
+2
+] 
+Using Power method with initial vector [1, 1, 1]𝑇. Round off the 
+largest eigenvalue in modulus to 3 digits.  
+(10) 
+2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+From an equally spaced table of the function sin(x) with spacing h = 
+0.1, we have following data set 
+𝑥 
+0.1 
+0.2 
+0.3 
+sin 𝑥 
+0.0998334 
+0.198669 
+0.295520 
+Compute the value of sin(x) at x = 0.123 using Lagrange interpolating 
+method. Also, compute the error bound. 
+ 
+(10) 
+3 
+Q7 
+Evaluate the approximate value of the integral 𝐼= ∫
+1
+1+𝑥
+1
+0
+𝑑𝑥 using  
+(a)Trapezoidal rule 
+(b) Simpson’s 1/3rd rule 
+(c ) Gauss-Legendre 3-point quadrature rule.  
+Compare with the exact solution 𝐼= 𝑙𝑛(2) = 0.693147 
+(10) 
+3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Perform four iterations of Picard method to solve the following IVP 
+𝑑𝑦
+𝑑𝑥= 𝑥+ 𝑦, 𝑦(0) = 1. Hence compute the value of 𝑦(0.1). 
+ 
+(10) 
+4 
+Q9 
+Use fourth Runge–Kutta method to find the values of y(0.2) and z(0.2) 
+for the following system of first order ODEs. Use step size h = 0.1. 
+𝑑𝑦
+𝑑𝑥= 𝑧+ 𝑥 
+𝑑𝑧
+𝑑𝑥= 𝑦2 + 𝑥+ 𝑧 
+With initial conditions 𝑦(0) = 0, 𝑧(0) = 0. 
+(10) 
+4

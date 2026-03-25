@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name B.Arch.:, Semester:3 
+(December, 2024) 
+ 
+Subject Code: BAP 213 
+Subject: Building Services-1: Water Supply & Sanitation 
+Time :3 Hours 
+Maximum Marks :60 
+ 
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8
+=20) 
+CO 
+Mapping 
+ 
+a) Define the term "water crisis" and mention two key contributing 
+factors. 
+ 
+1 
+ 
+b) What are the various types of impurities found in water? Explain 
+based on their category. 
+ 
+1 
+ 
+c) What is zero discharge, and how does it contribute to water 
+conservation? 
+ 
+1 
+ 
+d) Define sludge and sewage. 
+ 
+1 
+ 
+e) Explain the functioning of a low-flow fixture and its water-saving 
+benefits. 
+ 
+2 
+ 
+f) Discuss the dry and wet zones in toilet design. 
+ 
+2 
+ 
+g) What is the significance of self-cleaning velocity in drainpipes? 
+ 
+2 
+ 
+h) Discuss Inspection chamber and Manhole. 
+ 
+2 
+UNIT I 
+ 
+CO 
+Mapping 
+Q2 
+Design a water storage tank for the residential apartment building 
+with G+7 story having four apartments on each floor. 
+(10) 
+1 
+Q3 
+Explain the properties, applications, and key differences between PVC, 
+UPVC, and CPVC pipes. 
+(10) 
+1 
+UNIT II 
+ 
+CO 
+Mapping 
+Q4 
+Explain the working principle of EcoSAN toilet and its relevance to 
+sustainable sanitation. 
+(10) 
+2 
+Q5 
+Compare the Single stack system, one-pipe and two-pipe systems of 
+drainage with diagrams. 
+(10) 
+2 
+UNIT III 
+ 
+CO 
+Mapping 
+Q6 
+What is STP? Explain the process of water treatment in STP with the 
+help of a diagram. 
+(10) 
+3 
+Q7 
+What are the various methods of water conservation? Explain in 
+detail. 
+(10) 
+3 
+UNIT IV 
+ 
+CO 
+Mapping 
+Q8 
+What does ETP stand for; How it can be integrated in planning layout 
+while designing a farm house?? Explain with the help of a pdiagram. 
+(10) 
+ 
+Q9 
+Explain the working principle of a solar water heating system designed 
+for residential buildings. Support your answer with a well-labeled 
+diagram to illustrate the process. 
+(10)

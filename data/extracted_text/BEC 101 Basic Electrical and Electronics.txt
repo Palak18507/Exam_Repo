@@ -1,0 +1,81 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech. (Semester: II) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BEC 101 
+Subject: Basics of Electrical and Electronics Engineering 
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3  
+ 
+Q1 
+Attempt all parts. 
+(2.5*4=10) 
+ 
+a) Define Active, Reactive and Apparent Power. Also show them on the Power 
+Triangle. 
+ 
+ 
+b) Explain ideal voltage source and real voltage source. 
+ 
+ 
+c) Explain the concept of Resonance in series RLC circuit. Also draw the 
+Resonance curve. 
+ 
+ 
+d) A coil having an inductance of 50 mH and resistance 10 Ω is connected in 
+series with a 25 μF capacitor across a 200 V ac supply. Calculate  
+(1) resonance frequency of the Circuit 
+(2) current flowing at resonance  
+(3) value of Quality Factor by using different data. 
+ 
+ 
+ 
+Q2 
+Attempt any two parts. 
+(5*2=10) 
+ 
+a) State and prove Maximum Power Theorem. 
+ 
+ 
+b) In a series circuit containing pure resistance and a pure inductance, the 
+current and the voltage are expressed as: 
+I(t) = 5 sin (314 t + 2 π/3) and V(t) = 15 sin (314 t + 5 π/6) 
+(1) What is the impedance of the circuit?  
+(2) What is the value of the resistance?  
+(3) What is the inductance in henrys?  
+(4) What is the average power drawn by the circuit? 
+(5) What is the power factor? 
+ 
+ 
+c) The series and parallel circuits shown in Figure 2.c, have the same impedance 
+and the same power factor. If R = 3 Ω and X = 4 Ω, find the values of R1 and X1. 
+Also, find the impedance and power factor.   
+ 
+Figure 2.c 
+ 
+ 
+ 
+ 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+a) Find Thevenin equivalent circuit for the network shown in Figure. 3.a 
+ 
+Figure. 2.a 
+ 
+ 
+ 
+b) Using Superposition theorem, find the value of the output voltage of the 
+circuit as shown in figure 3.b 
+ 
+figure 3.b 
+ 
+ 
+c) Using Node voltage method, find the current in the 3Ω resistance for the 
+network as shown in figure 3.c 
+ 
+figure 3.c

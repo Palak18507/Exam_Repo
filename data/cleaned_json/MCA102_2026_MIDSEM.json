@@ -1,0 +1,85 @@
+{
+  "paper_id": "MCA102_2026_MIDSEM",
+  "paper_metadata": {
+    "subject_code": "MCA102",
+    "subject_name": "Object Oriented Programming using Java",
+    "program": "MCA",
+    "academic_year": "2025-2026",
+    "exam_type": "MidSem",
+    "exam_name": "Mid-Term Examination",
+    "exam_mode": "Offline",
+    "time_duration": "1 ½Hours",
+    "max_marks": 30
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "unit": null,
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Explain i) Instance variable and reference variable ii) Garbage Collection in java",
+          "marks": 5.0
+        },
+        {
+          "subpart_id": "b",
+          "text": "Using program explain use of i) Final keyword in inheritance ii) Method overriding",
+          "marks": 5.0
+        }
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "unit": "UNIT I",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a class MCA and class B Tech. Also Create a function compare_marks, which will compare the Java marks of MCA and B Tech and return the greatest among them. Note: compare_marks function should not be a member function of MCA or B.Tech class.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a Date Class include day,month and year as member.Create another class Person , age, and birthdate ) with a constructor. In the main class display the details of Person on the console.",
+          "marks": 3.3333333333333335
+        },
+        {
+          "subpart_id": "c",
+          "text": "Define class and objects in java? Create a program to explain the role of constructors in java.",
+          "marks": 3.3333333333333335
+        }
+      ]
+    },
+    {
+      "question_id": "Q3",
+      "unit": "UNIT II",
+      "question_text": "Attempt all parts.",
+      "marks": 10.0,
+      "subparts": [
+        {
+          "subpart_id": "a",
+          "text": "Create a superclass Bank with a method interestRate returning the interest rate. Create two subclasses ICICI and HDFC that override this method with their specific interest rates. Use dynamic method dispatch to print the interest rate of each bank when calling the interestRate method.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "Create a package mypack.operations that contains a class MathOperations with a method add(int a, int",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "b",
+          "text": "that returns the sum of two numbers. Then, create a Main class TestMathOperations in the default package to create the object of MathOperations and call the add method to print the result of adding two integers.",
+          "marks": 2.5
+        },
+        {
+          "subpart_id": "c",
+          "text": "Using example explain : i) user defined package and its use ii) a class inheriting the property from two classes",
+          "marks": 2.5
+        }
+      ]
+    }
+  ]
+}

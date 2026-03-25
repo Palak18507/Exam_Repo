@@ -1,0 +1,105 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name: B.Tech., Semester: 7 
+(December, 2024) 
+ 
+Subject Code: BEC 403 
+Subject: Wirelss and Mobile Communication 
+Time : 3 Hours 
+Maximum Marks :60 
+ 
+Note:Q1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+a) Draw general model of wireless communication system. 
+(2.5) 
+CO1 
+ 
+b) Write the name of channel assignment strategies in mobile radio 
+propagation. 
+(2.5) 
+CO1 
+ 
+c) Define the term Equalization. 
+(2.5) 
+CO4 
+ 
+d) Illustrate the function of Node B in UMTS. 
+(2.5) 
+CO2 
+ 
+e) Write down the efficiency of Slotted ALOHA and Pure ALOHA. 
+(2.5) 
+CO3 
+ 
+f) Define the term Multiple Access. 
+(2.5) 
+CO3 
+ 
+g) Discuss Li-Fi communication. 
+(2.5) 
+CO2 
+ 
+h) Illustrate the need to evolve third generation wireless standards. 
+(2.5) 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Explain frequency reuse concept with the help of proper cellular 
+diagram. Also explain umbrella cell concept in mobile communication. 
+(10) 
+CO1 
+Q3 
+If a signal to interference ration of 15dB is required for satisfactory 
+forward channel performance of a cellular system, Calculate the 
+frequency reuse factor and cluster size that should be used for 
+maximum capacity if the path loss exponent is (a) n=4, (b) n=3? Assume 
+that there are 6 co-channel cells in first tier, and all of them are at the 
+same distance from the mobile. Use suitable approximations. 
+(10) 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q4 
+Explain GSM with the help of proper network architecture block 
+diagram. Also give brief view of various Interface standards in GSM. 
+(10) 
+CO3 
+Q5 
+Explain UMTS architecture in detail. Also explain briefly IMT 2000.  
+(10) 
+CO2 
+UNIT III 
+ 
+CO Mapping 
+Q6 
+Explain FDMA and TDMA in detail with suitable diagram. 
+(10) 
+CO3 
+Q7 
+Explain RAKE receiver. Describe its working with explanation of each 
+stage. What is the main advantage of a RAKE receiver? 
+(10) 
+CO3 
+UNIT IV 
+ 
+CO Mapping 
+Q8 
+Write short notes on Next Generation networks and its services. What 
+are the fundamental characteristics for defining NGN. 
+(10) 
+CO2 
+Q9 
+Write short note on (i) Wi-Max (ii) Introduction to 4G and 5G 
+technology. 
+(10) 
+CO2

@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+End-Term Examination 
+(CBCS)(SUBJECTIVE TYPE)(OffLine) 
+Course Name:<B.Arch.>, Semester:<4> 
+(May, 2025) 
+ 
+Subject Code: BAP 210 
+Subject: Structure IV 
+Time :3 Hours 
+Maximum Marks :60 
+Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV. 
+ 
+ 
+Q1 
+ 
+(2.5*8=20) 
+CO Mapping 
+ 
+(a) 
+Explain propped cantilever and fixed beams. 
+1 
+ 
+(b) 
+What is moment of resistance of timber beams? 
+2 
+ 
+(c) 
+Explain merits & demerits of timber structures. 
+2 
+ 
+(d) 
+Determine fixed end moment of a beam having span 8M and  
+loading U.D.L = 20 Kn/m. 
+1 
+ 
+(e) 
+List some useful IS Codes for design of timber frames. 
+3 
+ 
+(f) 
+Define Arch and Dome.  
+4 
+ 
+(g) 
+Explain analysis of a beam by Area moment theorem. 
+1 
+ 
+(h)          Explain design procedure of steel beam having UDL on a simply       
+               supported beam. 
+2 
+ 
+ 
+ 
+UNIT-I 
+CO Mapping 
+Q2 
+Define end beam. Explain analysis methods for fixed end 
+beam. Show B.M & S.F diagrams.  
+(10) 
+ 
+Q3 
+Draw B.M Diagram for a fixed beam AB of span 6m and 
+loading U.D.L of 30Kn/m. 
+(10) 
+ 
+UNIT-II 
+CO Mapping 
+Q4 
+Calculate moment of resistance of timber beam section 
+having width = 150mm and depth d= 250mm. Assume 
+allowable stress in timber is 12N/mm2.  
+(10) 
+ 
+Q5 
+Describe the steps to calculate the foundation width for a 
+two-storey residential brick structure. Include a neat plan and 
+section of the brick wall foundation. 
+(10) 
+ 
+UNIT-III 
+CO Mapping 
+Q6 
+Name the modern methods of analysis to determine bending 
+moment & shear force for designing the beams and columns 
+in frame.   
+(10) 
+ 
+Q7 
+Write down names of different method of analysis of 
+frames. 
+(10) 
+ 
+UNIT-IV 
+CO Mapping 
+Q8 
+Explain different types of forces acting on shell structure. 
+(10) 
+ 
+Q9 
+List and describe the types of forces acting on an arches & 
+vaults. 
+(10)

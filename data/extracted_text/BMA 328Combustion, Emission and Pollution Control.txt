@@ -1,0 +1,83 @@
+(Please write your Enrollment Number)                         Enrollment No._________________ 
+ 
+MID-TERM EXAMINATION 
+(Course Name: B. Tech.) (Semester: VI) 
+(March 2025) OFF LINE mode 
+ 
+Subject Code: BMA 328 
+Subject: Combustion, Emission and Pollution Control  
+Time : 1 ½Hours 
+Maximum Marks :30 
+ 
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3. Assume suitably missing data, if any 
+and highlight it.  Use of calculator is allowed. 
+ 
+Q1 
+Answer the following briefly: 
+(2.5*4=10) 
+CO Mapping 
+ 
+a) Differentiate between primary and secondary pollutants. 
+ 
+CO1 
+ 
+b) What is the significance of adiabatic flame temperature? 
+ 
+CO1 
+ 
+c) CI engines are designed to operate with an excess air. 
+Why? 
+ 
+CO2 
+ 
+d) What is the purpose of air swirl in CI engines? 
+ 
+CO2 
+UNIT I 
+ 
+CO Mapping 
+Q2 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) Butane (C4H10) enters a combustion chamber at 250C at a 
+rate of 0.05 kg/min where it is mixed with air. Calculate 
+stoichiometric air-fuel ratio. Also determine the number 
+of moles of air required for stoichiometric combustion 
+and the mass flow rate of air. 
+ 
+CO1 
+ 
+b) How is pre-ignition different from auto-ignition in SI 
+engines. 
+ 
+CO1 
+ 
+c) What are the stages of combustion in SI engine? Discuss 
+any one stage in detail. 
+ 
+CO1 
+UNIT II 
+ 
+CO Mapping 
+Q3 
+Attempt any two parts 
+(5*2=10) 
+ 
+ 
+a) What is the significance of delay period in CI engines. 
+Differentiate between physical delay and chemical delay 
+in CI engine combustion. 
+ 
+CO2 
+ 
+b) Differentiate between controlled combustion and 
+uncontrolled combustion in CI engines. 
+ 
+CO2 
+ 
+c) Explain the phenomenon of knocking in CI engines. List 
+some parameters that prevent knocking in CI engines. 
+ 
+CO2
