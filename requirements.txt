@@ -1,0 +1,13 @@
+PyMuPDF
+pytesseract
+Pillow
+python-docx
+sqlalchemy
+psycopg2-binary
+python-dotenv
+watchdog
+fastapi
+uvicorn
+python-multipart
+chromadb
+sentence-transformers
