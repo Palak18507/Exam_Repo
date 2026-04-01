@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign In — IGDTUW Question Papers Archive</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="login-page">
+
+  <!-- Top bar -->
+  <header class="login-topbar">
+    <div class="igdtuw-badge">
+      <div class="badge-emblem">
+        <img src="assets/igdtuw-logo.png" alt="IGDTUW Logo" />
+      </div>
+      <div class="badge-text">
+        <span class="univ-name">IGDTUW</span>
+        <span class="univ-sub">Indira Gandhi Delhi Technical University for Women</span>
+      </div>
+    </div>
+    <div style="margin-left:auto;">
+      <a href="index.html" style="color:rgba(255,255,255,0.65);font-size:0.8rem;">← Back to Portal Home</a>
+    </div>
+  </header>
+
+  <!-- Login body -->
+  <main class="login-body">
+    <div class="login-container">
+
+      <!-- Sidebar -->
+      <div class="login-sidebar">
+        <!-- Logo emblem large -->
+        <div>
+          <div style="width:64px;height:64px;background:var(--gold);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 16px rgba(201,168,76,0.35);">
+            <svg viewBox="0 0 32 32" style="width:36px;height:36px;fill:var(--green-dark);">
+              <path d="M16 2L4 8v8c0 7 5.4 13.5 12 15.5C22.6 29.5 28 23 28 16V8L16 2z"/>
+              <path d="M10 14h12M16 10v12" fill="none" stroke="white" stroke-width="2"/>
+            </svg>
+          </div>
+          <div class="login-sidebar-title">
+            Question Papers<br/>Archive
+          </div>
+          <div class="login-sidebar-sub">
+            Access past examination papers for all branches and semesters.
+            Verified and curated by university librarians.
+          </div>
+        </div>
+
+        <div>
+          <div style="margin-bottom:16px;">
+            <div style="font-size:0.72rem;color:var(--gold);font-weight:700;letter-spacing:0.6px;text-transform:uppercase;margin-bottom:8px;">Quick Stats</div>
+            <div style="display:flex;gap:16px;">
+              <div>
+                <div style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">542</div>
+                <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Papers</div>
+              </div>
+              <div>
+                <div style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">48</div>
+                <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Subjects</div>
+              </div>
+              <div>
+                <div style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">4</div>
+                <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Branches</div>
+              </div>
+            </div>
+          </div>
+          <div class="login-sidebar-footer">
+            Kashmere Gate, Delhi — 110006<br/>
+            &copy; 2025 IGDTUW
+          </div>
+        </div>
+      </div>
+
+      <!-- Form area -->
+      <div class="login-form-area">
+        <h2>Welcome Back</h2>
+        <p>Sign in to access the question papers archive</p>
+
+        <!-- Role selector -->
+        <div class="role-tabs">
+          <button class="role-tab active" data-role="student">Student</button>
+          <button class="role-tab" data-role="librarian">Librarian</button>
+        </div>
+
+        <!-- Login form -->
+        <form id="login-form" novalidate>
+          <div class="form-group">
+            <label for="email">Institutional Email</label>
+            <input
+              type="email"
+              id="email"
+              class="form-control"
+              placeholder="your.rollno@igdtuw.ac.in"
+              autocomplete="email"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              id="password"
+              class="form-control"
+              placeholder="Enter your password"
+              autocomplete="current-password"
+              required
+            />
+          </div>
+
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;margin-top:-8px;">
+            <label style="display:flex;align-items:center;gap:6px;font-size:0.8rem;color:var(--text-muted);font-weight:400;text-transform:none;cursor:pointer;">
+              <input type="checkbox" style="accent-color:var(--green-dark);" />
+              Remember me
+            </label>
+            <a href="#" style="font-size:0.8rem;color:var(--green-dark);">Forgot password?</a>
+          </div>
+
+          <button type="submit" class="btn-login">Sign In to Archive</button>
+        </form>
+
+        <div style="margin-top:28px;padding-top:20px;border-top:1px solid var(--gray-200);font-size:0.78rem;color:var(--text-muted);">
+          <strong style="color:var(--gray-800);">Access is restricted</strong> to currently enrolled students and
+          authorised staff of Indira Gandhi Delhi Technical University for Women.
+          If you are unable to sign in, contact the university library.
+        </div>
+
+        <!-- Helper note -->
+        <div style="margin-top:14px;background:var(--green-light);border-radius:var(--radius-sm);padding:12px 14px;font-size:0.8rem;color:var(--green-dark);">
+          <strong>Demo:</strong> Enter any email and password, then choose your role to explore the portal.
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <div id="toast" class="toast"></div>
+  <script src="script.js"></script>
+</body>
+</html>
