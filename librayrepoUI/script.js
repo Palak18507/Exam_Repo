@@ -1,73 +1,47 @@
 /* ============================================================
    IGDTUW Question Papers Archive — script.js
-   Connects to FastAPI backend at localhost:8000
+   Connected to FastAPI Docker Backend
    ============================================================ */
 
-const API_BASE = 'http://localhost:8001/api';
+const API_BASE = 'http://localhost:8000';
 
 /* ── Real API layer ── */
 const API = {
   getStats: () => fetch(`${API_BASE}/stats`).then(r => r.json()),
-
+  
   getFilters: () => fetch(`${API_BASE}/filters`).then(r => r.json()),
 
+  // Traditional Paper Search
   search: (filters) => {
     const params = new URLSearchParams();
-    if (filters.q)             params.set('search', filters.q);
-    if (filters.branch)        params.set('branch', filters.branch);
+    if (filters.branch)        params.set('department', filters.branch);
     if (filters.semester)      params.set('semester', filters.semester);
-    if (filters.subject_code)  params.set('subject_code', filters.subject_code);
+    if (filters.subject_code)  params.set('subject_name', filters.subject_code); 
     if (filters.examType)      params.set('exam_type', filters.examType);
     if (filters.academic_year) params.set('academic_year', filters.academic_year);
-    return fetch(`${API_BASE}/papers?${params}`).then(r => r.json()).then(d => d.papers || []);
+    
+    return fetch(`${API_BASE}/search?${params}`).then(r => r.json()).then(d => d.papers || []);
   },
 
-  getPaperQuestions: (paperId) =>
-    fetch(`${API_BASE}/paper/${paperId}/questions`).then(r => r.json()),
-
+  // Semantic Question Search
   searchQuestions: (filters) => {
     const params = new URLSearchParams();
-    if (filters.search)       params.set('search', filters.search);
-    if (filters.branch)       params.set('branch', filters.branch);
-    if (filters.subject_code) params.set('subject_code', filters.subject_code);
-    if (filters.limit)        params.set('limit', filters.limit);
-    return fetch(`${API_BASE}/questions/search?${params}`).then(r => r.json());
+    if (filters.search)        params.set('query', filters.search);
+    if (filters.branch)        params.set('department', filters.branch);
+    if (filters.subject_code)  params.set('subject_name', filters.subject_code);
+    return fetch(`${API_BASE}/search/questions?${params}`).then(r => r.json());
   },
-
-  getRepeatedQuestions: (filters) => {
-    const params = new URLSearchParams();
-    if (filters.branch)       params.set('branch', filters.branch);
-    if (filters.subject_code) params.set('subject_code', filters.subject_code);
-    if (filters.search)       params.set('search', filters.search);
-    return fetch(`${API_BASE}/questions/repeated?${params}`).then(r => r.json());
-  },
-
-  getTopicClusters: (filters) => {
-    const params = new URLSearchParams();
-    if (filters.subject_name) params.set('subject_name', filters.subject_name);
-    if (filters.department)   params.set('department', filters.department);
-    return fetch(`${API_BASE}/semantic/topics?${params}`).then(r => {
-      if (!r.ok) return null;
-      return r.json();
-    }).catch(() => null);
-  },
-
-  getDownloadUrl: (paperId) =>
-    `${API_BASE}/papers/${paperId}/download`,
-
-  getSuggestions: (query) =>
-    fetch(`${API_BASE}/suggestions?q=${encodeURIComponent(query)}`).then(r => r.json()),
 
   semanticSearch: (query, filters = {}) => {
-    const params = new URLSearchParams({ query });
-    if (filters.department) params.set('department', filters.department);
-    if (filters.subject_name) params.set('subject_name', filters.subject_name);
-    if (filters.top_k) params.set('top_k', filters.top_k);
-    return fetch(`${API_BASE}/semantic/search?${params}`).then(r => {
-      if (!r.ok) return null; // ChromaDB not available
-      return r.json();
-    }).catch(() => null);
+    return API.searchQuestions({search: query, ...filters});
   },
+
+  getDownloadUrl: (paperId) => `${API_BASE}/papers/${paperId}/download`,
+  
+  // Fallbacks for UI components that don't have perfect backend matches yet
+  getSuggestions: async (query) => [],
+  getRepeatedQuestions: async () => ({ repeated: [] }),
+  getTopicClusters: async () => ({ topics: [] })
 };
 
 /* ── Autocomplete for search bars ── */
@@ -431,7 +405,6 @@ function initFrequentlyAsked() {
     const branch = filterBranch.value;
     const subjectCode = filterSubject.value;
 
-    // Get subject name from dropdown text (e.g., "Data Structures (BCS103)")
     let subjectName = '';
     if (subjectCode) {
       const opt = filterSubject.querySelector(`option[value="${subjectCode}"]`);
@@ -441,7 +414,6 @@ function initFrequentlyAsked() {
       }
     }
 
-    // Try semantic topic clustering first (ChromaDB)
     const topicData = await API.getTopicClusters({
       subject_name: subjectName,
       department: !subjectName ? branch : '',
@@ -449,7 +421,6 @@ function initFrequentlyAsked() {
 
     let topics = topicData?.topics || [];
 
-    // If there's a text search, filter topics by query
     if (query && topics.length > 0) {
       topics = topics.filter(t =>
         t.topic_label.toLowerCase().includes(query) ||
@@ -458,7 +429,6 @@ function initFrequentlyAsked() {
     }
 
     if (topics.length === 0) {
-      // Fallback to exact hash matching
       const data = await API.getRepeatedQuestions({
         branch, subject_code: subjectCode, search: query
       });
@@ -473,7 +443,6 @@ function initFrequentlyAsked() {
         return;
       }
 
-      // Render hash-based results (fallback)
       emptyState.classList.remove('visible');
       resultsHeader.classList.remove('hidden');
       const totalQ = repeated.reduce((sum, g) => sum + g.instances.length, 0);
@@ -503,7 +472,6 @@ function initFrequentlyAsked() {
       return;
     }
 
-    // Render semantic topic clusters
     emptyState.classList.remove('visible');
     resultsHeader.classList.remove('hidden');
     resultsCount.textContent = `${topics.length} recurring topic${topics.length !== 1 ? 's' : ''} · ${topicData.total_appearances} appearances`;
@@ -591,7 +559,6 @@ function initRelatedQuestions() {
 
     welcomeState.classList.remove('visible');
 
-    // Try semantic search first (ChromaDB)
     const semanticData = await API.semanticSearch(query, {
       department: branch, top_k: 20
     });
@@ -599,7 +566,6 @@ function initRelatedQuestions() {
     let scored = [];
 
     if (semanticData && semanticData.results && semanticData.results.length > 0) {
-      // Use semantic results
       scored = semanticData.results.map(r => ({
         text: r.text,
         score: r.similarity,
@@ -610,7 +576,6 @@ function initRelatedQuestions() {
         paper_id: r.paper_id,
       }));
     } else {
-      // Fallback to word overlap
       const queryWords = getWords(query);
       const data = await API.searchQuestions({ search: query, branch, limit: 100 });
       const allQ = data.questions || [];
@@ -648,7 +613,6 @@ function initRelatedQuestions() {
 
     resultsDiv.innerHTML = scored.map(q => {
       const pct = Math.round(q.score * 100);
-      // Extract just the question text from the embedding document
       let displayText = q.text;
       const qMatch = displayText.match(/Question:\s*(.+?)\.\s*Concepts:/);
       if (qMatch) displayText = qMatch[1];
@@ -898,9 +862,11 @@ function initLibrarianDashboard() {
 
           const pollJob = setInterval(async () => {
             try {
-              const jobResp = await fetch(`${API_BASE}/job/${jobId}`);
+              // FIXED: Corrected the endpoint from /job to /jobs
+              const jobResp = await fetch(`${API_BASE}/jobs/${jobId}`);
               if (!jobResp.ok) { clearInterval(pollJob); return; }
-              const job = await jobResp.json();
+              const responseData = await jobResp.json();
+              const job = responseData.data; // Added .data because of the way routes/jobs.py sends it back
 
               submitBtn.textContent = `${job.message} ${job.progress}%`;
 
