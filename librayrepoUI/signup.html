@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sign In — IGDTUW Question Papers Archive</title>
+  <title>Sign Up — IGDTUW Question Papers Archive</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body class="login-page">
@@ -20,17 +20,16 @@
       </div>
     </div>
     <div style="margin-left:auto;">
-      <a href="index.html" style="color:rgba(255,255,255,0.65);font-size:0.8rem;">← Back to Portal Home</a>
+      <a href="index.html" style="color:rgba(255,255,255,0.65);font-size:0.8rem;">&larr; Back to Portal Home</a>
     </div>
   </header>
 
-  <!-- Login body -->
+  <!-- Signup body -->
   <main class="login-body">
     <div class="login-container">
 
       <!-- Sidebar -->
       <div class="login-sidebar">
-        <!-- Logo emblem large -->
         <div>
           <div style="width:64px;height:64px;background:var(--gold);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 16px rgba(201,168,76,0.35);overflow:hidden;">
             <img src="assets/igdtuw-logo.png" alt="IGDTUW Logo" style="width:48px;height:48px;object-fit:contain;" />
@@ -39,8 +38,7 @@
             Question Papers<br/>Archive
           </div>
           <div class="login-sidebar-sub">
-            Access past examination papers for all branches and semesters.
-            Verified and curated by university librarians.
+            Create your account to access past examination papers for all branches and semesters.
           </div>
         </div>
 
@@ -49,38 +47,37 @@
             <div style="font-size:0.72rem;color:var(--gold);font-weight:700;letter-spacing:0.6px;text-transform:uppercase;margin-bottom:8px;">Quick Stats</div>
             <div style="display:flex;gap:16px;">
               <div>
-                <div id="login-papers" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">—</div>
+                <div id="signup-papers" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">&mdash;</div>
                 <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Papers</div>
               </div>
               <div>
-                <div id="login-subjects" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">—</div>
+                <div id="signup-subjects" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">&mdash;</div>
                 <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Subjects</div>
               </div>
               <div>
-                <div id="login-branches" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">—</div>
+                <div id="signup-branches" style="font-family:'Crimson Pro',serif;font-size:1.5rem;color:#fff;font-weight:700;">&mdash;</div>
                 <div style="font-size:0.7rem;color:rgba(255,255,255,0.5);">Branches</div>
               </div>
             </div>
           </div>
           <div class="login-sidebar-footer">
-            Kashmere Gate, Delhi — 110006<br/>
+            Kashmere Gate, Delhi &mdash; 110006<br/>
             &copy; 2025 IGDTUW
           </div>
         </div>
       </div>
 
-      <!-- Form area -->
+      <!-- Signup form area -->
       <div class="login-form-area">
-        <h2>Welcome Back</h2>
-        <p>Sign in to access the question papers archive</p>
+        <h2>Create Account</h2>
+        <p>Sign up with your IGDTUW email to access exam papers</p>
 
-        <!-- Login form -->
-        <form id="login-form" novalidate>
+        <form id="signup-form" novalidate>
           <div class="form-group">
-            <label for="email">Institutional Email</label>
+            <label for="signup-email">Institutional Email</label>
             <input
               type="email"
-              id="email"
+              id="signup-email"
               class="form-control"
               placeholder="your.rollno@igdtuw.ac.in"
               autocomplete="email"
@@ -89,36 +86,39 @@
           </div>
 
           <div class="form-group">
-            <label for="password">Password</label>
+            <label for="signup-password">Password</label>
             <input
               type="password"
-              id="password"
+              id="signup-password"
               class="form-control"
-              placeholder="Enter your password"
-              autocomplete="current-password"
+              placeholder="Create a password (min 6 characters)"
+              autocomplete="new-password"
               required
             />
           </div>
 
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;margin-top:-8px;">
-            <label style="display:flex;align-items:center;gap:6px;font-size:0.8rem;color:var(--text-muted);font-weight:400;text-transform:none;cursor:pointer;">
-              <input type="checkbox" style="accent-color:var(--green-dark);" />
-              Remember me
-            </label>
-            <a href="forgot-password.html" style="font-size:0.8rem;color:var(--green-dark);">Forgot password?</a>
+          <div class="form-group">
+            <label for="signup-confirm">Confirm Password</label>
+            <input
+              type="password"
+              id="signup-confirm"
+              class="form-control"
+              placeholder="Re-enter your password"
+              autocomplete="new-password"
+              required
+            />
           </div>
 
-          <button type="submit" class="btn-login">Sign In to Archive</button>
+          <button type="submit" class="btn-login">Create Account</button>
         </form>
 
         <div style="margin-top:16px;text-align:center;font-size:0.85rem;">
-          Don't have an account? <a href="signup.html" style="color:var(--green-dark);font-weight:600;">Sign Up</a>
+          Already have an account? <a href="login.html" style="color:var(--green-dark);font-weight:600;">Sign In</a>
         </div>
 
         <div style="margin-top:20px;padding-top:16px;border-top:1px solid var(--gray-200);font-size:0.78rem;color:var(--text-muted);">
-          <strong style="color:var(--gray-800);">Access is restricted</strong> to currently enrolled students and
-          authorised staff of Indira Gandhi Delhi Technical University for Women.
-          Only <strong>@igdtuw.ac.in</strong> email addresses are allowed.
+          <strong style="color:var(--gray-800);">Students only.</strong> Only <strong>@igdtuw.ac.in</strong> email addresses can create accounts.
+          Librarian accounts are created by the university admin.
         </div>
       </div>
 
@@ -128,6 +128,7 @@
   <div id="toast" class="toast"></div>
   <script src="script.js"></script>
   <script>
+    // Fetch live stats
     (async () => {
       try {
         const API_BASE = 'http://localhost:8001/api';
@@ -136,9 +137,9 @@
           fetch(`${API_BASE}/filters`).then(r => r.json()),
         ]);
         const el = id => document.getElementById(id);
-        if (el('login-papers'))   el('login-papers').textContent   = stats.totalPapers || 0;
-        if (el('login-subjects')) el('login-subjects').textContent  = stats.subjectsCovered || 0;
-        if (el('login-branches')) el('login-branches').textContent  = (filters.branches || []).length;
+        if (el('signup-papers'))   el('signup-papers').textContent   = stats.totalPapers || 0;
+        if (el('signup-subjects')) el('signup-subjects').textContent  = stats.subjectsCovered || 0;
+        if (el('signup-branches')) el('signup-branches').textContent  = (filters.branches || []).length;
       } catch (e) {}
     })();
   </script>

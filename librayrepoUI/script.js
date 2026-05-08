@@ -1,47 +1,117 @@
 /* ============================================================
    IGDTUW Question Papers Archive — script.js
-   Connected to FastAPI Docker Backend
+   Connects to FastAPI backend
    ============================================================ */
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = 'http://localhost:8001/api';
+
+/* ── Auth helpers ── */
+const Auth = {
+  getToken: () => localStorage.getItem('token'),
+  getUser: () => {
+    const u = localStorage.getItem('user');
+    return u ? JSON.parse(u) : null;
+  },
+  setSession: (token, user) => {
+    localStorage.setItem('token', token);
+    localStorage.setItem('user', JSON.stringify(user));
+  },
+  clear: () => {
+    localStorage.removeItem('token');
+    localStorage.removeItem('user');
+  },
+  isLoggedIn: () => !!localStorage.getItem('token'),
+  getRole: () => {
+    const u = Auth.getUser();
+    return u ? u.role : null;
+  },
+  headers: () => {
+    const token = Auth.getToken();
+    return token ? { 'Authorization': `Bearer ${token}` } : {};
+  },
+};
+
+function authFetch(url, options = {}) {
+  options.headers = { ...Auth.headers(), ...(options.headers || {}) };
+  return fetch(url, options).then(r => {
+    if (r.status === 401) {
+      Auth.clear();
+      if (!window.location.pathname.includes('login') && !window.location.pathname.includes('index')) {
+        window.location.href = 'login.html';
+      }
+    }
+    return r;
+  });
+}
+
+function logout() {
+  Auth.clear();
+  window.location.href = 'login.html';
+}
 
 /* ── Real API layer ── */
 const API = {
-  getStats: () => fetch(`${API_BASE}/stats`).then(r => r.json()),
-  
-  getFilters: () => fetch(`${API_BASE}/filters`).then(r => r.json()),
+  getStats: () => authFetch(`${API_BASE}/stats`).then(r => r.json()),
 
-  // Traditional Paper Search
+  getFilters: () => authFetch(`${API_BASE}/filters`).then(r => r.json()),
+
   search: (filters) => {
     const params = new URLSearchParams();
-    if (filters.branch)        params.set('department', filters.branch);
+    if (filters.q)             params.set('search', filters.q);
+    if (filters.branch)        params.set('branch', filters.branch);
     if (filters.semester)      params.set('semester', filters.semester);
-    if (filters.subject_code)  params.set('subject_name', filters.subject_code); 
+    if (filters.subject_code)  params.set('subject_code', filters.subject_code);
     if (filters.examType)      params.set('exam_type', filters.examType);
     if (filters.academic_year) params.set('academic_year', filters.academic_year);
-    
-    return fetch(`${API_BASE}/search?${params}`).then(r => r.json()).then(d => d.papers || []);
+    return authFetch(`${API_BASE}/papers?${params}`).then(r => r.json()).then(d => d.papers || []);
   },
 
-  // Semantic Question Search
+  getPaperQuestions: (paperId) =>
+    authFetch(`${API_BASE}/paper/${paperId}/questions`).then(r => r.json()),
+
   searchQuestions: (filters) => {
     const params = new URLSearchParams();
-    if (filters.search)        params.set('query', filters.search);
-    if (filters.branch)        params.set('department', filters.branch);
-    if (filters.subject_code)  params.set('subject_name', filters.subject_code);
-    return fetch(`${API_BASE}/search/questions?${params}`).then(r => r.json());
+    if (filters.search)       params.set('search', filters.search);
+    if (filters.branch)       params.set('branch', filters.branch);
+    if (filters.subject_code) params.set('subject_code', filters.subject_code);
+    if (filters.limit)        params.set('limit', filters.limit);
+    return authFetch(`${API_BASE}/questions/search?${params}`).then(r => r.json());
   },
+
+  getRepeatedQuestions: (filters) => {
+    const params = new URLSearchParams();
+    if (filters.branch)       params.set('branch', filters.branch);
+    if (filters.subject_code) params.set('subject_code', filters.subject_code);
+    if (filters.search)       params.set('search', filters.search);
+    return authFetch(`${API_BASE}/questions/repeated?${params}`).then(r => r.json());
+  },
+
+  getTopicClusters: (filters) => {
+    const params = new URLSearchParams();
+    if (filters.subject_name) params.set('subject_name', filters.subject_name);
+    if (filters.department)   params.set('department', filters.department);
+    return authFetch(`${API_BASE}/semantic/topics?${params}`).then(r => {
+      if (!r.ok) return null;
+      return r.json();
+    }).catch(() => null);
+  },
+
+  getDownloadUrl: (paperId) =>
+    `${API_BASE}/papers/${paperId}/download`,
+
+  getSuggestions: (query) =>
+    authFetch(`${API_BASE}/suggestions?q=${encodeURIComponent(query)}`).then(r => r.json()),
 
   semanticSearch: (query, filters = {}) => {
-    return API.searchQuestions({search: query, ...filters});
+    const params = new URLSearchParams({ query });
+    if (filters.department) params.set('department', filters.department);
+    if (filters.subject_name) params.set('subject_name', filters.subject_name);
+    if (filters.top_k) params.set('top_k', filters.top_k);
+    return authFetch(`${API_BASE}/semantic/search?${params}`).then(r => {
+      if (!r.ok) return null; // ChromaDB not available
+      return r.json();
+    }).catch(() => null);
   },
-
-  getDownloadUrl: (paperId) => `${API_BASE}/papers/${paperId}/download`,
-  
-  // Fallbacks for UI components that don't have perfect backend matches yet
-  getSuggestions: async (query) => [],
-  getRepeatedQuestions: async () => ({ repeated: [] }),
-  getTopicClusters: async () => ({ topics: [] })
 };
 
 /* ── Autocomplete for search bars ── */
@@ -405,6 +475,7 @@ function initFrequentlyAsked() {
     const branch = filterBranch.value;
     const subjectCode = filterSubject.value;
 
+    // Get subject name from dropdown text (e.g., "Data Structures (BCS103)")
     let subjectName = '';
     if (subjectCode) {
       const opt = filterSubject.querySelector(`option[value="${subjectCode}"]`);
@@ -414,6 +485,7 @@ function initFrequentlyAsked() {
       }
     }
 
+    // Try semantic topic clustering first (ChromaDB)
     const topicData = await API.getTopicClusters({
       subject_name: subjectName,
       department: !subjectName ? branch : '',
@@ -421,6 +493,7 @@ function initFrequentlyAsked() {
 
     let topics = topicData?.topics || [];
 
+    // If there's a text search, filter topics by query
     if (query && topics.length > 0) {
       topics = topics.filter(t =>
         t.topic_label.toLowerCase().includes(query) ||
@@ -429,6 +502,7 @@ function initFrequentlyAsked() {
     }
 
     if (topics.length === 0) {
+      // Fallback to exact hash matching
       const data = await API.getRepeatedQuestions({
         branch, subject_code: subjectCode, search: query
       });
@@ -443,6 +517,7 @@ function initFrequentlyAsked() {
         return;
       }
 
+      // Render hash-based results (fallback)
       emptyState.classList.remove('visible');
       resultsHeader.classList.remove('hidden');
       const totalQ = repeated.reduce((sum, g) => sum + g.instances.length, 0);
@@ -472,6 +547,7 @@ function initFrequentlyAsked() {
       return;
     }
 
+    // Render semantic topic clusters
     emptyState.classList.remove('visible');
     resultsHeader.classList.remove('hidden');
     resultsCount.textContent = `${topics.length} recurring topic${topics.length !== 1 ? 's' : ''} · ${topicData.total_appearances} appearances`;
@@ -559,6 +635,7 @@ function initRelatedQuestions() {
 
     welcomeState.classList.remove('visible');
 
+    // Try semantic search first (ChromaDB)
     const semanticData = await API.semanticSearch(query, {
       department: branch, top_k: 20
     });
@@ -566,6 +643,7 @@ function initRelatedQuestions() {
     let scored = [];
 
     if (semanticData && semanticData.results && semanticData.results.length > 0) {
+      // Use semantic results
       scored = semanticData.results.map(r => ({
         text: r.text,
         score: r.similarity,
@@ -576,6 +654,7 @@ function initRelatedQuestions() {
         paper_id: r.paper_id,
       }));
     } else {
+      // Fallback to word overlap
       const queryWords = getWords(query);
       const data = await API.searchQuestions({ search: query, branch, limit: 100 });
       const allQ = data.questions || [];
@@ -613,6 +692,7 @@ function initRelatedQuestions() {
 
     resultsDiv.innerHTML = scored.map(q => {
       const pct = Math.round(q.score * 100);
+      // Extract just the question text from the embedding document
       let displayText = q.text;
       const qMatch = displayText.match(/Question:\s*(.+?)\.\s*Concepts:/);
       if (qMatch) displayText = qMatch[1];
@@ -746,8 +826,8 @@ function initLibrarianDashboard() {
     API.getStats().then(stats => {
       const el = (id) => document.getElementById(id);
       if (el('admin-total-papers'))  el('admin-total-papers').textContent  = stats.totalPapers;
-      if (el('admin-total-users'))   el('admin-total-users').textContent   = '—';
-      if (el('admin-users-online'))  el('admin-users-online').textContent  = '—';
+      if (el('admin-total-users'))   el('admin-total-users').textContent   = stats.totalUsers || 0;
+      if (el('admin-users-online'))  el('admin-users-online').textContent  = stats.onlineUsers || 0;
       if (el('admin-pending'))       el('admin-pending').textContent       = '0';
       if (el('admin-ai-processed'))  el('admin-ai-processed').textContent  = stats.totalPapers;
     }).catch(() => {});
@@ -767,7 +847,7 @@ function initLibrarianDashboard() {
 
   // Load all papers into manage table
   function loadManageTable() {
-    fetch(`${API_BASE}/librarian/papers?limit=100`).then(r => r.json()).then(data => {
+    authFetch(`${API_BASE}/librarian/papers?limit=100`).then(r => r.json()).then(data => {
       const tbody = document.getElementById('manage-table-body');
       if (!tbody) return;
       tbody.innerHTML = (data.papers || []).map(paper => {
@@ -825,7 +905,7 @@ function initLibrarianDashboard() {
       submitBtn.textContent = 'Uploading...';
 
       try {
-        const resp = await fetch(`${API_BASE}/upload`, {
+        const resp = await authFetch(`${API_BASE}/upload`, {
           method: 'POST',
           body: formData,
         });
@@ -862,11 +942,9 @@ function initLibrarianDashboard() {
 
           const pollJob = setInterval(async () => {
             try {
-              // FIXED: Corrected the endpoint from /job to /jobs
-              const jobResp = await fetch(`${API_BASE}/jobs/${jobId}`);
+              const jobResp = await authFetch(`${API_BASE}/job/${jobId}`);
               if (!jobResp.ok) { clearInterval(pollJob); return; }
-              const responseData = await jobResp.json();
-              const job = responseData.data; // Added .data because of the way routes/jobs.py sends it back
+              const job = await jobResp.json();
 
               submitBtn.textContent = `${job.message} ${job.progress}%`;
 
@@ -929,7 +1007,7 @@ function deletePaper(id) {
   const row = document.getElementById(`row-${id}`);
   if (row) row.style.opacity = '0.4';
 
-  fetch(`${API_BASE}/paper/${id}`, { method: 'DELETE' })
+  authFetch(`${API_BASE}/paper/${id}`, { method: 'DELETE' })
     .then(r => {
       if (!r.ok) throw new Error('Delete failed');
       return r.json();
@@ -951,20 +1029,9 @@ function initLoginPage() {
   const loginForm = document.getElementById('login-form');
   if (!loginForm) return;
 
-  const roleTabs = document.querySelectorAll('.role-tab');
-  let selectedRole = 'student';
-
-  roleTabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      roleTabs.forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
-      selectedRole = tab.dataset.role;
-    });
-  });
-
-  loginForm.addEventListener('submit', e => {
+  loginForm.addEventListener('submit', async e => {
     e.preventDefault();
-    const email    = document.getElementById('email').value.trim();
+    const email    = document.getElementById('email').value.trim().toLowerCase();
     const password = document.getElementById('password').value.trim();
 
     if (!email || !password) {
@@ -972,24 +1039,160 @@ function initLoginPage() {
       return;
     }
 
-    if (selectedRole === 'student') {
-      window.location.href = 'student.html';
-    } else {
-      window.location.href = 'librarian.html';
+    const submitBtn = loginForm.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Signing in...';
+
+    try {
+      const resp = await fetch(`${API_BASE}/auth/login`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password }),
+      });
+
+      if (!resp.ok) {
+        const err = await resp.json();
+        showToast(err.detail || 'Login failed.');
+        return;
+      }
+
+      const data = await resp.json();
+      Auth.setSession(data.token, data.user);
+
+      // Redirect based on actual role from DB — not user choice
+      const role = data.user.role;
+      if (role === 'librarian' || role === 'admin') {
+        window.location.href = 'librarian.html';
+      } else {
+        window.location.href = 'student.html';
+      }
+    } catch (err) {
+      showToast('Connection error. Is the server running?');
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Sign In to Archive';
     }
   });
+}
+
+function initSignupPage() {
+  const signupForm = document.getElementById('signup-form');
+  if (!signupForm) return;
+
+  signupForm.addEventListener('submit', async e => {
+    e.preventDefault();
+    const email    = document.getElementById('signup-email').value.trim().toLowerCase();
+    const password = document.getElementById('signup-password').value.trim();
+    const confirm  = document.getElementById('signup-confirm').value.trim();
+
+    if (!email || !password) {
+      showToast('Please fill in all fields.');
+      return;
+    }
+
+    if (password.length < 6) {
+      showToast('Password must be at least 6 characters.');
+      return;
+    }
+
+    if (password !== confirm) {
+      showToast('Passwords do not match.');
+      return;
+    }
+
+    if (!email.endsWith('@igdtuw.ac.in')) {
+      showToast('Only @igdtuw.ac.in email addresses are allowed.');
+      return;
+    }
+
+    const submitBtn = signupForm.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Creating account...';
+
+    try {
+      const resp = await fetch(`${API_BASE}/auth/signup`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password, role: 'student' }),
+      });
+
+      if (!resp.ok) {
+        const err = await resp.json();
+        showToast(err.detail || 'Signup failed.');
+        return;
+      }
+
+      const data = await resp.json();
+      Auth.setSession(data.token, data.user);
+      showToast('Account created! Redirecting...');
+      setTimeout(() => { window.location.href = 'student.html'; }, 1000);
+    } catch (err) {
+      showToast('Connection error. Is the server running?');
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Create Account';
+    }
+  });
+}
+
+// Role guard — call on page load to block unauthorized access
+function guardPage(requiredRole) {
+  if (!Auth.isLoggedIn()) {
+    window.location.href = 'login.html';
+    return false;
+  }
+  const userRole = Auth.getRole();
+  const levels = { admin: 3, librarian: 2, student: 1 };
+  if ((levels[userRole] || 0) < (levels[requiredRole] || 0)) {
+    showToast('Access denied. You do not have permission to view this page.');
+    setTimeout(() => { window.location.href = 'student.html'; }, 1500);
+    return false;
+  }
+  return true;
 }
 
 /* ── Utility ── */
 function capitalise(str) { return str.charAt(0).toUpperCase() + str.slice(1); }
 
-function logout() {
-  window.location.href = 'login.html';
-}
-
 /* ── Init on load ── */
 document.addEventListener('DOMContentLoaded', () => {
+  const page = window.location.pathname.split('/').pop() || 'index.html';
+
+  // Login and signup pages — no auth needed
+  if (page === 'login.html') {
+    initLoginPage();
+    return;
+  }
+  if (page === 'signup.html') {
+    initSignupPage();
+    return;
+  }
+  if (page === 'index.html' || page === '') {
+    // Landing page — no auth needed
+    return;
+  }
+
+  // Student page — requires login
+  if (page === 'student.html') {
+    if (!guardPage('student')) return;
+    initNavTabs();
+    initStudentDashboard();
+    initQuestionBank();
+    initFrequentlyAsked();
+    initRelatedQuestions();
+    return;
+  }
+
+  // Librarian page — requires librarian/admin role
+  if (page === 'librarian.html') {
+    if (!guardPage('librarian')) return;
+    initLibrarianDashboard();
+    return;
+  }
+
+  // Fallback: init everything
   initLoginPage();
+  initSignupPage();
   initNavTabs();
   initStudentDashboard();
   initQuestionBank();
