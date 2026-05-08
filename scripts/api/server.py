@@ -9,7 +9,7 @@ Run with:
 import shutil
 import threading
 from pathlib import Path
-from fastapi import FastAPI, Query, HTTPException, UploadFile, File, Form
+from fastapi import FastAPI, Query, HTTPException, UploadFile, File, Form, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from sqlalchemy import func, or_, cast, String, desc
@@ -20,6 +20,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from config import PROJECT_ROOT
 from db.database import get_session, init_db
 from db.models import ExamPaper, PaperMetadata, Question, Subpart
+from auth.models import User  # noqa: F401 — ensures users table is created
+from auth.routes import router as auth_router
+from auth.middleware import require_librarian
 
 app = FastAPI(title="Exam Papers Archive API")
 
@@ -28,7 +31,11 @@ app.add_middleware(
     allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
+    allow_credentials=True,
 )
+
+# Register auth routes (/api/auth/signup, /api/auth/login, /api/auth/me)
+app.include_router(auth_router)
 
 
 @app.on_event("startup")
@@ -80,12 +87,14 @@ def get_stats():
             func.count(func.distinct(PaperMetadata.subject_code))
         ).scalar()
 
+        # Most popular subject (most papers across all exam periods)
         trending_row = (
             session.query(
                 PaperMetadata.subject_name,
                 func.count(PaperMetadata.paper_id).label("cnt"),
             )
             .filter(PaperMetadata.subject_name.isnot(None))
+            .filter(PaperMetadata.subject_name != "")
             .group_by(PaperMetadata.subject_name)
             .order_by(func.count(PaperMetadata.paper_id).desc())
             .first()
@@ -104,11 +113,24 @@ def get_stats():
                 .scalar()
             )
 
+        # User stats
+        from auth.models import User
+        from datetime import datetime, timedelta
+        total_users = session.query(func.count(User.id)).scalar()
+        online_cutoff = datetime.utcnow() - timedelta(minutes=5)
+        online_users = (
+            session.query(func.count(User.id))
+            .filter(User.last_active >= online_cutoff)
+            .scalar()
+        )
+
         return {
             "totalPapers": total,
             "subjectsCovered": subjects,
             "trendingTopic": trending_row[0] if trending_row else "N/A",
             "addedThisYear": this_year_count,
+            "totalUsers": total_users,
+            "onlineUsers": online_users,
         }
     finally:
         session.close()
@@ -524,8 +546,8 @@ def get_all_repeated_questions(
 
 # ─── GET /api/papers/{paper_id}/download ─────────────────────────
 @app.get("/api/papers/{paper_id}/download")
-def download_paper(paper_id: str):
-    """Serve the original PDF/docx file for download."""
+def download_paper(paper_id: str, mode: str = Query("view", description="view or download")):
+    """Serve the original PDF/docx file. mode=view opens in browser, mode=download forces download."""
     session = get_session()
     try:
         paper = session.query(ExamPaper).filter_by(paper_id=paper_id).first()
@@ -536,10 +558,20 @@ def download_paper(paper_id: str):
         if not source or not source.exists():
             raise HTTPException(status_code=404, detail="Source file not found on disk")
 
-        return FileResponse(
-            path=str(source),
-            filename=source.name,
-            media_type="application/octet-stream",
+        ext = source.suffix.lower()
+        mime_types = {".pdf": "application/pdf", ".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"}
+        media_type = mime_types.get(ext, "application/octet-stream")
+
+        if mode == "download":
+            return FileResponse(path=str(source), filename=source.name, media_type="application/octet-stream")
+
+        # View mode — no Content-Disposition attachment header, browser displays inline
+        from starlette.responses import Response
+        content = source.read_bytes()
+        return Response(
+            content=content,
+            media_type=media_type,
+            headers={"Content-Disposition": f"inline; filename=\"{source.name}\""},
         )
     finally:
         session.close()
@@ -767,8 +799,9 @@ def _run_pipeline_async(file_path, job_id=None):
 @app.post("/api/upload")
 async def upload_paper(
     file: UploadFile = File(..., description="PDF or DOCX file"),
+    user=Depends(require_librarian),
 ):
-    """Upload a paper — saves file and triggers the full pipeline."""
+    """Upload a paper — saves file and triggers the full pipeline. Librarian only."""
     # Validate file type
     ext = Path(file.filename).suffix.lower()
     if ext not in ALLOWED_EXTENSIONS:
@@ -851,6 +884,7 @@ async def upload_paper(
 def get_librarian_papers(
     limit: int = Query(50, description="Max papers to return"),
     offset: int = Query(0, description="Offset for pagination"),
+    user=Depends(require_librarian),
 ):
     """List all papers for the librarian manage table, newest first."""
     session = get_session()
@@ -888,8 +922,8 @@ def get_librarian_papers(
 
 
 @app.delete("/api/paper/{paper_id}")
-def delete_paper(paper_id: str):
-    """Delete a paper and all its data."""
+def delete_paper(paper_id: str, user=Depends(require_librarian)):
+    """Delete a paper and all its data. Librarian only."""
     session = get_session()
     try:
         paper = session.query(ExamPaper).filter_by(paper_id=paper_id).first()
